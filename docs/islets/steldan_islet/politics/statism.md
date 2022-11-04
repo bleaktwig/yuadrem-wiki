@@ -19,6 +19,7 @@ The keeping of these vaults and the copying itself is done by the [Fatherland Co
 Statists defend a total monopoly of power by the state.
 Personal possession of weapons is prohibited.
 The state can *lend* weapons to members of three groups, the [Steldan Resident Militia (SRM)](../../groups/srm), the [Steldan Exploration Front (SEF)](../../groups/sef), and the newer [Steldan Debridement Front (SDF)](../../groups/sdf).
+This lease is a symbol of trust.
 
 * **Control of trade**.
 The steldan state exerts complete control of the market.
@@ -29,7 +30,7 @@ The SRM ensures that all markets follow this regulation.
 * **Citizens first policies**.
 All policies must think first of the citizens.
 For a new law to be passed, it must be approved by the [Citizen Welfare Ministry (CWM)](../../groups/cwm).
-This institution evaluates how each law affects the individual, shaping each for her/his maximum benefit.
+This institution evaluates how each law affects the individual, shaping each for her/his maximum benefit -- based on their vision.
 
 ## Relation to Other Doctrines
 * [**Liberalism**](../liberalism).
