@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Welcome
+WIP.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+The world of Yuadrem.
 
-## Commands
+## Islets
+* Fesh Peninsula.
+* Katajthon Islet.
+* Wildlands.
+* [Steldan Islet](islets/steldan_islet/index.md).
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
+For documentation on editing this wiki, check out:
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* [mkdocs-material](https://squidfunk.github.io/mkdocs-material/creating-your-site/).
+* [mkdocs.org](https://www.mkdocs.org).
