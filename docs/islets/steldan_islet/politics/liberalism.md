@@ -13,7 +13,7 @@ Liberalists see the steldan society as stagnant.
 They see the government's focus on safety as a limit to the growth of the nation.
 They believe that this lack of growth curbs the progress of individuals.
 There is only so much to do in such a small and limited society.
-To end this, most think that more focus should be given to the [Steldan Exploration Front (SEF)](../../groups/sef) and the [Steldan Debridement Front (SDF)](../../groups/sdf) -- yet mostly to the former.
+To end this, most think that more focus should be given to the [Steldan Exploration Front (SEF)](../../groups/sef) and the [Steldan Debridement Front (SDF)](../../groups/sdf) -- yet favor the former.
 
 * **Individual freedom**.
 Liberalists condemn the removal of personal freedom of the statist government.
@@ -31,7 +31,12 @@ Untrusting of the state, they see this accumulation as a mean to finance explora
 
 ## Relation to Other Doctrines
 * [**Statism**](../statism).
-TODO
+Liberalists see statists as old fashion.
+A relic of a past where the only concern was survival.
+This relic, while useful in its time, should be left behind.
+Progress can only be found if it is.
 
 * [**Recuperationism**](../recuperationism).
-TODO
+Recuperationists and liberalists agree on piercing into the nix.
+Their objectives however clash -- liberalists want the establishment of new settlements, while recuperationists aim to check on the state of Krugghom and the rest of Krudzal.
+Their methods also clash: recuperationists don't agree that statism is misguided.
