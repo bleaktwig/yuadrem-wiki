@@ -12,8 +12,8 @@ There are three major currents of thought as of 802 A.S: [Statism](politics/stat
 
 ## Politics
 The central government of the islet resides in [Ironfox](TODO).
-Its head is the [ead](politics/hierarchy), who is elected by the [council of five](politics/hierarchy) every ten years.
-The territory is separated into six eadsbeers, each of which is ruled by a democratically elected [udtere](politics/hierarchy).
+Its head is the [ead](../../../cultures/krudzal/political_hierarchy), who is elected by the council of five every ten years.
+The territory is separated into six eadsbeers, each of which is ruled by a democratically elected udtere.
 Any citizen can vote in the election.
 A citizen is any person over 30 years with an active job recognized by the state.
 
