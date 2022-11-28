@@ -8,7 +8,7 @@ Modern Tanethism has a five-level hierarchy of deities, out of which the first f
     * ***Pheter*** is the giver of thinking -- every conscious thought in the mind of a creature comes from her will.
     She is commonly drawn as a 5-colored heron whose path is painted by northern lights.
     * ***Nix*** is the taker of thinking.
-    He is the author of [The Penance](TODO), and his aim is to return the world to animals.
+    He is the author of The Penance<!-- [The Penance](TODO) -->, and his aim is to return the world to animals.
     He is commonly drawn as a dark red raven surrounded by never dispersing mists.
 * **Mevic Gods** or *bone gods* are the sons and daughters of Pheter, and each represent a different facet of her.
     * ***Febrid*** is the god of intellect, and her manifestation on Yuadrem is wood.
@@ -30,16 +30,16 @@ They were killed by the mevic gods, and their names were later expunged from his
 * **Tovastic Gods** or *second gods* are deities that look over Yuadrem, securing the place of civilization.
 They were anointed among mortals by the mevic gods, and were all heroes of great renown during their mortal life.
     * ***Vugar*** is the god of family and fertility.
-    As a mortal, he was the gat prince of [Vamerit](TODO).
+    As a mortal, he was the gat prince of Vamerit<!-- [Vamerit](TODO) -->.
     He is now depicted with a silver toga of simple style.
     * ***Genadi*** is the goddess of bravery and love.
-    As a mortal, she was a marset hero who fought to death to stop the [Ededeian Genocide](TODO).
+    As a mortal, she was a marset hero who fought to death to stop the Ededeian Genocide<!-- [Ededeian Genocide](TODO) -->.
     She is now depicted with toad-like features carrying a sword and a flute.
     * ***Sakris*** is the god of fun and wine.
-    As a mortal, he was the most devoted slave to a prince of [Ushpavam](TODO).
+    As a mortal, he was the most devoted slave to a prince of Ushpavam<!-- [Ushpavam](TODO) -->.
     Even as a god, he is often depicted dutifully attending to guests at a party.
     * ***Hanutsh*** is the god of teaching and books.
-    As a mortal, they were a tsanek who mediated the peace between [Na'ane](TODO) and the [Seven Principates of the Sea](TODO).
+    As a mortal, they were a tsanek who mediated the peace between Na'ane<!-- [Na'ane](TODO) --> and the Seven Principates of the Sea<!-- [Seven Principates of the Sea](TODO) -->.
     As a god, they are depicted in a thin dress made of paper scrolls.
     * ***Tamaz*** is the goddess of wealth and silver.
     As a mortal, she was an ird adventurer who financed the first colonial ships of Krudzal.
@@ -51,18 +51,18 @@ They were anointed among mortals by the mevic gods, and were all heroes of great
     Their background as a mortal is not known, but they are often attributed to murders where the perpetrator was never found.
     They are depicted as a kinless being with a shifting face and body.
     * ***Havetish*** is the god of both leadership and tyranny.
-    As a mortal, they were [Qina](TODO), the naenk general who led the naenks against the marsets in the [Babanian Wars](TODO).
+    As a mortal, they were Qina<!-- [Qina](TODO) -->, the naenk general who led the naenks against the marsets in the Babanian Wars<!-- [Babanian Wars](TODO) -->.
     As a god, they are depicted with an uncharacteristic golden armor and a purpleheart spear.
     * ***Mziva*** is the god of self sacrifice.
-    As a mortal, she was a marset who led her colony to salvation during the [Ededeian Genocide](TODO), at the cost of her own life.
+    As a mortal, she was a marset who led her colony to salvation during the Ededeian Genocide, at the cost of her own life.
     She is now depicted with golden hair and clothes made of flowers.
 * **Truhetic Beings** or *illuminants* are mortals selected by a mevic or tovastic god to conduct pheter.
 They remain mortal after being anointed, and most move on to become the protagonists of legends.
-Some commonly known illuminants are [Olag the god-king](TODO), the [Immortal Queen Elña](TODO), Anush, Jirar, Vakris, and Zuleija, among others.
+Some commonly known illuminants are Olag the god-king<!-- [Olag the god-king](TODO) -->, the Immortal Queen Elña<!-- [Immortal Queen Elña](TODO) -->, Anush, Jirar, Vakris, and Zuleija, among others.
 
 ## History
 Old Tanethism is characterized by its myriad of gods -- one for each thing.
-This urreligion was widely practiced in the Seven Principates and their various colonies up until the late [Nations Era](TODO).
+This urreligion was widely practiced in the Seven Principates and their various colonies up until the late Nations Era<!-- [Nations Era](TODO) -->.
 
 Taneth, a gat theologist, published "The Rituals and Gods of the Gats" in 511 AS.
 Independent of any institution, the scholar traveled all around the gat kingdoms and city-states, compiling all information he could find on the gods of each community.
@@ -70,8 +70,8 @@ The book was an exhaustive compilation of the more than a thousand deities that 
 Furthermore, he introduced a reduced pantheon of 18 gods, of which two were later expunged by the god-king Olag.
 Taneth's work was barely known during his life, and he died without due recognition at an unknown age.
 
-Shortly before the start of the [Golden Era](TODO), Olag sought to reduce the religious disparity among his people.
-Either by divine will or happenstance, he came upon the book, and established Tanethism as the official religion of [Khedrat](TODO).
+Shortly before the start of the Golden Era<!-- [Golden Era](TODO) -->, Olag sought to reduce the religious disparity among his people.
+Either by divine will or happenstance, he came upon the book, and established Tanethism as the official religion of Khedrat<!-- [Khedrat](TODO) -->.
 By government decree, many churches were erected in the name of these gods, and the many gods of the gats coalesced into a sober pantheon of 16.
 Soon after the religion was picked-up by the rest of the seven principates, followed by its establishment in many gat (and non-gat) states around Yuadrem.
 
