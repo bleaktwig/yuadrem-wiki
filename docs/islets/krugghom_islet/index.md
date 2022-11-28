@@ -18,6 +18,6 @@ This led to a short-lived civil war, out of which a [supplementary state](TODO) 
 Due to a lack of political stability, this government has held power for about 2 decades. -->
 
 ## Religion
-The main religion in Krudzal is [Tanethism](TODO).
+The main religion in Krudzal is [Tanethism](../../religions/tanethism).
 The practice quickly gained popularity by the late [Nations Era](TODO) from the evangelization efforts of [Olag](TODO) and the [Seven Principates of the Sea](TODO).
 Despite this, there are still a few followers of the old religion of the region, [Tsalemism](TODO).

@@ -3,6 +3,7 @@ Tanethism was founded by the gat Taneth in 511 AS.
 
 ## Pantheon
 Modern Tanethism has a five-level hierarchy of deities, out of which the first four levels are considered gods.
+
 * **Primordial Ones** are the gods behind consciousness, and are the creators of both mevic and oric gods.
     * ***Pheter*** is the giver of thinking -- every conscious thought in the mind of a creature comes from her will.
     She is commonly drawn as a 5-colored heron whose path is painted by northern lights.
