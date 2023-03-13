@@ -14,6 +14,7 @@ The original kins lived in relative peace up until the Schism, a volcanic erupti
 ![Map of Yuadrem](img/world_map_v083.png)
 
 The vast landmass is surrounded by four oceans:
+
 * The Frigid Ocean to the north-east, which is known for its low temperatures and abundance of migratory idzels.
 * The warm Teal Ocean to the north-west, home to very varied life.
 * The Burnt Ocean to the east, which strangely holds very little marine life.
@@ -54,6 +55,7 @@ The Penance split Yuadrem into many different regions, called islets.
 Exploration outside the islets has been very limited, and no contact has been made between them insofar.
 
 Islets are commonly named for the regions in which they lay, and a (not exhaustive) list of them is:
+
 * Fesh Peninsula.
 * Katajthon Islet.
 * Wildlands.
