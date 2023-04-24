@@ -44,7 +44,6 @@ The lands are bare and uninhabitable, and only the ruins of small port towns rem
 After the Penance, only two cultures remain in the region: the irds of Krudzal and the umes of Ribinhep.
 
 #### Krudzal Nation
-<!-- TODO. Krudzal. -->
 Krudzal was once a proud nation, locked in an everlasting war with the giants<!-- TODO. Link. -->.
 It now only spans three small islets: Krugghom, Coldmist, and the Steldan Mountains<!-- TODO. Add to map. -->.
 The islets are connected through a complex network of caverns and short highways through the nix.
@@ -59,6 +58,6 @@ These umes are nomadic, and are able to roam the nix thanks to their qualars<!--
 It is impossible to ascertain their exact population number, but it is estimated to be in the few thousands.
 
 <!-- LINKS -->
-[krugghom_islet]: ../../islets/krugghom_islet/index.md "Krugghom Islet"
-[steldan_islet]: ../../islets/steldan_islet.md "Steldan Islet"
-[northern_territories_map]: img/cutout_v083.png "Northern Territories cutout map"
+[krugghom_islet]: ../islets/krugghom_islet/index.md "Krugghom Islet"
+[steldan_islet]: ../islets/steldan_islet.md "Steldan Islet"
+[northern_territories_map]: img/cutout_northernterritories_v083.png "Northern Territories cutout map"
