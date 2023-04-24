@@ -20,7 +20,7 @@ The vast landmass is surrounded by four oceans:
 * The Burnt Ocean to the east, which strangely holds very little marine life.
 * The Southern Ocean to the south, the least explored of the four.
 
-Due to its size, Yuadrem is often divided into six distinct regions: the [Northern Territories](world/northern_territories.md), the Three Deserts<!-- TODO. Link. -->, the Beryl Sea region<!-- TODO. Link. -->, the Whaler's Sea region<!-- TODO. Link. -->, the Savage Planes<!-- TODO. Link. -->, and the Wildlands<!-- TODO. Link. -->.
+Due to its size, Yuadrem is often divided into six distinct regions: the [Northern Territories](world/northern_territories.md), the [Westlands](world/westlands.md), the Beryl Sea region<!-- TODO. Link. -->, the Whaler's Sea region<!-- TODO. Link. -->, the Savage Planes<!-- TODO. Link. -->, and the Wildlands<!-- TODO. Link. -->.
 
 <!-- Splitting Yuadrem in two, the Three Deserts.
 *TODO.*
