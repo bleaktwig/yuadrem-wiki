@@ -2,7 +2,7 @@
 <!-- INTRODUCTION ------------------------------------------------------------->
 The Westlands stretch up to the Sulfur Lake to the north, the Ichor Mountains to the east, and the Drejek jungle to the west.
 A variety of biomes define this region, all assailed by hot tropical temperatures.
-Before The Penance<!-- TODO. Link. -->, the region was heavily populated by irds and naenks.
+Before The Penance<!-- TODO. Link. -->, the region was heavily populated by irds<!-- TODO. Link. --> and naenks<!-- TODO. Link. -->.
 Three empires rose in the region: Hulnar<!-- TODO. Link. -->, Jenkash<!-- TODO. Link. -->, and Gannag<!-- TODO. Link. -->.
 All are thought to have fallen in The Penance, as no contact has been established with them since.
 
@@ -22,30 +22,42 @@ Apart from this shy plantlife, the area is known for its large salt and gemstone
 The protectorates' colony of Viphoger was established to exploit this, but it too is now lost to The Penance.
 
 #### Ichor Mountains
-<!-- Then there are the Blank Fields: A vast, freezing tundra.
-The low temperatures and strong winds prevent the growth of large flora.
-As if the bleak terrain was not enough, it is the only above-ground home of the fierce Wurms, the largest predators in Yuadrem. -->
+Separating the deserts of Zoedrem and the Dead Sea are the Ichor Mountains.
+Their name comes from the many tributaries they birth, most of which feed the Dratl River.
+While thick, the mountain range is somewhat sparse, and a variety of passages connect the Westlands to the Dead Sea and the Seven Protectorates<!-- TODO. Link. -->.
 
 #### Beryl Sea
+The Beryl Sea is a large expanse of warm water.
+Its violent winds, battering waters, and unpredictable thunderstorms make sailing it essentially impossible for anyone but the Qulbaba irds<!--TODO. Link. --> of Jenkash.
+Yet no nixwalker<!-- TODO. Link. --> has reported ships since The Penance, and the once great empire is thought to be lost to it.
 
 #### Dratl'fal Savanna
-Long before The Penance, the Dratl'fal savanna was the first region to be struck by the Nix<!-- TODO. Link. -->.
-Its name literally translates to "Bloodgrass" in Jantherlin<!-- TODO. Link. -->, as its flora grows with the characteristic red of the Nix.
+Long before The Penance, the Dratl'fal savanna was the first region to be struck by the nix<!-- TODO. Link. -->.
+Its name literally translates to "Bloodgrass" in Jantherlin<!-- TODO. Link. -->, as its flora grows with the characteristic red of the nix.
 The name also carries a more literal interpretation, as the Hundred Year War<!-- NOTE. Link? --> was fought on this land.
 
 The south-eastern part of the region is also famous for the bafarmat, a purple moss that grows on its shores.
-While abundant in the caverns below the Ichor Mountains, the moss only grows in this small area, and is the only food that can stimulate the gornbeetles<!-- TODO. Link. Hornbeetles are huge pack animals commonly used to move very large amounts of cargo --> to breed.
-Even today, bafarmat is farmed by the nixwalkers both for selling and for multiplying their own hornbeetle population.
+While abundant in the caverns below the Ichor Mountains, the moss only grows in this small area, and is the only food that can stimulate the hornbeetles<!-- TODO. Link. Hornbeetles are huge pack animals commonly used to move very large amounts of cargo --> to breed.
+Even today, bafarmat is farmed in the city-state of Jorea<!-- TODO. Link. -->, whose populace sell to the nixwalkers.
 
 #### Drejek
-<!-- South of the Blank Fields lies the Sulfur Lake.
-Fed by volcanic sources, the lake is unique across the continent: it corrodes the flesh of any who enter it.
-The sulfur on its coasts once fed the agriculture of the great nations of Palegna and Sulia, both lost to the Penance. -->
+Westernmost of Yuadrem is the thick, dark, and moist jungle of Drejek.
+This region is the birthplace of the Gannag civilization, which spawned the naenks and tsaneks<!-- TODO. Link. -->.
+While born before The Schism<!-- TODO. Link. -->, it is unknown if the nation survived The Penance, since no contact has been made since.
 
 #### Qul Archipelago
-<!-- East to the fields is the Arctic Archipelago.
-This cluster of islands separates the waters of the Whaler's Sea from the Frigid Ocean up north.
-The lands are bare and uninhabitable, and only the ruins of small port towns remain in their shores. -->
+Defining the southern border of the Beryl Sea is the Qul Archipelago.
+The islands are almost completely desolate, as very few foliage can grow in its ash-ridden earth and igneous rock.
+The Jenkashian empire was born from this land, and their own deforestation is what drove them to their great expansion.
+
+<!-- No demography, since it is thought that nobody lives here anymore. -->
+<!-- DEMOGRAPHY --------------------------------------------------------------->
+## Demography
+Only Jorea remains after The Penance.
+The city-state is dug deep within the Ichor Mountains, protecting itself from the nix in a manner similar to [Krugghom][krugghom_islet].
+Jorea's economy is based on three sources: its underground mushroom farms, its magnetite and galena mines, and its vast plantations of bafarmat.
+The city's population borders the 5,000 inhabitants, of which most are gats<!-- TODO. Link. -->, irds, and tsaneks.
 
 <!-- LINKS -------------------------------------------------------------------->
 [westlands_map]: img/westlands_v083.png "Westlands cutout map"
+[krugghom_islet]: ../islets/krugghom_islet/index.md
