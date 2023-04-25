@@ -11,28 +11,31 @@ All are thought to have fallen in The Penance, as no contact has been establishe
 ![Cutout map of the Westlands][westlands_map]
 
 #### Zoedrem
-<!-- North of the wall is the land of Whitenorth, home to the old nation of Krudzal.
-The region coincides with the north pole of Darhoc, and is as cold and lifeless as can be expected.
-The little plant-life that can be found is atop mountains and in the Coldmist Gorge, coinciding with civilization.
-The latter is a crevasse which lies exactly on the pole.
-It remains warm despite its location thanks to an array of volcanos in its center: the Peaks of Flame. -->
+Zoedrem is a large yellow desert that touches both the Whaler's Sea to the east and the Teal Ocean to the west.
+The desert runs undisturbed from the Sulfur Lake down to the Dratl River<!-- TODO. Add name to map. -->.
+It used to be the most populated desert in Yuadrem, and the old empire of Hulnar was born in its sands.
 
-#### Fog Gorge
-<!-- To the west of Whitenorth is the Red Fjord.
-It receives its name from the red leaves of its maples, a color which predates the Penance.
-The islands are sacred to the Tsalemists, and used to house both krudzalian colonies and Ribinhep nomads. -->
-
-#### Dratl'fal Savanna
-<!-- To the other side of the wall lies the Greennorth.
-While unforgivingly cold, the region is not as frigid as the Whitenorth, and enough green can be found in the summer months to earn it its name.
-
-At the top of the region and beside the wall are the Ashwoods.
-Protected from the polar winds by the mountain range, these forests are home to maple, oak, birch and, giving them their name, ash trees. -->
+#### Sylvan Canyon
+East of Zoedrem is the Sylvan Canyon, a very hospitable land when compared to its neighboring desert and mountains.
+The canyon walls protect its basin<!-- TODO. Is this the right word? -->, helping it grow grasslands and forests.
+Apart from this shy plantlife, the area is known for its large salt and gemstone deposits.
+The protectorates' colony of Viphoger was established to exploit this, but it too is now lost to The Penance.
 
 #### Ichor Mountains
 <!-- Then there are the Blank Fields: A vast, freezing tundra.
 The low temperatures and strong winds prevent the growth of large flora.
 As if the bleak terrain was not enough, it is the only above-ground home of the fierce Wurms, the largest predators in Yuadrem. -->
+
+#### Beryl Sea
+
+#### Dratl'fal Savanna
+Long before The Penance, the Dratl'fal savanna was the first region to be struck by the Nix<!-- TODO. Link. -->.
+Its name literally translates to "Bloodgrass" in Jantherlin<!-- TODO. Link. -->, as its flora grows with the characteristic red of the Nix.
+The name also carries a more literal interpretation, as the Hundred Year War<!-- NOTE. Link? --> was fought on this land.
+
+The south-eastern part of the region is also famous for the bafarmat, a purple moss that grows on its shores.
+While abundant in the caverns below the Ichor Mountains, the moss only grows in this small area, and is the only food that can stimulate the gornbeetles<!-- TODO. Link. Hornbeetles are huge pack animals commonly used to move very large amounts of cargo --> to breed.
+Even today, bafarmat is farmed by the nixwalkers both for selling and for multiplying their own hornbeetle population.
 
 #### Drejek
 <!-- South of the Blank Fields lies the Sulfur Lake.
