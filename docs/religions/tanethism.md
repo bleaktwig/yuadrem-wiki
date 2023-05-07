@@ -80,3 +80,19 @@ A few even dedicate entirely to a single deity, serving as a priest, acolyte, or
 Famous among these devout beings are the nimrod, an organization of zealous hunters of Phusinhe who pursue all who disturb the balance of Yuadrem.
 Well-known as well are the followers of Havetish, a group of gats in golden robes whose goal is to distribute wealth and food to the impoverished hamlets of the inner regions of the Seven Principates.
 -->
+
+<!-- Across the long history of the Seven Kingdoms, varied deities were gradually associated with many different concepts, and any gat would pray to different gods at different times and circumstances.
+For example, one might say a prayer to the Traveler for luck, make an offering to Tamaz before going to the market, and pray to appease Matevos when a severe storm blows in --- all in the same day.
+
+Independent to any institution, the gat scholar Taneth officially published ``The Rituals and Gods of the Gats'' in 511 AS.
+The book was an exhaustive compilation of the more than a thousand deities that were praised by the different kins of the Seven Kingdoms, and proposed a reduced pantheon of 15, distilling the chaotic pantheon into the main gods.
+Taneth's work was barely known during their life, and they died without due recognition.
+
+Later, in the year 577 AS, the king of Khedrat Olag the Immortal sought a method to reduce the religious disparity among their people.
+Either by divine will or happenstance, they came upon this book by Taneth, and established Tanethism as the official religion of Khedrat, imitating the well-established creed of other nations.
+By command of the government, many churches were erected in the name of each god, and the many gods of the gats coalesced into a more sober pantheon of 15.
+
+Many have a favorite among the gods, one whose ideals and teaching they make their own.
+A few even dedicate entirely to a single deity, serving as a priest, acolyte, or champion of that god's image.
+Famous among these devout beings are the nimrod, an organization of zealous hunters of Phusinhe who pursue all who disturb the balance of Yuadrem.
+Well-known as well are the followers of Havetish, a group of gats in golden robes whose goal is to distribute wealth and food to the impoverished hamlets of the inner regions of the Seven Kingdoms. -->

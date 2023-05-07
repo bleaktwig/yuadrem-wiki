@@ -31,6 +31,47 @@ Due to its size, Yuadrem is often divided into six distinct regions: the [Northe
 
 ### Religion
 **TODO.**
+<!-- \DndDropCapLine{R}{eligion is an important part of life}
+of the many cultures of Yuadrem.
+Some worship specific pantheons of gods, others praise unpersonified concepts, and a selected few worship nature itself.
+% In the times before the schism there was a wide belief that the tall kin could answer prayers, but their worship is now forbidden in most of the continent.
+
+% The true existence of these divinities is a widely discussed subject, but their worship is undeniable.
+From the nature-worshiping folk of Jenkash to the god-birds of Krudzal, each culture performs a set of rituals in the name of their deities, and some even claim to be able to channel their divine power.
+While it might be hard to pinpoint the exact number of religions in Yuadrem, a few are built into the fabric of civilizations, and are easy to tell apart. -->
+
+[Tanethism](religions/tanethism.md), [Tsalemism](religions/tsalemism.md), [Igneism](religions/igneism.md), [Cosmism](religions/cosmism.md).
+
+<!-- \begin{table*}[b]%
+    \begin{DndTable}[width=\linewidth, header=The Gods of Yuadrem]{p{2cm}p{0.8cm}p{3cm}p{1.8cm}X}
+        \textbf{Name} & \textbf{Tides} & \textbf{Domains} & \textbf{Religion} & \textbf{Symbol} \\
+        The Scholar  & B  & Reason, Knowledge     & Igneism   & A many-armed blue oth reading multiple books. \\
+        The Zealous  & R  & Passion, Zeal         & Igneism   & A red dratl ird standing over a sand dune. \\
+        The Star     & S  & Admiration, Fame      & Igneism   & A naked tall one, sometimes replaced by a shadow or a uman. \\
+        The Equalist & I  & Justice, Equity       & Igneism   & An indigo gat holding a spear and a coin. \\
+        The Altruist & G  & Empathy, Compassion   & Igneism   & A furtive golden marset carrying a basket full of eggs. \\
+        The Sorrow   & -  & Balance, Punishment   & Igneism   & An indistinct cloaked figure holding a bloody heart. \\
+        Changing God & -  & Secrecy, Manipulation & Rashiism  & A robed oth with a featureless bronze mask. \\
+        Febrid       & B  & Intellect, Wood       & Tanethism & A gat forming a crescent moon with its horns. \\
+        The Traveler & BR & Luck, Beer            & Tanethism & An indistinct figure cloaked in light brown robes. \\
+        Vugar        & BG & Family, Fertility     & Tanethism & A gat prince dressed in a simple silver toga. \\
+        Vahagn       & R  & Mountains, Fire       & Tanethism & A red quies holding a colossal mace. \\
+        Genadi       & RI & Bravery, Love         & Tanethism & A grung warrior carrying a sword and a lute. \\
+        Sakris       & RS & Fun, Wine             & Tanethism & A uman servant carrying cups and wine. \\
+        Matevos      & S  & Glory, Water          & Tanethism & An ice zaloth holding a bident and a shield. \\
+        Hanutsh      & SB & Teaching, Books       & Tanethism & A tsanek dressed in scrolls and paper. \\
+        Tamaz        & SG & Wealth, Silver        & Tanethism & A gray ird eternally flying towards the sun. \\
+        Phusinhe     & I  & The Stars, Metal      & Tanethism & A giant tortle with the visage of stars in its shell. \\
+        Nadzim       & IB & Justice, the Sky      & Tanethism & A purple oth holding an abacus and a spyglass. \\
+        Gathoz       & IS & Secrecy, Murder       & Tanethism & A kinless being with shifting body and face. \\
+        Bagrat       & G  & Farming, Earth        & Tanethism & A gat farmer with tools made of gold. \\
+        Havetish     & GI & Leadership, Tyranny   & Tanethism & A naenk holding a golden and an indigo spear. \\
+        Mziva        & GR & Self Sacrifice        & Tanethism & A blonde marset with a flowered back. \\
+        Jua\~nansiz  & G  & Day, Sunlight         & Tsalemism & A rainbow-colored heron followed by northern lights. \\
+        Dzadsiz      & R  & Night, Darkness       & Tsalemism & A black raven surrounded by never-dispersing mists. \\
+        The Observer & -  & Cosmos, the Unknown   & Cosmism   & A titanic three-eyed slug ridden with tentacles and appendages.
+    \end{DndTable}
+\end{table*} -->
 
 ### Languages
 **TODO.**
