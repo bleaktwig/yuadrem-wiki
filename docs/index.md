@@ -1,5 +1,5 @@
 # Yuadrem
-*WIP.*
+**WIP.**
 
 Yuadrem is a supercontinent, assumed to be the only continent in the world Darhoc.
 The topography is varied, split by four different mountain ranges.
@@ -20,35 +20,20 @@ The vast landmass is surrounded by four oceans:
 * The Burnt Ocean to the east, which strangely holds very little marine life.
 * The Southern Ocean to the south, the least explored of the four.
 
-Due to its size, Yuadrem is often divided into six distinct regions: the [Northern Territories](world/northern_territories.md), the [Westlands](world/westlands.md), the Beryl Sea region<!-- TODO. Link. -->, the Whaler's Sea region<!-- TODO. Link. -->, the Savage Planes<!-- TODO. Link. -->, and the Wildlands<!-- TODO. Link. -->.
-
-<!-- Splitting Yuadrem in two, the Three Deserts.
-*TODO.*
-
-On the occidental side of the continent, the Beryl Sea and its surrounding landmasses.
-*TODO.*
-
-On the oriental side of the continent, the Whaler's Sea, littered by coasts and archipelagos.
-*TODO.*
-
-South of the Dead Sea are the Savage Planes.
-*TODO.*
-
-The southernmost lands of Yuadrem are the Wildlands, a vast and mostly unexplored array of forests.
-*TODO.* -->
+Due to its size, Yuadrem is often divided into six distinct regions: the [Northern Territories](world/northern_territories.md), the [Westlands](world/westlands.md), the [Fractured Lands](world/fractured_lands.md), the [Sunland](world/sunland.md), the [Savage Territories](world/savage_territories.md), and the [Wildlands](world/wildlands.md).
 
 ## Demography
 ### Population
-*TODO.*
+**TODO.**
 
 ### Ethnology
-*TODO.*
+**TODO.**
 
 ### Religion
-*TODO.*
+**TODO.**
 
 ### Languages
-*TODO.*
+**TODO.**
 
 ## Islets
 The Penance split Yuadrem into many different regions, called islets.

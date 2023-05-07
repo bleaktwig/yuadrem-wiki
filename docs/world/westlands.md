@@ -33,7 +33,7 @@ Yet no nixwalker<!-- TODO. Link. --> has reported ships since The Penance, and t
 
 #### Dratl'fal Savanna
 Long before The Penance, the Dratl'fal savanna was the first region to be struck by the nix<!-- TODO. Link. -->.
-Its name literally translates to "Bloodgrass" in Jantherlin<!-- TODO. Link. -->, as its flora grows with the characteristic red of the nix.
+Its name literally translates to "bloodgrass" in Jantherlin<!-- TODO. Link. -->, as its flora grows with the characteristic red of the nix.
 The name also carries a more literal interpretation, as the Hundred Year War<!-- NOTE. Link? --> was fought on this land.
 
 The south-eastern part of the region is also famous for the bafarmat, a purple moss that grows on its shores.
@@ -45,12 +45,19 @@ Westernmost of Yuadrem is the thick, dark, and moist jungle of Drejek.
 This region is the birthplace of the Gannag civilization, which spawned the naenks and tsaneks<!-- TODO. Link. -->.
 While born before The Schism<!-- TODO. Link. -->, it is unknown if the nation survived The Penance, since no contact has been made since.
 
+#### The Fog Gorge
+**TODO**.
+<!-- East to Drejek is the Fog Gorge, a well-forested canyon island ever enveloped in fog.
+While primitive, the tribes of Gannag are far from free-living, and are bound by strong shackles to their superiors.
+While naenks are used to this hierarchical system, many of the more intelligent tsaneks grow tired of it over time.
+A hundred and fifty years ago, a group of tsaneks went as far as to establish their own independent tribe of Na'ane in the misty island, abandoning their brethren in favor of an unrestrained lifestyle.
+Freely they carry on with their ceremonies and rituals, protected from their neighbors by mist and stone. -->
+
 #### Qul Archipelago
 Defining the southern border of the Beryl Sea is the Qul Archipelago.
 The islands are almost completely desolate, as very few foliage can grow in its ash-ridden earth and igneous rock.
 The Jenkashian empire was born from this land, and their own deforestation is what drove them to their great expansion.
 
-<!-- No demography, since it is thought that nobody lives here anymore. -->
 <!-- DEMOGRAPHY --------------------------------------------------------------->
 ## Demography
 Only Jorea remains after The Penance.
