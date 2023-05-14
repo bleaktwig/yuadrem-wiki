@@ -1,4 +1,4 @@
-# Yuadrem
+ll# Yuadrem
 **WIP.**
 
 Yuadrem is a supercontinent, assumed to be the only continent in the world Darhoc.
@@ -75,6 +75,64 @@ While it might be hard to pinpoint the exact number of religions in Yuadrem, a f
 
 ### Languages
 **TODO.**
+![Language Tree](img/language_tree_v021.png)
+<!-- \begin{table*}[b]%
+    \begin{DndTable}[width=\linewidth]{X}
+        \centering
+        \includegraphics[width=0.99\textwidth]{01yuadrem/img/22languages_map.png}
+    \end{DndTable}
+\end{table*}
+
+A great variety of languages permeate Yuadrem, both of natural spawn and artificial design.
+While it is impossible to identify each tongue and its variations, many efforts have been done over the years to classify the common ones.
+
+Based on lexical and grammatical similarities, languages are separated into four generations, and five distinct families.
+The following tables classify these languages, pointing to their script and original speakers. -->
+
+<!-- \begin{DndTable}[width=\linewidth, header=First Generation]{p{2.6cm}p{2.6cm}X}
+    \textbf{Language}  & \textbf{Original Speakers} & \textbf{Script} \\
+    Jantherlin         & Ets                        & Varies \\
+    Babazano           & Marsets                    & - \\
+    Knaenese           & Naenks \& Tsaneks          & Knaenese \\
+    Outer Tongue       & -                          & Outer Tongue \\
+    Mind Speech        & Zaloths                    & -
+\end{DndTable}
+
+\begin{DndTable}[width=\linewidth, header=Second Generation]{p{2.6cm}p{2.6cm}X}
+    \textbf{Language}  & \textbf{Original Speakers} & \textbf{Script} \\
+    Shamabic           & Oths                       & Shamabic \\
+    Harualish          & Irds                       & Harualish \\
+    Avshenese          & Gats                       & Avshenese \\
+    Leafrunes          & Marsets                    & Leafrunes \\
+    Shinerunes         & Naenks \& Tsaneks          & Shinerunes \\
+    Seedspeech         & Gannagian Tsaneks          & - \\
+    Krelho             & Tortles \& Grungs          & Krelho \\
+    Odhualen           & Umans                      & Outer Tongue
+\end{DndTable}
+
+\begin{DndTable}[width=\linewidth, header=Third Generation]{p{2.6cm}p{3.2cm}X}
+    \textbf{Language}  & \textbf{Original Speakers} & \textbf{Script} \\
+    Silent Speech      & Oths                       & - \\
+    Fruenese           & Sulian Oths                & Fruenese \\
+    Zsekian            & Dratl Irds                  & Harualish \\
+    Qualinese          & Jenkashian Irds            & Harualish \\
+    Shanise            & Northern Irds \& Gats      & Shanise \\
+    Frishian           & Jorea \& Dzorvepem         & Avshenese \\
+    Voskian            & Voskferm \& Voskgrit       & Avshenese \\
+    Thieves' Cant      & Rogues \& Thieves          & Thieves' Cant \\
+    Slaadi             & Slaads                     & Krelho \\
+    Feelspeech         & Zaloths \& Umans           & -
+\end{DndTable}
+
+\begin{DndTable}[width=\linewidth, header=Fourth Generation]{p{2.6cm}p{3.2cm}p{2.2cm}}
+    \textbf{Language}  & \textbf{Original Speakers} & \textbf{Script} \\
+    True Speech        & Palegna \& Sulia           & - \\
+    Jol'naat           & Jenkash                    & - \\
+    Beast Speech       & Jorea                      & - \\
+    Conscript Tongue   & Cabb Goem-Rlamesh          & - \\
+    Traveler's Cant    & Zaloths \& Umans           & Traveler's Cant
+\end{DndTable} -->
+
 
 ## Islets
 The Penance split Yuadrem into many different regions, called islets.
