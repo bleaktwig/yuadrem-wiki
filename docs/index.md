@@ -1,62 +1,72 @@
 # Yuadrem
 **WIP.**
 
-Yuadrem is a supercontinent, assumed to be the only continent in the world Darhoc.
-The topography is varied, split by four different mountain ranges.
-Due to its large extension from north to south, the climate and ecology vary widely, from the tundras of Krudzal to the rain forests of Drejek.
-
 Humes are believed to have settled Yuadrem at least at 1000 B.S., much before written history.
-The first settlers were Et and Om, with the other kins arriving some time after the fall of the Om.
-The original kins lived in relative peace up until the Schism, a volcanic eruption that brought the 40-year famine and the fall of the Et.
+The first settlers were et and om, with humes arriving some time after the fall of the latter.
+Humes and ets lived in relative peace until the Schism, a volcanic eruption that brought the 40-year famine and marked the year 0.
 <!-- I should add lotsa links here... -->
 
+--------------------------------------------------------------------------------
+<!-- GEOGRAPHY ---------------------------------------------------------------->
 ## Geography
-![Map of Yuadrem](img/world_map_v083.png)
+![Map of Yuadrem](yuadrem_map)
 
-The vast landmass is surrounded by four oceans:
+***Pictured:***
+*Trade map of Yuadrem, drawn in 604 A.S. by Marim of Avshen under the commission of Olag, the God-King of Naptane.*
+*The region colored in green corresponds to the Seven Protectorates of the Sea.*
+*Other colors represent the tax and penalty applied to trade in those regions.*
+*This map proves the healthy state of maritime travel and trade in the golden age.*
 
+Yuadrem is a supercontinent, assumed to be the only such landmass in the world Darhoc.
+The topography is varied, split by four different mountain ranges.
+Due to its large extension from north to south, the climate and ecology vary widely, from the tundras of the Whitenorth to the rainforests of Drejek.
+
+Due to its size, Yuadrem is often divided into six distinct regions: the [Northern Territories](northern_territories_page), the [Westlands](westlands_page), the [Fractured Lands](fractured_lands_page), the [Sunland](sunland_page), the [Savage Territories](savage_territories_page), and the [Wildlands](wildlands_page).
+In addition, the four oceans that surround it are:
 * The Frigid Ocean to the north-east, which is known for its low temperatures and abundance of migratory idzels.
-* The warm Teal Ocean to the north-west, home to very varied life.
-* The Burnt Ocean to the east, which strangely holds very little marine life.
+* The warm Teal Ocean to the north-west, home to a very varied marine life.
+* The Burnt Ocean to the east, surprisingly devoid of activity.
 * The Southern Ocean to the south, the least explored of the four.
 
-Due to its size, Yuadrem is often divided into six distinct regions: the [Northern Territories](world/northern_territories.md), the [Westlands](world/westlands.md), the [Fractured Lands](world/fractured_lands.md), the [Sunland](world/sunland.md), the [Savage Territories](world/savage_territories.md), and the [Wildlands](world/wildlands.md).
-
+--------------------------------------------------------------------------------
+<!-- DEMOGRAPHY --------------------------------------------------------------->
 ## Demography
 ### Population
 **TODO.**
+<!-- Known islets, and some talk about the pre-penance nations. -->
 
+<!-- ETHNOLOGY ---------------------------------------------------------------->
 ### Ethnology
-**TODO.**
-<!-- % !TEX root = ../main.tex
-\chapter{Kins} \label{ch::kins}
-\DndDropCapLine{C}{ountless millennia before any of the}
-modern kins were born, the ets were born into the land of Yuadrem.
-% They were named by the other kins, their creations, due to their impressive size.
-They were commonly known as the tall kin, for they usually stood well beyond 3 meters.
-Their skin was of a pallid, almost bluish white color, and their eyes were as black as the abyss.
-% Most ets didn't have any hair.
+The peoples of Yuadrem are often separated into four distinct kins: [humes](hume_page), [marsets](marset_page), [oths](oth_page), and [naenks](naenk_page).
+Kins are separated by progeny, as they cannot mix with each other.
+Excepting naenks, all kins are further separated by ethnic differences.
+These are often related to separation between nations, but The Penance eroded these differences by forcing nations to coalesce into islets.
+
+<!-- Ets. --------------------------------------------------------------------->
+Before these modern kins existed, two kins ruled Yuadrem: the ets and the oms.
+Ets were a tall hume-like kin who, using the art of *Cthai-thas*, molded their own flesh, and created humes and oths.
+Due to their individualist nature, ets never had a population over the few thousands.
+Most of them died during The Schism, and the few survivors are though to have been lost in The Penance.
+
+<!-- Ets were commonly known as the "tall kin", for they usually stood well beyond 3 meters.
+When borm their skin was of a bluish white color, their eyes were as black as the abyss, and were hairless.
 
 The species greatly developed their technology, which was biological in nature.
-Free from aging and illness, they developed astonishing physical capabilities despite their apparent frailty.
-Each et was indeed capable of shaping their own flesh, causing a great variety of characteristics in the many members of the kin.
+They were free from aging and illness, and each was capable of shaping their own flesh.
+This led to a great variety of characteristics in the many members of the kin.
 
-Ets were obsessed with their individuality, and it was common for them to change their own appearance, molding their flesh to reflect their personality and philosophy.
-Despite their longevity however, it was rare for new ets to be born, and the kin never grew to more than a few thousand members. -->
+Ets were obsessed with their individuality.
+It was common for one to change their own appearance, molding their flesh to reflect their personality and philosophy.
+Despite their longevity, it was rare for new ets to be born.
+The kin never grew to more than a few thousand members. -->
 
-<!-- % \subsubsection{Relationships}
-% Either by accident or by conscious decision, the tall kin created many of the modern peoples in experiments and studies.
-% Most of these held a very high regard for the ets, with some even building entire churches to them.
-% However, after it was learned that the they were responsible for the schism, all churches were forcibly shut down, and any adoration is severely punished. -->
+<!-- Oms. --------------------------------------------------------------------->
+In contrast, not much is known about oms.
+They were nomadic in nature, and are though to have lived simple lifestyles.
+Most were slaughtered by ets and humes, in the Three Omian Genocides.
+Marsets are the only known descendants of oms, but fragments of their culture also remains on naenks.
 
-<!-- \input{04kins/11gat}
-\input{04kins/12ird}
-\input{04kins/13marset}
-\input{04kins/14oth}
-\input{04kins/15moss}
-\input{04kins/16fungal}
-\input{04kins/19uman} -->
-
+<!-- RELIGION ----------------------------------------------------------------->
 ### Religion
 **TODO.**
 <!-- \DndDropCapLine{R}{eligion is an important part of life}
@@ -447,7 +457,6 @@ Savage battles are fought, and to date they've managed to reclaim most of their 
 
 \subparagraph{673 AS --- Present Day} -->
 
-
 ## Islets
 The Penance split Yuadrem into many different regions, called islets.
 Exploration outside the islets has been very limited, and no contact has been made between them insofar.
@@ -460,8 +469,26 @@ Islets are commonly named for the regions in which they lay, and a (not exhausti
 * [Krugghom Islet](islets/krugghom_islet/index.md).
 * [Steldan Islet](islets/steldan_islet/index.md).
 
----
+--------------------------------------------------------------------------------
 For documentation on editing this wiki, check out:
 
 * [mkdocs-material](https://squidfunk.github.io/mkdocs-material/creating-your-site/).
 * [mkdocs.org](https://www.mkdocs.org).
+
+<!-- LINKS -------------------------------------------------------------------->
+<!-- Images. -->
+[yuadrem_map](img/world_map_v083.png) "Map of the continent of Yuadrem"
+
+<!-- World. -->
+[northern_territories_page](world/northern_territories.md) "Northern Territories"
+[westlands_page](world/westlands.md) "Westlands"
+[fractured_lands_page](world/fractured_lands.md) "Fractured Lands"
+[sunland_page](world/sunland.md) "Sunland"
+[savage_territories_page](world/savage_territories.md) "Savage Territories"
+[wildlands_page](world/wildlands.md) "Wildlands"
+
+<!-- Kins. -->
+[hume_page](kins/hume.md) "Humes"
+[marset_page](kins/marset.md) "Marsets"
+[oth_page](kins/oth.md) "Oths"
+[naenk_page](kins/naenk.md) "Naenks"

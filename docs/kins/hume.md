@@ -1,4 +1,5 @@
 # Humes
+**TODO.**
 <!-- % !TEX root = ../main.tex
 \section{Nomad Kin} \label{kin::uman}
 \DndDropCapLine{O}{utsiders, the lot of them. Dragged}
