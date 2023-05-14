@@ -28,6 +28,34 @@ Due to its size, Yuadrem is often divided into six distinct regions: the [Northe
 
 ### Ethnology
 **TODO.**
+<!-- % !TEX root = ../main.tex
+\chapter{Kins} \label{ch::kins}
+\DndDropCapLine{C}{ountless millennia before any of the}
+modern kins were born, the ets were born into the land of Yuadrem.
+% They were named by the other kins, their creations, due to their impressive size.
+They were commonly known as the tall kin, for they usually stood well beyond 3 meters.
+Their skin was of a pallid, almost bluish white color, and their eyes were as black as the abyss.
+% Most ets didn't have any hair.
+
+The species greatly developed their technology, which was biological in nature.
+Free from aging and illness, they developed astonishing physical capabilities despite their apparent frailty.
+Each et was indeed capable of shaping their own flesh, causing a great variety of characteristics in the many members of the kin.
+
+Ets were obsessed with their individuality, and it was common for them to change their own appearance, molding their flesh to reflect their personality and philosophy.
+Despite their longevity however, it was rare for new ets to be born, and the kin never grew to more than a few thousand members. -->
+
+<!-- % \subsubsection{Relationships}
+% Either by accident or by conscious decision, the tall kin created many of the modern peoples in experiments and studies.
+% Most of these held a very high regard for the ets, with some even building entire churches to them.
+% However, after it was learned that the they were responsible for the schism, all churches were forcibly shut down, and any adoration is severely punished. -->
+
+<!-- \input{04kins/11gat}
+\input{04kins/12ird}
+\input{04kins/13marset}
+\input{04kins/14oth}
+\input{04kins/15moss}
+\input{04kins/16fungal}
+\input{04kins/19uman} -->
 
 ### Religion
 **TODO.**
