@@ -133,6 +133,66 @@ The following tables classify these languages, pointing to their script and orig
     Traveler's Cant    & Zaloths \& Umans           & Traveler's Cant
 \end{DndTable} -->
 
+<!-- % \paragraph{Old Tongue} A very complicated and intricate language spoken by the tall kin, the original settlers of Yuadrem.
+% It's spoken form involves various complex articulations and the definition of a word can vary greatly based on the context.
+% Additionally, each tall one had their own personal version of the written form, and others would understand it as much as they understood the individual.
+% % This makes the reading of the old tongue extremely difficult for the kin that remain in the world, since understanding a particular tall one's scribbles essentially requires understanding their own version of the language.
+% % Nowadays, only scholars and archaeologists understand the language, and it is not normally used anywhere.
+% \paragraph{Marset Tongue} Every marset is already able to speak this strange, repetitive language.
+% The marset tongue only has ten consonants, and ten verbs.
+% % The rest of their vocabulary is built up from there, making their language very difficult to speak or understand by kins other than the marsets.
+% Marset tongue can be spoken in one of two ways: soundlessly, through lip reading, or screamed as loud as possible, with no middle ground.
+% The language cannot be written down.
+% \paragraph{Naenk Tongue} Short words and strong consonants define the naenk tongue.
+% Lacking lips and teeth, naenks make heavy use of their alveolar ridge and hard palate to produce syllables.
+% The written form of the language involves carving lines and holes onto bark or stone.
+% \paragraph{Outer Tongue}
+% \paragraph{Mind Speech}
+
+% \subsubsection{Second Generation}
+% \paragraph{Dust Tongue}
+% \paragraph{Ird Tongue}
+% \paragraph{Gat Tongue}
+% \paragraph{Leafrunes} Very easy to learn, but kept secret by the archer kin.
+% A marset will teach this set of runes only to creatures that it deeply trusts, and only if it's strictly necessary.
+% Ten leafrunes exist, all of which are used individually and to convey very simple meaning.
+% % \textit{colony}, \textit{danger}, \textit{fun place}, \textit{hiding spot}, \textit{observation point}, \textit{predators}, \textit{road}, \textit{sacred place}, \textit{source of food}, and \textit{source of materials}.
+% \paragraph{Shinerunes}
+% \paragraph{Krelho}
+% \paragraph{Nomad Tongue}
+
+% \subsubsection{Third Generation}
+% \paragraph{Silent Speech}
+% \paragraph{Standard Language}
+% \paragraph{Zsek Tongue}
+% \paragraph{Qul Tongue}
+% \paragraph{North Tongue}
+% \paragraph{Beetle Tongue}
+% \paragraph{Gilded Tongue}
+% \paragraph{Thieves' Cant}
+% \paragraph{Slaadi}
+% \paragraph{Frost Tongue}
+% \paragraph{Bog Tongue}
+% \paragraph{Feelspeech}
+
+% \subsubsection{Fourth Generation}
+% \paragraph{True Speech}
+% \paragraph{Jol'naat}
+% \paragraph{Beast Speech}
+% \paragraph{Conscript Language}
+% \paragraph{Traveler's Cant} -->
+
+<!-- \subsubsection{Language}
+The tall kin spoke a very sophisticated language, known as jan-theth rlin, simplified as jantherlin.
+This language allowed for a very profound expression of one's emotions and inner state, and is still used in poetry to this date.
+For when deeper communication is needed, ets could meld their bodies and share thought, but the practice was only used in special rituals or to express especially complex abstract concepts.
+
+As for written word, it was customary for the tall kin to chisel the stone, commonly carving a great variety of images alongside the text.
+While this written language originates from jantherlin, each tall one had its own personal version of it.
+Other ets could only comprehend one's writing as much as they understood the writer.
+This makes the study of jantherlin extremely difficult to modern archaeologists.
+% This makes the reading of the jantherlin extremely difficult for the kin that remain in the world, since understanding a particular tall one's scribbles essentially requires understanding their own version of the language.
+ -->
 
 ## Islets
 The Penance split Yuadrem into many different regions, called islets.
