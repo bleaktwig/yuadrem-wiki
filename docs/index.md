@@ -1,4 +1,4 @@
-ll# Yuadrem
+# Yuadrem
 **WIP.**
 
 Yuadrem is a supercontinent, assumed to be the only continent in the world Darhoc.
