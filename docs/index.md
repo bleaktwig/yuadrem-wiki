@@ -9,7 +9,7 @@ Humes and ets lived in relative peace until the Schism, a volcanic eruption that
 --------------------------------------------------------------------------------
 <!-- GEOGRAPHY ---------------------------------------------------------------->
 ## Geography
-![Map of Yuadrem](yuadrem_map)
+![Map of Yuadrem](img/world_map_v083.png)
 
 ***Pictured:***
 *Trade map of Yuadrem, drawn in 604 A.S. by Marim of Avshen under the commission of Olag, the God-King of Naptane.*
