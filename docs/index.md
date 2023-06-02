@@ -23,6 +23,7 @@ Due to its large extension from north to south, the climate and ecology vary wid
 
 Due to its size, Yuadrem is often divided into six distinct regions: the [Northern Territories](northern_territories_page), the [Westlands](westlands_page), the [Fractured Lands](fractured_lands_page), the [Sunland](sunland_page), the [Savage Territories](savage_territories_page), and the [Wildlands](wildlands_page).
 In addition, the four oceans that surround it are:
+
 * The Frigid Ocean to the north-east, which is known for its low temperatures and abundance of migratory idzels.
 * The warm Teal Ocean to the north-west, home to a very varied marine life.
 * The Burnt Ocean to the east, surprisingly devoid of activity.
