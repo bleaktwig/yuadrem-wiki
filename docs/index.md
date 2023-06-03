@@ -33,8 +33,23 @@ In addition, the four oceans that surround it are:
 <!-- DEMOGRAPHY --------------------------------------------------------------->
 ## Demography
 ### Population
-**TODO.**
-<!-- Known islets, and some talk about the pre-penance nations. -->
+Back in the golden age, Yuadrem was split into various nations, each with their own population centers and varied economies.
+This era of peace lasted until the death of god-king Olag, an event that sparked the Penance<!-- TODO. Link. -->.
+With the nix<!-- TODO. Link. --> unrolling over Yuadrem, population is now separated into islets.
+
+An islet is defined as a region devoid of nix.
+Islets can be produced in two ways: A region can be protected by an illuminant<!-- TODO. Link. --> or another such method, or it can be inaccessible by nix due to its geography.
+Examples of the former would be the Fesh Peninsula<!-- TODO. Link. --> or the Elderberry Islet<!-- TODO. Link. -->, and of the latter [Krugghom](islets/krugghom/index.md) or the [Steldan Islet](islets/steldan_islet/index.md).
+Exploration outside of islets is very limited, and contact between them is generally regarded as impossible.
+
+Islets are commonly named either after the region, nation, or state that stood where they now are.
+A non-exhaustive list of the current known ones is:
+
+* Fesh Peninsula.
+* Katajthon Islet.
+* Wildlands.
+* [Krugghom](islets/krugghom/index.md).
+* [Steldan Islet](islets/steldan_islet/index.md).
 
 <!-- ETHNOLOGY ---------------------------------------------------------------->
 ### Ethnology
@@ -457,18 +472,6 @@ Abandoning old traditions, the new countries of Viphogher and Dnomit embrace dem
 Savage battles are fought, and to date they've managed to reclaim most of their lost homeland.
 
 \subparagraph{673 AS --- Present Day} -->
-
-## Islets
-The Penance split Yuadrem into many different regions, called islets.
-Exploration outside the islets has been very limited, and no contact has been made between them insofar.
-
-Islets are commonly named for the regions in which they lay, and a (not exhaustive) list of them is:
-
-* Fesh Peninsula.
-* Katajthon Islet.
-* Wildlands.
-* [Krugghom Islet](islets/krugghom_islet/index.md).
-* [Steldan Islet](islets/steldan_islet/index.md).
 
 --------------------------------------------------------------------------------
 For documentation on editing this wiki, check out:

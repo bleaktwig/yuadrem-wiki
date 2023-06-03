@@ -61,6 +61,6 @@ The Jenkashian empire was born from this land, and their own deforestation is wh
 <!-- DEMOGRAPHY --------------------------------------------------------------->
 ## Demography
 Only Jorea remains after The Penance.
-The city-state is dug deep within the Ichor Mountains, protecting itself from the nix in a manner similar to [Krugghom][../islets/krugghom_islet/index.md].
+The city-state is dug deep within the Ichor Mountains, protecting itself from the nix in a manner similar to [Krugghom][../islets/krugghom/index.md].
 Jorea's economy is based on three sources: its underground mushroom farms, its magnetite and galena mines, and its vast plantations of bafarmat.
 The city's population borders the 5,000 inhabitants, of which most are gats<!-- TODO. Link. -->, irds, and tsaneks.
