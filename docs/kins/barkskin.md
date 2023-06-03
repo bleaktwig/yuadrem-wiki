@@ -1,4 +1,4 @@
-# Naenks
+# Barkskins
 **TODO.**
 <!-- % !TEX root = ../main.tex
 \section{Moss Kin} \label{kin::naenk}

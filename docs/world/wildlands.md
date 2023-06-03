@@ -48,7 +48,7 @@ Even today, bafarmat is farmed in the city-state of Jorea<!-- TODO. Link. -->, w
 
 #### Drejek
 Westernmost of Yuadrem is the thick, dark, and moist jungle of Drejek.
-This region is the birthplace of the Gannag civilization, which spawned the naenks and tsaneks<!-- TODO. Link. -->.
+This region is the birthplace of the Gannag civilization, which spawned the barkskins<!-- TODO. Link. -->.
 While born before The Schism<!-- TODO. Link. -->, it is unknown if the nation survived The Penance, since no contact has been made since.
 
 #### Qul Archipelago

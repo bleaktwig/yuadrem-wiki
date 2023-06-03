@@ -1,7 +1,7 @@
 # Yuadrem
 **WIP.**
 
-Humes are believed to have settled Yuadrem at least at 1000 B.S., much before written history.
+Humes are believed to have settled Yuadrem at least a thousand years before the Schism (B.S.), much before written history.
 The first settlers were et and om, with humes arriving some time after the fall of the latter.
 Humes and ets lived in relative peace until the Schism, a volcanic eruption that brought the 40-year famine and marked the year 0.
 <!-- I should add lotsa links here... -->
@@ -38,9 +38,9 @@ In addition, the four oceans that surround it are:
 
 <!-- ETHNOLOGY ---------------------------------------------------------------->
 ### Ethnology
-The peoples of Yuadrem are often separated into four distinct kins: [humes](hume_page), [marsets](marset_page), [oths](oth_page), and [naenks](naenk_page).
+The peoples of Yuadrem are often separated into four distinct kins: [humes](hume_page), [marsets](marset_page), [oths](oth_page), and [barkskins](barkskin_page).
 Kins are separated by progeny, as they cannot mix with each other.
-Excepting naenks, all kins are further separated by ethnic differences.
+Excepting barkskins, all kins are further separated by ethnic differences.
 These are often related to separation between nations, but The Penance eroded these differences by forcing nations to coalesce into islets.
 
 <!-- Ets. --------------------------------------------------------------------->
@@ -65,7 +65,7 @@ The kin never grew to more than a few thousand members. -->
 In contrast, not much is known about oms.
 They were nomadic in nature, and are though to have lived simple lifestyles.
 Most were slaughtered by ets and humes, in the Three Omian Genocides.
-Marsets are the only known descendants of oms, but fragments of their culture also remains on naenks.
+Marsets are the only known descendants of oms, but fragments of their culture also remains on barkskins.
 
 <!-- RELIGION ----------------------------------------------------------------->
 ### Religion
@@ -104,7 +104,7 @@ While it might be hard to pinpoint the exact number of religions in Yuadrem, a f
         Nadzim       & IB & Justice, the Sky      & Tanethism & A purple oth holding an abacus and a spyglass. \\
         Gathoz       & IS & Secrecy, Murder       & Tanethism & A kinless being with shifting body and face. \\
         Bagrat       & G  & Farming, Earth        & Tanethism & A gat farmer with tools made of gold. \\
-        Havetish     & GI & Leadership, Tyranny   & Tanethism & A naenk holding a golden and an indigo spear. \\
+        Havetish     & GI & Leadership, Tyranny   & Tanethism & A barkskin holding a golden and an indigo spear. \\
         Mziva        & GR & Self Sacrifice        & Tanethism & A blonde marset with a flowered back. \\
         Jua\~nansiz  & G  & Day, Sunlight         & Tsalemism & A rainbow-colored heron followed by northern lights. \\
         Dzadsiz      & R  & Night, Darkness       & Tsalemism & A black raven surrounded by never-dispersing mists. \\
@@ -492,4 +492,4 @@ For documentation on editing this wiki, check out:
 [hume_page](kins/hume.md) "Humes"
 [marset_page](kins/marset.md) "Marsets"
 [oth_page](kins/oth.md) "Oths"
-[naenk_page](kins/naenk.md) "Naenks"
+[barkskin_page](kins/barkskin.md) "Barkskins"

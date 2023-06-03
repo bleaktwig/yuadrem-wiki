@@ -2,7 +2,7 @@
 <!-- INTRODUCTION ------------------------------------------------------------->
 The Westlands stretch up to the Sulfur Lake to the north, the Ichor Mountains to the east, and the Drejek jungle to the west.
 A variety of biomes define this region, all assailed by hot tropical temperatures.
-Before The Penance<!-- TODO. Link. -->, the region was heavily populated by irds<!-- TODO. Link. --> and naenks<!-- TODO. Link. -->.
+Before The Penance<!-- TODO. Link. -->, the region was heavily populated by irds<!-- TODO. Link. --> and barkskins<!-- TODO. Link. -->.
 Three empires rose in the region: Hulnar<!-- TODO. Link. -->, Jenkash<!-- TODO. Link. -->, and Gannag<!-- TODO. Link. -->.
 All are thought to have fallen in The Penance, as no contact has been established with them since.
 
@@ -42,7 +42,7 @@ Even today, bafarmat is farmed in the city-state of Jorea<!-- TODO. Link. -->, w
 
 #### Drejek
 Westernmost of Yuadrem is the thick, dark, and moist jungle of Drejek.
-This region is the birthplace of the Gannag civilization, which spawned the naenks and tsaneks<!-- TODO. Link. -->.
+This region is the birthplace of the Gannag civilization, which spawned the barkskin<!-- TODO. Link. -->.
 While born before The Schism<!-- TODO. Link. -->, it is unknown if the nation survived The Penance, since no contact has been made since.
 
 #### The Fog Gorge

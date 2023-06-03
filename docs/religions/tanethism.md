@@ -51,7 +51,7 @@ They were anointed among mortals by the mevic gods, and were all heroes of great
     Their background as a mortal is not known, but they are often attributed to murders where the perpetrator was never found.
     They are depicted as a kinless being with a shifting face and body.
     * ***Havetish*** is the god of both leadership and tyranny.
-    As a mortal, they were Qina<!-- [Qina](TODO) -->, the naenk general who led the naenks against the marsets in the Babanian Wars<!-- [Babanian Wars](TODO) -->.
+    As a mortal, they were Qina<!-- [Qina](TODO) -->, the barskin general who led their kin against the marsets in the Babanian Wars<!-- [Babanian Wars](TODO) -->.
     As a god, they are depicted with an uncharacteristic golden armor and a purpleheart spear.
     * ***Mziva*** is the god of self sacrifice.
     As a mortal, she was a marset who led her colony to salvation during the Ededeian Genocide, at the cost of her own life.
