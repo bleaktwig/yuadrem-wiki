@@ -4,7 +4,7 @@
 
 <!-- GEOGRAPHY ---------------------------------------------------------------->
 ## Geography
-![Cutout map of the Sunland][sunland_map]
+![Cutout map of the Sunland][img/sunland_v083.png]
 
 #### Zashlath
 **TODO**.
@@ -54,6 +54,3 @@ The Zashlath savanna is the area west of the desert, protected from its dry air 
 <!-- DEMOGRAPHY --------------------------------------------------------------->
 ## Demography
 **TODO**.
-
-<!-- LINKS -------------------------------------------------------------------->
-[sunland_map]: img/sunland_v083.png "Sunland cutout map"

@@ -8,7 +8,7 @@ All are thought to have fallen in The Penance, as no contact has been establishe
 
 <!-- GEOGRAPHY ---------------------------------------------------------------->
 ## Geography
-![Cutout map of the Westlands][westlands_map]
+![Cutout map of the Westlands][img/westlands_v083.png]
 
 #### Zoedrem
 Zoedrem is a large yellow desert that touches both the Whaler's Sea to the east and the Teal Ocean to the west.
@@ -61,10 +61,6 @@ The Jenkashian empire was born from this land, and their own deforestation is wh
 <!-- DEMOGRAPHY --------------------------------------------------------------->
 ## Demography
 Only Jorea remains after The Penance.
-The city-state is dug deep within the Ichor Mountains, protecting itself from the nix in a manner similar to [Krugghom][krugghom_islet].
+The city-state is dug deep within the Ichor Mountains, protecting itself from the nix in a manner similar to [Krugghom][../islets/krugghom_islet/index.md].
 Jorea's economy is based on three sources: its underground mushroom farms, its magnetite and galena mines, and its vast plantations of bafarmat.
 The city's population borders the 5,000 inhabitants, of which most are gats<!-- TODO. Link. -->, irds, and tsaneks.
-
-<!-- LINKS -------------------------------------------------------------------->
-[westlands_map]: img/westlands_v083.png "Westlands cutout map"
-[krugghom_islet]: ../islets/krugghom_islet/index.md

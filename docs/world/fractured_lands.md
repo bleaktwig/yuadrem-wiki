@@ -7,7 +7,7 @@ Idzels are large whale-like creatures known for their ship-sinking fury and thei
 
 <!-- GEOGRAPHY ---------------------------------------------------------------->
 ## Geography
-![Cutout map of the Fractured Lands][fractured_lands_map]
+![Cutout map of the Fractured Lands][img/fractured_lands_v083.png]
 
 #### Horned Shores
 **TODO.**
@@ -48,6 +48,3 @@ The latter are tormented amalgamates that dislodged from Cabb Goem-Rlamesh, ever
 ## Demography
 **TODO.**
 <!-- TODO. LOTS OF STUFF -->
-
-<!-- LINKS -------------------------------------------------------------------->
-[fractured_lands_map]: img/fractured_lands_v083.png "Fractured Lands cutout map"

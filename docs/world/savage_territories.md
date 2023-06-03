@@ -6,7 +6,7 @@ From north to south, the land can be divided into five areas, each with its own 
 
 <!-- GEOGRAPHY ---------------------------------------------------------------->
 ## Geography
-![Cutout map of the Savage Territories][savage_territories_map]
+![Cutout map of the Savage Territories][img/savage_territories_v083.png]
 
 #### Mzavit River
 **TODO.**
@@ -45,6 +45,3 @@ Niknek and the nearby Vuvu Isles now house the refuge marsets from the Ironlakes
 <!-- DEMOGRAPHY --------------------------------------------------------------->
 ## Demography
 **TODO.**
-
-<!-- LINKS -------------------------------------------------------------------->
-[savage_territories_map]: img/savage_territories_v083.png "Savage Territories cutout map"

@@ -7,7 +7,7 @@ This is attributed to the fact that the Wildlands are infested with both deadly 
 
 <!-- GEOGRAPHY ---------------------------------------------------------------->
 ## Geography
-![Cutout map of the Wildlands][wildlands_map]
+![Cutout map of the Wildlands][img/wildlands_v083.png]
 
 #### Everwoods
 **TODO.**
@@ -59,10 +59,4 @@ The Jenkashian empire was born from this land, and their own deforestation is wh
 <!-- No demography, since it is thought that nobody lives here anymore. -->
 <!-- DEMOGRAPHY --------------------------------------------------------------->
 ## Demography
-Only Jorea remains after The Penance.
-The city-state is dug deep within the Ichor Mountains, protecting itself from the nix in a manner similar to [Krugghom][krugghom_islet].
-Jorea's economy is based on three sources: its underground mushroom farms, its magnetite and galena mines, and its vast plantations of bafarmat.
-The city's population borders the 5,000 inhabitants, of which most are gats<!-- TODO. Link. -->, irds, and tsaneks.
-
-<!-- LINKS -------------------------------------------------------------------->
-[wildlands_map]: img/wildlands_v083.png "Wildlands cutout map"
+**TODO.**

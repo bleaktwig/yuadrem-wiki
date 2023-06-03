@@ -4,7 +4,7 @@
 Humes are believed to have settled Yuadrem at least a thousand years before the Schism (B.S.), much before written history.
 The first settlers were et and om, with humes arriving some time after the fall of the latter.
 Humes and ets lived in relative peace until the Schism, a volcanic eruption that brought the 40-year famine and marked the year 0.
-<!-- I should add lotsa links here... -->
+<!-- NOTE. I should add lotsa links here... -->
 
 --------------------------------------------------------------------------------
 <!-- GEOGRAPHY ---------------------------------------------------------------->
@@ -21,7 +21,7 @@ Yuadrem is a supercontinent, assumed to be the only such landmass in the world D
 The topography is varied, split by four different mountain ranges.
 Due to its large extension from north to south, the climate and ecology vary widely, from the tundras of the Whitenorth to the rainforests of Drejek.
 
-Due to its size, Yuadrem is often divided into six distinct regions: the [Northern Territories](northern_territories_page), the [Westlands](westlands_page), the [Fractured Lands](fractured_lands_page), the [Sunland](sunland_page), the [Savage Territories](savage_territories_page), and the [Wildlands](wildlands_page).
+Due to its size, Yuadrem is often divided into six distinct regions: the [Northern Territories](world/northern_territories.md), the [Westlands](world/westlands.md), the [Fractured Lands](world/fractured_lands.md), the [Sunland](world/sunland.md), the [Savage Territories](world/savage_territories.md), and the [Wildlands](world/wildlands.md).
 In addition, the four oceans that surround it are:
 
 * The Frigid Ocean to the north-east, which is known for its low temperatures and abundance of migratory idzels.
@@ -38,7 +38,7 @@ In addition, the four oceans that surround it are:
 
 <!-- ETHNOLOGY ---------------------------------------------------------------->
 ### Ethnology
-The peoples of Yuadrem are often separated into four distinct kins: [humes](hume_page), [marsets](marset_page), [oths](oth_page), and [barkskins](barkskin_page).
+The peoples of Yuadrem are often separated into four distinct kins: [humes](kins/hume.md), [marsets](kins/marset.md), [oths](kins/oth.md), and [barkskins](kins/barkskin.md).
 Kins are separated by progeny, as they cannot mix with each other.
 Excepting barkskins, all kins are further separated by ethnic differences.
 These are often related to separation between nations, but The Penance eroded these differences by forcing nations to coalesce into islets.
@@ -475,21 +475,3 @@ For documentation on editing this wiki, check out:
 
 * [mkdocs-material](https://squidfunk.github.io/mkdocs-material/creating-your-site/).
 * [mkdocs.org](https://www.mkdocs.org).
-
-<!-- LINKS -------------------------------------------------------------------->
-<!-- Images. -->
-[yuadrem_map](img/world_map_v083.png) "Map of the continent of Yuadrem"
-
-<!-- World. -->
-[northern_territories_page](world/northern_territories.md) "Northern Territories"
-[westlands_page](world/westlands.md) "Westlands"
-[fractured_lands_page](world/fractured_lands.md) "Fractured Lands"
-[sunland_page](world/sunland.md) "Sunland"
-[savage_territories_page](world/savage_territories.md) "Savage Territories"
-[wildlands_page](world/wildlands.md) "Wildlands"
-
-<!-- Kins. -->
-[hume_page](kins/hume.md) "Humes"
-[marset_page](kins/marset.md) "Marsets"
-[oth_page](kins/oth.md) "Oths"
-[barkskin_page](kins/barkskin.md) "Barkskins"

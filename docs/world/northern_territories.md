@@ -2,11 +2,11 @@
 <!-- INTRODUCTION ------------------------------------------------------------->
 The Northern Territories span from the northmost point of Yuadrem, the Coldmist Gorge<!-- TODO. Add to map! -->, down to the Sulfur Lake.
 The region is split into two by the Wall of Ice and Stone<!-- TODO. Link. -->, a colossal mountain range that spans from coast to coast.
-While travel to and from the region is very rare, three islets are known to exist within it: the [Krugghom Islet][krugghom_islet], the Coldmist Islet<!-- TODO. Link. -->, and the [Steldan Islet][steldan_islet].
+While travel to and from the region is very rare, three islets are known to exist within it: the [Krugghom Islet][../islets/krugghom_islet/index.md], the Coldmist Islet<!-- TODO. Link. -->, and the [Steldan Islet][../islets/steldan_islet.md].
 
 <!-- GEOGRAPHY ---------------------------------------------------------------->
 ## Geography
-![Cutout map of the Northern Territories][northern_territories_map]
+![Cutout map of the Northern Territories][img/northern_territories_v083.png]
 
 #### Whitenorth
 North of the wall is the land of Whitenorth, home to the old nation of Krudzal.
@@ -59,8 +59,3 @@ In addition to the irds, small ume communes roam the Red Fjord and the Whitenort
 While they mostly stay in the former, their merchants approach both the Steldan and the Coldmist islets on a regular basis.
 These umes are nomadic, and are able to roam the nix thanks to their qualars<!-- TODO. Link. -->.
 It is impossible to ascertain their exact population number, but it is estimated to be in the few thousands.
-
-<!-- LINKS -------------------------------------------------------------------->
-[krugghom_islet]: ../islets/krugghom_islet/index.md "Krugghom Islet"
-[steldan_islet]: ../islets/steldan_islet.md "Steldan Islet"
-[northern_territories_map]: img/northern_territories_v083.png "Northern Territories cutout map"
