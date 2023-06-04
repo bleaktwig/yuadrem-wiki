@@ -6,7 +6,7 @@ From north to south, the land can be divided into five areas, each with its own 
 
 <!-- GEOGRAPHY ---------------------------------------------------------------->
 ## Geography
-![Cutout map of the Savage Territories][img/savage_territories_v083.png]
+![Cutout map of the Savage Territories](img/savage_territories_v083.png)
 
 #### Mzavit River
 **TODO.**

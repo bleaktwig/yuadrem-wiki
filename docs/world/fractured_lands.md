@@ -7,7 +7,7 @@ Idzels are large whale-like creatures known for their ship-sinking fury and thei
 
 <!-- GEOGRAPHY ---------------------------------------------------------------->
 ## Geography
-![Cutout map of the Fractured Lands][img/fractured_lands_v083.png]
+![Cutout map of the Fractured Lands](img/fractured_lands_v083.png)
 
 #### Horned Shores
 **TODO.**

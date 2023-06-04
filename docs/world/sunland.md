@@ -4,7 +4,7 @@
 
 <!-- GEOGRAPHY ---------------------------------------------------------------->
 ## Geography
-![Cutout map of the Sunland][img/sunland_v083.png]
+![Cutout map of the Sunland](img/sunland_v083.png)
 
 #### Zashlath
 **TODO**.

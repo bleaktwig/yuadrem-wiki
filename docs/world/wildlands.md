@@ -7,7 +7,7 @@ This is attributed to the fact that the Wildlands are infested with both deadly 
 
 <!-- GEOGRAPHY ---------------------------------------------------------------->
 ## Geography
-![Cutout map of the Wildlands][img/wildlands_v083.png]
+![Cutout map of the Wildlands](img/wildlands_v083.png)
 
 #### Everwoods
 **TODO.**
