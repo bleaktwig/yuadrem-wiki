@@ -72,15 +72,10 @@ All kins are further separated by ethnic differences.
 These differences led to the formation of nations, whose erosion later led to the islets.
 
 [Humes](kins/hume.md), born from Et, are as adaptable as their creator.
-They became the dominant kin in Yuadrem after the Schism, and remain in this position even after the Penance.
-
+<!-- They became the dominant kin in Yuadrem after the Schism, and remain in this position even after the Penance. -->
 [Marsets](kins/marset.md), born from Om, are hardy nomads that roam the remaining forests of Yuadrem.
-While the Omietian wars
-
-[marsets], [oths](kins/oth.md), and [barkskins](kins/barkskin.md).
-Kins are separated by progeny, as they cannot mix with each other.
-Excepting barkskins, all kins are further separated by ethnic differences.
-These are often related to separation between nations, but The Penance eroded these differences by forcing nations to coalesce into islets.
+[Oths](kins/oths.md) are a moth-like kin, a quiet people with a natural tendency towards knowledge.
+[Barkskins](kins/barkskin.md) are bone and wood golems, animated by the god Tek<!-- TODO. Link. -->.
 
 <!-- Ets. --------------------------------------------------------------------->
 <!-- Before these modern kins existed, two kins ruled Yuadrem: the ets and the oms.
