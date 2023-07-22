@@ -16,7 +16,7 @@ Jua\~nansiz eternally hunts Dzadsiz, a black raven who in turn seeks to tire the
 The birds' duel is unending, and the wreckage of their battle is used to explain the chaotic fjords in the Northern Territories.
 
 The boreal lights seen near the pole are Jua\~nansiz's trail.
-The mountainous landscape of the Whitenorth are the places where Dzadsiz fell, struck by the heron.
+The mountainous landscape of Stinos are the places where Dzadsiz fell, struck by the heron.
 % The endless mists were created by the raven in an attempt to hide from Jua\~nansiz.
 These and many other natural phenomena of the Northern Territories are explained by the birds and their eternal duel.
 

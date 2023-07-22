@@ -1,9 +1,22 @@
 # Yuadrem
 **WIP.**
 
-Humes are believed to have settled Yuadrem at least a thousand years before the Schism (B.S.), much before written history.
-The first settlers were et and om, with humes arriving some time after the fall of the latter.
-Humes and ets lived in relative peace until the Schism, a volcanic eruption that brought the 40-year famine and marked the year 0.
+Yuadrem was first settled by the gods, Et<!-- TODO. Link. --> and Om<!-- TODO. Link. -->.
+These two gods were planted by the god of disparity, Pheter<!-- TODO. Link. -->.
+Et was a large and thin birch, pliable and adaptable.
+Om was a short and stout juniper, vigorous and prodigious.
+These two gods were ever locked in combat, yet none could take the upper hand.
+This conflict became known as the tree wars.
+
+To aid in the eternal conflict, Et created the humes<!-- TODO. Link. -->, a kin as pliable and adaptable as the god.
+Et bestowed upon humes Apomantics<!-- TODO. Link. -->, and taught them to wage war using Word.
+Om in turn created marsets<!-- TODO. Link. -->, a smaller kin able to traverse the forests of Et's children with ease.
+The marsets were gifted Chromology<!-- TODO. Link. -->, and fought using Color.
+
+The conflict ended with the burning of Om, an event known as the Schism<!-- TODO. Link. -->.
+Pheter, angered by the death of the god, retaliated with the eruption of Jan'krug<!-- TODO. Link. -->.
+The blast burned Et, and brought the 40-year famine to both humes and marsets.
+This event marks the year 0, and the beginning of history.
 <!-- NOTE. I should add lotsa links here... -->
 
 --------------------------------------------------------------------------------
@@ -17,14 +30,14 @@ Humes and ets lived in relative peace until the Schism, a volcanic eruption that
 *Other colors represent the tax and penalty applied to trade in those regions.*
 *This map proves the healthy state of maritime travel and trade in the golden age.*
 
-Yuadrem is a supercontinent, assumed to be the only such landmass in the world Darhoc.
+Yuadrem is a supercontinent, the only such landmass in the world Darhoc.
 The topography is varied, split by four different mountain ranges.
-Due to its large extension from north to south, the climate and ecology vary widely, from the tundras of the Whitenorth to the rainforests of Drejek.
+Due to its large extension from north to south, the climate and ecology vary widely, from the tundras of Stinos to the rainforests of Drejek.
 
 Due to its size, Yuadrem is often divided into six distinct regions: the [Northern Territories](world/northern_territories.md), the [Westlands](world/westlands.md), the [Fractured Lands](world/fractured_lands.md), the [Sunland](world/sunland.md), the [Savage Territories](world/savage_territories.md), and the [Wildlands](world/wildlands.md).
 In addition, the four oceans that surround it are:
 
-* The Frigid Ocean to the north-east, which is known for its low temperatures and abundance of migratory idzels.
+* The Frigid Ocean to the north-east, which is known for its low temperatures and abundance of migratory idzels<!-- TODO. Link. -->.
 * The warm Teal Ocean to the north-west, home to a very varied marine life.
 * The Burnt Ocean to the east, surprisingly devoid of activity.
 * The Southern Ocean to the south, the least explored of the four.
@@ -34,35 +47,46 @@ In addition, the four oceans that surround it are:
 ## Demography
 ### Population
 Back in the golden age, Yuadrem was split into various nations, each with their own population centers and varied economies.
-This era of peace lasted until the death of god-king Olag, an event that sparked the Penance<!-- TODO. Link. -->.
+This era of peace lasted until the death of god-king Olag<!-- TODO. Link. -->, an event that sparked the Penance<!-- TODO. Link. -->.
 With the nix<!-- TODO. Link. --> unrolling over Yuadrem, population is now separated into islets.
 
 An islet is defined as a region devoid of nix.
-Islets can be produced in two ways: A region can be protected by an illuminant<!-- TODO. Link. --> or another such method, or it can be inaccessible by nix due to its geography.
-Examples of the former would be the Fesh Peninsula<!-- TODO. Link. --> or the Elderberry Islet<!-- TODO. Link. -->, and of the latter [Krugghom](islets/krugghom/index.md) or the [Steldan Islet](islets/steldan_islet/index.md).
-Exploration outside of islets is very limited, and contact between them is generally regarded as impossible.
+Islets come about in one of two ways: A region can be protected by an Illuminant<!-- TODO. Link. --> or another such method, or it can be inaccessible by nix due to its topography.
+The largest example of the former is the Fesh Peninsula<!-- TODO. Link. -->.
+Many small islets exist thanks to the latter, but the largest ones would be [Krugghom](islets/krugghom/index.md) and the [Steldan Islet](islets/steldan_islet/index.md).
+Exploration outside of islets is very limited, and contact between them is rare.
 
 Islets are commonly named either after the region, nation, or state that stood where they now are.
 A non-exhaustive list of the current known ones is:
 
 * Fesh Peninsula.
-* Katajthon Islet.
 * Wildlands.
 * [Krugghom](islets/krugghom/index.md).
 * [Steldan Islet](islets/steldan_islet/index.md).
 
 <!-- ETHNOLOGY ---------------------------------------------------------------->
 ### Ethnology
-The peoples of Yuadrem are often separated into four distinct kins: [humes](kins/hume.md), [marsets](kins/marset.md), [oths](kins/oth.md), and [barkskins](kins/barkskin.md).
+The peoples of Yuadrem are separated into four distinct kins.
+Kins are separated by progeny, and they cannot mix with each other.
+All kins are further separated by ethnic differences.
+These differences led to the formation of nations, whose erosion later led to the islets.
+
+[Humes](kins/hume.md), born from Et, are as adaptable as their creator.
+They became the dominant kin in Yuadrem after the Schism, and remain in this position even after the Penance.
+
+[Marsets](kins/marset.md), born from Om, are hardy nomads that roam the remaining forests of Yuadrem.
+While the Omietian wars
+
+[marsets], [oths](kins/oth.md), and [barkskins](kins/barkskin.md).
 Kins are separated by progeny, as they cannot mix with each other.
 Excepting barkskins, all kins are further separated by ethnic differences.
 These are often related to separation between nations, but The Penance eroded these differences by forcing nations to coalesce into islets.
 
 <!-- Ets. --------------------------------------------------------------------->
-Before these modern kins existed, two kins ruled Yuadrem: the ets and the oms.
+<!-- Before these modern kins existed, two kins ruled Yuadrem: the ets and the oms.
 Ets were a tall hume-like kin who, using the art of *Cthai-thas*, molded their own flesh, and created humes and oths.
 Due to their individualist nature, ets never had a population over the few thousands.
-Most of them died during The Schism, and the few survivors are though to have been lost in The Penance.
+Most of them died during The Schism, and the few survivors are though to have been lost in The Penance. -->
 
 <!-- Ets were commonly known as the "tall kin", for they usually stood well beyond 3 meters.
 When borm their skin was of a bluish white color, their eyes were as black as the abyss, and were hairless.
@@ -77,10 +101,10 @@ Despite their longevity, it was rare for new ets to be born.
 The kin never grew to more than a few thousand members. -->
 
 <!-- Oms. --------------------------------------------------------------------->
-In contrast, not much is known about oms.
+<!-- In contrast, not much is known about oms.
 They were nomadic in nature, and are though to have lived simple lifestyles.
 Most were slaughtered by ets and humes, in the Three Omian Genocides.
-Marsets are the only known descendants of oms, but fragments of their culture also remains on barkskins.
+Marsets are the only known descendants of oms, but fragments of their culture also remains on barkskins. -->
 
 <!-- RELIGION ----------------------------------------------------------------->
 ### Religion

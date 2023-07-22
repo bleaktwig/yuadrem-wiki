@@ -8,21 +8,21 @@ While travel to and from the region is very rare, three islets are known to exis
 ## Geography
 ![Cutout map of the Northern Territories](img/northern_territories_v083.png)
 
-#### Whitenorth
-North of the wall is the land of Whitenorth, home to the old nation of Krudzal.
+#### Stinos
+North of the wall is the land of Stinos, home to the old nation of Krudzal.
 The region coincides with the north pole of Darhoc, and is as cold and lifeless as can be expected.
 The little plant-life that can be found is atop mountains and in the Coldmist Gorge, coinciding with civilization.
 The latter is a crevasse which lies exactly on the pole.
 It remains warm despite its location thanks to an array of volcanos in its center: the Peaks of Flame<!-- TODO. Link. -->.
 
 #### Red Fjord
-To the west of Whitenorth is the Red Fjord.
+To the west of Stinos is the Red Fjord.
 It receives its name from the red leaves of its maples, a color which predates the Penance<!-- TODO. Link. -->.
 The islands are sacred to the Tsalemists<!-- TODO. Link. -->, and used to house both krudzalian colonies and Ribinhep nomads.
 
-#### Greennorth
-To the other side of the wall lies the Greennorth<!-- TODO. Change name in map. -->.
-While unforgivingly cold, the region is not as frigid as the Whitenorth, and enough green can be found in the summer months to earn it its name.
+#### Gualos
+To the other side of the wall lies Gualos<!-- TODO. Change name in map. -->.
+While unforgivingly cold, the region is not as frigid as Stinos, and enough green can be found in the summer months to earn it its name.
 
 At the top of the region and beside the wall are the Ashwoods<!-- TODO. Change name in map. -->.
 Protected from the polar winds by the mountain range, these forests are home to maple, oak, birch and, giving them their name, ash trees.
@@ -55,7 +55,7 @@ In total, the nation has a population of about 80,000 inhabitants, mostly irds.
 They are known for their extreme resilience, managing to acclimate both to the harsh habitat and to the nix.
 
 #### Ribinhep Communes
-In addition to the irds, small ume communes roam the Red Fjord and the Whitenorth.
+In addition to the irds, small ume communes roam the Red Fjord and Stinos.
 While they mostly stay in the former, their merchants approach both the Steldan and the Coldmist islets on a regular basis.
 These umes are nomadic, and are able to roam the nix thanks to their qualars<!-- TODO. Link. -->.
 It is impossible to ascertain their exact population number, but it is estimated to be in the few thousands.

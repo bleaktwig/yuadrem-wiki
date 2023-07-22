@@ -1,7 +1,7 @@
-# Krugghom Islet
-As its name suggests, this islet lies in the old capital of the nation of Krudzal, Krugghom<!-- [Krugghom](TODO) -->.
-The islet is home to **TODO** people, mostly irds<!-- [irds](TODO) -->.
-The city's position high above the Kure<!-- [Kure](TODO) --> mountain protected it from nix<!-- [nix](TODO) --> after the Penance<!-- [Penance](TODO) -->.
+# Krugghom
+As its name suggests, this islet lies in the capital of the old nation of Krudzal, Krugghom.
+The islet is home to **TODO** people, most of which are humes<!-- TODO. Link. --> of ird descent.
+The city's position high above the Kure protected it from nix<!-- [nix](TODO) --> after the Penance<!-- [Penance](TODO) -->.
 The islet has not been in communication with the rest of Yuadrem ever since the Penance.
 
 The current government follows the recuperationist philosophy.
