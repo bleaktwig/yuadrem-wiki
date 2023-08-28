@@ -1,38 +1,43 @@
-# Barkskins
+# Barkskin
+**TODO. BASICS.**
+
+## Physical Description
+The barkskin spawn from the corpses of humanoids exposed to the tekust spore.
+The spore comes from the Tek tree, and is of a bright orange coloration.
+The tekust seals the body and stops its decomposition.
+It then grows into moss, merging with the corpse's flesh.
+A thick layer of bark replaces the decomposing skin, hence the name of the kin.
+After a period of about two months, the corpse rises again, this time in the shape of a barkskin.
+
+The height and build of a barkskin depends considerably on their birth corpse.
+Their skin is typically of a healthy brown and green coloration, often covered by a layer of flora.
+Their eyes gain a yellowish color, which partially hides the original iris.
+
+Barkskins often have preference over the flora that grows on their body.
+They often take great care in removing plants they don't like, or prune flowers to a desired length.
+Some choose to keep their bark sterile, while others keep a small garden on their bodies.
+
+## Culture
 **TODO.**
-<!-- % !TEX root = ../main.tex
-\section{Moss Kin} \label{kin::naenk}
-\DndDropCapLine{W}{e thought they were mindless}
-\textit{savages, but they know what they're doing.
-They ain't hiding from us, they're preparing an attack.
-They're studying our movement, figuring out our tactics.
-They're hunting us.}
 
-\hspace*{\fill} --- Phokrax, Drejeck expedition leader.
+### Traditions and Religion
+**TODO.**
 
+### Origins and History
+**TODO.**
+
+## Subgroups
+**TODO.**
+
+## Geographic Distribution
+**TODO.**
+
+## Names
+**TODO.**
+
+<!--
 The moss kin, or naenks, are moss creatures that hunt in the dark, warm, and wet jungles of Drejeck.
 They hunt for sustenance and to gather fresh corpses.
-
-\subsection*{Short and tangled}
-    The naenks are mostly known for their strange reproduction.
-    They spawn from the corpses of hunted humanoids exposed to the nanust spores of the great tree Tekatsae.
-    The spores grow into moss, merging with the corpse's muscle tissue and flesh.
-    After a period of about two months, the corpse rises again, this time in the shape of a naenk.
-
-    The moss kin are a thin race.
-    Their height varies considerably, but they usually are slightly smaller than their birth corpse.
-    Their bodies mock a humanoid shape, made up by a mix of bone, flesh, vine, and moss.
-    They protect their fragile interior with thick layers of flora.
-
-    Naenks typically have a healthy green coloration, but their skin can be of any mix of colors between moldy blue, dark orange, gray, and even white.
-    Their eyes are of a white or yellow color, where a thick fluid hides their pupils from the eyes of others.
-
-    Naenks naturally grow leaves and mossy tendrils at the top of their heads that resemble hair, which can be of a black, brown, or yellow color.
-    They typically arrange this mock-up of hair in a simple topknot.
-
-    % Due to the duality of their bodies, naenks follow a very particular diet.
-    % They needs to regularly consume meat in order to maintain the corpse inside them.
-    % They also feed off nutrients from the soil to feed the vines and plants that surround this corpse.
 
 \subsection*{Tribal Communities}
     % A naenk also assists their communication with rhythmic tapping on their body and using a complex system of gestures.
