@@ -1,98 +1,132 @@
 # Tanethism
-Tanethism was founded by the gat Taneth in 511 AS.
+Old Tanethism is characterized by its myriad of gods -- one for each thing.
+This religion was widely practiced in the Seven Principates<!-- TODO. Link. --> and their various colonies up until the late Age of Gold.
+This however changes in the year 520 A.S., when god-suzerain Olag establishes a new Tanethism as the official religion of the principates.
+
+The book was published by Taneth in 511 A.S.
+To write it, the scholar traveled all around the various principates and city-states.
+He ended up with an exhaustive compilation of the more than a thousand deities praised in the region.
+In this taxonomy, Taneth classified the similitudes and differences between each god.
+Based on these similitudes, he then proposes a reduced pantheon in which similar gods coalesce, along with a clear, tiered hierarchy between them.
+
+Taneth's work was barely known during his life.
+He died shortly after the publication, and not even his birth date is know.
+
+Many a [hume](../kins/hume.md) has a favorite among the gods, one whose ideals and teaching they make their own.
+A few even dedicate entirely to a single deity, serving as a priest, acolyte, or champion of that god's manifestation.
+Some famous examples among these devouts are the nimrods, an organization of zealous hunters of Pagram who would pursue all who disturb the perceived balance.
+Another example are the followers of Havetish, who to this date seek to distribute wealth and food to the impoverished habitants in the inland regions.
 
 ## Pantheon
-Modern Tanethism has a five-level hierarchy of deities, out of which the first four levels are considered gods.
+#### Primordial Ones
+The primordial are the forces of creation.
 
-* **Primordial Ones** are the gods behind consciousness, and are the creators of both mevic and oric gods.
-    * ***Pheter*** is the giver of thinking -- every conscious thought in the mind of a creature comes from her will.
-    She is commonly drawn as a 5-colored heron whose path is painted by northern lights.
-    * ***Nix*** is the taker of thinking.
-    He is the author of The Penance<!-- [The Penance](TODO) -->, and his aim is to return the world to animals.
-    He is commonly drawn as a dark red raven surrounded by never dispersing mists.
-* **Mevic Gods** or *bone gods* are the sons and daughters of Pheter, and each represent a different facet of her.
-    * ***Febrid*** is the god of intellect, and her manifestation on Yuadrem is wood.
-    She is often depicted as a gat with a pair of horns forming a crescent moon.
-    * ***Vahagn*** is the god of mountains, and his manifestation is fire.
-    He is depicted as a red-haired gat in soldier armor carrying a mace.
-    * ***Matevos*** is the god of glory and vanity, and his manifestation is water.
-    He is depicted as an ird holding a blue bident and a blue shield.
-    * ***Phusinhe*** is the goddess of the stars, and her manifestation is metal.
-    She is depicted as a colossal turtle with stars shining on her shell.
-    * ***Bagrat*** is the god of agriculture, and his manifestation is earth.
-    He is depicted as a gat farmer carrying tools made of gold.
-* **Oric Gods** or *meat gods* are the children of Nix.
-They were killed by the mevic gods, and their names were later expunged from history.
-    * ***The Traveler*** was the god of luck, and was often associated with beer.
-    Some say that he still roams Yuadrem as an indistinct figure figure cloaked in a light brown robe.
-    * ***The Observer*** was the god of the cosmos and the unknown.
-    In myth, it is depicted as a titanic three-eyed slug ridden with strange, malformed appendages.
-* **Tovastic Gods** or *second gods* are deities that look over Yuadrem, securing the place of civilization.
-They were anointed among mortals by the mevic gods, and were all heroes of great renown during their mortal life.
-    * ***Vugar*** is the god of family and fertility.
-    As a mortal, he was the gat prince of Vamerit<!-- [Vamerit](TODO) -->.
-    He is now depicted with a silver toga of simple style.
-    * ***Genadi*** is the goddess of bravery and love.
-    As a mortal, she was a marset hero who fought to death to stop the Ededeian Genocide<!-- [Ededeian Genocide](TODO) -->.
-    She is now depicted with toad-like features carrying a sword and a flute.
-    * ***Sakris*** is the god of fun and wine.
-    As a mortal, he was the most devoted slave to a prince of Ushpavam<!-- [Ushpavam](TODO) -->.
-    Even as a god, he is often depicted dutifully attending to guests at a party.
-    * ***Hanutsh*** is the god of teaching and books.
-    As a mortal, they were a tsanek who mediated the peace between Na'ane<!-- [Na'ane](TODO) --> and the Seven Principates of the Sea<!-- [Seven Principates of the Sea](TODO) -->.
-    As a god, they are depicted in a thin dress made of paper scrolls.
-    * ***Tamaz*** is the goddess of wealth and silver.
-    As a mortal, she was an ird adventurer who financed the first colonial ships of Krudzal.
-    She is now depicted in a shiny gray dress in front of the bright sun.
-    * ***Nadzim*** is the goddess of justice and the sky.
-    As a mortal, she was an oth scholar who provided the basis for modern math and astrology.
-    Even as a god she continues to study the stars, and is depicted with an abacus and a spyglass.
-    * ***Gathoz*** is the god of secrecy and murder.
-    Their background as a mortal is not known, but they are often attributed to murders where the perpetrator was never found.
-    They are depicted as a kinless being with a shifting face and body.
-    * ***Havetish*** is the god of both leadership and tyranny.
-    As a mortal, they were Qina<!-- [Qina](TODO) -->, the barskin general who led their kin against the marsets in the Babanian Wars<!-- [Babanian Wars](TODO) -->.
-    As a god, they are depicted with an uncharacteristic golden armor and a purpleheart spear.
-    * ***Mziva*** is the god of self sacrifice.
-    As a mortal, she was a marset who led her colony to salvation during the Ededeian Genocide, at the cost of her own life.
-    She is now depicted with golden hair and clothes made of flowers.
-* **Truhetic Beings** or *illuminants* are mortals selected by a mevic or tovastic god to conduct pheter.
+* **Nix** is the god of Unity and the Cosmos.
+Their body is the cosmos: everything that exists is borrowed from their body, and must eventually be returned.
+Too many portrayals of they exist, all equally as valid.
+The most common one in the context of Tanethism is that of a one-eyed, iridescent winged snake of infinite length.
+* **Pheter** is the god of Disparity and Creation.
+They were born in the Nascency of Disparity, and their arrival meant the creation of Yuadrem.
+Pheter is the progenitor of the Damic gods, and all creation can be attributed to them.
+They are commonly portrayed as a two-headed heron, its body divided into black and white.
+
+#### Damic Gods
+The damic gods, or *first gods*, are the gods of light and dark, and both are born from Pheter.
+
+* **Zash** is the goddess of Light and Luck, her manifestation is Color, and she is often associated with beer.
+She is the sun, creator of Color and mother of the Mevic gods.
+Also called The Traveler, she is portrayed as an indistinct figure cloaked in a light brown robe.
+* **Fagal** is the god of Dark and the Unknown, and their manifestation is the Nothing.
+They are the darksun, which remains opposite to the sun in the sky.
+Also called The Observed, they are depicted as a three-eyed slug ridden with strange, malformed appendages.
+They are often associated with The Observer, and shares its depiction.
+
+#### Mevic Gods
+The mevic gods, or *bone gods*, are the six aspects of Zash.
+They are the manifestation of Pheter through Zash, and came to be in the Nascency of Color.
+Each god inhabits their own corner in the Ring of Color that surrounds Darhoc.
+
+* **Matevos** is the goddess of Green, lightness, and glory.
+Her manifestation is water.
+She is depicted as a horned hume, raising a green bident in celebration.
+* **Febrid** or **Nuagal** is the goddess of Blue, cold, and intellect.
+Her manifestation is wood.
+She is often depicted as a hume, crowned by a pair of horns in the shape of a crescent moon.
+* **Phusinhe** or **Kegal** is the goddess of Purple, chaos, and the stars.
+Her manifestation is metal.
+She is depicted as a gargantuan turtle with a shell shining with stars.
+* **Vahagn** is the god of Red, heaviness, and mountains.
+His manifestation is fire.
+He is depicted as a red-haired, one-horned hume in soldier armor, wielding a large mace.
+* **Bagrat** is the god of Orange, heat, and agriculture.
+His manifestation is earth.
+He is depicted as a horned hume farmer, utilizing tools made of red gold.
+* **Pagram** is the god of Yellow, order, and civilization.
+His manifestation is stone.
+He is commonly depicted as a horned hume philosopher wearing white clothing, pompously adorned in gold.
+
+#### Oric Gods
+The oric gods, or *flesh gods*, are the six first trees of Yuadrem, and the first inhabitants of the continent.
+Each was born of a seed during the First Communion, planted by a corresponding mevic god.
+
+<!-- TODO. Add links to places where relevant. -->
+<!-- TODO. Read about how different trees react to forest fires and include details related to that. -->
+* **Tek** or **Tekatsae** is the tree of Matevos, a colossal banyan tree.
+It was planted on what is now known as Knaegunse, and its root system encompasses the whole [Drejek jungle](../world/westlands.md).
+Tek created the [barkskins](../kins/barkskin.md), who hid from civilization until the year 141 A.S.
+* **Et** is the tree of Febrid, a tall, blue birch of surprising pliability.
+Et fought with Om in the Tree War, created the humes, and burned after the eruption of Jan'Krug in the Schism.
+The outside rim of its burnt stump acts as the outer wall of Naptane, the ruined capital<!-- TODO. Link. -->.
+* **Tol** is a smaller tree-god which grew from the stump of Et.
+A birch like its parent, Tol created the enigmatic kin of the [oths](../kins/oth.md).
+* **Uld** is the tree of Phusinhe, a kapok of astonishing height.
+It extends upwards as far as the eye can see, its purple leaves providing shade to the entirety of the [everwoods](../world/everwoods.md).
+Phusinhe herself sits upon its branches every few years, making for a spectacular vista. <!-- TODO. Check the timing is correct with Kegal's cicle. -->
+* **Kan** is the tree of Vahagn, a plant unique in Yuadrem.
+Red branches extend upward at the top of hundreds of meters of a dark gray trunk.
+The tree captures electricity from the clouds, and erupts into seasonal firestorms that define the landscape of Krejek<!-- TODO. Link. -->.
+* **Om**, also known as **Tosh-drieln**, is the tree of Bagrat, a vigorous juniper.
+In the Tree War, Om created the [marsets](../kins/marset.md) to defend itself against the humes of Et.
+The tree was burned at the beginning of the Schism, and its burnt trunk still stands at the center of the [Fesh peninsula](../world/fractured_lands.md).
+Its complex root system forms the many islands of Mbeat.
+* **Ur** is the tree of Pagram, a yellow fir that gives its famous coloration to the [golden fjord near Stinos](../world/northern_territories.md).
+The tree, along with the forest surrounding it, is an essential part of the ecology of the fjord.
+
+#### Tovasic Gods
+Ocassionally, when a mortal is of particular interested to a mevic god, they will be ascended to a tovasic god, or *second god*, when they die.
+As deities, they live in the Ring of Color, where they continue to watch over Yuadrem after their mortal death, in company of the mevic gods.
+TODO. Mention that this list is not complete *at all*.
+
+* **Vugar** is the god of family and fertility.
+As a mortal, he was a prince of Vamerit, and was renowned for establishing laws pertaining familiar and hereditary rights to the Seven Principates.
+He is now depicted with a silver toga of simple style.
+* **Genadi** is the goddess of bravery and love.
+As a mortal, she was a marset hero whose acts led to the death of king D'khan, ending the Ededeian Genocide.
+She is now depicted with toad-like features, carrying her characteristic swordflute.
+* **Sakris** is the god of fun and wine.
+As a mortal, he was the most devoted slave to the prince-merchant Hak of Ushpavam.
+Even as a god, he is often depicted dutifully attending to guests at a party.
+* **Hanutsh** is the god of teaching and books.
+As a mortal, they were a barkskin who mediated the peace between Gannag and the Seven Principates, and proceeded then to create the Gannagian apomantic system<!-- TODO. Link. -->.
+As a god, they are depicted in a thin dress made of paper scrolls with green signatures.
+* **Tamaz** is the goddess of wealth and silver.
+As a mortal, she was an ird adventurer, known for financing the first colonial ships of Krudzal.
+She is now depicted in a shiny gray dress, looking through a spyglass.
+* **Nadzim** is the goddess of justice and the sky.
+As a mortal, she was an oth scholar who provided the basis for modern math and astrology.
+Even as a god she continues to study the stars, and is depicted with an abacus and a spyglass.
+<!-- TODO. Continue from here onward. -->
+* **Gathoz** is the god of secrecy and murder.
+Their background as a mortal is not known, but they are often attributed to murders where the perpetrator was never found.
+They are depicted as a kinless being with a shifting face and body.
+* **Havetish** is the god of both leadership and tyranny.
+As a mortal, they were Qina<!-- [Qina](TODO) -->, the barskin general who led their kin against the marsets in the Babanian Wars<!-- [Babanian Wars](TODO) -->.
+As a god, they are depicted with an uncharacteristic golden armor and a purpleheart spear.
+* **Mziva** is the god of self sacrifice.
+As a mortal, she was a marset who led her colony to salvation during the Ededeian Genocide, at the cost of her own life.
+She is now depicted with golden hair and clothes made of flowers.
+
+#### Illuminants
+The truhetic beings, commonly known as *illuminants*, are mortals selected by a mevic or tovastic god to conduct pheter.
 They remain mortal after being anointed, and most move on to become the protagonists of legends.
-Some commonly known illuminants are Olag the god-king<!-- [Olag the god-king](TODO) -->, the Immortal Queen Elña<!-- [Immortal Queen Elña](TODO) -->, Anush, Jirar, Vakris, and Zuleija, among others.
-
-## History
-Old Tanethism is characterized by its myriad of gods -- one for each thing.
-This urreligion was widely practiced in the Seven Principates and their various colonies up until the late Nations Era<!-- [Nations Era](TODO) -->.
-
-Taneth, a gat theologist, published "The Rituals and Gods of the Gats" in 511 AS.
-Independent of any institution, the scholar traveled all around the gat kingdoms and city-states, compiling all information he could find on the gods of each community.
-The book was an exhaustive compilation of the more than a thousand deities that were praised on the Seven Principates, and he proposed a believable hierarchy that contained all of them.
-Furthermore, he introduced a reduced pantheon of 18 gods, of which two were later expunged by the god-king Olag.
-Taneth's work was barely known during his life, and he died without due recognition at an unknown age.
-
-Shortly before the start of the Golden Era<!-- [Golden Era](TODO) -->, Olag sought to reduce the religious disparity among his people.
-Either by divine will or happenstance, he came upon the book, and established Tanethism as the official religion of Khedrat<!-- [Khedrat](TODO) -->.
-By government decree, many churches were erected in the name of these gods, and the many gods of the gats coalesced into a sober pantheon of 16.
-Soon after the religion was picked-up by the rest of the seven principates, followed by its establishment in many gat (and non-gat) states around Yuadrem.
-
-<!-- Many have a favorite among the gods, one whose ideals and teaching they make their own.
-A few even dedicate entirely to a single deity, serving as a priest, acolyte, or champion of that god's image.
-Famous among these devout beings are the nimrod, an organization of zealous hunters of Phusinhe who pursue all who disturb the balance of Yuadrem.
-Well-known as well are the followers of Havetish, a group of gats in golden robes whose goal is to distribute wealth and food to the impoverished hamlets of the inner regions of the Seven Principates.
--->
-
-<!-- Across the long history of the Seven Kingdoms, varied deities were gradually associated with many different concepts, and any gat would pray to different gods at different times and circumstances.
-For example, one might say a prayer to the Traveler for luck, make an offering to Tamaz before going to the market, and pray to appease Matevos when a severe storm blows in --- all in the same day.
-
-Independent to any institution, the gat scholar Taneth officially published ``The Rituals and Gods of the Gats'' in 511 AS.
-The book was an exhaustive compilation of the more than a thousand deities that were praised by the different kins of the Seven Kingdoms, and proposed a reduced pantheon of 15, distilling the chaotic pantheon into the main gods.
-Taneth's work was barely known during their life, and they died without due recognition.
-
-Later, in the year 577 AS, the king of Khedrat Olag the Immortal sought a method to reduce the religious disparity among their people.
-Either by divine will or happenstance, they came upon this book by Taneth, and established Tanethism as the official religion of Khedrat, imitating the well-established creed of other nations.
-By command of the government, many churches were erected in the name of each god, and the many gods of the gats coalesced into a more sober pantheon of 15.
-
-Many have a favorite among the gods, one whose ideals and teaching they make their own.
-A few even dedicate entirely to a single deity, serving as a priest, acolyte, or champion of that god's image.
-Famous among these devout beings are the nimrod, an organization of zealous hunters of Phusinhe who pursue all who disturb the balance of Yuadrem.
-Well-known as well are the followers of Havetish, a group of gats in golden robes whose goal is to distribute wealth and food to the impoverished hamlets of the inner regions of the Seven Kingdoms. -->
+Some commonly known illuminants are Olag the god-suzerain<!-- [Olag the god-suzerain](TODO) -->, the Immortal Queen Elña<!-- [Immortal Queen Elña](TODO) -->, Anush, Jirar, Vakris, and Zuleija, among others.

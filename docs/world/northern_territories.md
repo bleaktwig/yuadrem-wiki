@@ -15,9 +15,9 @@ The little plant-life that can be found is atop mountains and in the Coldmist Go
 The latter is a crevasse which lies exactly on the pole.
 It remains warm despite its location thanks to an array of volcanos in its center: the Peaks of Flame<!-- TODO. Link. -->.
 
-#### Red Fjord
-To the west of Stinos is the Red Fjord.
-It receives its name from the red leaves of its maples, a color which predates the Penance<!-- TODO. Link. -->.
+#### Golden Fjord
+To the west of Stinos is the Golden Fjord.
+It receives its name from the yellow leaves of the [Ur tree](../religions/tanethism.md).
 The islands are sacred to the Tsalemists<!-- TODO. Link. -->, and used to house both krudzalian colonies and Ribinhep nomads.
 
 #### Gualos
@@ -41,6 +41,8 @@ The sulfur on its coasts once fed the agriculture of the great nations of Palegn
 East to the fields is the Arctic Archipelago.
 This cluster of islands separates the waters of the Whaler's Sea from the Frigid Ocean up north.
 The lands are bare and uninhabitable, and only the ruins of small port towns remain in their shores.
+
+<!-- Krejek and Kaljek? -->
 
 <!-- DEMOGRAPHY --------------------------------------------------------------->
 ## Demography
