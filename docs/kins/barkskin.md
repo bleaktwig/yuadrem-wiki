@@ -13,9 +13,14 @@ The height and build of a barkskin depends considerably on their birth corpse.
 Their skin is typically of a healthy brown and green coloration, often covered by a layer of flora.
 Their eyes gain a yellowish color, which partially hides the original iris.
 
-Barkskins often have preference over the flora that grows on their body.
-They often take great care in removing plants they don't like, or prune flowers to a desired length.
-Some choose to keep their bark sterile, while others keep a small garden on their bodies.
+Barkskins often take great care over the flora that grows on their body.
+They'll remove flowers they don't like, prune plants to their desired length, and shape growths to mold their personal garden.
+Some choose to keep their bark sterile, or even grow edible moss and fungi.
+
+In the vicinity of Tek, a barkskin is virtually immortal.
+As long as they remain within the reach of its hyphae, they won't age, and need very little food to survive.
+This ends when they leave the network -- the tekust in their bodies is not enough to stave off rot.
+Detached barkskins often have a lifespan of only a few decades.
 
 ## Culture
 **TODO.**
@@ -23,8 +28,45 @@ Some choose to keep their bark sterile, while others keep a small garden on thei
 ### Traditions and Religion
 **TODO.**
 
+**Adulthood and Families.**
+A group of barkskins become adults when they form a family.
+To do this, the would-be family must commune with Tek.
+Through a shaman, the tree god chooses the chief of the family.
+The shaman then carves holes into the chief's thyroid cartilage, gifting their voice with a characteristic whistling noise.
+
+After the chief heals, the group travels to the northern lakes of Drejek to hunt a ueuee.
+Ueuees are huge frog-like monsters that prey on humes.
+While ueuees are fierce beasts, they are often afraid of the barkskin whistles.
+Any group that succeeds in cutting a ueuee's tongue are accepted as a family, and the members are considered adults.
+
+Families usually start with around twenty to thirty barkskins.
+They often shrink rapidly after the adulthood ritual, as many join civilization or forge a path of their own.
+A barkskin may do with their life as they please, and only need the approval of Tek if they aim to join another family.
+
+**Death.**
+Upon death, a barkskin's corpse feeds the ground and spreads the tekust spore.
+A family may react in one of two ways, depending on the context.
+If the risk of tekust infecting a hume is real, the corpse is burned summarily.
+The barkskin's bones are then burned to condense its pheter, as is traditional among humes.
+Otherwise, the body is left to rot.
+Natural processes return the nutrients of the body to the earth, as Tek returns what they once borrowed.
+
+**Tek and Tanethism.**
+**TODO.**
+
 ### Origins and History
 **TODO.**
+
+Barkskins were created by the tree god Tek in Drejek.
+The year in which this happened is unknown, but it is known that the first barkskins were made from corpses of the ird diaspora. <!-- TODO. Mention the ird diaspora (four ird migrations) in History. Maybe even an ird diaspora map would be cool? Simple one made from the world map, with arrows pointing to all the movement! -->
+The original barkskins built only basic houses and structures.
+They lived alongside Tek, and dedicated their lives to the health and growth of Drejek.
+
+Barkskins were originally reserved, and did not interact with humes until the year 141 A.S.
+The irds of the qul archipelago sought to build communities in Drejek, and were quickly repelled by the barkskins.
+Their relationship never cooled, and no friendly contact existed between the jungle dwellers and the greater world until the Penance.
+
+<!-- After the Penance, TODO. Describe the movement of the peninsula. -->
 
 ## Subgroups
 **TODO.**
@@ -36,7 +78,7 @@ Some choose to keep their bark sterile, while others keep a small garden on thei
 **TODO.**
 
 <!--
-The moss kin, or naenks, are moss creatures that hunt in the dark, warm, and wet jungles of Drejeck.
+The moss kin, or naenks, are moss creatures that hunt in the dark, warm, and wet jungles of Drejek.
 They hunt for sustenance and to gather fresh corpses.
 
 \subsection*{Tribal Communities}
@@ -55,25 +97,8 @@ They hunt for sustenance and to gather fresh corpses.
     Due to their odd appearance and homicidal reproduction, naenks are seen as something to fear.
     They however are very bold, yet fear the strangest things due to superstition.
 
-    Strangely, if they remain inside Drejeck, a naenk will not need to carry a qualar to remain sentient.
-    This ability only works inside of the jungle however, and they quickly lose their sentience if they leave their home without a qualar.
-
-\subsection*{History and Legends}
-    To become part of a band, an infant naenk needs to go through a unique ritual.
-    A tsanek shaman removes their thyroid cartilage, who then punctures an odd pattern of holes into it.
-    After fitting small wooden tubes into these holes, the cartilage is put back into its original place.
-    After healing, the naenk's voice becomes accompanied by an eerie whistling noise, which is used for communication and intimidation.
-
-    Later, the naenk joins a group of other would-be-warriors.
-    They leave the safety of the tribe to travel to the northern lakes of Drejeck.
-    In there they must hunt a whowie, a huge frog-like beast that preys on the moss kin.
-
-    While they are fierce beasts, whowies are very afraid of the naenks' whistling, aiding the latter in combat.
-    If the group succeeds, the bravest of the group will cut the whowie's tongue.
-    Upon returning to the village, the group becomes a new band, and the owner of the tongue becomes the band's chief.
-
 \subsection*{Call to Adventure}
-    A naenk rarely leaves the Drejeck jungle in which they are born.
+    A naenk rarely leaves the Drejek jungle in which they are born.
     However, many reasons can spark the need for a naenk or an entire band to abandon their home.
     A band may leave engaging on a quest, as commanded by Tekatsae itself, or in shame after failing in one.
     The most common bands abandoning the tribe are those that failed on their initiation rite, culled by the vicious whowie.
@@ -230,12 +255,12 @@ And there be... there be mushrooms! An entire city of mushrooms!}
 % Apart from this and other ceremonial tasks, the shaman acts as a normal member of the unit.
 
 % The highest ranking members of their society are the sovereigns and elder sovereigns, who are tsaneks that reached their final stage of development.
-% The former are huge mobile tsaneks that take root in strategic positions in Drejeck to establish their complex communication network.
+% The former are huge mobile tsaneks that take root in strategic positions in Drejek to establish their complex communication network.
 % The latter are the eldest in the tribe, and merge with Tekatsae itself.
 % They directly speak to the tree, communicating its wishes to the sovereigns and shamans via their root network.
 
 Also known as tsaneks in the naenk tongue, the fungal kin is a species of intelligent fungi creature that inhabit swamps, forests, and caverns.
-They are commonly seen in the jungle of Drejeck, as members of the tribes near the tekatsae tree.
+They are commonly seen in the jungle of Drejek, as members of the tribes near the tekatsae tree.
 Like the naenks, tsaneks grow from the tree itself, starting out as small russet-colored fungi in the tree's base and exposed roots, until they're able to grow legs and emerge.
 Unlike the naenks, the fungal kin are capable of reproducing by themselves, and it's very common to find independent tsanek communities in the darker reaches of Yuadrem.
 
@@ -243,11 +268,11 @@ Tsaneks generally deplore violence, and only attack when provoked.
 If approached peacefully, they gladly provide shelter or passage through their colonies.
 
 \subsection*{Tribal Life}
-    Most tsaneks belong to the tribes of Drejeck, filling the roles of shamans and diplomats that the naenks are less likely to fulfill due to their violent nature.
+    Most tsaneks belong to the tribes of Drejek, filling the roles of shamans and diplomats that the naenks are less likely to fulfill due to their violent nature.
     They are considered above their mossy companions in their social circles, and are generally treated with respect among them.
 
     When a tsanek reaches 100 years, it is put through the rite of growth.
-    The tsanek must ceremoniously consume a mixture of the sap of tekatsae, wyvernroot, and water of the boiling river. % Wyvernroot is a strong poisonous plant native to Drejeck.
+    The tsanek must ceremoniously consume a mixture of the sap of tekatsae, wyvernroot, and water of the boiling river. % Wyvernroot is a strong poisonous plant native to Drejek.
     Next, it must enter a chamber of awareness, which are small caverns below tekatsae.
     The tsanek is only left out after a month in isolation.
     Most of the tsaneks that go through this ritual die, and are consumed by tekatsae, bringing them back to the tree.
@@ -261,7 +286,7 @@ If approached peacefully, they gladly provide shelter or passage through their c
     Over a timeframe of 300 to 400 years, the eldest from these colonies naturally grow to become sovereigns themselves, presiding over many social groups called circles.
     A circle consists of twenty or more fungal kin that work, live, and meld together.
 
-    Melding is prohibited in the Drejeck tribal communities, but is a regular practice in these circles.
+    Melding is prohibited in the Drejek tribal communities, but is a regular practice in these circles.
     A meld is a form of communal meditation that allows tsaneks to transcend their sometimes dull existence.
     Their rapport spores bind the participants into a group consciousness, inducing a shared dream that provides entertainment and social interaction.
     Tsaneks use melding in the pursuit of higher consciousness, collective union, and spiritual apotheosis.
@@ -340,7 +365,7 @@ If approached peacefully, they gladly provide shelter or passage through their c
 \end{table*}
 
 \subsubsection{Gannagian Tsanek}
-    Fungal kin that are members of the tribes in Drejeck which surround tekatsae.
+    Fungal kin that are members of the tribes in Drejek which surround tekatsae.
     Like their mold kin brothers, they have a very strong sense of community and devotion to their groups, the sovereigns and the tekatsae tree.
     They are the spiritual leaders of the different groups, and focus on coordinating the tribes and communicating with the sovereigns.
 
