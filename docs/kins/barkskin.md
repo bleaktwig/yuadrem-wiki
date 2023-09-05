@@ -1,6 +1,7 @@
 # Barkskin
 **TODO. BASICS.**
 
+---
 ## Physical Description
 The barkskin spawn from the corpses of humanoids exposed to the tekust spore.
 The spore comes from the Tek tree, and is of a bright orange coloration.
@@ -22,12 +23,14 @@ As long as they remain within the reach of its hyphae, they won't age, and need 
 This ends when they leave the network -- the tekust in their bodies is not enough to stave off rot.
 Detached barkskins often have a lifespan of only a few decades.
 
+---
 ## Culture
 **TODO.**
 
-### Traditions and Religion
-**TODO.**
+Regarding language, all barkskins speak knaenese.
+They learn it when they are born, upon their first communion with Tek.
 
+### Traditions and Religion
 **Adulthood and Families.**
 A group of barkskins become adults when they form a family.
 To do this, the would-be family must commune with Tek.
@@ -51,51 +54,58 @@ The barkskin's bones are then burned to condense its pheter, as is traditional a
 Otherwise, the body is left to rot.
 Natural processes return the nutrients of the body to the earth, as Tek returns what they once borrowed.
 
-**Tek and Tanethism.**
-**TODO.**
+**TODO and Tanethism.**
+Most barkskins follow the **TODO** philosophy, which mixes **[...]**.
+While **TODO** is somewhat compatible of Tanethism, there are some major differences regarding their divinities.
+They believe in the tree gods and their relation to the Ring of Color, but not on the lower and higher orders (Tovasic, Mevic, and Damic gods).
+They think of the illuminants as powerful shamans instead of divine beings.
 
 ### Origins and History
-**TODO.**
-
 Barkskins were created by the tree god Tek in Drejek.
 The year in which this happened is unknown, but it is known that the first barkskins were made from corpses of the ird diaspora. <!-- TODO. Mention the ird diaspora (four ird migrations) in History. Maybe even an ird diaspora map would be cool? Simple one made from the world map, with arrows pointing to all the movement! -->
 The original barkskins built only basic houses and structures.
 They lived alongside Tek, and dedicated their lives to the health and growth of Drejek.
 
 Barkskins were originally reserved, and did not interact with humes until the year 141 A.S.
-The irds of the qul archipelago sought to build communities in Drejek, and were quickly repelled by the barkskins.
-Their relationship never cooled, and no friendly contact existed between the jungle dwellers and the greater world until the Penance.
+The irds of the qul archipelago sought to build communities in Drejek, but were quickly repelled by the barkskins.
+This relationship never cooled, and this extended to the Seven Principates -- no alliance was established between the jungle dwellers and the greater world.
 
-<!-- After the Penance, TODO. Describe the movement of the peninsula. -->
+After the Penance, Tek and the barkskins were thought to be lost to Nix.
+This was proved wrong in 734 A.S.
+Tek detached a large part of Drejek, and dragged it through the nix to the Fesh Peninsula.
+The landmass collided with the Punica Peaks, now forming the Drejek Highlands.
 
-## Subgroups
-**TODO.**
+The contact sparked the Landfall War<!-- TODO. workshop name. -->, a short conflict between the barkskin and **TODO** Kingdom.
+With the end of the war, relationships between them and the humes cooled for the first time.
+<!-- The kin are now collaborating with humes, both seeking to fight against the spread of nix. -->
+While access to the jungle core and Tek themself is still forbidden, humes are allowed to the Highlands.
+In addition, there exists some barkskin immigration toward the Peninsula proper.
+<!-- It's not uncommon to see a small populace of that ethnicity in villages. -->
 
+### Names
+A barkskin is born without a name, and remain nameless most of their youth.
+They decide on a name when they join a potential family in the adulthood ritual.
+These names are usually in knaenese, a language famously hard to pronounce.
+It's not uncommon for the other kins to call them by a nickname or a simplified version of the name.
+
+A non-exhaustive list of common names would be:
+Gantauda, Gesunt, Gunsedant, Hanhant, Hanseek needa, Hantadage, Huntge, Keena, Kegunseeda, Knaetseeknan, Knandage, Knudu, Kueqan, Nade, Naekuntge, Nega, Nelati, Seetun, Tsaegae, Tsege, Tsehant, Ukena.
+
+---
 ## Geographic Distribution
-**TODO.**
+The majority of the barkskin live in the Drejek Highlands.
+Some population groups have formed inside hume villages.
+The largest of these are **TODO**.
+It is unknown if other settlements exist outside of the peninsula.
 
-## Names
+<!-- TODO. Draw a map of the movement of the barkskin out of Drejek and mark large barkskin population centers. Reference Na'ane stuff. -->
+
+### Subgroups
 **TODO.**
 
 <!--
 The moss kin, or naenks, are moss creatures that hunt in the dark, warm, and wet jungles of Drejek.
 They hunt for sustenance and to gather fresh corpses.
-
-\subsection*{Tribal Communities}
-    % A naenk also assists their communication with rhythmic tapping on their body and using a complex system of gestures.
-    % Apart from these, they can also speak telepathically when close to tsaneks or sovereigns, aiding their communication.
-
-    Naenks are organized in tribal units called bands.
-    Each band is lead by the strongest naenk, the chief, who commands alongside a tsanek shaman.
-    Naenk chiefs bear special spores that can be used to infect beasts in a manner similar to the Tekatsae tree.
-    They spawn a bestial moss creature known as nuen with this spores, who acts as a pet or mount to the chief.
-    When a naenk travels alone, it is usual for them to also grow these spores as well.
-
-    Naenks build and craft very little.
-    Their gear is simply what they loot, and they build simple structures by imitation.
-
-    Due to their odd appearance and homicidal reproduction, naenks are seen as something to fear.
-    They however are very bold, yet fear the strangest things due to superstition.
 
 \subsection*{Call to Adventure}
     A naenk rarely leaves the Drejek jungle in which they are born.
@@ -119,18 +129,6 @@ They hunt for sustenance and to gather fresh corpses.
     \centering
     \includegraphics[width=0.48\textwidth]{04kins/img/15naenk_warrior.png}
 \end{figure}
-
-\subsection*{Naenk Names}
-    Naenks are born without names, and usually remain nameless most of their youth.
-    They reach social adulthood by earning a name, which is done either by becoming a warrior or accomplishing a major deed.
-
-    Many naenks live their whole lives unnamed.
-    While most accept this reality and become gatherers, it is not uncommon for the nameless to self-exile out of shame or discontent.
-
-    Knaenese is a very hard language to pronounce, so it's common for people of other kins to call naenks by a nickname or a simpler version of their name.
-
-    \paragraph{Names}
-    Gantauda, Gesunt, Gunsedant, Hanhant, Hanseek needa, Hantadage, Huntge, Keena, Kegunseeda, Knaetseeknan, Knandage, Knudu, Kueqan, Nade, Naekuntge, Nega, Nelati, Seetun, Tsaegae, Tsege, Tsehant, Ukena.
 
 \subsection*{Traits}
     Your naenk character has an assortment of abilities, relating to their nature and surroundings.

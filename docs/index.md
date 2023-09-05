@@ -308,6 +308,8 @@ These seeds grow into god-trees, the oric gods.
 ### Age of Fog:
 *621 A.S. to present day.*
 
+<!-- NOTE. Present day: 802 A.S. -->
+
 ## Cosmology
 **TODO.**
 
