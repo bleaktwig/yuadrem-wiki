@@ -77,7 +77,7 @@ Tek created the [barkskins](../kins/barkskin.md), who hid from civilization unti
 * **Et** is the tree of Febrid, a tall, blue birch of surprising pliability.
 Et fought with Om in the Tree War, created the humes, and burned after the eruption of Jan'Krug in the Schism.
 The outside rim of its burnt stump acts as the outer wall of Naptane, the ruined capital<!-- TODO. Link. -->.
-* **Tol** is a smaller tree-god which grew from the stump of Et.
+* **Tol** is a smaller god-tree which grew from the stump of Et.
 A birch like its parent, Tol created the enigmatic kin of the [oths](../kins/oth.md).
 * **Uld** is the tree of Phusinhe, a kapok of astonishing height.
 It extends upwards as far as the eye can see, its purple leaves providing shade to the entirety of the [everwoods](../world/everwoods.md).

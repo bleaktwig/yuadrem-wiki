@@ -153,6 +153,7 @@ While it might be hard to pinpoint the exact number of religions in Yuadrem, a f
     \end{DndTable}
 \end{table*} -->
 
+<!-- LANGUAGES ---------------------------------------------------------------->
 ### Languages
 **TODO.**
 ![Language Tree](img/language_tree_v021.png)
@@ -274,11 +275,14 @@ This makes the study of jantherlin extremely difficult to modern archaeologists.
 % This makes the reading of the jantherlin extremely difficult for the kin that remain in the world, since understanding a particular tall one's scribbles essentially requires understanding their own version of the language.
  -->
 
+--------------------------------------------------------------------------------
+<!-- HISTORY ------------------------------------------------------------------>
 ## History
 **TODO.**
 
 **TODO. Mention Tol and Taneth.**
 
+<!-- PREHISTORY --------------------------------------------------------------->
 ### Prehistory
 * **Nascency of Disparity.**
 The primordial Pheter, god of disparity, is born from Nix.
@@ -289,27 +293,44 @@ Zash in turn is divided into his six aspects, the mevic gods, which conform the 
 * **First Communion.**
 To populate Yuadrem, each mevic god plants a seed.
 These seeds grow into god-trees, the oric gods.
-
-**TODO.**
-* **Tree War.** **TODO.**
-* **Birth of Hume and Marset.** **TODO.**
-* **Establishment of the First City-States.** **TODO.**
-* **First Ctereth Siege.** **TODO.**
-* **Birth of Oths.** **TODO.**
+* **War of Spring.**
+The largest of the oric gods, Et and Om, go into war.
+While no damic or mevic god interfered, Pheter themself was against the conflict.
+Humes are born from Et as soldiers in this war, while Om creates the marsets to defend themself.
+* **The Schism.**
+After a long and bloody conflict, Et wins the war against Om.
+Under the orders of their god-tree, the humes burn down the god-tree of the marsets.
+As the fire spreads, Pheter transforms into lightning, striking down Et.
+The ash from the burned god-trees engulfs Yuadrem, sparking the Age of Dark with the 40-year famine.
 
 <!-- NOTE. Ededeian genocide ends with the death of king D'khan at the hands of Genadi. -->
 
+<!-- AGE OF DARK -------------------------------------------------------------->
 ### Age of Dark
 *0 to 195 A.S.*
 
+* **TODO. 32 A.S. The Ctereth sieges.**
+* **TODO. Ird diaspora.**
+* **TODO. 96 A.S. Establishment of the 7 principates of the sea.**
+* **TODO. 141 A.S. Discovery of the barkskins.**
+* **TODO. 195 A.S. Founding of Naptane.**
+
+<!-- GOLDEN AGE --------------------------------------------------------------->
 ### Golden Age: 195 to 621 AS
 *195 to 621 A.S.*
 
+* **TODO. Birth of Oths.**
+
+<!-- AGE OF FOG --------------------------------------------------------------->
 ### Age of Fog:
 *621 A.S. to present day.*
 
+* **TODO. 734 A.S. Landing of Drejek.**
+
 <!-- NOTE. Present day: 802 A.S. -->
 
+--------------------------------------------------------------------------------
+<!-- COSMOLOGY ---------------------------------------------------------------->
 ## Cosmology
 **TODO.**
 

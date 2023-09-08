@@ -30,7 +30,7 @@ Detached barkskins often have a lifespan of only a few decades.
 ### Traditions and Religion
 **Birth.**
 As part of the process where tekust takes over a body, the newborn barkskin communes with Tek for the first time.
-The tree-god teaches the barkskin knaenese along with the tenets of their society.
+The god-tree teaches the barkskin knaenese along with the tenets of their society.
 While its uncommon, some barkskins are born outside of Tek's hyphan network.
 They lack this innate connection, and most become unable to commune with the tree.
 
@@ -64,8 +64,8 @@ They believe in the tree gods and their relation to the Ring of Color, but not o
 They think of the illuminants as powerful shamans, rather than divine beings.
 
 Tekists attain knowledge to later give it to Tek.
-They see themselves as a detached part of the tree-god, and await their eventual return.
-They also commune with Tek through meditation and the consumption of nahan <!-- NOTE. I-water in knaenese -->, a strong psychedelic made by fermenting the sap of the tree-god.
+They see themselves as a detached part of the god-tree, and await their eventual return.
+They also commune with Tek through meditation and the consumption of nahan <!-- NOTE. I-water in knaenese -->, a strong psychedelic made by fermenting the sap of the god-tree.
 
 ### Origins and History
 Barkskins were created by the tree god Tek in Drejek.
