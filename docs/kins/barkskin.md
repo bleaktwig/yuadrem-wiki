@@ -27,10 +27,13 @@ Detached barkskins often have a lifespan of only a few decades.
 ## Culture
 **TODO.**
 
-Regarding language, all barkskins speak knaenese.
-They learn it when they are born, upon their first communion with Tek.
-
 ### Traditions and Religion
+**Birth.**
+As part of the process where tekust takes over a body, the newborn barkskin communes with Tek for the first time.
+The tree-god teaches the barkskin knaenese along with the tenets of their society.
+While its uncommon, some barkskins are born outside of Tek's hyphan network.
+They lack this innate connection, and most become unable to commune with the tree.
+
 **Adulthood and Families.**
 A group of barkskins become adults when they form a family.
 To do this, the would-be family must commune with Tek.
@@ -54,11 +57,15 @@ The barkskin's bones are then burned to condense its pheter, as is traditional a
 Otherwise, the body is left to rot.
 Natural processes return the nutrients of the body to the earth, as Tek returns what they once borrowed.
 
-**TODO and Tanethism.**
-Most barkskins follow the **TODO** philosophy, which mixes **[...]**.
-While **TODO** is somewhat compatible of Tanethism, there are some major differences regarding their divinities.
-They believe in the tree gods and their relation to the Ring of Color, but not on the lower and higher orders (Tovasic, Mevic, and Damic gods).
-They think of the illuminants as powerful shamans instead of divine beings.
+**Tekism and Tanethism.**
+Most barkskins native to Drejek follow the tekist philosophy, which combines religion and philosophical reasoning.
+While the mode of thinking is somewhat compatible of Tanethism, there are some major differences regarding their divinities.
+They believe in the tree gods and their relation to the Ring of Color, but not on the other orders of gods.
+They think of the illuminants as powerful shamans, rather than divine beings.
+
+Tekists attain knowledge to later give it to Tek.
+They see themselves as a detached part of the tree-god, and await their eventual return.
+They also commune with Tek through meditation and the consumption of nahan <!-- NOTE. I-water in knaenese -->, a strong psychedelic made by fermenting the sap of the tree-god.
 
 ### Origins and History
 Barkskins were created by the tree god Tek in Drejek.
