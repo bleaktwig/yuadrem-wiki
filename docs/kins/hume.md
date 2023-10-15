@@ -5,10 +5,24 @@
 
 ---
 ## Physical Description
-**TODO.**
+Humes are of a broad spectrum.
+Before the penance, humes traveled the entirety of Yuadrem, and they are as varied as the environments they settled.
+Their height usually varies from slightly more than a meter to about 2.
+They can weigh anything from 40 to 120 kg.
+Their skin shades to any color from the darkest brown to the lightest hues.
+They can grow long hair from their scalps and faces, with a great variety of color and thickness.
+
+While this varies from culture to culture, in general a hume is considered an adult between 14 and 16 years.
+Due to high child mortality, life expectancy averages to 25 years.
+For those who reach that age, they have a reasonable chance of reaching 50 to 60 years.
+Sorcerers are well known for extending their lives, and it is not unusual for them to live even more than a century. <!-- NOTE. The downside of this are all the negative effects of Pheter use in the body, Nix sickness, deformed bodies + strange appendages, etc. -->
+
+Humes are a gendered kin, and usually have one child at a time.
+Previous to the Schism, childcare was left to the women of the families, in particular to each child's mother.
+This varies among cultures, and communal childcare is the norm after the Penance.
 
 ---
-## Gat Culture <!-- NOTE. Those who sided with Et. -->
+## Gat Culture <!-- NOTE. Those who sided with Et. "Purebreed" families still retain horns, which were first gifted by Et to their loyal soldiers. -->
 **TODO.**
 
 **TODO. Focus on Noves Gats.** <!-- Those who sided with Et 'til the Penance. -->
@@ -22,6 +36,8 @@
 
 ### Traditions and Religion
 **TODO. Focus on Noves gats.**
+
+**NOTE. Noves gats have communal families. It is common for a child to know who their father and mother are, but usually many member of their families have an important role in their growth and a special place in their heart :).**
 
 **TODO. Mention Bughna and Treb gats in one paragraph.**
 
@@ -485,18 +501,7 @@ For an unknown reason, umans attract all kinds of predators from these lands.
 Additionally, their blood has similar properties to the tall ones', and is used in many rituals.
 Because of these reasons, umans are dispersed all around the world, and are nomadic in nature.
 
-\subsection*{A Broad Spectrum}
-    Hunted by all kinds of kin and creatures, the nomad kin are forced to perpetually migrate and adapt to different environments, making them more physically diverse than the common kins.
-
-    There is no typical uman, with an individual standing from 1.5 meters to a little over 1.8 meters tall, and weighing from 60 to 125 kgs.
-    Acclimating to even the most extreme environments, a uman's skin shades to any color from the darkest brown to the lightest hues.
-    They also grow long hair in their scalps and faces, sporting a great variety of colors and thickness.
-    Nomads reach adulthood at around 14, and rarely live a single century.
-
-    Umans are a gendered kin, and usually have one child at a time.
-    Families consist of a father, a mother, and their kid or children, but it is not uncommon for other members of the nomadic groups to care for parentless children.
-
-\subsection*{Accursed Coldblood}
+\subsection*{Accursed Coldblood} TODO. Maybe include the concept of coldblood in the "new" Yuadrem. Perhaps the blood of a certain breed of humes is actually better than average at keeping pheter - even better than oil. Actually, in general blood being better than oil at keeping Pheter is an interesting concept by itself!
     Known as coldblood due to its cerulean tint, Umans' blood has special properties, and is very useful for spellcasters.
     It retains a sort of energy, and can be used as a source of spells.
     Umans know this, and regularly prepare blood vials for trade and to strengthen troupes' wizards.
