@@ -75,7 +75,7 @@ Each was born of a seed during the First Communion, planted by a corresponding m
 It was planted on what is now known as Knaegunse, and its root system encompasses the whole [Drejek jungle](../world/westlands.md).
 Tek created the [barkskins](../kins/barkskin.md), who hid from civilization until the year 141 A.S.
 * **Et** is the tree of Febrid, a tall, blue birch of surprising pliability.
-Et fought with Om in the Tree War, created the humes, and burned after the eruption of Jan'Krug in the Schism.
+Et fought with Om in the War of Spring, created the humes, and burned after being struck by lightning in the Schism.
 The outside rim of its burnt stump acts as the outer wall of Naptane, the ruined capital<!-- TODO. Link. -->.
 * **Tol** is a smaller god-tree which grew from the stump of Et.
 A birch like its parent, Tol created the enigmatic kin of the [oths](../kins/oth.md).
@@ -86,7 +86,7 @@ Phusinhe herself sits upon its branches every few years, making for a spectacula
 Red branches extend upward at the top of hundreds of meters of a dark gray trunk.
 The tree captures electricity from the clouds, and erupts into seasonal firestorms that define the landscape of Krejek<!-- TODO. Link. -->.
 * **Om**, also known as **Tosh-drieln**, is the tree of Bagrat, a vigorous juniper.
-In the Tree War, Om created the [marsets](../kins/marset.md) to defend itself against the humes of Et.
+In the War of Spring, Om created the [marsets](../kins/marset.md) to defend itself against the humes of Et.
 The tree was burned at the beginning of the Schism, and its burnt trunk still stands at the center of the [Fesh peninsula](../world/fractured_lands.md).
 Its complex root system forms the many islands of Mbeat.
 * **Ur** is the tree of Pagram, a yellow fir that gives its famous coloration to the [golden fjord near Stinos](../world/northern_territories.md).

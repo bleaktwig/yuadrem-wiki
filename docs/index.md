@@ -13,7 +13,7 @@ These two gods were planted by the god of disparity, Pheter<!-- TODO. Link. -->.
 Et was a large and thin birch, pliable and adaptable.
 Om was a short and stout juniper, vigorous and prodigious.
 These two gods were ever locked in combat, yet none could take the upper hand.
-This conflict became known as the tree wars.
+This conflict became known as the War of Spring.
 
 To aid in the eternal conflict, Et created the humes<!-- TODO. Link. -->, a kin as pliable and adaptable as the god.
 Et bestowed upon humes Apomantics<!-- TODO. Link. -->, and taught them to wage war using Word.
@@ -21,8 +21,8 @@ Om in turn created marsets<!-- TODO. Link. -->, a smaller kin able to traverse t
 The marsets were gifted Chromology<!-- TODO. Link. -->, and fought using Color.
 
 The conflict ended with the burning of Om, an event known as the Schism<!-- TODO. Link. -->.
-Pheter, angered by the death of the god, retaliated with the eruption of Jan'krug<!-- TODO. Link. -->.
-The blast burned Et, and brought the 40-year famine to both humes and marsets.
+Pheter, angered by the death of the god, retaliated by striking Et with lightning<!-- TODO. Link. -->.
+The blast burned the tree-god, and brought the 40-Year Famine to both humes and marsets.
 This event marks the year 0, and the beginning of history.
 <!-- NOTE. I should add lotsa links here... -->
 
@@ -32,7 +32,7 @@ This event marks the year 0, and the beginning of history.
 ![Map of Yuadrem](img/world_map_v083.png)
 
 ***Pictured:***
-*Trade map of Yuadrem, drawn in 604 A.S. by Marim of Avshen under the commission of Olag, the God-King of Naptane.*
+*Trade map of Yuadrem, drawn in 604 A.S. by Marim of Avshen under the commission of Olag, the God-Suzerain of Naptane.*
 *The region colored in green corresponds to the Seven Protectorates of the Sea.*
 *Other colors represent the tax and penalty applied to trade in those regions.*
 *This map proves the healthy state of maritime travel and trade in the golden age.*
@@ -297,11 +297,13 @@ These seeds grow into god-trees, the oric gods.
 The largest of the oric gods, Et and Om, go into war.
 While no damic or mevic god interfered, Pheter themself was against the conflict.
 Humes are born from Et as soldiers in this war, while Om creates the marsets to defend themself.
+<!-- TODO. Add the Ird Diaspora + the first siege of Ctereth. -->
 * **The Schism.**
 After a long and bloody conflict, Et wins the war against Om.
-Under the orders of their god-tree, the humes burn down the god-tree of the marsets.
+Under the orders of their god-tree, the gats burn down the god-tree of the marsets.
 As the fire spreads, Pheter transforms into lightning, striking down Et.
-The ash from the burned god-trees engulfs Yuadrem, sparking the Age of Dark with the 40-year famine.
+The ash from the burned god-trees engulfs Yuadrem, sparking the Age of Dark with the 40-Year Famine.
+<!-- TODO. Add the Gat Diaspora (Bughna and Treb). -->
 
 <!-- NOTE. Ededeian genocide ends with the death of king D'khan at the hands of Genadi. -->
 
@@ -309,8 +311,7 @@ The ash from the burned god-trees engulfs Yuadrem, sparking the Age of Dark with
 ### Age of Dark
 *0 to 195 A.S.*
 
-* **TODO. 32 A.S. The Ctereth sieges.**
-* **TODO. Ird diaspora.**
+* **TODO. 32 A.S. The Ctereth sieges & the Armies of Healing.**
 * **TODO. 96 A.S. Establishment of the 7 principates of the sea.**
 * **TODO. 141 A.S. Discovery of the barkskins.**
 * **TODO. 195 A.S. Founding of Naptane.**

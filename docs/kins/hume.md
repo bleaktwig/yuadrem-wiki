@@ -1,7 +1,11 @@
 # Humes
-**TODO. BASICS.**
-
-**TODO. Talk about the separation of gats and irds during the War of Spring.**
+Et created humes to aid the oric god in the War of Spring.
+Despite this, many opposed the conflict, or felt indifferent to it.
+They fled the company of their god-tree, for which they were cursed with feathers.
+They came to be known as irds, and this dispersion came to be known as the Ird Diaspora.
+<!-- NOTE. This led to the first siege of Ctereth, where four different ird chiefdoms (led by 4 historic figures) stole qualars to allow their kin to travel away from Naptane. -->
+The humes that remained with Et were blessed with horns, and are known as gats.
+<!-- NOTE. Maybe mention what ird and gat mean in jantherlin? That might help integrate the language into the lore. -->
 
 ---
 ## Physical Description
@@ -22,20 +26,61 @@ Previous to the Schism, childcare was left to the women of the families, in part
 This varies among cultures, and communal childcare is the norm after the Penance.
 
 ---
-## Gat Culture <!-- NOTE. Those who sided with Et. "Purebreed" families still retain horns, which were first gifted by Et to their loyal soldiers. -->
-**TODO.**
+## Gat Culture
+<!-- NOTE. Those who sided with Et. Et-born families still retain horns (by feeding the mother Et's sap), which were first gifted by Et to their loyal soldiers. -->
+After the Schism, the surviving gats separated into three groups: noves, bughna, and treb.
+Those who remained became known as noves gats, and their ethnicity is the most common in the modern world.
+They built the holy city of Naptane inside the stump of Et, from which sprung the Seven Principates of the Sea.
+Noves are often considered simile to civilization.
 
-**TODO. Focus on Noves Gats.** <!-- Those who sided with Et 'til the Penance. -->
+Bughna gats endured the 40-Year Famine by adopting a nomadic lifestyle, one which defines them still.
+These humes became known as great pastors and merchants.
+They strenghtened the bond between the principates, in part allowing the establishment of the large gat civilization.
+Even today they are often associated to good luck.
 
-**TODO. A bunch of info on Bughna Gats.** <!-- Those who sided with Et, but became nomads after the Schism. -->
-
-**TODO. One paragraph on Treb Gats.** <!-- Those who sided with Et, but now adore Jan'krug and Pheter. -->
+Not all progeny of Et was born equal, and the treb are the perfect example.
+They are larger and bulkier than the average hume, and were often the first line of attack in the War of Spring.
+Treb gats were regarded as brutish, and didn't fit the civilization built by the noves.
+They were exiled by Olag during the second century, and most established a new home in the Dead Sea.
+<!-- NOTE. Treb gats are not *born* brutish. While their culture may seem "violent", they are very religious and show a sophistication with nature that is not commonly seen in other humes. -->
 
 ### Physical Description.
-**TODO.**
+The skin of a gat is generally dark, usually ranging from yellow, through brown, to black.
+While some gats are blonde, the most common hair colors and brown, black, and sometimes red.
+It is a common gat custom to sport long hair and beards, often decorated with jewelry.
+
+With the exception of the treb, gats are generally small, ranging from 140 to 170 centimeters on average.
+Another common feature accross gats is their eyes; which are usually of strong colors.
+
+While all original gats had horns, the feature has been lost through the centuries.
+Those birthed by the remains of the god-tree, or Et-born, retain the horns.
+Yet they are increasingly rare after the Penance, as nix has destroyed the land that surrounds the tree.
+
+<!-- NOTE. Tale of the gestation of an et-born.
+    Gats are genderless creatures.
+    All gats are born with a pair of seeds hidden in a small sack between their legs.
+    Around the age of 30, a gat reaches physical maturity.
+    This is signalled by a slight swelling in these seeds, which they can now cut and plant under a thick layer of rich soil.
+
+    While underground, the seed will grow by leeching nutrients off the earth.
+    After a gestation period of around 2 years, the gat will dig their way up from the ground and emerge as a somewhat competent infant.
+    A gat would-be-parent must always be careful about where to plant their seed, for if a newborn sees the sun or any strong light during their first days, they run the risk of being permanently blinded.
+-->
 
 ### Traditions and Religion
-**TODO. Focus on Noves gats.**
+**NOTE. Focus on Noves gats.**
+
+**Birth.**
+**TODO.**
+
+**Adulthood and Families.**
+**TODO.**
+
+**Death.**
+**TODO.**
+
+**Tanethism.**
+**TODO.**
 
 **NOTE. Noves gats have communal families. It is common for a child to know who their father and mother are, but usually many member of their families have an important role in their growth and a special place in their heart :).**
 
@@ -61,37 +106,6 @@ Just wait.
 The prize that will arrive after they're done working is sure to outshine all your other possessions, and hold a special place in your collection for you and your descendants.}
 
 \hspace*{\fill} --- Orr, Vesjen's master smith.
-
-Citadels carved into the highest of cliff faces.
-Mines hidden inside the deepest of ravines.
-Workshops rumbling with the sound of hard labor until the darkest of hours.
-These are the traits that define the gat.
-
-The gat, marheth'llal rlue, or horned kin are the oldest among the sentient races created by the ets.
-Molded as diggers and laborers, their passion for work is ingrained into their very blood.
-To date they are known as master miners, builders, and artisans.
-
-Being the first of the kins, they are established and well-developed.
-Gats are the builders of the Seven Kingdoms of the Coast, the oldest active nations in Yuadrem.
-
-\subsection*{Beard and Horns}
-    The horned kin was designed in the image of goats, and share their horns, facial features, and digitigrade feet.
-    They stand in a hunched manner and are generally slender.
-    Gats are covered by a thick layer of fur ranging in hues from light blonde to absolute black.
-    Many enjoy growing a beard.
-
-    Gats' eyes are of strong colors, usually light blue, yellow, orange, or light brown.
-    Like goats, their pupils are rectangular and elongated.
-    The manner in which each gat's beard and horns grow is unique, and most take pride in these features, showing them off whenever possible.
-
-    Gats are genderless creatures.
-    All gats are born with a pair of seeds hidden in a small sack between their legs.
-    Around the age of 30, a gat reaches physical maturity.
-    This is signalled by a slight swelling in these seeds, which they can now cut and plant under a thick layer of rich soil.
-
-    While underground, the seed will grow by leeching nutrients off the earth.
-    After a gestation period of around 2 years, the gat will dig their way up from the ground and emerge as a somewhat competent infant.
-    A gat would-be-parent must always be careful about where to plant their seed, for if a newborn sees the sun or any strong light during their first days, they run the risk of being permanently blinded.
 
 \subsection*{Adaptable and Hardy}
     Gat share many traits with the common goat.
@@ -194,9 +208,6 @@ Gats are the builders of the Seven Kingdoms of the Coast, the oldest active nati
 \newpage
 
 \subsubsection{Noves Gat}
-    Acclimated to the highest mountains and deepest ravines, cliff gats are the most common of the horned kin.
-    Builders of the immense gat city-states, it's very rare to see a cliff gat not actively pursuing their craft.
-
     \subparagraph{Ability Score Increase} Your time spent in civilization has given you a profound common sense and a general grasp on almost any subject.
     Your Intelligence score is increased by 1.
 
@@ -210,14 +221,6 @@ Gats are the builders of the Seven Kingdoms of the Coast, the oldest active nati
     Additionally, you must roll your Strange Mood wisdom saving throw twice at the beginning of every month.
 
 \subsubsection{Bughna Gat}
-    In the year 102 AS, the army of healing invaded Ctereth's dwellings and plundered a great haul of qualars.
-    These restored the minds of many gats, who became known as the bughna gats.
-    % While their minds were recovered, the habits they learned as lost ones have never truly been abandoned.
-
-    Bughna gats feel constrained in cities, and tend to abandon city-states at a young age, freely exploring the outside world.
-    % Despite their nature, gats are never truly free of their sense of community.
-    Bughna gats tend to travel in packs comprised by varied kins and ethnic groups.
-
     \subparagraph{Ability Score Increase} Your balance and ability to walk on the steepest of hills is unmatched, and your Dexterity score is increased by 1.
 
     \subparagraph{Fleet of Foot} Your base walking speed increases by 2 meters.
@@ -225,11 +228,6 @@ Gats are the builders of the Seven Kingdoms of the Coast, the oldest active nati
     \subparagraph{See Them Coming} You have advantage on initiative rolls while in plains, grasslands, and any other open natural environment.
 
 \subsubsection{Treb Gat}
-    While many of the gat lost ones were recovered, most of those who wandered off to the dead sea could never be found due to the toxic mist.
-    % Here they became the Treb Gat, and eventually acquired qualar back via unknown means.
-    These gats are far removed from their calm origins, having to survive the harsh and hostile environment.
-    Treb gats have large and muscular bodies, large horns, and dirty, patchy hair.
-
     \subparagraph{Ability Score Increase} Your restlessness knows no bounds.
     Your Strength score is increased by 1.
 
