@@ -55,6 +55,8 @@ Yet they are increasingly rare after the Penance, as nix has destroyed the land 
     TODO. This clearly requires an update -- gats are now humes.
 -->
 
+<!-- TODO. Clothing. --->
+
 ### Origins and History
 <!-- NOTE. Those who sided with Et. Et-born families still retain horns (by feeding the mother Et's sap), which were first gifted by Et to their loyal soldiers. -->
 After the Schism, the surviving gats separated into three groups: noves, bughna, and treb.
@@ -133,6 +135,7 @@ In addition, different people and communities will often know a gat by different
 Names are not officialized, and the duty of recording individuals is left to each family.
 
 While the intricacies of these names are unique to each community -- and sometimes a particular family --, five categories are common.
+
 * A **personal name** is the name given to a gat my their mother, usually soon after birth.
 Personal names are often permanent, but nothing stops a gat from changing them.
 * A **parent name** is the name of a gat's mother or father followed by the suffix *ban*, meaning "sibling of" in avshenese.
@@ -157,7 +160,14 @@ Adrevik, Ani, Anush, Armen, Avag, Gagik, Garen, Gevog, Gohar, Grigor, Hak, Harig
 -->
 
 ---
-## Ird Culture <!-- NOTE. Those who refused the War of Spring, sieged Ctereth and diaspora'd the fuck out of Naptane. They are said to have been cursed with feathers by Et (since they "fled"). Qulbaba irds wore a lot of colourful feathers, which lends to the confusion. -->
+## Ird Culture
+<!-- NOTE. Those who refused the War of Spring, sieged Ctereth and diaspora'd the fuck out of Naptane. They are said to have been cursed with feathers by Et (since they "fled"). Qulbaba irds wore a lot of colourful feathers, which lends to the confusion. -->
+### Distinctive Characteristics
+**TODO.**
+
+<!-- TODO. Clothing. --->
+
+### Origins and History
 **TODO.**
 
 **TODO. Focus on Thulkraka Irds.**
@@ -166,15 +176,7 @@ Adrevik, Ani, Anush, Armen, Avag, Gagik, Garen, Gevog, Gohar, Grigor, Hak, Harig
 
 **TODO. One paragraph on Dratl Irds.**
 
-### Physical Characteristics
-**TODO.**
-
 ### Traditions and Religion
-**TODO. Focus on Thulkraka Irds.**
-
-**TODO. One paragraph of qulbaba and dratl.**
-
-### Origins and History
 **TODO. Focus on Thulkraka Irds.**
 
 **TODO. One paragraph of qulbaba and dratl.**
