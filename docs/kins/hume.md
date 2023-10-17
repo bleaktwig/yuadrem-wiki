@@ -127,180 +127,34 @@ Treb are particularly religious.
 Often liturgy is attached to any activity an individual deems important.
 
 ### Names
-**TODO. Mention that naming traditions started before the Schism. Long names are common across ll gats to recognize their history, but the nature of each name is different for each ethnicity.**
+In tradition, gats have various names.
+These names don't have a particular order, and many can change during a gat's lifetime.
+In addition, different people and communities will often know a gat by different names.
+Names are not officialized, and the duty of recording individuals is left to each family.
+
+While the intricacies of these names are unique to each community -- and sometimes a particular family --, five categories are common.
+* A **personal name** is the name given to a gat my their mother, usually soon after birth.
+Personal names are often permanent, but nothing stops a gat from changing them.
+* A **parent name** is the name of a gat's mother or father followed by the suffix *ban*, meaning "sibling of" in avshenese.
+A gat may prefer to use this name if a parent was particularly important.
+Furthermore, additional parent names can be added after the first, climbing up a branch of the family tree.
+* A **profession name** is simply the name of the profession practiced by the gat.
+* A **family name**, which is acquired by all members of a family upon joining.
+Sometimes, the head of the family will add the *grit* suffix to the family name, meaning "head" in avshenese.
+* A **locality name** that comes from where the gat comes from, adding the *she* prefix, a phoneme associated to location in avshenese.
+These names are acquired only by travelers, and depend on the extensions of their travels.
+For example, a gat coming from a different town may be referred to by the name of that town, and one from another province will acquire its name.
+
+Personal names are often easy to pronounce.
+A non-exhaustive list of common ones is:
+Adrevik, Ani, Anush, Armen, Avag, Gagik, Garen, Gevog, Gohar, Grigor, Hak, Harig, Hovsep, Jirar, Kevon, Khadzak, Marim, Narek, Pagran, Poghos, Ruben, Sivadr, Sona, Vahagn, Vefan.
 
 <!-- NOTE. On names.
-    * Maybe add long names in the Fesh peninsula? Like:
-    * "personal name (chosen by yourself)" "profession name" "family name" "tribe name" "region name"
-    * it wouldn't make sense to have the name of the father, and then the father's father, etc (due to the appreciation of the community over the individual), but the family name can become very long in the case of mixed tribe-families
-    * A person can be referred to any name inside their long names, but there's one used more commonly - tho it isn't constant. Someone from far away could be referred to by their tribe name, a family-leader/merchant figure could be referred to by their family name, inside their house they may be referred to by their personal name, etc.
-    * oths hate this - organizing family trees and keeping track of historic figures is a total pain
-    * these names are not officialized
-    * "personal name (chosen by yourself)" "profession name" "family name" "tribe name" "region name" "greatest achievement name (sometimes)"
-    * sometimes these names change over time, and names are not oficial
-    * or recorded
-    * "personal name (chosen by yourself)" "profession name" "family name" "tribe name" "region name" "honorific title (sometimes)"
-    * just knowing someone's full name gives you a lot of information on that person.
+    * Oths hate the many names convention - organizing family trees and keeping track of historic figures is a total pain.
+    * "Personal name" "parent name" "profession name" "family name" "locality name" "greatest achievement name (sometimes)".
+    * Names are neither official nor recorded, but presenting yourself with a name that contains a lie is very badly seen, and may even be punished in some ethnic groups.
+    * Just knowing someone's full name gives you a lot of information on that person.
 -->
-
-<!-- % !TEX root = ../main.tex
-\section{Horned Kin} \label{kin::gat}
-\DndDropCapLine{W}{hen you contract a horned one, be}
-\textit{sure to pay them double.
-Fulfill all their needs as they seclude into their workshop, and pay no mind to their uncanny silence.
-Most of all, be sure to avoid interrupting them.
-Just wait.
-The prize that will arrive after they're done working is sure to outshine all your other possessions, and hold a special place in your collection for you and your descendants.}
-
-\hspace*{\fill} --- Orr, Vesjen's master smith.
-
-\subsection*{Adaptable and Hardy}
-    Gat share many traits with the common goat.
-    They dwell on bleak mountaintops, deep ravines, rocky hills, and open plains.
-    While adult gats are not sensitive to sunlight, most prefer dark places.
-    These predilections lead to gat towns and cities being built underground or in harsh cliff faces.
-
-    Never satisfied with their homes, the horned kin's hubris leads to their cities to reach depth and size.
-    Raids against smaller gat city-state are common, and the gats take them as a chance to test their impenetrable defenses, complex traps, and combat-hardened military skills.
-
-\subsection*{Peaceful Demeanor}
-    The horned kin are peaceful creatures and mostly shun external conflict.
-    They are very sociable creatures, and all city-states have one large marketplace in their center for merchants and caravans to settle in.
-    Surrounded by inns and taverns, these markets act as the commerce hubs of the city.
-
-    Community lifestyle is very important to gats, and most wouldn't flinch to give their lives for their city-state.
-    Due to the gats' slow reproductive cycle, their cities are very welcoming to other species.
-    It's common to find cities and towns where less than half of the total population is gat.
-    They treat other species as kin, but high political and military ranks are exclusive to gats.
-
-\subsection*{Impulse towards Greatness}
-    It is rare for a gat to willingly leave their home, and most spend their entire lives in one city-state.
-    However, some do feel the call to adventure, and most follow it to gather rare crafting materials or to fulfill a task needed by their community.
-
-    Gats are meticulous individuals, and this naturally extends to adventurers.
-    They won't step into the wilderness unprepared, sparing no expense in armor, weapons, utilities, and the training to use all of this.
-
-    Gats are naturally family-oriented, and its very rare for one gat to abandon their progeny.
-    In the rare occasion that a gat does decide to leave their community behind, it is written law to leave one child or seed planted back home.
-
-    This tradition serves a double purpose.
-    First, the child acts as a magnet to their parent.
-    Second, in the event that the child is orphaned, their mere presence at least maintains a steady population number.
-    These gats are the ``Children of the Collective'', and it is tradition that they are taken care of by the whole city, thus nurturing a strong sense of community.
-
-\subsection*{Gat Names}
-    All gat tongues are simple and practical languages, and the horned ones have a tendency towards easy to pronounce names.
-    A parent gives their child their name once they gain independence, and its rare for a gat to change it.
-    Gats don't use family names, preferring instead to wear their main profession as a surname.
-
-    \paragraph{Names}
-    Adrevik, Ani, Anush, Armen, Avag, Gagik, Garen, Gevog, Gohar, Grigor, Hak, Harig, Hovsep, Jirar, Kevon, Khadzak, Marim, Narek, Pagran, Poghos, Ruben, Sivadr, Sona, Vahagn, Vefan.
-
-    \paragraph{Surnames}
-    Axgat, Bonecarver, Bowyer, Caretaker, Cook, Dyer, Engraver, Farmer, Fishergat, Glassblower, Gemcutter, Guard, Mason, Metalsmith, Miner, Speargat, Trader, Trapper, Weaponsmith, Woodworker.
-
-\subsection*{Traits}
-    Your gat character's hardiness and tendency towards craftsmanship gives them the following set of skills:
-
-    \subparagraph{Ability Score Increase} Your Constitution score increases by 2.
-
-    \subparagraph{Age} Gats mature slowly, but they live very long lives.
-    You are sexually mature at around 30 years, and live to around 350 years.
-
-    \subparagraph{Alignment} Industrious and strong, gats focus more on getting things done rather than morals or ethics.
-    They have a tendency towards fairness and justice, and therefore are inclined towards the indigo tide.
-
-    \subparagraph{Size} Gats typically range from 1.2 to 1.5 meters.
-    Your size is medium.
-    They aren't too slender or stout for their size, weighing on average 50 kg.
-
-    \subparagraph{Speed} Your base walking speed is 6 meters.
-
-    \subparagraph{Stable Footing} You are not slowed by difficult terrain caused by rocks, gravel, sheer faces, and other such obstacles.
-
-    \subparagraph{Keratin Horns} You know the Push action (See page \pageref{act::push}), using your strong horns to shove your target.
-
-    Additionally, your horns are a melee weapon that deals 1d4 plus your Strength modifier in bludgeoning damage.
-
-    \subparagraph{Craftsgatship} You are competent with a set of artisan's tools of your choice.
-
-    \subparagraph{Strange Mood} Periodically, individual gat are struck with an idea for a masterwork artifact and enter a strange mood.
-    Only with a great force of will can a gat ignore this pull, and not even the strongest can fully stop the craving.
-
-    If you are at least 30 years old, roll a d100 whenever you take a long rest.
-    % You can choose to roll this twice.
-    On a 100, you are struck by a strange mood.
-    The materials required for your masterwork item can either be chosen by you or by the DM.
-    They must be related to the proficiency given by your Craftsgatship trait and at least one of them must be either hard to find or very expensive.
-
-    At the start of every subsequent long rest, you must succeed on a Wisdom saving throw of a DC equal to 8 + the number of months since your strange mood started.
-    On a fail, the need to work on your craft consumes you.
-    If you fail to work on the object in any way during the long rest, your restlessness prevent you from gaining its benefits.
-
-    It takes you a month of work in total to craft the artifact, which can be paused between
-
-    It takes you 2 months of work to craft the artifact, but after you start you can indefinitely pause the production as long as you can properly secure it.
-    The masterwork item produced has a value of 100,000 GP, but it's very rare to see a gat willingly part with it.
-    These items are usually declared as family heirlooms, personal keepsake, or an offering to a king, leader, or deity.
-
-    Weapons, armor, or similar objects crafted in a strange mood are +2, and are of specially exquisite quality.
-
-    \subparagraph{Languages} You know how to speak, write, and read Avshenese and one additional language of your choice.
-
-\begin{figure}[!b]
-    \centering
-    \includegraphics[width=0.47\textwidth]{04kins/img/11gat_knight.png}
-\end{figure}
-
-\newpage
-
-\subsubsection{Noves Gat}
-    \subparagraph{Ability Score Increase} Your time spent in civilization has given you a profound common sense and a general grasp on almost any subject.
-    Your Intelligence score is increased by 1.
-
-    \subparagraph{Gat Toughness} Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
-
-    \subparagraph{Expert Craftsgatship} Noves gats are renowned worldwide for their crafts, and even the untrained eye can recognize an item made by one.
-    You are an expert with the artisan's tools associated to your Craftsgatship trait.
-
-    The value of the item you produce in a strange mood is increased to 250,000 GP.
-    If you make a weapon, armor, or similar item, it is a +3 item.
-    Additionally, you must roll your Strange Mood wisdom saving throw twice at the beginning of every month.
-
-\subsubsection{Bughna Gat}
-    \subparagraph{Ability Score Increase} Your balance and ability to walk on the steepest of hills is unmatched, and your Dexterity score is increased by 1.
-
-    \subparagraph{Fleet of Foot} Your base walking speed increases by 2 meters.
-
-    \subparagraph{See Them Coming} You have advantage on initiative rolls while in plains, grasslands, and any other open natural environment.
-
-\subsubsection{Treb Gat}
-    \subparagraph{Ability Score Increase} Your restlessness knows no bounds.
-    Your Strength score is increased by 1.
-
-    \subparagraph{Size} Treb gats tend to be much larger than their common brethren, measuring between 160 and 200 cm and weighting between 90 and 120 kg.
-    Your size is still medium.
-
-    \subparagraph{Uncanny Brutality} While in combat, you are absorbed by a primal rage.
-    You have disadvantage on any attacks made with finesse, martial weapons without the heavy property, and ranged weapons.
-
-    \subparagraph{Hammering Horns} You are never unarmed.
-    The damage die of your horns is increased to a d6.
-
-    \subparagraph{Savage Attacks} When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage die one additional time and add it to the extra damage of the critical hit.
-
-    \subparagraph{Fell Mood} When you are struck by a strange mood, the need to craft an exquisite artifact is replaced by an unrelenting urge to kill.
-    You have to choose your prey from either a renowned hero, an ancient being, or a forgotten beast.
-
-    After the deed is done, you can craft a disquieting artifact from the creature's remains, following the normal rules of a strange mood.
-    All the other conditions of the trait remain the same.%, replacing the need to gather materials with the insatiable craving to hunt said creature.
-
-\begin{figure}[!b]
-    \centering
-    \includegraphics[width=0.48\textwidth]{04kins/img/11gat_treb.png}
-\end{figure}
-
-\newpage -->
 
 ---
 ## Ird Culture <!-- NOTE. Those who refused the War of Spring, sieged Ctereth and diaspora'd the fuck out of Naptane. They are said to have been cursed with feathers by Et (since they "fled"). Qulbaba irds wore a lot of colourful feathers, which lends to the confusion. -->
