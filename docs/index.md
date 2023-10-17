@@ -30,6 +30,7 @@ This event marks the year 0, and the beginning of history.
 <!-- GEOGRAPHY ---------------------------------------------------------------->
 ## Geography
 ![Map of Yuadrem](img/world_map_v083.png)
+<!-- TODO. Change "God-king" to "God-suzerain" in the map. -->
 
 ***Pictured:***
 *Trade map of Yuadrem, drawn in 604 A.S. by Marim of Avshen under the commission of Olag, the God-Suzerain of Naptane.*
@@ -307,23 +308,24 @@ The ash from the burned god-trees engulfs Yuadrem, sparking the Age of Dark with
 
 <!-- NOTE. Ededeian genocide ends with the death of king D'khan at the hands of Genadi. -->
 
+<!-- TODO. Maybe change the dates using a random number generator (within reason). -->
 <!-- AGE OF DARK -------------------------------------------------------------->
 ### Age of Dark
 *0 to 195 A.S.*
 
 * **TODO. 32 A.S. The Ctereth sieges & the Armies of Healing.**
-* **TODO. 96 A.S. Establishment of the 7 principates of the sea.**
+* **TODO. 96 A.S. Founding of Naptane.**
 * **TODO. 141 A.S. Discovery of the barkskins.**
-* **TODO. 195 A.S. Founding of Naptane.**
+* **TODO. 195 A.S. Establishment of the 7 principates of the sea and beginning of the reign of the god-suzerain Olag.**
 
 <!-- GOLDEN AGE --------------------------------------------------------------->
-### Golden Age: 195 to 621 AS
+### Golden Age
 *195 to 621 A.S.*
 
 * **TODO. Birth of Oths.**
 
 <!-- AGE OF FOG --------------------------------------------------------------->
-### Age of Fog:
+### Age of Fog
 *621 A.S. to present day.*
 
 * **TODO. 734 A.S. Landing of Drejek.**

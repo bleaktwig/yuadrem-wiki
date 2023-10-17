@@ -1,5 +1,7 @@
 # Marsets
 **TODO.**
+<!-- TODO. Change their names and make them more similar to the ape-guys in my sketchbook. -->
+
 <!-- % !TEX root = ../main.tex
 \section{Archer Kin} \label{kin::marset}
 \DndDropCapLine{W}{hile traversing the jungle, be very}

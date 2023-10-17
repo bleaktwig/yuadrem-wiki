@@ -19,7 +19,8 @@ They can grow long hair from their scalps and faces, with a great variety of col
 While this varies from culture to culture, in general a hume is considered an adult between 14 and 16 years.
 Due to high child mortality, life expectancy averages to 25 years.
 For those who reach that age, they have a reasonable chance of reaching 50 to 60 years.
-Sorcerers are well known for extending their lives, and it is not unusual for them to live even more than a century. <!-- NOTE. The downside of this are all the negative effects of Pheter use in the body, Nix sickness, deformed bodies + strange appendages, etc. -->
+Sorcerers are well known for extending their lives, and it is not unusual for them to live even more than a century.
+<!-- NOTE. The downside of this are all the negative effects of Pheter use in the body, Nix sickness, deformed bodies + strange appendages, etc. -->
 
 Humes are a gendered kin, and usually have one child at a time.
 Previous to the Schism, childcare was left to the women of the families, in particular to each child's mother.
@@ -27,6 +28,34 @@ This varies among cultures, and communal childcare is the norm after the Penance
 
 ---
 ## Gat Culture
+### Distinctive Characteristics
+The skin of a gat is generally dark, usually ranging from yellow, through brown, to black.
+While some gats are blonde, the most common hair colors and brown, black, and sometimes red.
+It is a common gat custom to sport long hair and beards, often decorated with jewelry.
+
+With the exception of the treb, gats are generally small, ranging from 140 to 170 centimeters on average.
+Another common feature accross gats is their eyes; which are usually of strong colors.
+
+While all original gats had horns, the feature has been lost through the centuries.
+Those birthed by the remains of the god-tree, or Et-born, retain the horns.
+Yet they are increasingly rare after the Penance, as nix has destroyed the land that surrounds the tree.
+<!-- TODO. At some point I need to describe what an Et-born gat is. -->
+<!-- NOTE. Maybe describe what noves, bughna, and treb mean in Jantherlin/Old Avshenese. -->
+
+<!-- NOTE. Tale of the gestation of an et-born.
+    Gats are genderless creatures.
+    All gats are born with a pair of seeds hidden in a small sack between their legs.
+    Around the age of 30, a gat reaches physical maturity.
+    This is signalled by a slight swelling in these seeds, which they can now cut and plant under a thick layer of rich soil.
+
+    While underground, the seed will grow by leeching nutrients off the earth.
+    After a gestation period of around 2 years, the gat will dig their way up from the ground and emerge as a somewhat competent infant.
+    A gat would-be-parent must always be careful about where to plant their seed, for if a newborn sees the sun or any strong light during their first days, they run the risk of being permanently blinded.
+
+    TODO. This clearly requires an update -- gats are now humes.
+-->
+
+### Origins and History
 <!-- NOTE. Those who sided with Et. Et-born families still retain horns (by feeding the mother Et's sap), which were first gifted by Et to their loyal soldiers. -->
 After the Schism, the surviving gats separated into three groups: noves, bughna, and treb.
 Those who remained became known as noves gats, and their ethnicity is the most common in the modern world.
@@ -44,57 +73,75 @@ Treb gats were regarded as brutish, and didn't fit the civilization built by the
 They were exiled by Olag during the second century, and most established a new home in the Dead Sea.
 <!-- NOTE. Treb gats are not *born* brutish. While their culture may seem "violent", they are very religious and show a sophistication with nature that is not commonly seen in other humes. -->
 
-### Physical Description.
-The skin of a gat is generally dark, usually ranging from yellow, through brown, to black.
-While some gats are blonde, the most common hair colors and brown, black, and sometimes red.
-It is a common gat custom to sport long hair and beards, often decorated with jewelry.
-
-With the exception of the treb, gats are generally small, ranging from 140 to 170 centimeters on average.
-Another common feature accross gats is their eyes; which are usually of strong colors.
-
-While all original gats had horns, the feature has been lost through the centuries.
-Those birthed by the remains of the god-tree, or Et-born, retain the horns.
-Yet they are increasingly rare after the Penance, as nix has destroyed the land that surrounds the tree.
-
-<!-- NOTE. Tale of the gestation of an et-born.
-    Gats are genderless creatures.
-    All gats are born with a pair of seeds hidden in a small sack between their legs.
-    Around the age of 30, a gat reaches physical maturity.
-    This is signalled by a slight swelling in these seeds, which they can now cut and plant under a thick layer of rich soil.
-
-    While underground, the seed will grow by leeching nutrients off the earth.
-    After a gestation period of around 2 years, the gat will dig their way up from the ground and emerge as a somewhat competent infant.
-    A gat would-be-parent must always be careful about where to plant their seed, for if a newborn sees the sun or any strong light during their first days, they run the risk of being permanently blinded.
--->
-
 ### Traditions and Religion
-**NOTE. Focus on Noves gats.**
+<!-- NOTE. Noves culture has its members remain at home a lot. Either lean into this or figure out more collective celebrations. -->
+**Families and Guilds.**
+To the noves, a family is defined as the group of people with which one shares housing.
+Most members of a family share a profession, and large families are known as guilds.
+The head of a family is either its oldest member or someone designated by them.
 
-**Birth.**
-**TODO.**
-
-**Adulthood and Families.**
-**TODO.**
+When a child is born, they become a member of the mother's family.
+Most children know who their parents are, but childcare is a communal endeavor.
+<!-- NOTE. Many members of a child's family have an important role in their development, and a special place in their heart :). -->
+From their 14th birthday onward, a gat can choose to join another family.
+They need to be accepted by the head of the receiving family.
+The departure is often accompanied by a ceremonial feast shared by the two families.
 
 **Death.**
-**TODO.**
+Accross gat culture, the dead are said to protect their families after their death.
+The old tradition is to bury the dead below the family house, especially under doors and windows.
+Being below their loved ones aids the dead in their protection.
+<!-- NOTE. The pheter in the bones of the dead literally aids the family by keeping nix out, but this effect is minor. -->
 
-**Tanethism.**
-**TODO.**
+After the Penance, it has become common to burn some of the dead at the center of towns and villages.
+This helps in staving off nix, as the charred bones release their pheter.
+The specific tradition is chosen by the family, but burnings are commonly mandated when nix is on high tide.
+<!-- NOTE. On the death of royalty. Kings and the royal family are burned after death. After that, their bones are placed on a giant mausoleum, all mixed together to accumulate their pheter. -->
+<!-- NOTE. I could play more with nix tides. Maybe relate them to the moons? -->
 
-**NOTE. Noves gats have communal families. It is common for a child to know who their father and mother are, but usually many member of their families have an important role in their growth and a special place in their heart :).**
+**Bughna moon rituals.**
+The bughna have a special admiration towards Kegal, the indigo moon.
+In particular, the nomadic patterns of animal herders are aligned to the moon phases.
+The search for new grazing grounds only occurs while the Kegalian world signature is in phase.
+Bughna gats feel protected by the signature's gaze.
+<!-- NOTE. Bughna also celebrate thunderstorms as portents of Kegal. -->
+<!-- NOTE. Kegal is the moon with an stupid-large apomantic signature etched to its face. It's a very complex signature, used by Pheter to conduct lightning to Et. -->
 
-**TODO. Mention Bughna and Treb gats in one paragraph.**
+**Aversion to piercing.**
+One thing in common accross all gats is their aversion to piercing weapons, especially after the Penance.
+Puncture wounds are believed to cause an excessive leakage of pheter.
+This means that not only the victim's body is damage, but some of their soul leaks as well.
+For this reason, gravely piercing another hume is punished by death.
+<!-- NOTE. The soul is the pheter stored in a body. -->
+<!-- NOTE. Olag punished traitors by impaling them in pikes, but without crossing major organs (idk how tho?). Then, not only did they bleed slowly, but they could feel their soul leaking away. -->
 
-### Origins and History
-**TODO. Focus on Noves gats.**
+**Religion.**
+Tanethism is the most common religion in Yuadrem.
+It is the most common belief of all gats since the fifth century. <!-- TODO. This year might change soon!!!! -->
+Despise its popularity, Tanethism is a personal religion.
+Altars to certain gods are common, but established institutions to them are a rare sight, and is even prohibited in some provinces.
 
-**TODO. Mention Bughna and Treb gats in one paragraph.**
+Apart from providing the list and description of the religion's gods, the book of Taneth details the myriad of rituals to each of them.
+Most gats have a predilection toward certain gods, and include some of them into daily life.
+Treb are particularly religious.
+Often liturgy is attached to any activity an individual deems important.
 
 ### Names
-**TODO. Focus on Noves gats.**
+**TODO. Mention that naming traditions started before the Schism. Long names are common across ll gats to recognize their history, but the nature of each name is different for each ethnicity.**
 
-**TODO. Mention Bughna and Treb gats in one paragraph.**
+<!-- NOTE. On names.
+    * Maybe add long names in the Fesh peninsula? Like:
+    * "personal name (chosen by yourself)" "profession name" "family name" "tribe name" "region name"
+    * it wouldn't make sense to have the name of the father, and then the father's father, etc (due to the appreciation of the community over the individual), but the family name can become very long in the case of mixed tribe-families
+    * A person can be referred to any name inside their long names, but there's one used more commonly - tho it isn't constant. Someone from far away could be referred to by their tribe name, a family-leader/merchant figure could be referred to by their family name, inside their house they may be referred to by their personal name, etc.
+    * oths hate this - organizing family trees and keeping track of historic figures is a total pain
+    * these names are not officialized
+    * "personal name (chosen by yourself)" "profession name" "family name" "tribe name" "region name" "greatest achievement name (sometimes)"
+    * sometimes these names change over time, and names are not oficial
+    * or recorded
+    * "personal name (chosen by yourself)" "profession name" "family name" "tribe name" "region name" "honorific title (sometimes)"
+    * just knowing someone's full name gives you a lot of information on that person.
+-->
 
 <!-- % !TEX root = ../main.tex
 \section{Horned Kin} \label{kin::gat}
@@ -265,7 +312,7 @@ The prize that will arrive after they're done working is sure to outshine all yo
 
 **TODO. One paragraph on Dratl Irds.**
 
-### Physical Description.
+### Physical Characteristics
 **TODO.**
 
 ### Traditions and Religion

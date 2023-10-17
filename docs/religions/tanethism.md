@@ -8,6 +8,7 @@ To write it, the scholar traveled all around the various principates and city-st
 He ended up with an exhaustive compilation of the more than a thousand deities praised in the region.
 In this taxonomy, Taneth classified the similitudes and differences between each god.
 Based on these similitudes, he then proposes a reduced pantheon in which similar gods coalesce, along with a clear, tiered hierarchy between them.
+<!-- TODO. Maybe change dates here, make them earlier. -->
 
 Taneth's work was barely known during his life.
 He died shortly after the publication, and not even his birth date is know.
@@ -53,7 +54,7 @@ She is depicted as a horned hume, raising a green bident in celebration.
 Her manifestation is wood.
 She is often depicted as a hume, crowned by a pair of horns in the shape of a crescent moon.
 * **Phusinhe** or **Kegal** is the goddess of Purple, chaos, and the stars.
-Her manifestation is metal.
+Her manifestation is metal and lightning.
 She is depicted as a gargantuan turtle with a shell shining with stars.
 * **Vahagn** is the god of Red, heaviness, and mountains.
 His manifestation is fire.
@@ -93,9 +94,9 @@ Its complex root system forms the many islands of Mbeat.
 The tree, along with the forest surrounding it, is an essential part of the ecology of the fjord.
 
 #### Tovasic Gods
-Ocassionally, when a mortal is of particular interested to a mevic god, they will be ascended to a tovasic god, or *second god*, when they die.
+Occasionally, when a mortal is of particular interested to a mevic god, they will be ascended to a tovasic god, or *second god*, when they die.
 As deities, they live in the Ring of Color, where they continue to watch over Yuadrem after their mortal death, in company of the mevic gods.
-TODO. Mention that this list is not complete *at all*.
+<!-- TODO. Mention that this list is not complete *at all*. -->
 
 * **Vugar** is the god of family and fertility.
 As a mortal, he was a prince of Vamerit, and was renowned for establishing laws pertaining familiar and hereditary rights to the Seven Principates.

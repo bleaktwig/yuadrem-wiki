@@ -25,7 +25,27 @@ Detached barkskins often have a lifespan of only a few decades.
 
 ---
 ## Culture
-**TODO.**
+### Origins and History
+Barkskins were created by the tree god Tek in Drejek.
+The year in which this happened is unknown, but it is known that the first barkskins were made from corpses of the ird diaspora. <!-- TODO. Mention the ird diaspora (four ird migrations) in History. Maybe even an ird diaspora map would be cool? Simple one made from the world map, with arrows pointing to all the movement! -->
+The original barkskins built only basic houses and structures.
+They lived alongside Tek, and dedicated their lives to the health and growth of Drejek.
+
+Barkskins were originally reserved, and did not interact with humes until the year 141 A.S.
+The irds of the qul archipelago sought to build communities in Drejek, but were quickly repelled by the barkskins.
+This relationship never cooled, and this extended to the Seven Principates -- no alliance was established between the jungle dwellers and the greater world.
+
+After the Penance, Tek and the barkskins were thought to be lost to Nix.
+This was proved wrong in 734 A.S.
+Tek detached a large part of Drejek, and dragged it through the nix to the Fesh Peninsula.
+The landmass collided with the Punica Peaks, now forming the Drejek Highlands.
+
+The contact sparked the Landfall War<!-- TODO. workshop name. -->, a short conflict between the barkskin and **TODO** Kingdom.
+With the end of the war, relationships between them and the humes cooled for the first time.
+<!-- The kin are now collaborating with humes, both seeking to fight against the spread of nix. -->
+While access to the jungle core and Tek themself is still forbidden, humes are allowed to the Highlands.
+In addition, there exists some barkskin immigration toward the Peninsula proper.
+<!-- It's not uncommon to see a small populace of that ethnicity in villages. -->
 
 ### Traditions and Religion
 **Birth.**
@@ -67,28 +87,6 @@ Tekists attain knowledge to later give it to Tek.
 They see themselves as a detached part of the god-tree, and await their eventual return.
 They also commune with Tek through meditation and the consumption of nahan <!-- NOTE. I-water in knaenese -->, a strong psychedelic made by fermenting the sap of the god-tree.
 
-### Origins and History
-Barkskins were created by the tree god Tek in Drejek.
-The year in which this happened is unknown, but it is known that the first barkskins were made from corpses of the ird diaspora. <!-- TODO. Mention the ird diaspora (four ird migrations) in History. Maybe even an ird diaspora map would be cool? Simple one made from the world map, with arrows pointing to all the movement! -->
-The original barkskins built only basic houses and structures.
-They lived alongside Tek, and dedicated their lives to the health and growth of Drejek.
-
-Barkskins were originally reserved, and did not interact with humes until the year 141 A.S.
-The irds of the qul archipelago sought to build communities in Drejek, but were quickly repelled by the barkskins.
-This relationship never cooled, and this extended to the Seven Principates -- no alliance was established between the jungle dwellers and the greater world.
-
-After the Penance, Tek and the barkskins were thought to be lost to Nix.
-This was proved wrong in 734 A.S.
-Tek detached a large part of Drejek, and dragged it through the nix to the Fesh Peninsula.
-The landmass collided with the Punica Peaks, now forming the Drejek Highlands.
-
-The contact sparked the Landfall War<!-- TODO. workshop name. -->, a short conflict between the barkskin and **TODO** Kingdom.
-With the end of the war, relationships between them and the humes cooled for the first time.
-<!-- The kin are now collaborating with humes, both seeking to fight against the spread of nix. -->
-While access to the jungle core and Tek themself is still forbidden, humes are allowed to the Highlands.
-In addition, there exists some barkskin immigration toward the Peninsula proper.
-<!-- It's not uncommon to see a small populace of that ethnicity in villages. -->
-
 ### Names
 A barkskin is born without a name, and remain nameless most of their youth.
 They decide on a name when they join a potential family in the adulthood ritual.
@@ -105,7 +103,7 @@ Some population groups have formed inside hume villages.
 The largest of these are **TODO**.
 It is unknown if other settlements exist outside of the peninsula.
 
-<!-- TODO. Draw a map of the movement of the barkskin out of Drejek and mark large barkskin population centers. Reference Na'ane stuff. -->
+<!-- TODO. Draw a map of the movement of the barkskin out of Drejek (post-landing) and mark large barkskin population centers. Reference Na'ane stuff. -->
 
 ### Subgroups
 **TODO.**
