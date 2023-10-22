@@ -35,6 +35,7 @@ It is a common gat custom to sport long hair and beards, often decorated with je
 
 With the exception of the treb, gats are generally small, ranging from 140 to 170 centimeters on average.
 Another common feature accross gats is their eyes; which are usually of strong colors.
+This feature is often attributed as a blessing of Color given by Et.
 
 While all original gats had horns, the feature has been lost through the centuries.
 Those birthed by the remains of the god-tree, or Et-born, retain the horns.
@@ -162,10 +163,23 @@ Adrevik, Ani, Anush, Armen, Avag, Gagik, Garen, Gevog, Gohar, Grigor, Hak, Harig
 ---
 ## Ird Culture
 <!-- NOTE. Those who refused the War of Spring, sieged Ctereth and diaspora'd the fuck out of Naptane. They are said to have been cursed with feathers by Et (since they "fled"). Qulbaba irds wore a lot of colourful feathers, which lends to the confusion. -->
-### Distinctive Characteristics
-**TODO.**
 
-<!-- TODO. Clothing. --->
+### Distinctive Characteristics
+Irds are usually easy to recognize due to their size, which on average is about 175 centimeters.
+Their skin color varies greatly, usually matching they environment they live in.
+Their eye color is also assorted, yet are often less saturated than that of a gat.
+
+Qulbaba and dratl irds are rather slender, while the thulkraka are generally broad.
+Hair color is also a feature commonly used to determine the ethnicity of an ird.
+Thulkraka irds often have either blonde, black, or ginger hair.
+Then, the qulbaba have brown hair, usually in dark shades.
+Dratl irds have light brown or orange hair, which tends to gray at an earlier age than other humes.
+
+<!-- TODO. Clothing -->
+Irds were said to have been cursed with feathers when they fled the War of Spring.
+While they don't actually grow feathers, a common feature in ird attire is the usage of plumage in their clothing.
+Before the Penance, the color of their clothing depended on their ethnicity.
+Now, colorful feathers are usually only used in traditional rituals, as most fear the effect the colors may have on their bodies.
 
 ### Origins and History
 **TODO.**
@@ -198,21 +212,6 @@ Trust me, if they weren't so humble as to live among us, constrained to the grou
 \hspace*{\fill} --- Josiah, priest from the church of Rhekesh.
 
 Sequestered in high mountains, deep jungles, and hot deserts, the irds, sisz rlue, or winged kin are known to survive some of the harshest environments all around Yuadrem.
-
-\subsection*{Beak and Feather}
-    From below, irds look much like large birds.
-    Only when they descend to roost or walk in the ground does their humanoid appearance reveal itself.
-    Standing upright, an ird might reach 2 meters tall.
-    They have long, narrow legs that taper to sharp talons.
-
-    Feathers cover their bodies, with their plumage typically reflecting the environment they develop in.
-    Their heads complete the avian appearance, being that of a parrot, hawk, or vulture.
-    Irds' arms have very long feathers, which allow them to fly with ease.
-    The three subraces of the irds are very distinct from each other.
-    This is due to the fact that they were created by three different ets, all in pursuit of a same goal, yet for different environments.
-
-    The winged kin are the only gendered species created by the tall kin.
-    Some time after reproduction, a female will lay one to three eggs and the couple will refrain from contact with others in their tribe, becoming extremely protective of their children until they reach maturity.
 
 \subsection*{Sky Wardens}
     Nowhere are the irds more comfortable than in the sky.
