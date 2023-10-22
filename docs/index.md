@@ -74,6 +74,8 @@ A non-exhaustive list of the current known ones is:
 
 <!-- ETHNOLOGY ---------------------------------------------------------------->
 ### Ethnology
+![Migration Map of Yuadrem](img/migration_routes_v083.pdf)
+
 The peoples of Yuadrem are separated into four distinct kins.
 Kins are separated by progeny, and they cannot mix with each other.
 All kins are further separated by ethnic differences.
