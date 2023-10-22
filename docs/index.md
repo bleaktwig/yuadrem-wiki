@@ -74,7 +74,8 @@ A non-exhaustive list of the current known ones is:
 
 <!-- ETHNOLOGY ---------------------------------------------------------------->
 ### Ethnology
-![Migration Map of Yuadrem](img/migration_routes_v083.pdf)
+![Migration Map of Yuadrem](img/migration_routes_v083.svg)
+<!-- TODO. Description of the image. -->
 
 The peoples of Yuadrem are separated into four distinct kins.
 Kins are separated by progeny, and they cannot mix with each other.
@@ -160,6 +161,8 @@ While it might be hard to pinpoint the exact number of religions in Yuadrem, a f
 ### Languages
 **TODO.**
 ![Language Tree](img/language_tree_v022.png)
+<!-- TODO. Description of the image. -->
+
 <!-- \begin{table*}[b]%
     \begin{DndTable}[width=\linewidth]{X}
         \centering
