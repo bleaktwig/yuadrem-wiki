@@ -159,7 +159,7 @@ While it might be hard to pinpoint the exact number of religions in Yuadrem, a f
 <!-- LANGUAGES ---------------------------------------------------------------->
 ### Languages
 **TODO.**
-![Language Tree](img/language_tree_v021.png)
+![Language Tree](img/language_tree_v022.png)
 <!-- \begin{table*}[b]%
     \begin{DndTable}[width=\linewidth]{X}
         \centering
