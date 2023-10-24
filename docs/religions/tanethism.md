@@ -82,7 +82,9 @@ The outside rim of its burnt stump acts as the outer wall of Naptane, the ruined
 A birch like its parent, Tol created the enigmatic kin of the [oths](../kins/oth.md).
 * **Uld** is the tree of Phusinhe, a kapok of astonishing height.
 It extends upwards as far as the eye can see, its purple leaves providing shade to the entirety of the [everwoods](../world/everwoods.md).
-Phusinhe herself sits upon its branches every few years, making for a spectacular vista. <!-- TODO. Check the timing is correct with Kegal's cicle. -->
+Phusinhe herself sits upon its branches every few years, making for a spectacular vista.
+<!-- TODO. Check the timing is correct with Kegal's cicle. -->
+<!-- TODO. Uld died in the Tidal Sway! That's why the Rashiists were exiled. -->
 * **Kan** is the tree of Vahagn, a plant unique in Yuadrem.
 Red branches extend upward at the top of hundreds of meters of a dark gray trunk.
 The tree captures electricity from the clouds, and erupts into seasonal firestorms that define the landscape of Krejek<!-- TODO. Link. -->.

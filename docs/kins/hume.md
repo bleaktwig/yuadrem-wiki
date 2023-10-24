@@ -2,7 +2,7 @@
 Et created humes to aid the oric god in the War of Spring.
 Despite this, many opposed the conflict, or felt indifferent to it.
 They fled the company of their god-tree, for which they were cursed with feathers.
-They came to be known as irds, and this dispersion came to be known as the Ird Diaspora.
+They came to be known as irds, and this dispersion came to be known as the Ird Diasporas.
 <!-- NOTE. This led to the first siege of Ctereth, where four different ird chiefdoms (led by 4 historic figures) stole qualars to allow their kin to travel away from Naptane. -->
 The humes that remained with Et were blessed with horns, and are known as gats.
 <!-- NOTE. Maybe mention what ird and gat mean in jantherlin? That might help integrate the language into the lore. -->
