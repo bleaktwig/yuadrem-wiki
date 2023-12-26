@@ -5,7 +5,7 @@ Born as a counter-culture to statism, liberalists advocate for individual action
 While some expansion has occurred under the statist government, it has been slow.
 Liberalists claim that allowing people to travel unbound by state law should speed up this search.
 Simultaneously, they campaign for an unregulated market and less control on weapons.
-This philosophy is to allow the accumulation of capital, thus allowing the individual to explore further out in the islet.
+This philosophy is to allow the accumulation of capital, thus allowing the individual to explore further out in the isola.
 
 ## Principal Beliefs
 * **Progress in Growth**.
@@ -27,7 +27,7 @@ Naturally, this seriously limits any capacity of the people to establish new set
 
 * **Free market**.
 A deregulation of market should help individuals accumulate capital.
-Untrusting of the state, they see this accumulation as a mean to finance exploration to the far reaches of the islet.
+Untrusting of the state, they see this accumulation as a mean to finance exploration to the far reaches of the isola.
 
 ## Relation to Other Doctrines
 * [**Statism**](../statism).

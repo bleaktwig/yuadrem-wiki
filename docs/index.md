@@ -15,7 +15,7 @@ Om was a short and stout juniper, vigorous and prodigious.
 These two gods were ever locked in combat, yet none could take the upper hand.
 This conflict became known as the War of Spring.
 
-To aid in the eternal conflict, Et created the humes<!-- TODO. Link. -->, a kin as pliable and adaptable as the god.
+To aid in the eternal conflict, Et created the humes<!-- TODO. Link. -->, a kin as malleable as the god.
 Et bestowed upon humes Apomantics<!-- TODO. Link. -->, and taught them to wage war using Word.
 Om in turn created marsets<!-- TODO. Link. -->, a smaller kin able to traverse the forests of Et's children with ease.
 The marsets were gifted Chromology<!-- TODO. Link. -->, and fought using Color.
@@ -33,10 +33,10 @@ This event marks the year 0, and the beginning of history.
 <!-- TODO. Change "God-king" to "God-suzerain" in the map. -->
 
 ***Pictured:***
-*Trade map of Yuadrem, drawn in 604 A.S. by Marim of Avshen under the commission of Olag, the God-Suzerain of Naptane.*
+*Trade map of Yuadrem, drawn in 604 A.S. (After the Schism) by Marim of Avshen under the commission of Olag, the God-Suzerain of Naptane.*
 *The region colored in green corresponds to the Seven Protectorates of the Sea.*
 *Other colors represent the tax and penalty applied to trade in those regions.*
-*This map proves the healthy state of maritime travel and trade in the golden age.*
+*This map is proof of the healthy state of maritime travel and trade during the golden age.*
 
 Yuadrem is a supercontinent, the only such landmass in the world Darhoc.
 The topography is varied, split by four different mountain ranges.
@@ -46,8 +46,8 @@ Due to its size, Yuadrem is often divided into six distinct regions: the [Northe
 In addition, the four oceans that surround it are:
 
 * The Frigid Ocean to the north-east, which is known for its low temperatures and abundance of migratory idzels<!-- TODO. Link. -->.
-* The warm Teal Ocean to the north-west, home to a very varied marine life.
-* The Burnt Ocean to the east, surprisingly devoid of activity.
+* The warm Teal Ocean to the north-west, home to a variety marine life.
+* The Burnt Ocean to the east, both devoid of life and impossible to sail since the landing of Cabb Goem-Rlamesh.
 * The Southern Ocean to the south, the least explored of the four.
 
 --------------------------------------------------------------------------------
@@ -55,22 +55,14 @@ In addition, the four oceans that surround it are:
 ## Demography
 ### Population
 Back in the golden age, Yuadrem was split into various nations, each with their own population centers and varied economies.
-This era of peace lasted until the death of god-suzerain Olag<!-- TODO. Link. -->, an event that sparked the Penance<!-- TODO. Link. -->.
-With the nix<!-- TODO. Link. --> unrolling over Yuadrem, population is now separated into islets.
+This era of peace lasted until the death of god-suzerain Olag<!-- TODO. Link. --> in 621 A.S. (After the Schism), an event that sparked the Penance<!-- TODO. Link. -->.
+With the Penance<!-- TODO. Link. -->, an irisdescent tar known as nix<!-- TODO. Link. --> began rolling over the continent.
+This caused mass migrations, separating the peoples into isolas.
 
-An islet is defined as a region devoid of nix.
-Islets come about in one of two ways: A region can be protected by an Illuminant<!-- TODO. Link. --> or another such method, or it can be inaccessible by nix due to its topography.
-The largest example of the former is the Fesh Peninsula<!-- TODO. Link. -->.
-Many small islets exist thanks to the latter, but the largest ones would be [Krugghom](islets/krugghom/index.md) and the [Steldan Islet](islets/steldan_islet/index.md).
-Exploration outside of islets is very limited, and contact between them is rare.
-
-Islets are commonly named either after the region, nation, or state that stood where they now are.
-A non-exhaustive list of the current known ones is:
-
-* Fesh Peninsula.
-* Wildlands.
-* [Krugghom](islets/krugghom/index.md).
-* [Steldan Islet](islets/steldan_islet/index.md).
+An isola is defined as a region either devoid of nix, or only seasonably affected by it.
+Most isolas are protected by their topography, often aided by strong sorcerers known as Illuminants<!-- TODO. Link. -->.
+Up to the year 800 A.S., the only known isola was the Fesh Peninsula<!-- TODO. Link. -->.
+After the arrival of the nixwalkers<!-- TODO. Link. -->, dentrala<!-- TODO. Link. --> apomancers<!-- TODO. Link. --> who travel over the vapors released by nix, it is now known that at least three others isolas exist: [Krugghom](isolas/krugghom/index.md), the [Steldan Isola](isolas/steldan_isola/index.md), and the Coldmist Gorge<!-- TODO. Link. -->.
 
 <!-- ETHNOLOGY ---------------------------------------------------------------->
 ### Ethnology
@@ -80,7 +72,7 @@ A non-exhaustive list of the current known ones is:
 The peoples of Yuadrem are separated into four distinct kins.
 Kins are separated by progeny, and they cannot mix with each other.
 All kins are further separated by ethnic differences.
-These differences led to the formation of nations, whose erosion later led to the islets.
+These differences led to the formation of nations, whose erosion later led to the isolas.
 
 [Humes](kins/hume.md), born from Et, are as adaptable as their creator.
 <!-- They became the dominant kin in Yuadrem after the Schism, and remain in this position even after the Penance. -->
@@ -327,7 +319,7 @@ The ash from the burned god-trees engulfs Yuadrem, sparking the Age of Dark with
 ### Golden Age
 *195 to 621 A.S.*
 
-* **TODO. Birth of Oths.**
+* **TODO. Nascency of Oths.**
 
 <!-- AGE OF FOG --------------------------------------------------------------->
 ### Age of Fog

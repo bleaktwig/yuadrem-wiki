@@ -2,7 +2,7 @@
 <!-- INTRODUCTION ------------------------------------------------------------->
 The Northern Territories span from the northmost point of Yuadrem, the Coldmist Gorge<!-- TODO. Add to map! -->, down to the Sulfur Lake.
 The region is split into two by the Wall of Ice and Stone<!-- TODO. Link. -->, a colossal mountain range that spans from coast to coast.
-While travel to and from the region is very rare, three islets are known to exist within it: the [Krugghom Islet](../islets/krugghom/index.md), the Coldmist Islet<!-- TODO. Link. -->, and the [Steldan Islet](../islets/steldan_islet.md).
+While travel to and from the region is very rare, three isolas are known to exist within it: the [Krugghom isola](../isolas/krugghom/index.md), the Coldmist isola<!-- TODO. Link. -->, and the [Steldan isola](../isolas/steldan_isola.md).
 
 <!-- GEOGRAPHY ---------------------------------------------------------------->
 ## Geography
@@ -50,14 +50,14 @@ After the Penance, only two cultures remain in the region: the irds of Krudzal a
 
 #### Krudzal Nation
 Krudzal was once a proud nation, locked in an everlasting war with the giants<!-- TODO. Link. -->.
-It now only spans three small islets: Krugghom, Coldmist, and the Steldan Mountains<!-- TODO. Add to map. -->.
-The islets are connected through a complex network of caverns and short highways through the nix.
+It now only spans three small isolas: Krugghom, Coldmist, and the Steldan Mountains<!-- TODO. Add to map. -->.
+The isolas are connected through a complex network of caverns and short highways through the nix.
 
 In total, the nation has a population of about 80,000 inhabitants, mostly irds.
 They are known for their extreme resilience, managing to acclimate both to the harsh habitat and to the nix.
 
 #### Ribinhep Communes
 In addition to the irds, small ume communes roam the Red Fjord and Stinos.
-While they mostly stay in the former, their merchants approach both the Steldan and the Coldmist islets on a regular basis.
+While they mostly stay in the former, their merchants approach both the Steldan and the Coldmist isolas on a regular basis.
 These umes are nomadic, and are able to roam the nix thanks to their qualars<!-- TODO. Link. -->.
 It is impossible to ascertain their exact population number, but it is estimated to be in the few thousands.

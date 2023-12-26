@@ -1,11 +1,11 @@
 # Statism
 *Longevity Above All*.
 
-Statists believe that a strong state can lead the islet to security and longevity.
+Statists believe that a strong state can lead the isola to security and longevity.
 The doctrine was born after [The Penance](TODO), and have been dominant for the whole [postpenance era](TODO).
 Statism reacts to the immediate and long-term thread of [nix](TODO).
 Via a strong state, it seeks to preserve the citizens of [Krudzal](TODO).
-The dominant doctrine of the steldan islet, it is the basis upon which the government is built.
+The dominant doctrine of the steldan isola, it is the basis upon which the government is built.
 
 ## Principal Beliefs
 * **Longevity above all**.
@@ -41,6 +41,6 @@ While the state hasn't condemned her, protests and unrest are becoming common in
 
 * [**Recuperationism**](../recuperationism).
 Statism is not directly opposed to recuperationism, but it is only a secondary focus when poised against the welfare of the individual.
-Most citizens of the islet don't take the doctrine seriously, thinking it an impossible dream.
+Most citizens of the isola don't take the doctrine seriously, thinking it an impossible dream.
 While this mostly remains true today, it gained traction after the previous [ead](../hierarchy) [Nernet](TODO) annouenced the Steldan Debridement Front.
 This front is dedicated to understanding the nix, and ideally venturing into it in the near future.

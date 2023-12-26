@@ -133,4 +133,4 @@ She is now depicted with golden hair and clothes made of flowers.
 The truhetic beings, commonly known as *illuminants*, are mortals selected by a mevic or tovastic god to conduct pheter.
 They remain mortal after being anointed, and most move on to become the protagonists of legends.
 Some commonly known illuminants are Olag the god-suzerain<!-- [Olag the god-suzerain](TODO) -->, the Immortal Queen Elña<!-- [Immortal Queen Elña](TODO) -->, Anush, Do Zazuzu, Jirar, Jirek, Vakris, and Zuleija, among others.
-<!-- TODO. Talk about the four illuminants of the Fesh peninsula and how they keep the islet now. -->
+<!-- TODO. Talk about the four illuminants of the Fesh peninsula and how they keep the isola now. -->
