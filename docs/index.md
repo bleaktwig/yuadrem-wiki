@@ -8,22 +8,25 @@ TODO LIST:
 * Check links **regularily**. They break often.
 -->
 
-Yuadrem was first settled by the firstborn oric gods, Et<!-- TODO. Link. --> and Om<!-- TODO. Link. -->.
-These two gods were planted by the god of disparity, Pheter<!-- TODO. Link. -->.
-Et was a large and thin birch, pliable and adaptable.
-Om was a short and stout juniper, vigorous and prodigious.
-These two gods were ever locked in combat, yet none could take the upper hand.
-This conflict became known as the War of Spring.
+Yuadrem was first settled by the firstborn oric gods, Et<!-- TODO. Link. --> and
+Om<!-- TODO. Link. -->. These two gods were planted by the god of disparity,
+Pheter<!-- TODO. Link. -->. Et was a large and thin birch, pliable and
+adaptable. Om was a short and stout juniper, vigorous and prodigious. These two
+gods were ever locked in combat, yet none could take the upper hand. This
+conflict became known as the War of Spring.
 
-To aid in the eternal conflict, Et created the humes<!-- TODO. Link. -->, a kin as malleable as the god.
-Et bestowed upon humes Apomantics<!-- TODO. Link. -->, and taught them to wage war using Word.
-Om in turn created marsets<!-- TODO. Link. -->, a smaller kin able to traverse the forests of Et's children with ease.
-The marsets were gifted Chromology<!-- TODO. Link. -->, and fought using Color.
+To aid in the eternal battle, Et created the humes<!-- TODO. Link. -->, a kin as
+malleable as the god. Et bestowed upon humes Apomantics<!-- TODO. Link. -->,
+teaching them to wage war using Word. Om in turn created
+marsets<!-- TODO. Link. -->, a smaller kin able to traverse the forests of Et's
+children with ease. The marsets were gifted Chromology<!-- TODO. Link. -->, and
+fought using Color.
 
-The conflict ended with the burning of Om, an event known as the Schism<!-- TODO. Link. -->.
-Pheter, angered by the death of the god, retaliated by striking Et with lightning<!-- TODO. Link. -->.
-The blast burned the god-tree, and brought the 40-Year Famine to both humes and marsets.
-This event marks the year 0, and the beginning of history.
+The conflict ended with the burning of Om, an event known as the
+Schism<!-- TODO. Link. -->. Pheter, angered by the death of the god, retaliated
+by striking Et with lightning<!-- TODO. Link. -->. The blast burned the
+god-tree, and brought the 40-Year Famine to both humes and marsets. This event
+marks the year 0, and the beginning of history.
 <!-- NOTE. I should add lotsa links here... -->
 
 --------------------------------------------------------------------------------
@@ -31,10 +34,11 @@ This event marks the year 0, and the beginning of history.
 ## Geography
 ![Map of Yuadrem](img/world_map_y604_v083.png)
 ***Pictured:***
-*Trade map of Yuadrem, drawn in 604 A.S. (After the Schism) by Marim of Avshen under the commission of Olag, the God-Suzerain of Naptane.*
-*The region colored in green corresponds to the Seven Protectorates of the Sea.*
-*Other colors represent the tax and penalty applied to trade in those regions.*
-*This map is proof of the healthy state of maritime travel and trade during the golden age.*
+*Trade map of Yuadrem, drawn in 604 A.S. (After the Schism) by Marim of Avshen
+under the commission of Olag, the God-Suzerain of Naptane. The region colored in
+green corresponds to the Seven Protectorates of the Sea. Other colors represent
+the tax and penalty applied to trade in those regions. This map is proof of the
+healthy state of maritime travel and trade during the golden age.*
 
 Yuadrem is a supercontinent, the only such landmass in the world Darhoc.
 The topography is varied, split by four different mountain ranges.
