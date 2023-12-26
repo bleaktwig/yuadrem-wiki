@@ -29,9 +29,7 @@ This event marks the year 0, and the beginning of history.
 --------------------------------------------------------------------------------
 <!-- GEOGRAPHY ---------------------------------------------------------------->
 ## Geography
-![Map of Yuadrem](img/world_map_v083.png)
-<!-- TODO. Change "God-king" to "God-suzerain" in the map. -->
-
+![Map of Yuadrem](img/world_map_y604_v083.png)
 ***Pictured:***
 *Trade map of Yuadrem, drawn in 604 A.S. (After the Schism) by Marim of Avshen under the commission of Olag, the God-Suzerain of Naptane.*
 *The region colored in green corresponds to the Seven Protectorates of the Sea.*
@@ -45,7 +43,7 @@ Due to its large extension from north to south, the climate and ecology vary wid
 Due to its size, Yuadrem is often divided into six distinct regions: the [Northern Territories](world/northern_territories.md), the [Westlands](world/westlands.md), the [Fractured Lands](world/fractured_lands.md), the [Sunland](world/sunland.md), the [Savage Territories](world/savage_territories.md), and the [Wildlands](world/wildlands.md).
 In addition, the four oceans that surround it are:
 
-* The Frigid Ocean to the north-east, which is known for its low temperatures and abundance of migratory idzels<!-- TODO. Link. -->.
+* The Frigid Ocean to the north-east, which is known for its low temperatures and abundance of migratory idzels<!-- TODO. Link. -->, large sea monsters famous for wrecking ships during the golden age.
 * The warm Teal Ocean to the north-west, home to a variety marine life.
 * The Burnt Ocean to the east, both devoid of life and impossible to sail since the landing of Cabb Goem-Rlamesh.
 * The Southern Ocean to the south, the least explored of the four.
@@ -66,8 +64,12 @@ After the arrival of the nixwalkers<!-- TODO. Link. -->, dentrala<!-- TODO. Link
 
 <!-- ETHNOLOGY ---------------------------------------------------------------->
 ### Ethnology
-![Migration Map of Yuadrem](img/migration_routes_v083.svg)
-<!-- TODO. Description of the image. -->
+![Migration Map of Yuadrem](img/pre_penance_migration_y787_v012_dpi72.png)
+***Pictured:***
+*Migration map of Yuadrem, drawn in 787 A.S. by the Fremite Monastery in Uvarme.*
+*It includes all known mass movements of people from the ird diasporas of ~80 B.S. to the Na'anian migration of 445 A.S.*
+*Migrations after the Penance are not pictured.*
+*The authors separated the four kins (and gats from irds) using colored lines.*
 
 The peoples of Yuadrem are separated into four distinct kins.
 Kins are separated by progeny, and they cannot mix with each other.
