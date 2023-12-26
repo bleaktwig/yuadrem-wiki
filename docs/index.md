@@ -1,6 +1,6 @@
-# Yuadrem
 **WIP.**
 
+# Yuadrem
 <!--
 TODO LIST:
 * Finish this first index page. It's the first thing player see in the wiki!
@@ -22,7 +22,7 @@ The marsets were gifted Chromology<!-- TODO. Link. -->, and fought using Color.
 
 The conflict ended with the burning of Om, an event known as the Schism<!-- TODO. Link. -->.
 Pheter, angered by the death of the god, retaliated by striking Et with lightning<!-- TODO. Link. -->.
-The blast burned the tree-god, and brought the 40-Year Famine to both humes and marsets.
+The blast burned the god-tree, and brought the 40-Year Famine to both humes and marsets.
 This event marks the year 0, and the beginning of history.
 <!-- NOTE. I should add lotsa links here... -->
 
@@ -72,15 +72,17 @@ After the arrival of the nixwalkers<!-- TODO. Link. -->, dentrala<!-- TODO. Link
 *The authors separated the four kins (and gats from irds) using colored lines.*
 
 The peoples of Yuadrem are separated into four distinct kins.
-Kins are separated by progeny, and they cannot mix with each other.
-All kins are further separated by ethnic differences.
-These differences led to the formation of nations, whose erosion later led to the isolas.
+Each kin was created by a different god-tree, and each was then further divided by ethnic differences.
+These differences led to the formation of nations during the Golden Age, the erotion of which later led to the isolas.
 
-[Humes](kins/hume.md), born from Et, are as adaptable as their creator.
-<!-- They became the dominant kin in Yuadrem after the Schism, and remain in this position even after the Penance. -->
-[Marsets](kins/marset.md), born from Om, are hardy nomads that roam the remaining forests of Yuadrem.
-[Oths](kins/oths.md) are a moth-like kin, a quiet people with a natural tendency towards knowledge.
-[Barkskins](kins/barkskin.md) are bone and wood golems, animated by the god Tek<!-- TODO. Link. -->.
+* [Humes](kins/hume.md), born from Et, are as adaptable as their creator.
+They became the dominant kin in Yuadrem after the Schism, and remain in this position even after the Penance.
+* [Marsets](kins/marset.md), born from Om, are hardy nomads that roam the remaining forests of Yuadrem.
+Decimated by both the War of Spring and posterior genocides, they have proven to be a deceptively hardy people.
+* [Oths](kins/oths.md) are a moth-like kin, a quiet people with a natural tendency towards knowledge.
+Created by the god-tree Tol, they're often seen as enigmatic as their creator.
+* [Barkskins](kins/barkskin.md) are bone and wood golems, animated by the god Tek<!-- TODO. Link. -->.
+While often considered too aggressive for peaceful interaction, an alliance has been recently broken between them and the sumi<!-- TODO. Link. --> of Fremit.
 
 <!-- Ets. --------------------------------------------------------------------->
 <!-- Before these modern kins existed, two kins ruled Yuadrem: the ets and the oms.
@@ -118,7 +120,10 @@ Some worship specific pantheons of gods, others praise unpersonified concepts, a
 From the nature-worshiping folk of Jenkash to the god-birds of Krudzal, each culture performs a set of rituals in the name of their deities, and some even claim to be able to channel their divine power.
 While it might be hard to pinpoint the exact number of religions in Yuadrem, a few are built into the fabric of civilizations, and are easy to tell apart. -->
 
-[Tanethism](religions/tanethism.md), [Tsalemism](religions/tsalemism.md), [Igneism](religions/igneism.md), [Cosmism](religions/cosmism.md).
+* [Tanethism](religions/tanethism.md).
+* [Tsalemism](religions/tsalemism.md).
+* [Igneism](religions/igneism.md).
+* [Cosmism](religions/cosmism.md).
 
 <!-- \begin{table*}[b]%
     \begin{DndTable}[width=\linewidth, header=The Gods of Yuadrem]{p{2cm}p{0.8cm}p{3cm}p{1.8cm}X}
@@ -280,7 +285,7 @@ This makes the study of jantherlin extremely difficult to modern archaeologists.
 ## History
 **TODO.**
 
-**TODO. Mention Tol and Taneth.**
+<!-- **TODO. Mention Tol and Taneth.** -->
 
 <!-- PREHISTORY --------------------------------------------------------------->
 ### Prehistory
