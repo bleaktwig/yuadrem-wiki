@@ -290,7 +290,7 @@ This makes the study of jantherlin extremely difficult to modern archaeologists.
 <!-- PREHISTORY --------------------------------------------------------------->
 ### Prehistory
 * **Nascency of Disparity.**
-The primordial Pheter, god of disparity, is born from Nix.
+The primordial Pheter, god of disparity, is born from nix.
 With Pheter comes the separation of land and sea, and thus Yuadrem is created.
 * **Nascency of Color.**
 From Pheter, the two damic gods are born: Zash, the sun, and Fagal, the darksun.
@@ -317,22 +317,28 @@ The ash from the burned god-trees engulfs Yuadrem, sparking the Age of Dark with
 ### Age of Dark
 *0 to 195 A.S.*
 
-* **TODO. 32 A.S. The Ctereth sieges & the Armies of Healing.**
+**TODO.**
+
+<!-- * **TODO. 32 A.S. The Ctereth sieges & the Armies of Healing.**
 * **TODO. 96 A.S. Founding of Naptane.**
 * **TODO. 141 A.S. Discovery of the barkskins.**
-* **TODO. 195 A.S. Establishment of the 7 principates of the sea and beginning of the reign of the god-suzerain Olag.**
+* **TODO. 195 A.S. Establishment of the 7 principates of the sea and beginning of the reign of the god-suzerain Olag.** -->
 
 <!-- GOLDEN AGE --------------------------------------------------------------->
 ### Golden Age
 *195 to 621 A.S.*
 
-* **TODO. Nascency of Oths.**
+**TODO.**
+
+<!-- * **TODO. Nascency of Oths.** -->
 
 <!-- AGE OF FOG --------------------------------------------------------------->
 ### Age of Fog
 *621 A.S. to present day.*
 
-* **TODO. 734 A.S. Landing of Drejek.**
+**TODO.**
+
+<!-- * **TODO. 734 A.S. Landing of Drejek.** -->
 
 <!-- NOTE. Present day: 802 A.S. -->
 
