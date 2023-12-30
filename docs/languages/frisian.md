@@ -1,3 +1,5 @@
+**WIP**
+
 # A Comparative Grammar of the Frisian Languages
 With special attention to the variety spoken in the Feresi region.
 
@@ -6,15 +8,21 @@ By **TODO**.
 
 ## Syntax
 **Pronouns: NLL**
+
 * **N**: Generally a number, can be
+
     * **1** for 1st person,
     * **2** for 2nd person,
     * **3** for 3rd person, or
     * **I** for the impersonal pronoun.
+
 * **L**: A letter representing quantity, can be
+
     * **S** for singular,
     * **P** for plural.
+
 * **L**: A letter representing the type of pronoun, can be
+
     * **S** for subject,
     * **O** for object,
     * **P** for possessive,
@@ -25,11 +33,14 @@ By **TODO**.
     * **Ind** for indicative.
 
 **Verbs: TTTNL**
+
 * **TTT**: A trio of letter, indicating the time of the verb.
 Can be
+
     * **INF** for infinitive,
     * **PAS** for past tense, or
     * **PRE** for present tense.
+
 * **N**: A number, indicating the type of person (see the **N** in pronouns).
 * **L**: A letter, representing the quantity of the associated pronoun (See the second **L** in pronouns).
 
