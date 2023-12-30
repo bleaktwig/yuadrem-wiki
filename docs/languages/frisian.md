@@ -104,16 +104,20 @@ Can be
 Frisian, as well as the other languages derived from Avshenese, are of a mixed constituent order.
 Yet, they are all Subject-Object-Verb (SOV) languages.
 
-1. **e te gume kukufe**\
-    3SS - 3SP home - PST3S leave\
+1. **e te gume kukufe**
+
+    3SS - 3SP home - PST3S leave
+
     "He left his home"
 
 ### Verb Phrase
 Adverbs only precede the verb.
 In the following example, we see **xerevo** *already/previously* precedes the verb **fufuse** *was*.
 
-2. **dad e xa e thate xerevo fufuse fofovene**\
-    (COORD) and - 3SS - (COMP) that [3SS - good - already PST3S is] - PST3S learn\
+2. **dad e xa e thate xerevo fufuse fofovene**
+
+    (COORD) and - 3SS - (COMP) that [3SS - good - already PST3S is] - PST3S learn
+
     "And he learned that he was already good"
 
 ### Noun Phrase

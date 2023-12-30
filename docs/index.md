@@ -7,6 +7,7 @@ TODO LIST:
 * Check if I can link to a section in a file -- that would make links so much
     more useful.
 * Check links **regularily**. They break often.
+* ADD COATIS.
 -->
 
 Yuadrem was first settled by the firstborn oric gods, Et<!-- TODO. Link. --> and
@@ -59,7 +60,7 @@ and abundance of migratory idzels<!-- TODO. Link. -->, large sea monsters famous
 for wrecking ships during the golden age.
 * The warm Teal Ocean to the north-west, home to a varied marine life.
 * The Burnt Ocean to the east, both devoid of life and impossible to sail since
-the landing of Cabb Goem-Rlamesh.
+the landing of Cabb Goem-Rlamesh<!-- TODO. Link. -->.
 * The Southern Ocean to the south, the least explored of the four.
 
 --------------------------------------------------------------------------------
@@ -144,13 +145,13 @@ While it might be hard to pinpoint the exact number of religions in Yuadrem, a f
         Febrid       & B  & Intellect, Wood       & Tanethism & A gat forming a crescent moon with its horns. \\
         The Traveler & BR & Luck, Beer            & Tanethism & An indistinct figure cloaked in light brown robes. \\
         Vugar        & BG & Family, Fertility     & Tanethism & A gat prince dressed in a simple silver toga. \\
-        Vahagn       & R  & Mountains, Fire       & Tanethism & A red quies holding a colossal mace. \\
+        Vahan       & R  & Mountains, Fire       & Tanethism & A red quies holding a colossal mace. \\
         Genadi       & RI & Bravery, Love         & Tanethism & A grung warrior carrying a sword and a lute. \\
         Sakris       & RS & Fun, Wine             & Tanethism & A uman servant carrying cups and wine. \\
         Matevos      & S  & Glory, Water          & Tanethism & An ice zaloth holding a bident and a shield. \\
-        Hanutsh      & SB & Teaching, Books       & Tanethism & A tsanek dressed in scrolls and paper. \\
+        Hanush      & SB & Teaching, Books       & Tanethism & A tsanek dressed in scrolls and paper. \\
         Tamaz        & SG & Wealth, Silver        & Tanethism & A gray ird eternally flying towards the sun. \\
-        Phusinhe     & I  & The Stars, Metal      & Tanethism & A giant tortle with the visage of stars in its shell. \\
+        Fusine       & I  & The Stars, Metal      & Tanethism & A giant tortle with the visage of stars in its shell. \\
         Nadzim       & IB & Justice, the Sky      & Tanethism & A purple oth holding an abacus and a spyglass. \\
         Gathoz       & IS & Secrecy, Murder       & Tanethism & A kinless being with shifting body and face. \\
         Bagrat       & G  & Farming, Earth        & Tanethism & A gat farmer with tools made of gold. \\
@@ -339,6 +340,7 @@ Famine.
 **TODO.**
 
 <!-- * **TODO. Nascency of Oths.** -->
+<!-- * **TODO. Establishment of Tanethism as the main religion.** -->
 
 <!-- AGE OF FOG --------------------------------------------------------------->
 ### Age of Fog

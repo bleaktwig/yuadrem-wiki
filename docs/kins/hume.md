@@ -151,7 +151,7 @@ For example, a gat coming from a different town may be referred to by the name o
 
 Personal names are often easy to pronounce.
 A non-exhaustive list of common ones is:
-Adrevik, Ani, Anush, Armen, Avag, Gagik, Garen, Gevog, Gohar, Grigor, Hak, Harig, Hovsep, Jirar, Kevon, Khadzak, Marim, Narek, Pagran, Poghos, Ruben, Sivadr, Sona, Vahagn, Vefan.
+Adrevik, Ani, Anush, Armen, Avag, Gagik, Garen, Gevog, Gohar, Grigor, Hak, Harig, Hovsep, Jirar, Kevon, Khadzak, Marim, Narek, Pagran, Poghos, Ruben, Sivadr, Sona, Vahan, Vefan.
 
 <!-- NOTE. On names.
     * Oths hate the many names convention - organizing family trees and keeping track of historic figures is a total pain.
