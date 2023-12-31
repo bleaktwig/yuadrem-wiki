@@ -62,7 +62,7 @@ Et is the tree of Febrid, a tall, blue birch of surprising pliability. Et fought
 Tol is a smaller god-tree which grew from the stump of Et. A birch like its parent, Tol created the enigmatic kin of the [oths](../kins/oth.md).
 
 #### Uld
-Uld is the tree of Fusine, a kapok of astonishing height. It extends upwards as far as the eye can see, its yellow leaves providing shade to the entirety of the [Everwoods](,,/geography/wildlands.md#everwoods). Fusine herself sits upon its branches every few years, making for a spectacular vista.
+Uld is the tree of Fusine, a kapok of astonishing height. It extends upwards as far as the eye can see, its yellow leaves providing shade to the entirety of the [Everwoods](../geography/wildlands.md#everwoods). Fusine herself sits upon its branches every few years, making for a spectacular vista.
 <!-- TODO. Check the timing is correct with Kegal's cicle. -->
 <!-- TODO. Uld died in the Tidal Sway! That's why the Rashiists were exiled. Add this as a historic event. -->
 
