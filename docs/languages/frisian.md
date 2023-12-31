@@ -1,4 +1,4 @@
-**WIP**
+**WIP.**
 
 # A Comparative Grammar of the Frisian Languages
 With special attention to the variety spoken in the Feresi region.

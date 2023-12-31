@@ -1,3 +1,5 @@
+**WIP.**
+
 # Cosmism
 **TODO.**
 
@@ -25,3 +27,5 @@ However, what may be shunned in the surface can always find its place undergroun
 There seems to be a deep connection between the search of oneself in the larger scheme of things and the ego death experienced in the tsanek melds.
 Many temples and ritual places exist in the mushroom cities of the cave-dwelling fungal kin, and cosmism is the official religion of the tsanek nation of Na'ane.
 % Tsaneks view the cosmos with curiosity, and seek to understanding through observation and hypotheses. -->
+
+<!-- The Observer & -  & Cosmos, the Unknown   & Cosmism   & A titanic three-eyed slug ridden with tentacles and appendages. -->

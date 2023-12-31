@@ -1,3 +1,5 @@
+**WIP.**
+
 # Tsalemism
 **TODO.**
 
@@ -22,3 +24,6 @@ These and many other natural phenomena of the Northern Territories are explained
 
 The two birds are not worshiped equally, but their wrath is feared by all.
 A sailor may produce a small temple to appease Dzadsiz before sailing, and a cartographer may sing a praise to Jua\~nansiz before taking flight. -->
+
+<!-- Jua\~nansiz  & G  & Day, Sunlight         & Tsalemism & A rainbow-colored heron followed by northern lights. \\
+Dzadsiz      & R  & Night, Darkness       & Tsalemism & A black raven surrounded by never-dispersing mists. \\ -->

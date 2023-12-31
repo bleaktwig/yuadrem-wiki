@@ -1,3 +1,5 @@
+**WIP.**
+
 # Ingeism
 **TODO.**
 
@@ -32,3 +34,12 @@ Seeing the destruction caused by their sister school, the Igenists hid the knowl
 
 Igneism is the worship of the tides as a concept, and the active pursuit of keeping the five balanced.
 Igneists recognize that sentience cannot exist without the tides, and praise them as thanks for the capacity of independent thought. -->
+
+<!-- The Scholar  & B  & Reason, Knowledge     & Igneism   & A many-armed blue oth reading multiple books. \\
+The Zealous  & R  & Passion, Zeal         & Igneism   & A red dratl ird standing over a sand dune. \\
+The Star     & S  & Admiration, Fame      & Igneism   & A naked tall one, sometimes replaced by a shadow or a uman. \\
+The Equalist & I  & Justice, Equity       & Igneism   & An indigo gat holding a spear and a coin. \\
+The Altruist & G  & Empathy, Compassion   & Igneism   & A furtive golden marset carrying a basket full of eggs. \\
+The Sorrow   & -  & Balance, Punishment   & Igneism   & An indistinct cloaked figure holding a bloody heart. \\ -->
+
+<!-- Changing God & -  & Secrecy, Manipulation & Rashiism  & A robed oth with a featureless bronze mask. \\ -->
