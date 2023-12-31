@@ -42,7 +42,7 @@ green corresponds to the Seven Protectorates of the Sea. Other colors represent
 the tax and penalty applied to trade in those regions. This map is proof of the
 healthy state of maritime travel and trade during the golden age.*
 
-Yuadrem is a supercontinent, the only such landmass in the world Darhoc. The
+Yuadrem is a supercontinent, the only such landmass in the world, Darhoc<!-- TODO. Link. -->. The
 topography is varied, split by four different mountain ranges. Due to its large
 extension from north to south, the climate and ecology vary widely, from the
 tundras of Stinos to the rainforests of Drejek.
@@ -64,16 +64,14 @@ the landing of Cabb Goem-Rlamesh<!-- TODO. Link. -->.
 * The Southern Ocean to the south, the least explored of the four.
 
 --------------------------------------------------------------------------------
-<!-- DEMOGRAPHY --------------------------------------------------------------->
 ## Demography
 ### Population
 Back in the golden age, Yuadrem was split into various nations, each with their
 own population centers and varied economies. This era of peace lasted until the
 death of god-suzerain Olag<!-- TODO. Link. --> in 621 A.S. (After the Schism),
 an event that sparked the Penance<!-- TODO. Link. -->. With the
-Penance<!-- TODO. Link. -->, an irisdescent tar known as nix<!-- TODO. Link. -->
-began rolling over the continent. This caused mass migrations, separating the
-peoples into isolas.
+Penance, an irisdescent tar known as nix<!-- TODO. Link. --> began rolling over
+the continent. This caused mass migrations, separating the peoples into isolas.
 
 An isola is defined as a region either devoid of nix, or only seasonably
 affected by it. Most isolas are protected by their topography, often aided by
@@ -86,7 +84,6 @@ now known that at least three others isolas exist:
 [Steldan Isola](isolas/steldan_isola/index.md), and the Coldmist
 Gorge<!-- TODO. Link. -->.
 
-<!-- ETHNOLOGY ---------------------------------------------------------------->
 ### Ethnology
 ![Migration Map of Yuadrem](img/pre_penance_migration_y787_v012_dpi72.png)
 ***Pictured:***
@@ -115,55 +112,20 @@ Tek<!-- TODO. Link. -->. While often considered too aggressive for peaceful
 interaction, an alliance has been recently broken between them and the
 sumi of Fremit<!-- TODO. Link. -->.
 
-<!-- RELIGION ----------------------------------------------------------------->
 ### Religion
-**TODO.**
-<!-- \DndDropCapLine{R}{eligion is an important part of life}
-of the many cultures of Yuadrem.
-Some worship specific pantheons of gods, others praise unpersonified concepts, and a selected few worship nature itself.
-% In the times before the schism there was a wide belief that the tall kin could answer prayers, but their worship is now forbidden in most of the continent.
+While other religions exist, the main one practiced in the Fesh Peninsula is Tanethism.
 
-% The true existence of these divinities is a widely discussed subject, but their worship is undeniable.
-From the nature-worshiping folk of Jenkash to the god-birds of Krudzal, each culture performs a set of rituals in the name of their deities, and some even claim to be able to channel their divine power.
-While it might be hard to pinpoint the exact number of religions in Yuadrem, a few are built into the fabric of civilizations, and are easy to tell apart. -->
+Old Tanethism is characterized by its myriad of gods -- one for each apomantic signature<!-- TODO. Link. -->. This religion was widely practiced in the Seven Principates<!-- TODO. Link. --> and their various colonies up until the late Age of Gold<!-- TODO. Link. -->. This however changes in the year 520 A.S., when the god-suzerain Olag<!-- TODO. Link. --> establishes a new Tanethism as the official religion of the principates.
 
-* [Tanethism](religions/tanethism.md).
-* [Tsalemism](religions/tsalemism.md).
-* [Igneism](religions/igneism.md).
-* [Cosmism](religions/cosmism.md).
+The religion is based on a book published by Taneth in 511 A.S. To write it, the nomadic scholar traveled all around the various principates and city-states. He ended up with an exhaustive compilation of the more than a thousand deities praised in the region. In this taxonomy, Taneth classifies the similitude and difference between each god. Based on these, he then proposes a reduced [pantheon](religions/tanethism_pantheon.md)<!-- TODO. Link. --> in which similar gods coalesce, along with a clear, tiered hierarchy between them.
+<!-- TODO. Maybe change dates here, make them earlier. -->
 
-<!-- \begin{table*}[b]%
-    \begin{DndTable}[width=\linewidth, header=The Gods of Yuadrem]{p{2cm}p{0.8cm}p{3cm}p{1.8cm}X}
-        \textbf{Name} & \textbf{Tides} & \textbf{Domains} & \textbf{Religion} & \textbf{Symbol} \\
-        The Scholar  & B  & Reason, Knowledge     & Igneism   & A many-armed blue oth reading multiple books. \\
-        The Zealous  & R  & Passion, Zeal         & Igneism   & A red dratl ird standing over a sand dune. \\
-        The Star     & S  & Admiration, Fame      & Igneism   & A naked tall one, sometimes replaced by a shadow or a uman. \\
-        The Equalist & I  & Justice, Equity       & Igneism   & An indigo gat holding a spear and a coin. \\
-        The Altruist & G  & Empathy, Compassion   & Igneism   & A furtive golden marset carrying a basket full of eggs. \\
-        The Sorrow   & -  & Balance, Punishment   & Igneism   & An indistinct cloaked figure holding a bloody heart. \\
-        Changing God & -  & Secrecy, Manipulation & Rashiism  & A robed oth with a featureless bronze mask. \\
-        Febrid       & B  & Intellect, Wood       & Tanethism & A gat forming a crescent moon with its horns. \\
-        The Traveler & BR & Luck, Beer            & Tanethism & An indistinct figure cloaked in light brown robes. \\
-        Vugar        & BG & Family, Fertility     & Tanethism & A gat prince dressed in a simple silver toga. \\
-        Vahan       & R  & Mountains, Fire       & Tanethism & A red quies holding a colossal mace. \\
-        Genadi       & RI & Bravery, Love         & Tanethism & A grung warrior carrying a sword and a lute. \\
-        Sakris       & RS & Fun, Wine             & Tanethism & A uman servant carrying cups and wine. \\
-        Matevos      & S  & Glory, Water          & Tanethism & An ice zaloth holding a bident and a shield. \\
-        Hanush      & SB & Teaching, Books       & Tanethism & A tsanek dressed in scrolls and paper. \\
-        Tamaz        & SG & Wealth, Silver        & Tanethism & A gray ird eternally flying towards the sun. \\
-        Fusine       & I  & The Stars, Metal      & Tanethism & A giant tortle with the visage of stars in its shell. \\
-        Nadzim       & IB & Justice, the Sky      & Tanethism & A purple oth holding an abacus and a spyglass. \\
-        Gathoz       & IS & Secrecy, Murder       & Tanethism & A kinless being with shifting body and face. \\
-        Bagrat       & G  & Farming, Earth        & Tanethism & A gat farmer with tools made of gold. \\
-        Havetish     & GI & Leadership, Tyranny   & Tanethism & A barkskin holding a golden and an indigo spear. \\
-        Mziva        & GR & Self Sacrifice        & Tanethism & A blonde marset with a flowered back. \\
-        Jua\~nansiz  & G  & Day, Sunlight         & Tsalemism & A rainbow-colored heron followed by northern lights. \\
-        Dzadsiz      & R  & Night, Darkness       & Tsalemism & A black raven surrounded by never-dispersing mists. \\
-        The Observer & -  & Cosmos, the Unknown   & Cosmism   & A titanic three-eyed slug ridden with tentacles and appendages.
-    \end{DndTable}
-\end{table*} -->
+Taneth's work was barely known during his life. He died shortly after the publication, and not even his birth date is known.
 
-<!-- LANGUAGES ---------------------------------------------------------------->
+Many a hume has a favorite among the gods, one whose ideals and teaching they make their own. A few even dedicate entirely to a single deity, serving as a priest, acolyte, or champion of that god's manifestation. Some famous examples among these devouts are the nimrods, an organization of zealous hunters of [Pagram](religions/tanethism_pantheon.md#pagram) who would pursue all who disturb the perceived balance. Another example are the followers of [Havetish](religions/tanethism_pantheon.md#havetish), who to this date seek to distribute wealth and food to the impoverished habitants in the inland regions.
+
+Other religions do exist, but receive little attention in the modern world. Once widely practiced, the three most notorious ones are [Tsalemism](religions/tsalemism.md), [Igneism](religions/igneism.md), and [Cosmism](religions/cosmism.md).
+
 ### Languages
 **TODO.**
 ![Language Tree](img/language_tree_v023.png)
