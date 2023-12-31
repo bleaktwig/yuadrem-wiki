@@ -12,7 +12,7 @@ TODO LIST:
 
 Yuadrem was first settled by the firstborn oric gods, [Et](religions/tanethism_pantheon.md#et) and [Om](religions/tanethism_pantheon.md#om). Et was a large and thin birch, pliable and adaptable. Om was a short and stout juniper, vigorous and prodigious. These two gods were ever locked in combat, yet none could take the upper hand. This conflict became known as the War of Spring<!-- TODO. Link. -->.
 
-To aid in the eternal battle, Et created the [humes](kins/hume.md), a kin as malleable as the god. Et bestowed upon humes Apomantics<!-- TODO. Link. -->, teaching them to wage war using Word. Om in turn created [marsets](kins/marsets.md), a smaller kin able to traverse the forests of Et's children with ease. The marsets were gifted Chromology<!-- TODO. Link. -->, and fought using Color.
+To aid in the eternal battle, Et created the [humes](kins/hume.md), a kin as malleable as the god. Et bestowed upon humes Apomantics<!-- TODO. Link. -->, teaching them to wage war using Word. Om in turn created [marsets](kins/marset.md), a smaller kin able to traverse the forests of Et's children with ease. The marsets were gifted Chromology<!-- TODO. Link. -->, and fought using Color.
 
 The conflict ended with the burning of Om, an event known as the Schism<!-- TODO. Link. -->. the primordial one [Pheter](religions/tanethism_pantheon.md#pheter), angered by the death of the god, retaliated by striking Et with lightning. The blast burned the god-tree, and brought the 40-Year Famine<!-- TODO. Link. --> to both humes and marsets. This event marks the year 0, and the beginning of history.
 
@@ -48,7 +48,7 @@ The peoples of Yuadrem are separated into four distinct kins. Each kin was creat
 
 * [Humes](kins/hume.md), born from Et, are as adaptable as their creator. They became the dominant kin in Yuadrem after the Schism, and remain in this position even after the Penance.
 * [Marsets](kins/marset.md), born from Om, are hardy nomads that roam the remaining forests of Yuadrem. Decimated by both the War of Spring and posterior genocides, they have proven to be a deceptively hardy people.
-* [Oths](kins/oths.md) are a moth-like kin, a quiet people with a natural tendency towards knowledge. Created by the god-tree Tol, they're often seen as enigmatic as their creator.
+* [Oths](kins/oth.md) are a moth-like kin, a quiet people with a natural tendency towards knowledge. Created by the god-tree Tol, they're often seen as enigmatic as their creator.
 * [Barkskins](kins/barkskin.md) are bone and wood golems, animated by the god [Tek](religions/tanethism_pantheon.md#tek). While often considered too aggressive for peaceful interaction, an alliance has been recently broken between them and the sumi of Fremit<!-- TODO. Link. -->.
 
 ### Religion
@@ -199,7 +199,7 @@ This makes the study of jantherlin extremely difficult to modern archaeologists.
 ### Prehistory
 * **Nascency of Disparity.** The primordial [Pheter](religions/tanethism_pantheon.md#pheter), god of disparity, is born from [Nix](religions/tanethism_pantheon.md#nix). With Pheter comes the eparation of land and sea, and thus Yuadrem is created.
 * **Nascency of Color.** From Pheter, the two [damic gods](religions/tanethism_pantheon.md#damic-gods) are born: [Zash](religions/tanethism_pantheon.md#zash), the sun, and [Fagal](religions/tanethism_pantheon.md#fagal), the darksun. Zash in turn is divided into his six aspects, the [mevic gods](religions/tanethism_pantheon.md#mevic-gods), which conform Color.
-* **First Communion.** To populate Yuadrem, each mevic god plants a seed. These seeds grow into the [god-trees](religions/tanethism_pantheon.md#oric-gods), the first life to stand on Yuadrem.
+* **First Communion.** To populate Yuadrem, each mevic god plants a seed. These seeds grow into the [oric gods](religions/tanethism_pantheon.md#oric-gods), the first life to stand on Yuadrem.
 * **War of Spring.** The largest of the oric gods, Et and Om, go into war. While no damic or mevic god interfered, Pheter themself was against the conflict. Humes are born from Et as soldiers in this war, while Om creates the marsets to defend themself.
 <!-- TODO. Add the Ird Diaspora + the first siege of Ctereth. -->
 * **The Schism.** After a long and bloody conflict, Et wins the war against Om. Under the orders of their god-tree, the gats burn down the god-tree of the marsets. As the fire spreads, Pheter creates the fundamental signature of lightning<!-- TODO. Link. --> on the surface of the moon Kegal<!-- TODO. Link. -->, ans uses it to strike down Et. The ash from the burned god-trees engulfs Yuadrem, sparking the Age of Dark with the 40-Year Famine.
