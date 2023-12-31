@@ -10,107 +10,46 @@ TODO LIST:
 * ADD COATIS.
 -->
 
-Yuadrem was first settled by the firstborn oric gods, Et<!-- TODO. Link. --> and
-Om<!-- TODO. Link. -->. These two gods were planted by the god of disparity,
-Pheter<!-- TODO. Link. -->. Et was a large and thin birch, pliable and
-adaptable. Om was a short and stout juniper, vigorous and prodigious. These two
-gods were ever locked in combat, yet none could take the upper hand. This
-conflict became known as the War of Spring.
+Yuadrem was first settled by the firstborn oric gods, [Et](religions/tanethism_pantheon.md#et) and [Om](religions/tanethism_pantheon.md#om). Et was a large and thin birch, pliable and adaptable. Om was a short and stout juniper, vigorous and prodigious. These two gods were ever locked in combat, yet none could take the upper hand. This conflict became known as the War of Spring<!-- TODO. Link. -->.
 
-To aid in the eternal battle, Et created the humes<!-- TODO. Link. -->, a kin as
-malleable as the god. Et bestowed upon humes Apomantics<!-- TODO. Link. -->,
-teaching them to wage war using Word. Om in turn created
-marsets<!-- TODO. Link. -->, a smaller kin able to traverse the forests of Et's
-children with ease. The marsets were gifted Chromology<!-- TODO. Link. -->, and
-fought using Color.
+To aid in the eternal battle, Et created the [humes](kins/hume.md), a kin as malleable as the god. Et bestowed upon humes Apomantics<!-- TODO. Link. -->, teaching them to wage war using Word. Om in turn created [marsets](kins/marsets.md), a smaller kin able to traverse the forests of Et's children with ease. The marsets were gifted Chromology<!-- TODO. Link. -->, and fought using Color.
 
-The conflict ended with the burning of Om, an event known as the
-Schism<!-- TODO. Link. -->. Pheter, angered by the death of the god, retaliated
-by striking Et with lightning<!-- TODO. Link. -->. The blast burned the
-god-tree, and brought the 40-Year Famine to both humes and marsets. This event
-marks the year 0, and the beginning of history.
-<!-- NOTE. I should add lotsa links here... -->
+The conflict ended with the burning of Om, an event known as the Schism<!-- TODO. Link. -->. the primordial one [Pheter](religions/tanethism_pantheon.md#pheter), angered by the death of the god, retaliated by striking Et with lightning. The blast burned the god-tree, and brought the 40-Year Famine<!-- TODO. Link. --> to both humes and marsets. This event marks the year 0, and the beginning of history.
 
 --------------------------------------------------------------------------------
-<!-- GEOGRAPHY ---------------------------------------------------------------->
 ## Geography
 ![Map of Yuadrem](img/world_map_y604_v083.png)
 ***Pictured:***
-*Trade map of Yuadrem, drawn in 604 A.S. (After the Schism) by Marim of Avshen
-under the commission of Olag, the God-Suzerain of Naptane. The region colored in
-green corresponds to the Seven Protectorates of the Sea. Other colors represent
-the tax and penalty applied to trade in those regions. This map is proof of the
-healthy state of maritime travel and trade during the golden age.*
+*Trade map of Yuadrem, drawn in 604 A.S. (After the Schism) by Marim of Avshen under the commission of Olag, the God-Suzerain of Naptane. The region colored in green corresponds to the Seven Protectorates of the Sea. Other colors represent the tax and penalty applied to trade in those regions. This map is proof of the healthy state of maritime travel and trade during the golden age.*
 
-Yuadrem is a supercontinent, the only such landmass in the world, Darhoc<!-- TODO. Link. -->. The
-topography is varied, split by four different mountain ranges. Due to its large
-extension from north to south, the climate and ecology vary widely, from the
-tundras of Stinos to the rainforests of Drejek.
+Yuadrem is a supercontinent, the only such landmass in the world, Darhoc<!-- TODO. Link. -->. The topography is varied, split by four different mountain ranges. Due to its large extension from north to south, the climate and ecology vary widely, from the tundras of Stinos<!-- TODO. Link. --> to the rainforests of Drejek<!-- TODO. Link. -->.
 
-Due to its size, Yuadrem is often divided into six distinct regions: the
-[Northern Territories](geography/northern_territories.md), the
-[Westlands](geography/westlands.md), the
-[Fractured Lands](geography/fractured_lands.md), the [Sunland](geography/sunland.md),
-the [Savage Territories](geography/savage_territories.md), and the
-[Wildlands](geography/wildlands.md). In addition, the four oceans that surround it
-are:
+Due to its size, Yuadrem is often divided into six distinct regions: the [Northern Territories](geography/northern_territories.md), the [Westlands](geography/westlands.md), the [Fractured Lands](geography/fractured_lands.md), the [Sunland](geography/sunland.md), the [Savage Territories](geography/savage_territories.md), and the [Wildlands](geography/wildlands.md). In addition, the four oceans that surround it are:
 
-* The Frigid Ocean to the north-east, which is known for its low temperatures
-and abundance of migratory idzels<!-- TODO. Link. -->, large sea monsters famous
-for wrecking ships during the golden age.
+* The Frigid Ocean to the north-east, which is known for its low temperatures and abundance of migratory idzels<!-- TODO. Link. -->, large sea monsters famous for wrecking ships during the golden age.
 * The warm Teal Ocean to the north-west, home to a varied marine life.
-* The Burnt Ocean to the east, both devoid of life and impossible to sail since
-the landing of Cabb Goem-Rlamesh<!-- TODO. Link. -->.
+* The Burnt Ocean to the east, both devoid of life and impossible to sail since the landing of Cabb Goem-Rlamesh<!-- TODO. Link. -->.
 * The Southern Ocean to the south, the least explored of the four.
+<!-- TODO. Maybe change most of this to the past tense? -->
 
 --------------------------------------------------------------------------------
 ## Demography
 ### Population
-Back in the golden age, Yuadrem was split into various nations, each with their
-own population centers and varied economies. This era of peace lasted until the
-death of god-suzerain Olag<!-- TODO. Link. --> in 621 A.S. (After the Schism),
-an event that sparked the Penance<!-- TODO. Link. -->. With the
-Penance, an irisdescent tar known as nix<!-- TODO. Link. --> began rolling over
-the continent. This caused mass migrations, separating the peoples into isolas.
+Back in the golden age, Yuadrem was split into various nations, each with their own population centers and varied economies. This era of peace lasted until the death of god-suzerain Olag<!-- TODO. Link. --> in 621 A.S. (After the Schism), an event that sparked the Penance<!-- TODO. Link. -->. With the Penance, an irisdescent tar known as nix<!-- TODO. Link. --> began rolling over the continent. This caused mass migrations, separating the peoples into isolas.
 
-An isola is defined as a region either devoid of nix, or only seasonably
-affected by it. Most isolas are protected by their topography, often aided by
-strong sorcerers known as Illuminants<!-- TODO. Link. -->. Up to the year 800
-A.S., the only known isola was the Fesh Peninsula<!-- TODO. Link. -->. After the
-arrival of the nixwalkers<!-- TODO. Link. -->, dentrala<!-- TODO. Link. -->
-apomancers<!-- TODO. Link. --> who travel over the vapors released by nix, it is
-now known that at least three others isolas exist:
-[Krugghom](isolas/krugghom/index.md), the
-[Steldan Isola](isolas/steldan_isola/index.md), and the Coldmist
-Gorge<!-- TODO. Link. -->.
+An isola is defined as a region either devoid of nix, or only seasonably affected by it. Most isolas are protected by their topography, often aided by strong sorcerers known as Illuminants<!-- TODO. Link. -->. Up to the year 800 A.S., the only known isola was the Fesh Peninsula<!-- TODO. Link. -->. After the arrival of the nixwalkers<!-- TODO. Link. -->, dentrala<!-- TODO. Link. --> apomancers<!-- TODO. Link. --> who travel over the vapors released by nix, it is now known that at least three others isolas exist: [Krugghom](isolas/krugghom/index.md), the [Steldan Isola](isolas/steldan_isola/index.md), and the Coldmist Gorge<!-- TODO. Link. -->.
 
 ### Ethnology
 ![Migration Map of Yuadrem](img/pre_penance_migration_y787_v012_dpi72.png)
 ***Pictured:***
-*Migration map of Yuadrem, drawn in 787 A.S. by the Fremite Monastery in Uvarme.
-It includes all known mass movements of people from the ird diasporas of ~80
-B.S. to the Na'anian migration of 445 A.S. Migrations after the Penance are not
-pictured. The authors separated the four kins (and gats from irds) using colored
-lines.*
+*Migration map of Yuadrem, drawn in 787 A.S. by the Fremite Monastery in Uvarme. It includes all known mass movements of people from the ird diasporas of ~80 B.S. to the Na'anian migration of 445 A.S. Migrations after the Penance are not pictured. The authors separated the four kins (and gats from irds) using colored lines.*
 
-The peoples of Yuadrem are separated into four distinct kins. Each kin was
-created by a different god-tree, and each was then further divided by ethnic
-differences. These differences led to the formation of nations during the Golden
-Age, the erosion of which later led to the sumis<!-- TODO. Link. -->.
+The peoples of Yuadrem are separated into four distinct kins. Each kin was created by a different god-tree, and each was then further divided by ethnic differences. These differences led to the formation of nations during the Golden Age, the erosion of which later led to the sumis<!-- TODO. Link. -->.
 
-* [Humes](kins/hume.md), born from Et, are as adaptable as their creator. They
-became the dominant kin in Yuadrem after the Schism, and remain in this position
-even after the Penance.
-* [Marsets](kins/marset.md), born from Om, are hardy nomads that roam the
-remaining forests of Yuadrem. Decimated by both the War of Spring and posterior
-genocides, they have proven to be a deceptively hardy people.
-* [Oths](kins/oths.md) are a moth-like kin, a quiet people with a natural
-tendency towards knowledge. Created by the god-tree Tol, they're often seen as
-enigmatic as their creator.
-* [Barkskins](kins/barkskin.md) are bone and wood golems, animated by the god
-Tek<!-- TODO. Link. -->. While often considered too aggressive for peaceful
-interaction, an alliance has been recently broken between them and the
-sumi of Fremit<!-- TODO. Link. -->.
+* [Humes](kins/hume.md), born from Et, are as adaptable as their creator. They became the dominant kin in Yuadrem after the Schism, and remain in this position even after the Penance.
+* [Marsets](kins/marset.md), born from Om, are hardy nomads that roam the remaining forests of Yuadrem. Decimated by both the War of Spring and posterior genocides, they have proven to be a deceptively hardy people.
+* [Oths](kins/oths.md) are a moth-like kin, a quiet people with a natural tendency towards knowledge. Created by the god-tree Tol, they're often seen as enigmatic as their creator.
+* [Barkskins](kins/barkskin.md) are bone and wood golems, animated by the god Tek<!-- TODO. Link. -->. While often considered too aggressive for peaceful interaction, an alliance has been recently broken between them and the sumi of Fremit<!-- TODO. Link. -->.
 
 ### Religion
 While other religions exist, the main one practiced in the Fesh Peninsula is Tanethism.
@@ -258,26 +197,12 @@ This makes the study of jantherlin extremely difficult to modern archaeologists.
 
 <!-- PREHISTORY --------------------------------------------------------------->
 ### Prehistory
-* **Nascency of Disparity.**
-The primordial Pheter, god of disparity, is born from nix. With Pheter comes the
-separation of land and sea, and thus Yuadrem is created.
-* **Nascency of Color.**
-From Pheter, the two damic gods are born: Zash, the sun, and Fagal, the darksun.
-Zash in turn is divided into his six aspects, the mevic gods, which conform the
-colors.
-* **First Communion.**
-To populate Yuadrem, each mevic god plants a seed. These seeds grow into
-god-trees, the oric gods.
-* **War of Spring.**
-The largest of the oric gods, Et and Om, go into war. While no damic or mevic
-god interfered, Pheter themself was against the conflict. Humes are born from Et
-as soldiers in this war, while Om creates the marsets to defend themself.
+* **Nascency of Disparity.** The primordial Pheter, god of disparity, is born from nix. With Pheter comes the eparation of land and sea, and thus Yuadrem is created.
+* **Nascency of Color.** From Pheter, the two damic gods are born: Zash, the sun, and Fagal, the darksun. Zash in turn is divided into his six aspects, the mevic gods, which conform the colors.
+* **First Communion.** To populate Yuadrem, each mevic god plants a seed. These seeds grow into god-trees, the oric gods.
+* **War of Spring.** The largest of the oric gods, Et and Om, go into war. While no damic or mevic god interfered, Pheter themself was against the conflict. Humes are born from Et as soldiers in this war, while Om creates the marsets to defend themself.
 <!-- TODO. Add the Ird Diaspora + the first siege of Ctereth. -->
-* **The Schism.**
-After a long and bloody conflict, Et wins the war against Om. Under the orders
-of their god-tree, the gats burn down the god-tree of the marsets. As the fire
-spreads, Pheter transforms into lightning, striking down Et. The ash from the
-burned god-trees engulfs Yuadrem, sparking the Age of Dark with the 40-Year
+* **The Schism.** After a long and bloody conflict, Et wins the war against Om. Under the orders of their god-tree, the gats burn down the god-tree of the marsets. As the fire spreads, Pheter transforms into lightning, striking down Et. The ash from the burned god-trees engulfs Yuadrem, sparking the Age of Dark with the 40-Year
 Famine.
 <!-- TODO. Add the Gat Diaspora (Bughna and Treb). -->
 
