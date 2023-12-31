@@ -17,37 +17,37 @@ Pheter is the source of magic that allows apomantics<!-- TODO. Link. --> to work
 The damic gods, or *first gods*, are the gods of light and dark, and are the firstborns of Pheter.
 
 #### Zash
-Zash is the goddess of Light and Luck. Her manifestation is Color, and she is often associated with beer, hospitality, the Bumi and Fasi<!-- TODO. Link. -->. She is the sun, creator of Color, and mother of all Mevic gods. Zash is often referred to as The Traveler, and is often portrayed as an indistinct figure cloaked in a light brown robe. Her representation is a great white egret, her white feathers reflecting the blinding light of the sun.
+Zash is the goddess of Light and Luck. Her manifestation is Color, and she is often associated with beer, hospitality, the [Buni](../isolas/fesh_peninsula/ane-kene.md#ivu) and [Fasi](../isolas/fesh_peninsula/ane-kene.md#bulu). She is the sun, creator of Color, and mother of all Mevic gods. Zash is often referred to as The Traveler, and is often portrayed as an indistinct figure cloaked in a light brown robe. Her representation is a great white egret, her white feathers reflecting the blinding light of the sun.
 
 #### Fagal
-Fagal is the god of Dark and the Unknown, and their manifestation is the Nothing. They are the darksun<!-- TODO. Link. -->, and are associated with the Taka<!-- TODO. Link. --> and the Nuga<!-- TODO. Link. -->. Thanks to Fagal there is saturation in color, as darkness gives the value to a hue. They are often referred to as The Observer, portrayed as a dark figure cloaked in stars. Their representation is a colossal king vulture, their shadow blocking the light of the sun.
+Fagal is the god of Dark and the Unknown, and their manifestation is the Nothing. They are the darksun<!-- TODO. Link. -->, and are associated with the [Taka and the Nuga](../isolas/fesh_peninsula/ane-kene.md#ivu). Thanks to Fagal there is saturation in color, as darkness gives the value to a hue. They are often referred to as The Observer, portrayed as a dark figure cloaked in stars. Their representation is a colossal king vulture, their shadow blocking the light of the sun.
 
 --------------------------------------------------------------------------------
 ## Mevic Gods
 The mevic gods, or *bone gods*, are the six aspects of Zash. They are the manifestation of Pheter through Zash, and came to be in the Nascency of Color. Each god inhabits their own section in the Ring of Color<!-- TODO. Link. --> that surrounds Darhoc.
 
 #### Matevos
-Matevos is the goddess of Green, lightness, and glory. Her manifestation is water, and is often associated with the essential needs, both Yalu and Wese<!-- TODO. Link. -->. Matevos' representation is a grey-breasted parakeet, screaming in accusation of those who profit over the needs of others. When portrayed as a [hume](../kins/hume.md), she is often drawn with two large horns, holding a green bident in celebration.
+Matevos is the goddess of Green, lightness, and glory. Her manifestation is water, and is often associated with the essential needs, both [Yalu and Wese](../isolas/fesh_peninsula/ane-kene.md#ivu). Matevos' representation is a grey-breasted parakeet, screaming in accusation of those who profit over the needs of others. When portrayed as a [hume](../kins/hume.md), she is often drawn with two large horns, holding a green bident in celebration.
 
 #### Febrid
-Febrid, sometimes named Nuagal, is the goddess of Blue, cold, and intellect. Her manifestation is wood, and is related to the stability of communities through Sibi and Ganu<!-- TODO. Link. -->. Febrid's representation is an azure jay, leaving a trail of dew in its path. When depicted as a hume, she is crowned by a pair of horns in the shape of a crescent moon, her body covered in apomantic tattoos.
+Febrid, sometimes named Nuagal, is the goddess of Blue, cold, and intellect. Her manifestation is wood, and is related to the stability of communities through [Sibi and Ganu](../isolas/fesh_peninsula/ane-kene.md#bulu). Febrid's representation is an azure jay, leaving a trail of dew in its path. When depicted as a hume, she is crowned by a pair of horns in the shape of a crescent moon, her body covered in apomantic tattoos.
 
 #### Fusine
-Fusine, sometimes named Kegal, is the goddess of Yellow, chaos, and the stars. Her manifestation is metal and lightning, and is associated with the resolution of conflicts, especially through Yaka<!-- TODO. Link. -->. Fusine's representation is a golden parakeet, her flight always followed by a storm. She's not often portrayed as a hume, but there are accounts of her manifesting as a gargantuan black-bellied slider turtle whose shell shines with a million stars.
+Fusine, sometimes named Kegal, is the goddess of Yellow, chaos, and the stars. Her manifestation is metal and lightning, and is associated with the resolution of conflicts, especially through [Yaka](../isolas/fesh_peninsula/ane-kene.md#yaka). Fusine's representation is a golden parakeet, her flight always followed by a storm. She's not often portrayed as a hume -- but as a gargantuan black-bellied slider turtle whose shell shines with a million stars.
 
 #### Vahan
 Vahan is the god of Red, heaviness, and mountains. His manifestation is fire.
-Vahan is said to prefer bolos with high self-sufficiency, and is thus celebrated though Pali and Mafa<!-- TODO. Link. -->. His representation is a scarlet ibis, scorching the earth wherever he steps. As a hume, Vahan is often depicted as a red-haired, one-horned hume in soldier armor, wielding a large hexagonal mace.
+Vahan is said to prefer bolos with high self-sufficiency, and is thus celebrated though [Pali](../isolas/fesh_peninsula/ane-kene.md#bulu) and [Mafa](../isolas/fesh_peninsula/ane-kene.md#buda-and-sumi). His representation is a scarlet ibis, scorching the earth wherever he steps. As a hume, Vahan is often depicted as a red-haired, one-horned person in soldier armor, wielding a large hexagonal mace.
 
 #### Bagrat
-Bagrat is the god of Orange, heat, and agriculture. His manifestation is earth, and is often associated with kindness, charity, and health, through both Kudu and Bete<!-- TODO. Link. -->. Bagrat's representation is a campo troupial, flowers blooming wherever he lands. As a hume, he is depicted as a horned hume working the farm with tools made of red gold.
+Bagrat is the god of Orange, heat, and agriculture. His manifestation is earth, and is often associated with kindness, charity, and health, through both [Kudu and Bete](../isolas/fesh_peninsula/ane-kene.md#bulu). Bagrat's representation is a campo troupial, flowers blooming wherever he lands. As a hume, he is depicted as a horned worker working the farm with tools made of red gold.
 
 #### Pagram
-Pagram is the god of Purple, order, and civilization. His manifestation is stone, and is celebrated in the formation of Tegas<!-- TODO. Link. --> and their associated rituals. Pagram's representation is a swallow-tailed hummingbird, his fluttering following the flowers that decorate a Tega. As a hume, he is commonly depicted as a horned hume philosopher wearing white clothing, pompously adorned in gold.
+Pagram is the god of Purple, order, and civilization. His manifestation is stone, and is celebrated in the formation of [Tegas](../isolas/fesh_peninsula/ane-kene.md#tega) and their associated rituals. Pagram's representation is a swallow-tailed hummingbird, his fluttering following the flowers that decorate a Tega. As a hume, he is commonly depicted as a horned philosopher wearing white clothing, pompously adorned in gold.
 
 --------------------------------------------------------------------------------
 ## Oric Gods
-The oric gods, also known as flesh gods or god-trees, are the six first trees of Yuadrem. They were the first living beings to step on the continent. Each was born of a seed during the First Communion, planted by their corresponding mevic god.
+The oric gods, also known as flesh gods or god-trees, are the six first trees of Yuadrem. They were the first living beings to step on the continent. Each was born of a seed during the First Communion<!-- TODO. Link. -->, planted by their corresponding mevic god.
 
 <!-- TODO. Add links to places where relevant. -->
 <!-- TODO. Read about how different trees react to forest fires and include details related to that. -->
@@ -77,7 +77,7 @@ Ur is the tree of Pagram, a yellow fir that gives its famous coloration to the p
 
 ---
 ## Tovasic Gods
-Occasionally, when a mortal is of particular interested to a mevic god, they will be ascended to a tovasic god, or *second god*, when they die. As deities, they live in the Ring of Color, where they continue to watch over Yuadrem after their mortal death, in company of the mevic gods.
+Occasionally, when a mortal is of particular interested to a mevic god, they will be ascended to a tovasic god, or *second god*, when they die. As deities, they live in the Ring of Color, where they continue to watch over Yuadrem after the death of their bodies, in company of the mevic gods.
 <!-- TODO. Mention that this list is not complete *at all*. -->
 
 #### Vugar
@@ -111,8 +111,8 @@ Mziva is the god of self sacrifice. As a mortal, she was a marset who led her co
 ## Illuminants
 The truhetic beings, commonly known as *illuminants*, are mortals selected by a mevic or tovastic god to conduct pheter. They remain mortal after being anointed, and most move on to become the protagonists of legends. Some commonly known illuminants are Olag the god-suzerain<!-- TODO. Link. -->, the immortal queen Elña<!-- TODO. Link. -->, Anush, Do Zazuzu, Jirar, Jirek, Vakris, and Zuleija, among others.
 
-<!--
-    TODO. PENDING WORK:
+<!-- TODO.
     * Talk about the four illuminants of the Fesh peninsula and how they keep the isola now.
     * The illuminants currently alive are . . .
+    * Link check for the fesh peninsula ane-kene.
 -->
