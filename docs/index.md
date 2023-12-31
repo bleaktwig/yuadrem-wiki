@@ -48,11 +48,11 @@ extension from north to south, the climate and ecology vary widely, from the
 tundras of Stinos to the rainforests of Drejek.
 
 Due to its size, Yuadrem is often divided into six distinct regions: the
-[Northern Territories](world/northern_territories.md), the
-[Westlands](world/westlands.md), the
-[Fractured Lands](world/fractured_lands.md), the [Sunland](world/sunland.md),
-the [Savage Territories](world/savage_territories.md), and the
-[Wildlands](world/wildlands.md). In addition, the four oceans that surround it
+[Northern Territories](geography/northern_territories.md), the
+[Westlands](geography/westlands.md), the
+[Fractured Lands](geography/fractured_lands.md), the [Sunland](geography/sunland.md),
+the [Savage Territories](geography/savage_territories.md), and the
+[Wildlands](geography/wildlands.md). In addition, the four oceans that surround it
 are:
 
 * The Frigid Ocean to the north-east, which is known for its low temperatures

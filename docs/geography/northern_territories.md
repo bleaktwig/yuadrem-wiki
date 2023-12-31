@@ -1,3 +1,5 @@
+**WIP.**
+
 # The Northern Territories
 <!-- INTRODUCTION ------------------------------------------------------------->
 The Northern Territories span from the northmost point of Yuadrem, the Coldmist Gorge<!-- TODO. Add to map! -->, down to the Sulfur Lake.

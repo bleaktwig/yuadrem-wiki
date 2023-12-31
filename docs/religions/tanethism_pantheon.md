@@ -27,7 +27,7 @@ Fagal is the god of Dark and the Unknown, and their manifestation is the Nothing
 The mevic gods, or *bone gods*, are the six aspects of Zash. They are the manifestation of Pheter through Zash, and came to be in the Nascency of Color. Each god inhabits their own section in the Ring of Color<!-- TODO. Link. --> that surrounds Darhoc.
 
 #### Matevos
-Matevos is the goddess of Green, lightness, and glory. Her manifestation is water, and is often associated with the essential needs, both Yalu and Wese<!-- TODO. Link. -->. Matevos' representation is a grey-breasted parakeet, screaming in accusation of those who profit over the needs of others. When portrayed as a hume<!-- TODO. Link. -->, she is often drawn with two large horns, holding a green bident in celebration.
+Matevos is the goddess of Green, lightness, and glory. Her manifestation is water, and is often associated with the essential needs, both Yalu and Wese<!-- TODO. Link. -->. Matevos' representation is a grey-breasted parakeet, screaming in accusation of those who profit over the needs of others. When portrayed as a [hume](../kins/hume.md), she is often drawn with two large horns, holding a green bident in celebration.
 
 #### Febrid
 Febrid, sometimes named Nuagal, is the goddess of Blue, cold, and intellect. Her manifestation is wood, and is related to the stability of communities through Sibi and Ganu<!-- TODO. Link. -->. Febrid's representation is an azure jay, leaving a trail of dew in its path. When depicted as a hume, she is crowned by a pair of horns in the shape of a crescent moon, her body covered in apomantic tattoos.
@@ -56,24 +56,24 @@ The oric gods, also known as flesh gods or god-trees, are the six first trees of
 Tek, or Tekatsae, is the tree of Matevos, a colossal banyan tree. It was planted on what is now known as Knaegunse, and its root system encompasses the whole Drejek jungle. Tek created the [barkskins](../kins/barkskin.md), who hid from civilization until the year 141 A.S.
 
 #### Et
-Et is the tree of Febrid, a tall, blue birch of surprising pliability. Et fought with Om in the War of Spring<!-- TODO. Link. -->, created the humes, and burned after being struck by lightning in the Schism. The outside rim of its burnt stump later acted as the outer wall of Naptane, the ruined capital<!-- TODO. Link. -->.
+Et is the tree of Febrid, a tall, blue birch of surprising pliability. Et fought with Om in the War of Spring<!-- TODO. Link. -->, created the humes, and burned after being struck by lightning in the Schism<!-- TODO. Link. -->. The outside rim of its burnt stump later acted as the outer wall of Naptane, the ruined capital<!-- TODO. Link. -->.
 
 #### Tol
 Tol is a smaller god-tree which grew from the stump of Et. A birch like its parent, Tol created the enigmatic kin of the [oths](../kins/oth.md).
 
 #### Uld
-Uld is the tree of Fusine, a kapok of astonishing height. It extends upwards as far as the eye can see, its yellow leaves providing shade to the entirety of the everwoods. Fusine herself sits upon its branches every few years, making for a spectacular vista.
+Uld is the tree of Fusine, a kapok of astonishing height. It extends upwards as far as the eye can see, its yellow leaves providing shade to the entirety of the [Everwoods](,,/geography/wildlands.md#everwoods). Fusine herself sits upon its branches every few years, making for a spectacular vista.
 <!-- TODO. Check the timing is correct with Kegal's cicle. -->
-<!-- TODO. Uld died in the Tidal Sway! That's why the Rashiists were exiled. -->
+<!-- TODO. Uld died in the Tidal Sway! That's why the Rashiists were exiled. Add this as a historic event. -->
 
 #### Kan
-Kan is the tree of Vahan, a plant unique in Yuadrem. Red branches extend upward at the top of hundreds of meters of a dark gray trunk. The tree captures electricity from the clouds, and erupts into seasonal firestorms that define the landscape of Krejek.
+Kan is the tree of Vahan, a plant unique in Yuadrem. Red branches extend upward at the top of hundreds of meters of a dark gray trunk. The tree captures electricity from the clouds, and erupts into seasonal firestorms that define the landscape of [Krejek](../geography/fractured_lands.md#krejek-and-kaljek).
 
 #### Om
-Om, also known as Tosh-drieln, is the tree of Bagrat, a vigorous juniper. In the War of Spring, Om created the [marsets](../kins/marset.md) to defend itself against the humes of Et. The tree was burned at the beginning of the Schism, and its burnt trunk still stands at the center of the Fesh peninsula<!-- TODO. Link. -->. Its complex root system forms the many islands in the Turtle Sea.
+Om, also known as Tosh-drieln, is the tree of Bagrat, a vigorous juniper. In the War of Spring, Om created the [marsets](../kins/marset.md) to defend itself against the humes of Et. The tree was burned at the beginning of the Schism, and its burnt trunk still stands at the center of the [Fesh peninsula](../geography/fractured_lands.md#fesh-peninsula). Its complex root system forms the many islands in the Turtle Sea<!-- TODO. Link. -->.
 
 #### Ur
-Ur is the tree of Pagram, a yellow fir that gives its famous coloration to the purple fjord near Stinos. The tree, along with the forest surrounding it, is an essential part of the ecology of the fjord.
+Ur is the tree of Pagram, a yellow fir that gives its famous coloration to the purple fjord near [Stinos](../geography/northern_territories.md#stinos). The tree, along with the forest surrounding it, is an essential part of the ecology of the fjord.
 
 ---
 ## Tovasic Gods
@@ -109,7 +109,7 @@ Mziva is the god of self sacrifice. As a mortal, she was a marset who led her co
 
 --------------------------------------------------------------------------------
 ## Illuminants
-The truhetic beings, commonly known as *illuminants*, are mortals selected by a mevic or tovastic god to conduct pheter. They remain mortal after being anointed, and most move on to become the protagonists of legends. Some commonly known illuminants are Olag the god-suzerain<!-- [Olag the god-suzerain](TODO) -->, the immortal queen Elña<!-- [Immortal Queen Elña](TODO) -->, Anush, Do Zazuzu, Jirar, Jirek, Vakris, and Zuleija, among others.
+The truhetic beings, commonly known as *illuminants*, are mortals selected by a mevic or tovastic god to conduct pheter. They remain mortal after being anointed, and most move on to become the protagonists of legends. Some commonly known illuminants are Olag the god-suzerain<!-- TODO. Link. -->, the immortal queen Elña<!-- TODO. Link. -->, Anush, Do Zazuzu, Jirar, Jirek, Vakris, and Zuleija, among others.
 
 <!--
     TODO. PENDING WORK:
