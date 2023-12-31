@@ -13,7 +13,7 @@ The ivu is the individual person, their body and soul. Every ivu has common need
 * **Taka**, the private property of the ivu. An ivu's posessions should fit inside an itus, a large vase which is provided by the bulu. For a traveling ivu, their backpack acts as an extension of their itus.
 * **Nuga**, or the right to die. Every ivu has the right to forfeit their own life, should they choose to do so. Both the taka and the nuga are part of the domain of [Fagal](../../religions/tanethism_pantheon.md#fagal).
 
-**Buni.** With the lack of a central state, a thing that is absent is a central money system. While some bulus and tegas have established a local currency, nearby it is most common for bulus to regulate exchange through a gift economy. In this context, the act of an ivu giving a thing to another ivu, a bulu, or even a whole tega, is the buni. The buni is part of the domain of [Zash](../../religions/tanethism_pantheon#zash).
+**Buni.** With the lack of a central state, a thing that is absent is a central money system. While some bulus and tegas have established a local currency, nearby it is most common for bulus to regulate exchange through a gift economy. In this context, the act of an ivu giving a thing to another ivu, a bulu, or even a whole tega, is the buni. The buni is part of the domain of [Zash](../../religions/tanethism_pantheon.md#zash).
 
 **Kana.** Finally, a group of ivus who share a household are a kana. Usually, a number between 15 and 30 ivus pertain in a kana. While the specifics depend on the particular bulu, it is common for ivus in a kana to share childbearing duties. When a group of kanas living in close proximity collaborate with each other, they can form a bulu.
 
@@ -31,14 +31,14 @@ A bulu is a self-sufficient community of ivus. Its size usually ranges between 1
 * **Ganu** is the physical space used by the bulu. The ganu should have enough size to house all ivus pertaining the bulu, in a way corresponding to the nima of the bulu.
 * **Sibi** stands for all things that concern the production, use, and distribution of things in the bulu. It should provide for the needs of the ivu, including the taka. Both the ganu and sibi are the domain of [Febrid](../../religions/tanethism_pantheon.md#febrid).
 
-**Fasi**. The kudu, ganu, sibi, and bete of a bulu should be able to provide for all ivus that live in it. In addition, they should maintain a surplus of around a sixth of their consumption. This surplus is known as fasi, and is offered to travelers and visiting nomadic bulus. Fasi is part of the domain of [Zash](../../religions/tanethism_pantheon#zash).
+**Fasi**. The kudu, ganu, sibi, and bete of a bulu should be able to provide for all ivus that live in it. In addition, they should maintain a surplus of around a sixth of their consumption. This surplus is known as fasi, and is offered to travelers and visiting nomadic bulus. Fasi is part of the domain of [Zash](../../religions/tanethism_pantheon.md#zash).
 
 **Kene.** Due to the variety of bulus, it is common for them to establish agreements and common enterprises. This is the kene. If enough bulus in close proximity establish kenes with each other, they might decide to form a tega.
 
 **Fenu.** To barter, two bulus may build a fenu with each other. The fenu is written agreement where one bulu promises to deliver an amount of something in exchange of an amount of something else from the other bulu. For one-time barter a kene is enough for this purpose -- a fenu is usually reserved for regular trade between two bulus. A bulu should have all its fenus recorded on a stone tablet, the **Sadi**.
 
 ## Tega
-A tega is a community of bulus tethered together via kenes. Usually composed of 10-30 bulus, a tega can have a population of anything between 1.000 and 10.000 ivus. Tegas with larger populations are very uncommon, and are named **ane-tegas**. The establishment of a tega requires a special ritual in celebration of [Pagram](../../religions/tanethism_pantheon#pagram).
+A tega is a community of bulus tethered together via kenes. Usually composed of 10-30 bulus, a tega can have a population of anything between 1.000 and 10.000 ivus. Tegas with larger populations are very uncommon, and are named **ane-tegas**. The establishment of a tega requires a special ritual in celebration of [Pagram](../../religions/tanethism_pantheon.md#pagram).
 
 Since organization under ane-kene is done at the bulu level, the tega do not hold any specific responsibilities. Yet, for tega-wide decisions, an assembly is formed.
 
