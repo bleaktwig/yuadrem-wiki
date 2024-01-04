@@ -49,11 +49,11 @@ The peoples of Yuadrem are separated into four distinct kins. Each kin was creat
 * [Humes](kins/hume.md), born from Et, are as adaptable as their creator. They became the dominant kin in Yuadrem after the Schism, and remain in this position even after the Penance.
 * [Marsets](kins/marset.md), born from Om, are hardy nomads that roam the remaining forests of Yuadrem. Decimated by both the War of Spring and posterior genocides, they have proven to be a deceptively hardy people.
 * [Oths](kins/oth.md) are a moth-like kin, a quiet people with a natural tendency towards knowledge. Created by the god-tree Tol, they're often seen as enigmatic as their creator.
-* [Barkskins](kins/barkskin.md) are bone and wood golems, animated by the god [Tek](religions/tanethism_pantheon.md#tek). While often considered too aggressive for peaceful interaction, an alliance has been recently broken between them and the sumi of Fremit<!-- TODO. Link. -->.
+* [Barkskins](kins/barkskin.md) are bone and wood golems, animated by the [god-tree Tek](religions/tanethism_pantheon.md#tek). While often considered too aggressive for peaceful interaction, an alliance has been recently broken between them and the sumi of Fremit<!-- TODO. Link. -->.
 
 <!-- TODO. Maybe talk a bit about each kin and their relevant migrations. -->
 
-![Migration Map of Yuadrem, Age of FOg](img/age_of_fog_migration_y801_v011_dpi72.png)
+![Migration Map of Yuadrem, Age of Fog](img/age_of_fog_migration_y801_v011_dpi72.png)
 ***Pictured:***
 *Age of Fog migration map of the Fesh Peninsula, drawn in 801 A.S. by the Fremite Monastery in Uvarme. It includes all mass migrations with their approximate dates.*
 
@@ -76,10 +76,10 @@ Many a hume has a favorite among the gods, one whose ideals and teaching they ma
 Other religions do exist, but receive little attention in the modern world. Once widely practiced, the three most notorious ones are [Tsalemism](religions/tsalemism.md), [Igneism](religions/igneism.md), and [Cosmism](religions/cosmism.md).
 
 ### Languages
-**TODO.**
-![Language Tree](img/language_tree_v023.png)
-<!-- TODO. Description of the image. -->
+![Language Tree](img/language_tree_y798_v031_dpi72.png)
+*A comprehensive overlook of the languages spoken in the Fesh Peninsula, 798 A.S. The branches represent the branching of language families, while the leaf clusters are the languages currently spoken. The size of each leaf cluster is a rough approximation of the number of speakers by the year of production. Recorded by the Umean monastery.*
 
+**TODO.**
 <!-- \begin{table*}[b]%
     \begin{DndTable}[width=\linewidth]{X}
         \centering
