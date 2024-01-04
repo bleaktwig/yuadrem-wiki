@@ -40,9 +40,9 @@ Back in the golden age, Yuadrem was split into various nations, each with their 
 An isola is defined as a region either devoid of nix, or only seasonably affected by it. Most isolas are protected by their topography, often aided by strong sorcerers known as [Illuminants](religions/tanethism_pantheon.md#illuminants). Up to the year 800 A.S., the only known isola was the Fesh Peninsula<!-- TODO. Link. -->. After the arrival of the nixwalkers<!-- TODO. Link. -->, dentrala<!-- TODO. Link. --> apomancers<!-- TODO. Link. --> who travel over the vapors released by nix, it is now known that at least three others isolas exist: [Krugghom](isolas/krugghom/index.md), the [Steldan Isola](isolas/steldan_isola/index.md), and the Coldmist Gorge<!-- TODO. Link. -->.
 
 ### Ethnology
-![Migration Map of Yuadrem](img/pre_penance_migration_y787_v012_dpi72.png)
+![Migration Map of Yuadrem, Pre-Penance](img/pre_penance_migration_y787_v012_dpi72.png)
 ***Pictured:***
-*Migration map of Yuadrem, drawn in 787 A.S. by the Fremite Monastery in Uvarme. It includes all known mass movements of people from the ird diasporas of ~80 B.S. to the Na'anian migration of 445 A.S. Migrations after the Penance are not pictured. The authors separated the four kins (and gats from irds) using colored lines.*
+*Pre-Penance migration map of Yuadrem, drawn in 787 A.S. by the Fremite Monastery in Uvarme. It includes all known mass movements of people from the ird diasporas of ~80 B.S. to the Na'anian migration of 445 A.S. Migrations after the Penance are not pictured. The authors separated the four kins (and gats from irds) using colored lines.*
 
 The peoples of Yuadrem are separated into four distinct kins. Each kin was created by a different god-tree, and each was then further divided by ethnic differences. These differences led to the formation of nations during the Golden Age<!-- TODO. Link. -->, the erosion of which later led to the sumis<!-- TODO. Link. -->.
 
@@ -51,8 +51,18 @@ The peoples of Yuadrem are separated into four distinct kins. Each kin was creat
 * [Oths](kins/oth.md) are a moth-like kin, a quiet people with a natural tendency towards knowledge. Created by the god-tree Tol, they're often seen as enigmatic as their creator.
 * [Barkskins](kins/barkskin.md) are bone and wood golems, animated by the god [Tek](religions/tanethism_pantheon.md#tek). While often considered too aggressive for peaceful interaction, an alliance has been recently broken between them and the sumi of Fremit<!-- TODO. Link. -->.
 
+<!-- TODO. Maybe talk a bit about each kin and their relevant migrations. -->
+
+![Migration Map of Yuadrem, Age of FOg](img/age_of_fog_migration_y801_v011_dpi72.png)
+***Pictured:***
+*Age of Fog migration map of the Fesh Peninsula, drawn in 801 A.S. by the Fremite Monastery in Uvarme. It includes all mass migrations with their approximate dates.*
+
+Different events in prehistory and history have caused migrations and diasporas, but none can be compared to The Penance. In the face of the vast loss of landmass to the nix tides, peoples from all nations and ethnicities coalesced in the Fesh Peninsula.
+
+<!-- TODO. Maybe talk a bit about each migration. -->
+
 ### Religion
-While other religions exist, the main one practiced in the Fesh Peninsula is Tanethism.
+The main religion practiced in the Fesh Peninsula is Tanethism.
 
 Old Tanethism is characterized by its myriad of gods -- one for each apomantic signature<!-- TODO. Link. -->. This religion was widely practiced in the Seven Principates<!-- TODO. Link. --> and their various colonies up until the late Age of Gold<!-- TODO. Link. -->. This however changes in the year 520 A.S., when the god-suzerain Olag<!-- TODO. Link. --> establishes a new Tanethism as the official religion of the principates.
 
