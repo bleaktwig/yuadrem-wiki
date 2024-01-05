@@ -8,6 +8,7 @@ TODO LIST:
     more useful.
 * Check links **regularly**. They break often.
 * ADD COATIS.
+* Explain somewhere that anything before the penance is called "pre-penance".
 -->
 
 Yuadrem was first settled by the firstborn oric gods, [Et](religions/tanethism_pantheon.md#et) and [Om](religions/tanethism_pantheon.md#om). Et was a large and thin birch, pliable and adaptable. Om was a short and stout juniper, vigorous and prodigious. These two gods were ever locked in combat, yet none could take the upper hand. This conflict became known as the War of Spring<!-- TODO. Link. -->.
@@ -18,6 +19,10 @@ The conflict ended with the burning of Om, an event known as the Schism<!-- TODO
 
 --------------------------------------------------------------------------------
 ## Geography
+<!-- TODO LIST:
+    * Finish the geography folder, + move mostly everything to the past tense. Make sure the reader knows that the world is dying!
+-->
+
 ![Map of Yuadrem](img/world_map_y604_v083.png)
 ***Pictured:***
 *Trade map of Yuadrem, drawn in 604 A.S. (After the Schism) by Marim of Avshen under the commission of Olag, the God-Suzerain of Naptane. The region colored in green corresponds to the Seven Protectorates of the Sea. Other colors represent the tax and penalty applied to trade in those regions. This map is proof of the healthy state of maritime travel and trade during the golden age.*
@@ -39,16 +44,18 @@ Back in the golden age, Yuadrem was split into various nations, each with their 
 
 An isola is defined as a region either devoid of nix, or only seasonably affected by it. Most isolas are protected by their topography, often aided by strong sorcerers known as [Illuminants](religions/tanethism_pantheon.md#illuminants). Up to the year 800 A.S., the only known isola was the Fesh Peninsula<!-- TODO. Link. -->. After the arrival of the nixwalkers<!-- TODO. Link. -->, dentrala<!-- TODO. Link. --> apomancers<!-- TODO. Link. --> who travel over the vapors released by nix, it is now known that at least three others isolas exist: [Krugghom](isolas/krugghom/index.md), the [Steldan Isola](isolas/steldan_isola/index.md), and the Coldmist Gorge<!-- TODO. Link. -->.
 
+<!-- TODO. Talk about the nations of the Fesh Peninsula. -->
+
 ### Ethnology
-![Migration Map of Yuadrem, Pre-Penance](img/pre_penance_migration_y787_v012_dpi72.png)
+![Migration Map of Yuadrem, Old World](img/pre_penance_migration_y787_v012_dpi72.png)
 ***Pictured:***
-*Pre-Penance migration map of Yuadrem, drawn in 787 A.S. by the Fremite Monastery in Uvarme. It includes all known mass movements of people from the ird diasporas of ~80 B.S. to the Na'anian migration of 445 A.S. Migrations after the Penance are not pictured. The authors separated the four kins (and gats from irds) using colored lines.*
+*Old world migration map of Yuadrem, drawn in 787 A.S. by the Fremite Monastery in Uvarme. It includes all known mass movements of people from the ird diasporas of ~80 B.S. to the Na'anian migration of 445 A.S. Migrations after the Penance are not pictured. The authors separated the four kins (and gats from irds) using colored lines.*
 
 The peoples of Yuadrem are separated into four distinct kins. Each kin was created by a different god-tree, and each was then further divided by ethnic differences. These differences led to the formation of nations during the Golden Age<!-- TODO. Link. -->, the erosion of which later led to the sumis<!-- TODO. Link. -->.
 
 * [Humes](kins/hume.md), born from Et, are as adaptable as their creator. They became the dominant kin in Yuadrem after the Schism, and remain in this position even after the Penance.
 * [Marsets](kins/marset.md), born from Om, are hardy nomads that roam the remaining forests of Yuadrem. Decimated by both the War of Spring and posterior genocides, they have proven to be a deceptively hardy people.
-* [Oths](kins/oth.md) are a moth-like kin, a quiet people with a natural tendency towards knowledge. Created by the god-tree Tol, they're often seen as enigmatic as their creator.
+* [Oths](kins/oth.md) are a moth-like kin, a quiet people with a natural tendency towards knowledge. Created by the god-tree [Tol](religions/tanethism_pantheon.md#tol), they're often seen as enigmatic as their creator.
 * [Barkskins](kins/barkskin.md) are bone and wood golems, animated by the [god-tree Tek](religions/tanethism_pantheon.md#tek). While often considered too aggressive for peaceful interaction, an alliance has been recently broken between them and the sumi of Fremit<!-- TODO. Link. -->.
 
 <!-- TODO. Maybe talk a bit about each kin and their relevant migrations. -->
@@ -76,127 +83,58 @@ Many a hume has a favorite among the gods, one whose ideals and teaching they ma
 Other religions do exist, but receive little attention in the modern world. Once widely practiced, the three most notorious ones are [Tsalemism](religions/tsalemism.md), [Igneism](religions/igneism.md), and [Cosmism](religions/cosmism.md).
 
 ### Languages
+<!-- TODO LIST:
+    * Eventually, I need to add links to all nations from this page.
+
+    NOTE. It would be cool to add some descriptive text to the tree, but maybe it's not a priority at the moment.
+-->
+
 ![Language Tree](img/language_tree_y798_v031_dpi72.png)
 *A comprehensive overlook of the languages spoken in the Fesh Peninsula, 798 A.S. The branches represent the branching of language families, while the leaf clusters are the languages currently spoken. The size of each leaf cluster is a rough approximation of the number of speakers by the year of production. Recorded by the Umean monastery.*
 
-**TODO.**
-<!-- \begin{table*}[b]%
-    \begin{DndTable}[width=\linewidth]{X}
-        \centering
-        \includegraphics[width=0.99\textwidth]{01yuadrem/img/22languages_map.png}
-    \end{DndTable}
-\end{table*}
+There are 16 recognized languages spoken in the Fesh Peninsula. They are separated into two distinct trees: Omietian languages and Uldian languages.
 
-A great variety of languages permeate Yuadrem, both of natural spawn and artificial design.
-While it is impossible to identify each tongue and its variations, many efforts have been done over the years to classify the common ones.
+Omietian languages are those that were taught by Et, Om, and Tol to their respective kins: humes, marsets, and oths. While etian and omian languages were taught by different god-trees, they have many common roots. Due to this, it is theorized that they came from one original language.
 
-Based on lexical and grammatical similarities, languages are separated into four generations, and five distinct families.
-The following tables classify these languages, pointing to their script and original speakers. -->
+#### Etian Family
+**Jantherlin** is the earliest known language that is still spoken. It was taught by Et to the first humes, and has been carefully preserved over the years by monks and scholars. In modern times, Jantherlin is only spoken in academic contexts, and its writing system is the base of the etian apomantic system<!-- TODO. Link. -->.
 
-<!-- \begin{DndTable}[width=\linewidth, header=First Generation]{p{2.6cm}p{2.6cm}X}
-    \textbf{Language}  & \textbf{Original Speakers} & \textbf{Script} \\
-    Jantherlin         & Ets                        & Varies \\
-    Babazano           & Marsets                    & - \\
-    Knaenese           & Naenks \& Tsaneks          & Knaenese \\
-    Outer Tongue       & -                          & Outer Tongue \\
-    Mind Speech        & Zaloths                    & -
-\end{DndTable}
+#### Avshenesian Family
+Over time, jantherlin developed into most of the languages spoken in Yuadrem. The largest branch of these is the avshenesian family. Originally spoken in the Seven Principates, it spread wide into the continent, only for the languages to coalesce again into the Fesh Peninsula. The avshenesian apomantic system<!-- TODO. Link. --> started from the mother language of the family, which is usually used by the commons due to its simplicity.
 
-\begin{DndTable}[width=\linewidth, header=Second Generation]{p{2.6cm}p{2.6cm}X}
-    \textbf{Language}  & \textbf{Original Speakers} & \textbf{Script} \\
-    Shamabic           & Oths                       & Shamabic \\
-    Harualish          & Irds                       & Harualish \\
-    Avshenese          & Gats                       & Avshenese \\
-    Leafrunes          & Marsets                    & Leafrunes \\
-    Shinerunes         & Naenks \& Tsaneks          & Shinerunes \\
-    Seedspeech         & Gannagian Tsaneks          & - \\
-    Krelho             & Tortles \& Grungs          & Krelho \\
-    Odhualen           & Umans                      & Outer Tongue
-\end{DndTable}
+* **Frisian** was the language spoken in the peninsula before The Penance, and remains the most common language in the region. It is currently spoken in the sumis of Fremit, Ushpavam, Vamerit, and Xarxage, as well as in the Holy Nation of Ushpavam and the Nation of Meritan. A dialect of old Avshenesian, very similar to Frisian, is also spoken by the chiefdoms of Raraspan and Dzarog, as well as by the Ketepi people.
+* **Shanise** is the main language spoken in the Northern Territories, and it branched out from Avshenese in the thulkrakan side of the ird diaspora. As of 802 A.S., it is only spoken in the Nation of Gronselar. Shanise is the basis for the gronselarian apomantic system<!-- TODO. Link. -->
+* **Voskian** is a family of languages that developed north of the [Zoedrem desert](geography/westlands.md#zoedrem), with the dispersion of the Bughna people<!-- TODO. Link. --> in the northern bughna migration. It is not currently spoken in any nation, but the family is very common in the six thousand tribes and the peoples of Saefel.
+* **Beash Speech** is an artificial language developed in Voskferm, a now dead nation. The language was developed to communicate with the highly intelligent Thunderbeasts<!-- TODO. Link. -->. It is now used by merchants and travelers to ride these creatures across the sumis of the Fesh Peninsula.
 
-\begin{DndTable}[width=\linewidth, header=Third Generation]{p{2.6cm}p{3.2cm}X}
-    \textbf{Language}  & \textbf{Original Speakers} & \textbf{Script} \\
-    Silent Speech      & Oths                       & - \\
-    Fruenese           & Sulian Oths                & Fruenese \\
-    Zsekian            & Dratl Irds                  & Harualish \\
-    Qualinese          & Jenkashian Irds            & Harualish \\
-    Shanise            & Northern Irds \& Gats      & Shanise \\
-    Frishian           & Jorea \& Dzorvepem         & Avshenese \\
-    Voskian            & Voskferm \& Voskgrit       & Avshenese \\
-    Thieves' Cant      & Rogues \& Thieves          & Thieves' Cant \\
-    Slaadi             & Slaads                     & Krelho \\
-    Feelspeech         & Zaloths \& Umans           & -
-\end{DndTable}
+#### Harualian Family
+Some time before the avshenesian family sprouted from Jantherlin, the harualian family started taking shape after the hairusse, qulbaban, and dratlean sides of the ird diaspora. While there were many harualian languages existed in the old world, only two survived The Penance.
 
-\begin{DndTable}[width=\linewidth, header=Fourth Generation]{p{2.6cm}p{3.2cm}p{2.2cm}}
-    \textbf{Language}  & \textbf{Original Speakers} & \textbf{Script} \\
-    True Speech        & Palegna \& Sulia           & - \\
-    Jol'naat           & Jenkash                    & - \\
-    Beast Speech       & Jorea                      & - \\
-    Conscript Tongue   & Cabb Goem-Rlamesh          & - \\
-    Traveler's Cant    & Zaloths \& Umans           & Traveler's Cant
-\end{DndTable} -->
+* **Qualinese** was the main language spoken in the Jenkashian empire. While the empire was lost to nix, some of its people migrated to the Fesh Peninsula. The language is now spoken by the Puneui People and is the second most common language in the sumi of Fremit.
+* **Zsekian** was the language of the Hulnar empire. Very few native speakers remain in the modern world, but the language still sees some use in the chiefdoms of Raraspan and Dzarog, as well as by the Ketepi people.
 
-<!-- % \paragraph{Old Tongue} A very complicated and intricate language spoken by the tall kin, the original settlers of Yuadrem.
-% It's spoken form involves various complex articulations and the definition of a word can vary greatly based on the context.
-% Additionally, each tall one had their own personal version of the written form, and others would understand it as much as they understood the individual.
-% % This makes the reading of the old tongue extremely difficult for the kin that remain in the world, since understanding a particular tall one's scribbles essentially requires understanding their own version of the language.
-% % Nowadays, only scholars and archaeologists understand the language, and it is not normally used anywhere.
-% \paragraph{Marset Tongue} Every marset is already able to speak this strange, repetitive language.
-% The marset tongue only has ten consonants, and ten verbs.
-% % The rest of their vocabulary is built up from there, making their language very difficult to speak or understand by kins other than the marsets.
-% Marset tongue can be spoken in one of two ways: soundlessly, through lip reading, or screamed as loud as possible, with no middle ground.
-% The language cannot be written down.
-% \paragraph{Naenk Tongue} Short words and strong consonants define the naenk tongue.
-% Lacking lips and teeth, naenks make heavy use of their alveolar ridge and hard palate to produce syllables.
-% The written form of the language involves carving lines and holes onto bark or stone.
-% \paragraph{Outer Tongue}
-% \paragraph{Mind Speech}
+#### Shamabic Family
+After the god-tree Tol spawned from the corpse of Et, it spawned the oth kin. Oths quickly integrated into the Seven Principates, but developed their own languages from Jantherlin: the Shamabic family.
 
-% \subsubsection{Second Generation}
-% \paragraph{Dust Tongue}
-% \paragraph{Ird Tongue}
-% \paragraph{Gat Tongue}
-% \paragraph{Leafrunes} Very easy to learn, but kept secret by the archer kin.
-% A marset will teach this set of runes only to creatures that it deeply trusts, and only if it's strictly necessary.
-% Ten leafrunes exist, all of which are used individually and to convey very simple meaning.
-% % \textit{colony}, \textit{danger}, \textit{fun place}, \textit{hiding spot}, \textit{observation point}, \textit{predators}, \textit{road}, \textit{sacred place}, \textit{source of food}, and \textit{source of materials}.
-% \paragraph{Shinerunes}
-% \paragraph{Krelho}
-% \paragraph{Nomad Tongue}
+* **Fruenese** was the first language developed by the oths. It is a highly practical language with a simple syntax, reflecting the pragmatism of the kin. Fruenese is now the main language spoken in the chiefdom of Nalash and the island of Trevit.
+* The **Silent Tongue** was the second language developed by oths. It doesn't have a writing system, as it uses only visual-manual signs to convey meaning. Despite it being an artificial language, it's separate into many different dialects. It can be seen in the entire Fesh Peninsula, but it is seen the most in the sumi of Fremit. It is the basis for the dentralin apomantic system<!-- TODO. Link. -->
+* The **True Tongue** was the third and final language developed by oths. Also based on Fruenese, it adds to it a large set of unique and very complicated grammatical rules. These make the language exceedenly hard to learn, but give it a unique advantage: it is impossible to lie in True Tongue, hence its name. The language is most commonly spoken by political figures, diplomats, and scholars.
 
-% \subsubsection{Third Generation}
-% \paragraph{Silent Speech}
-% \paragraph{Standard Language}
-% \paragraph{Zsek Tongue}
-% \paragraph{Qul Tongue}
-% \paragraph{North Tongue}
-% \paragraph{Beetle Tongue}
-% \paragraph{Gilded Tongue}
-% \paragraph{Thieves' Cant}
-% \paragraph{Slaadi}
-% \paragraph{Frost Tongue}
-% \paragraph{Bog Tongue}
-% \paragraph{Feelspeech}
+#### Omian Family
+**Babazano** was the only language taught by Om to their descendants, the marsets. It is a very repetitive language with little verb variety, making it somewhat easy to learn. It has only 10 consonants, making lip movements very easy to identify. As such, most speakers learn to read lips fairly easily. Currently, Babazano is the only language spoken in the Nation of Om.
 
-% \subsubsection{Fourth Generation}
-% \paragraph{True Speech}
-% \paragraph{Jol'naat}
-% \paragraph{Beast Speech}
-% \paragraph{Conscript Language}
-% \paragraph{Traveler's Cant} -->
+#### Naenkian Family
+Since they do most of their communication through spores, the god-tree Tek did not teach any language to barkskins. They were, however, later taught language by marsets, in an attempt to establish communication. Barkskins learned babazano, which quickly morphed into the naenkian language family due to their unique morphology.
 
-<!-- \subsubsection{Language}
-The tall kin spoke a very sophisticated language, known as jan-theth rlin, simplified as jantherlin.
-This language allowed for a very profound expression of one's emotions and inner state, and is still used in poetry to this date.
-For when deeper communication is needed, ets could meld their bodies and share thought, but the practice was only used in special rituals or to express especially complex abstract concepts.
+* **Knaenese** is the most common language in the naenkian family. Lacking teeth and lips, barkskins communicate only with their alveolar ridge and palate, producing rough-sounding words. Knaenese is currently spoken only in the Nation of Knagan.
+* **Gannagian**, sometimes referred to as Old Knaenese, sounds very similar to knaenese, but is generally simpler. Lacking the proximity to Tek, and thus its spores, the barkskins of Knagan had to further develop their language, leading to this differentiation. Gannagian is only spoken in Gannag. Gannagian is the basis for the gannagian apomantic system<!-- TODO. Link. -->.
+* **Leaf-runes** is a written language developed by marsets and barkskins, used to communicate between the two. The language is written into the bark of trees, and the shape of each gliph depends on the shapes of this bark. This makes it very hard for other kins to understand the writing, but is fairly simple for the two due to their intimate relation with trees. Leaf-runes are mostly used to provide guidance or help in the jungle in a secretive manner.
 
-As for written word, it was customary for the tall kin to chisel the stone, commonly carving a great variety of images alongside the text.
-While this written language originates from jantherlin, each tall one had its own personal version of it.
-Other ets could only comprehend one's writing as much as they understood the writer.
-This makes the study of jantherlin extremely difficult to modern archaeologists.
-% This makes the reading of the jantherlin extremely difficult for the kin that remain in the world, since understanding a particular tall one's scribbles essentially requires understanding their own version of the language.
- -->
+#### Uldian Family
+Uldian languages were developed independently by the oths of Ignelli<!-- TODO. Link. -->, under the tutelage of the god-tree [Uld](religions/tanethism_pantheon.md#uld). These languages saw some success in the region, but never spread too far from Ignelli.
+
+* **Odhualen** is a very unique language, sharing only broad characteristics with the other dialects of Yuadrem. The language has recently become somewhat popular among monks and scholars due to the fact that its writing system is exceptionally compact. It is the main language spoken in the island of Mbeat.
+* **Krelho** was a variation of Odhualen born as the language spread across the [Wildlands](geography/wildlands.md). It has almost disappeared after The Penance, with more people interested in learning Odhualen rather than its obscure cousin language.
 
 --------------------------------------------------------------------------------
 <!-- HISTORY ------------------------------------------------------------------>
