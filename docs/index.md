@@ -137,7 +137,6 @@ Uldian languages were developed independently by the oths of Ignelli<!-- TODO. L
 * **Krelho** was a variation of Odhualen born as the language spread across the [Wildlands](geography/wildlands.md). It has almost disappeared after The Penance, with more people interested in learning Odhualen rather than its obscure cousin language.
 
 --------------------------------------------------------------------------------
-<!-- HISTORY ------------------------------------------------------------------>
 ## History
 **TODO.**
 
@@ -145,7 +144,7 @@ Uldian languages were developed independently by the oths of Ignelli<!-- TODO. L
 
 <!-- PREHISTORY --------------------------------------------------------------->
 ### Prehistory
-* **Nascency of Disparity.** The primordial [Pheter](religions/tanethism_pantheon.md#pheter), god of disparity, is born from [Nix](religions/tanethism_pantheon.md#nix). With Pheter comes the eparation of land and sea, and thus Yuadrem is created.
+* **Nascency of Disparity.** The primordial [Pheter](religions/tanethism_pantheon.md#pheter), god of disparity, is born from [Nix](religions/tanethism_pantheon.md#nix). With Pheter comes the separation of land and sea, and thus Yuadrem is created.
 * **Nascency of Color.** From Pheter, the two [damic gods](religions/tanethism_pantheon.md#damic-gods) are born: [Zash](religions/tanethism_pantheon.md#zash), the sun, and [Fagal](religions/tanethism_pantheon.md#fagal), the darksun. Zash in turn is divided into his six aspects, the [mevic gods](religions/tanethism_pantheon.md#mevic-gods), which conform Color.
 * **First Communion.** To populate Yuadrem, each mevic god plants a seed. These seeds grow into the [oric gods](religions/tanethism_pantheon.md#oric-gods), the first life to stand on Yuadrem.
 * **War of Spring.** The largest of the oric gods, Et and Om, go into war. While no damic or mevic god interfered, Pheter themself was against the conflict. Humes are born from Et as soldiers in this war, while Om creates the marsets to defend themself.
