@@ -1,57 +1,32 @@
 # Humes
-Et created humes to aid the oric god in the War of Spring.
-Despite this, many opposed the conflict, or felt indifferent to it.
-They fled the company of their god-tree, for which they were cursed with feathers.
-They came to be known as irds, and this dispersion came to be known as the Ird Diasporas.
+[Et](../religions/tanethism_pantheon.md#et) created humes to aid the oric god in the War of Spring<!-- TODO. Link. -->. Despite this, many opposed the conflict, or felt indifferent to it. They fled the company of their god-tree, for which they were cursed with feathers. They came to be known as irds, and this dispersion came to be known as the Ird Diasporas<!-- TODO. Link. -->. The humes that remained with Et were blessed with horns, and are known as gats.
 <!-- NOTE. This led to the first siege of Ctereth, where four different ird chiefdoms (led by 4 historic figures) stole qualars to allow their kin to travel away from Naptane. -->
-The humes that remained with Et were blessed with horns, and are known as gats.
 <!-- NOTE. Maybe mention what ird and gat mean in jantherlin? That might help integrate the language into the lore. -->
 
 ---
 ## Physical Description
-Humes are of a broad spectrum.
-Before the penance, humes traveled the entirety of Yuadrem, and they are as varied as the environments they settled.
-Their height usually varies from slightly more than a meter to about 2.
-They can weigh anything from 40 to 120 kg.
-Their skin shades to any color from the darkest brown to the lightest hues.
-They can grow long hair from their scalps and faces, with a great variety of color and thickness.
+Humes are of a broad spectrum. Before the penance, humes traveled the entirety of Yuadrem, and they are as varied as the environments they settled. Their height usually varies from slightly more than a meter to about 2. They can weigh anything from 40 to 120 kg. Their skin shades to any color from the darkest brown to the lightest hues. They can grow long hair from their scalps and faces, with a great variety of color and thickness.
 
-While this varies from culture to culture, in general a hume is considered an adult between 14 and 16 years.
-Due to high child mortality, life expectancy averages to 25 years.
-For those who reach that age, they have a reasonable chance of reaching 50 to 60 years.
-Sorcerers are well known for extending their lives, and it is not unusual for them to live even more than a century.
+While this varies from culture to culture, in general a hume is considered an adult between 14 and 16 years. Due to high child mortality, life expectancy averages to 25 years. For those who reach that age, they have a reasonable chance of reaching 50 to 60 years. Sorcerers are well known for extending their lives, and it is not unusual for them to live even more than a century.
 <!-- NOTE. The downside of this are all the negative effects of Pheter use in the body, Nix sickness, deformed bodies + strange appendages, etc. -->
 
-Humes are a gendered kin, and usually have one child at a time.
-Previous to the Schism, childcare was left to the women of the families, in particular to each child's mother.
-This varies among cultures, and communal childcare is the norm after the Penance.
+Humes are a gendered kin, and usually have one child at a time. Previous to the Schism<!-- TODO. Link. -->, childcare was left to the women of the families, in particular to each child's mother. This varies among cultures, but communal childcare is the norm after the Penance<!-- TODO. Link. -->.
 
 ---
 ## Gat Culture
 ### Distinctive Characteristics
-The skin of a gat is generally dark, usually ranging from yellow, through brown, to black.
-While some gats are blonde, the most common hair colors and brown, black, and sometimes red.
-It is a common gat custom to sport long hair and beards, often decorated with jewelry.
+The skin of a gat is generally dark, usually ranging from yellow, through brown, to black. While some gats are blonde, the most common hair colors and brown, black, and sometimes red. It is a common gat custom to sport long hair and beards, often decorated with jewelry.
 
-With the exception of the treb, gats are generally small, ranging from 140 to 170 centimeters on average.
-Another common feature accross gats is their eyes; which are usually of strong colors.
-This feature is often attributed as a blessing of Color given by Et.
+With the exception of the treb, gats are generally small, ranging from 140 to 170 centimeters on average. Another common feature across gats is their eyes; which are usually of strong colors. This feature is often attributed as a blessing of Color<!-- TODO. Link. --> given by Et.
 
-While all original gats had horns, the feature has been lost through the centuries.
-Those birthed by the remains of the god-tree, or Et-born, retain the horns.
-Yet they are increasingly rare after the Penance, as nix has destroyed the land that surrounds the tree.
+While all original gats had horns, the feature has been lost through the centuries. Those birthed by the remains of the god-tree, or Et-born, retain the horns. They are increasingly rare after the Penance, as nix<!-- TODO. Link. --> has destroyed the land that surrounds the tree.
 <!-- TODO. At some point I need to describe what an Et-born gat is. -->
 <!-- NOTE. Maybe describe what noves, bughna, and treb mean in Jantherlin/Old Avshenese. -->
 
 <!-- NOTE. Tale of the gestation of an et-born.
-    Gats are genderless creatures.
-    All gats are born with a pair of seeds hidden in a small sack between their legs.
-    Around the age of 30, a gat reaches physical maturity.
-    This is signalled by a slight swelling in these seeds, which they can now cut and plant under a thick layer of rich soil.
+    Gats are genderless creatures. All gats are born with a pair of seeds hidden in a small sack between their legs. Around the age of 30, a gat reaches physical maturity. This is signaled by a slight swelling in these seeds, which they can now cut and plant under a thick layer of rich soil.
 
-    While underground, the seed will grow by leeching nutrients off the earth.
-    After a gestation period of around 2 years, the gat will dig their way up from the ground and emerge as a somewhat competent infant.
-    A gat would-be-parent must always be careful about where to plant their seed, for if a newborn sees the sun or any strong light during their first days, they run the risk of being permanently blinded.
+    While underground, the seed will grow by leeching nutrients off the earth. After a gestation period of around 2 years, the gat will dig their way up from the ground and emerge as a somewhat competent infant. A gat would-be-parent must always be careful about where to plant their seed, for if a newborn sees the sun or any strong light during their first days, they run the risk of being permanently blinded.
 
     TODO. This clearly requires an update -- gats are now humes.
 -->
@@ -60,98 +35,57 @@ Yet they are increasingly rare after the Penance, as nix has destroyed the land 
 
 ### Origins and History
 <!-- NOTE. Those who sided with Et. Et-born families still retain horns (by feeding the mother Et's sap), which were first gifted by Et to their loyal soldiers. -->
-After the Schism, the surviving gats separated into three groups: noves, bughna, and treb.
-Those who remained became known as noves gats, and their ethnicity is the most common in the modern world.
-They built the holy city of Naptane inside the stump of Et, from which sprung the Seven Principates of the Sea.
-Noves are often considered simile to civilization.
+After the Schism, the surviving gats separated into three groups: noves, bughna, and treb. Those who remained became known as noves gats, and their ethnicity is the most common in the modern world. They built the holy city of Naptane<!-- TODO. Link. --> inside the stump of Et, from which sprung the Seven Principates of the Sea<!-- TODO. Link. -->. Noves are often considered simile to civilization.
 
-Bughna gats endured the 40-Year Famine by adopting a nomadic lifestyle, one which defines them still.
-These humes became known as great pastors and merchants.
-They strenghtened the bond between the principates, in part allowing the establishment of the large gat civilization.
-Even today they are often associated to good luck.
+Bughna gats endured the 40-Year Famine<!-- TODO. Link. --> by adopting a nomadic lifestyle, one which defines them still. These humes became known as great pastors and merchants. They strengthened the bond between the principates, in part allowing the establishment of the large gat civilization. Even today they are often associated to good luck.
 
-Not all progeny of Et was born equal, and the treb are the perfect example.
-They are larger and bulkier than the average hume, and were often the first line of attack in the War of Spring.
-Treb gats were regarded as brutish, and didn't fit the civilization built by the noves.
-They were exiled by Olag during the second century, and most established a new home in the Dead Sea.
+Not all progeny of Et was born equal, and the treb are the perfect example. They are larger and bulkier than the average hume, and were often the first line of attack in the War of Spring. Treb gats were regarded as brutish, and didn't fit the civilization built by the noves. They were exiled by Olag<!-- TODO. Link. --> during the second century, and most established a new home in the Dead Sea<!-- TODO. Link. -->.
 <!-- NOTE. Treb gats are not *born* brutish. While their culture may seem "violent", they are very religious and show a sophistication with nature that is not commonly seen in other humes. -->
 
 ### Traditions and Religion
 <!-- NOTE. Noves culture has its members remain at home a lot. Either lean into this or figure out more collective celebrations. -->
 **Families and Guilds.**
-To the noves, a family is defined as the group of people with which one shares housing.
-Most members of a family share a profession, and large families are known as guilds.
-The head of a family is either its oldest member or someone designated by them.
+To the noves, a family is defined as the group of people with which one shares housing. Most members of a family share a profession, and large families are known as guilds. The head of a family is either its oldest member or someone designated by them.
 
-When a child is born, they become a member of the mother's family.
-Most children know who their parents are, but childcare is a communal endeavor.
+When a child is born, they become a member of the mother's family. Most children know who their parents are, but childcare is a communal endeavor. From their 14th birthday onward, a gat can choose to join another family. They need to be accepted by the head of the receiving family. The departure is often accompanied by a ceremonial feast shared by the two families.
 <!-- NOTE. Many members of a child's family have an important role in their development, and a special place in their heart :). -->
-From their 14th birthday onward, a gat can choose to join another family.
-They need to be accepted by the head of the receiving family.
-The departure is often accompanied by a ceremonial feast shared by the two families.
 
 **Death.**
-Accross gat culture, the dead are said to protect their families after their death.
-The old tradition is to bury the dead below the family house, especially under doors and windows.
-Being below their loved ones aids the dead in their protection.
+Across gat culture, the dead are said to protect their families after their death. The old tradition is to bury the dead below the family house, especially under doors and windows. Being below their loved ones aids the dead in their protection.
 <!-- NOTE. The pheter in the bones of the dead literally aids the family by keeping nix out, but this effect is minor. -->
 
-After the Penance, it has become common to burn some of the dead at the center of towns and villages.
-This helps in staving off nix, as the charred bones release their pheter.
-The specific tradition is chosen by the family, but burnings are commonly mandated when nix is on high tide.
+After the Penance, it has become common to burn some of the dead at the center of towns and villages. This helps in staving off nix, as the charred bones release their pheter<!-- TODO. Link. -->. The specific tradition is chosen by the family, but burnings are commonly mandated when nix is on high tide<!-- TODO. Link. -->.
 <!-- NOTE. On the death of royalty. Kings and the royal family are burned after death. After that, their bones are placed on a giant mausoleum, all mixed together to accumulate their pheter. -->
 <!-- NOTE. I could play more with nix tides. Maybe relate them to the moons? -->
 
 **Bughna moon rituals.**
-The bughna have a special admiration towards Kegal, the indigo moon.
-In particular, the nomadic patterns of animal herders are aligned to the moon phases.
-The search for new grazing grounds only occurs while the Kegalian world signature is in phase.
-Bughna gats feel protected by the signature's gaze.
+The bughna have a special admiration towards Kegal, the indigo moon<!-- TODO. Link. -->. In particular, the nomadic patterns of animal herders are aligned to the moon phases. The search for new grazing grounds only occurs while the Kegalian world signature<!-- TODO. Link. --> is in phase. Bughna gats feel protected by the signature's gaze.
 <!-- NOTE. Bughna also celebrate thunderstorms as portents of Kegal. -->
 <!-- NOTE. Kegal is the moon with an stupid-large apomantic signature etched to its face. It's a very complex signature, used by Pheter to conduct lightning to Et. -->
 
 **Aversion to piercing.**
-One thing in common accross all gats is their aversion to piercing weapons, especially after the Penance.
-Puncture wounds are believed to cause an excessive leakage of pheter.
-This means that not only the victim's body is damage, but some of their soul leaks as well.
-For this reason, gravely piercing another hume is punished by death.
+One thing in common across all gats is their aversion to piercing weapons, especially after the Penance. Puncture wounds are believed to cause an excessive leakage of pheter. This means that not only the victim's body is damaged, but some of their soul is as well. For this reason, gravely piercing another hume is punishable by death in most gat cultures.
 <!-- NOTE. The soul is the pheter stored in a body. -->
 <!-- NOTE. Olag punished traitors by impaling them in pikes, but without crossing major organs (idk how tho?). Then, not only did they bleed slowly, but they could feel their soul leaking away. -->
 
 **Religion.**
-Tanethism is the most common religion in Yuadrem.
-It is the most common belief of all gats since the fifth century. <!-- TODO. This year might change soon!!!! -->
-Despise its popularity, Tanethism is a personal religion.
-Altars to certain gods are common, but established institutions to them are a rare sight, and is even prohibited in some provinces.
+Tanethism<!-- TODO. Link. --> is the most common religion in Yuadrem. It is the most common belief of all gats since the fifth century. <!-- TODO. This year might change soon!!!! --> Tanethism is a personal religion. Altars to certain gods are common, but established institutions to them are a rare sight, and is even prohibited in some provinces<!-- TODO. Provinces?. -->.
 
-Apart from providing the list and description of the religion's gods, the book of Taneth details the myriad of rituals to each of them.
-Most gats have a predilection toward certain gods, and include some of them into daily life.
-Treb are particularly religious.
-Often liturgy is attached to any activity an individual deems important.
+Apart from providing the list and description of the religion's gods, the book of Taneth<!-- TODO. Link. --> details the myriad of rituals to each of them. Most gats have a predilection toward certain gods, and include some of them into daily life. Treb are particularly religious. Often liturgy is attached to any activity an individual deems important.
 
 ### Names
-In tradition, gats have various names.
-These names don't have a particular order, and many can change during a gat's lifetime.
-In addition, different people and communities will often know a gat by different names.
-Names are not officialized, and the duty of recording individuals is left to each family.
+In tradition, gats have various names. These names don't have a particular order, and many can change during a gat's lifetime. In addition, different people and communities will often know a gat by different names. Names are not officialized, and the duty of recording individuals is left to each family.
 
 While the intricacies of these names are unique to each community -- and sometimes a particular family --, five categories are common.
 
-* A **personal name** is the name given to a gat my their mother, usually soon after birth.
-Personal names are often permanent, but nothing stops a gat from changing them.
-* A **parent name** is the name of a gat's mother or father followed by the suffix *ban*, meaning "sibling of" in avshenese.
-A gat may prefer to use this name if a parent was particularly important.
-Furthermore, additional parent names can be added after the first, climbing up a branch of the family tree.
+* A **personal name** is the name given to a gat my their mother, usually soon after birth. Personal names are often permanent, but nothing stops a gat from changing them.
+* A **parent name** is the name of a gat's mother or father followed by the suffix *ban*, meaning "sibling of" in avshenese<!-- TODO. LINK -->. A gat may prefer to use this name if a parent was particularly important. Furthermore, additional parent names can be added after the first, climbing up a branch of the family tree.
 * A **profession name** is simply the name of the profession practiced by the gat.
-* A **family name**, which is acquired by all members of a family upon joining.
-Sometimes, the head of the family will add the *grit* suffix to the family name, meaning "head" in avshenese.
-* A **locality name** that comes from where the gat comes from, adding the *she* prefix, a phoneme associated to location in avshenese.
-These names are acquired only by travelers, and depend on the extensions of their travels.
-For example, a gat coming from a different town may be referred to by the name of that town, and one from another province will acquire its name.
+* A **family name**, which is acquired by all members of a family upon joining. Sometimes, the head of the family will add the *grit* suffix to the family name, meaning "head" in avshenese.
+* A **locality name** that comes from where the gat comes from, adding the *she* prefix, a phoneme associated to location in avshenese. These names are acquired only by travelers, and depend on the extensions of their travels. For example, a gat coming from a different town may be referred to by the name of that town, and one from another province will acquire its name.
 
-Personal names are often easy to pronounce.
-A non-exhaustive list of common ones is:
-Adrevik, Ani, Anush, Armen, Avag, Gagik, Garen, Gevog, Gohar, Grigor, Hak, Harig, Hovsep, Jirar, Kevon, Khadzak, Marim, Narek, Pagran, Poghos, Ruben, Sivadr, Sona, Vahan, Vefan.
+Personal names are often easy to pronounce. A non-exhaustive list of common ones is: Adrevik, Ani, Anush, Armen, Avag, Gagik, Garen, Gevog, Gohar, Grigor, Hak, Harig, Hovsep, Jirar, Kevon, Khadzak, Marim, Narek, Pagran, Poghos, Ruben, Sivadr, Sona, Vahan, Vefan.
+<!-- TODO. Maybe update based on feshian names. -->
 
 <!-- NOTE. On names.
     * Oths hate the many names convention - organizing family trees and keeping track of historic figures is a total pain.
@@ -161,25 +95,17 @@ Adrevik, Ani, Anush, Armen, Avag, Gagik, Garen, Gevog, Gohar, Grigor, Hak, Harig
 -->
 
 ---
+<!-- TODO. Continue from here. -->
 ## Ird Culture
 <!-- NOTE. Those who refused the War of Spring, sieged Ctereth and diaspora'd the fuck out of Naptane. They are said to have been cursed with feathers by Et (since they "fled"). Qulbaba irds wore a lot of colourful feathers, which lends to the confusion. -->
 
 ### Distinctive Characteristics
-Irds are usually easy to recognize due to their size, which on average is about 175 centimeters.
-Their skin color varies greatly, usually matching they environment they live in.
-Their eye color is also assorted, yet are often less saturated than that of a gat.
+Irds are usually easy to recognize due to their size, which on average is about 175 centimeters. Their skin color varies greatly, usually matching they environment they live in. Their eye color is also assorted, yet are often less saturated than that of a gat.
 
-Qulbaba and dratl irds are rather slender, while the thulkraka are generally broad.
-Hair color is also a feature commonly used to determine the ethnicity of an ird.
-Thulkraka irds often have either blonde, black, or ginger hair.
-Then, the qulbaba have brown hair, usually in dark shades.
-Dratl irds have light brown or orange hair, which tends to gray at an earlier age than other humes.
+Qulbaba and dratl irds are rather slender, while the thulkraka are generally broad. Hair color is also a feature commonly used to determine the ethnicity of an ird. Thulkraka irds often have either blonde, black, or ginger hair. Then, the qulbaba have brown hair, usually in dark shades. Dratl irds have light brown or orange hair, which tends to gray at an earlier age than other humes.
 
 <!-- TODO. Clothing -->
-Irds were said to have been cursed with feathers when they fled the War of Spring.
-While they don't actually grow feathers, a common feature in ird attire is the usage of plumage in their clothing.
-Before the Penance, the color of their clothing depended on their ethnicity.
-Now, colorful feathers are usually only used in traditional rituals, as most fear the effect the colors may have on their bodies.
+Irds were said to have been cursed with feathers when they fled the War of Spring. While they don't actually grow feathers, a common feature in ird attire is the usage of plumage in their clothing. Before the Penance, the color of their clothing depended on their ethnicity. Now, colorful feathers are usually only used in traditional rituals, as most fear the effect the colors may have on their bodies.
 
 ### Origins and History
 **TODO.**
