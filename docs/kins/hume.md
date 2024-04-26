@@ -1,21 +1,24 @@
 # Humes
-[Et](../religions/tanethism_pantheon.md#et) created humes to aid the oric god in the War of Spring<!-- TODO. Link. -->. Despite this, many opposed the conflict, or felt indifferent to it. They fled the company of their god-tree, for which they were cursed with feathers. They came to be known as irds, and this dispersion came to be known as the Ird Diasporas<!-- TODO. Link. -->. The humes that remained with Et were blessed with horns, and are known as gats.
-<!-- NOTE. This led to the first siege of Ctereth, where four different ird chiefdoms (led by 4 historic figures) stole qualars to allow their kin to travel away from Naptane. -->
-<!-- NOTE. Maybe mention what ird and gat mean in jantherlin? That might help integrate the language into the lore. -->
+[Et](../religions/tanethism_pantheon.md#et) created humes to aid the oric god in the War of Spring<!-- TODO. Link. -->. Despite this, many opposed the conflict, or felt indifferent to it. They fled the company of their god-tree, for which they were cursed with feathers. These humes came to be known as irds, and their dispersion as the Ird Diasporas<!-- TODO. Link. -->. The humes that remained with Et were blessed with horns, and are known as gats.
+
+<!-- NOTE.
+    * This led to the first siege of Ctereth, where four different ird chiefdoms (led by 4 historic figures) stole qualars to allow their kin to travel away from Naptane.
+    * Maybe mention what ird and gat mean in jantherlin? That might help integrate the language into the lore.
+-->
 
 ---
 ## Physical Description
-Humes are of a broad spectrum. Before the penance, humes traveled the entirety of Yuadrem, and they are as varied as the environments they settled. Their height usually varies from slightly more than a meter to about 2. They can weigh anything from 40 to 120 kg. Their skin shades to any color from the darkest brown to the lightest hues. They can grow long hair from their scalps and faces, with a great variety of color and thickness.
+Humes are of a broad spectrum. Before the Penance<!-- TODO. Link. -->, humes traveled the entirety of Yuadrem, and they are as varied as the environments they settled. Their height usually ranges from slightly more than a meter to about 2. They can weigh anything from 40 to 120 kg, on average. Their skin shades to any color from the darkest brown to the lightest hues. They can grow long hair from their scalps and faces, with great variety of color and thickness.
 
 While this varies from culture to culture, in general a hume is considered an adult between 14 and 16 years. Due to high child mortality, life expectancy averages to 25 years. For those who reach that age, they have a reasonable chance of reaching 50 to 60 years. Sorcerers are well known for extending their lives, and it is not unusual for them to live even more than a century.
 <!-- NOTE. The downside of this are all the negative effects of Pheter use in the body, Nix sickness, deformed bodies + strange appendages, etc. -->
 
-Humes are a gendered kin, and usually have one child at a time. Previous to the Schism<!-- TODO. Link. -->, childcare was left to the women of the families, in particular to each child's mother. This varies among cultures, but communal childcare is the norm after the Penance<!-- TODO. Link. -->.
+Humes are a gendered kin, and usually have one child at a time. Previous to the Schism<!-- TODO. Link. -->, childcare was left to the women of the families, in particular to each child's mother. This varies among cultures, but communal childcare is the norm after the Penance.
 
 ---
 ## Gat Culture
 ### Distinctive Characteristics
-The skin of a gat is generally dark, usually ranging from yellow, through brown, to black. While some gats are blonde, the most common hair colors and brown, black, and sometimes red. It is a common gat custom to sport long hair and beards, often decorated with jewelry.
+The skin of a gat is generally dark, usually ranging from yellow, through brown, to black. While some gats are blonde, the most common hair colors are brown, black, and sometimes red. It is a common gat custom to sport long hair and beards, often decorated with jewelry.
 
 With the exception of the treb, gats are generally small, ranging from 140 to 170 centimeters on average. Another common feature across gats is their eyes; which are usually of strong colors. This feature is often attributed as a blessing of Color<!-- TODO. Link. --> given by Et.
 
@@ -31,7 +34,10 @@ While all original gats had horns, the feature has been lost through the centuri
     TODO. This clearly requires an update -- gats are now humes.
 -->
 
-<!-- TODO. Clothing. --->
+### Clothing
+Clothing is varied over the different gat cultures, but one thing remains constant: each gat's garments generally focuses on one particular color. Blessed by Color, gats are particularly affected by the hue of their fibers, and they take advantage of this to manipulate their mind, personality, and physiology.
+
+While working, a laborer might wear red with hints of violet to allow their body to gain strength faster. A scholar may wear blue with details in gold to improve their memory retention. A traveler would often wear green in the day to speed up their travels, then orange during the night to receive more heat from their bonfire.
 
 ### Origins and History
 <!-- NOTE. Those who sided with Et. Et-born families still retain horns (by feeding the mother Et's sap), which were first gifted by Et to their loyal soldiers. -->
@@ -84,8 +90,8 @@ While the intricacies of these names are unique to each community -- and sometim
 * A **family name**, which is acquired by all members of a family upon joining. Sometimes, the head of the family will add the *grit* suffix to the family name, meaning "head" in avshenese.
 * A **locality name** that comes from where the gat comes from, adding the *she* prefix, a phoneme associated to location in avshenese. These names are acquired only by travelers, and depend on the extensions of their travels. For example, a gat coming from a different town may be referred to by the name of that town, and one from another province will acquire its name.
 
-Personal names are often easy to pronounce. A non-exhaustive list of common ones is: Adrevik, Ani, Anush, Armen, Avag, Gagik, Garen, Gevog, Gohar, Grigor, Hak, Harig, Hovsep, Jirar, Kevon, Khadzak, Marim, Narek, Pagran, Poghos, Ruben, Sivadr, Sona, Vahan, Vefan.
-<!-- TODO. Maybe update based on feshian names. -->
+Personal names are often easy to pronounce. A non-exhaustive list of common ones is:
+Adrevik, Agik, Ak, Ani, Anux, Aren, Avag, Baen, Bevan, Dzurar, Gauren, Gevaug, Grigur, Guxar, Kadzak, Kevun, Marim, Narek, Pagran, Puguse, Rauben, Sivadre, Sona, Xarig, Xuvep.
 
 <!-- NOTE. On names.
     * Oths hate the many names convention - organizing family trees and keeping track of historic figures is a total pain.
@@ -95,7 +101,6 @@ Personal names are often easy to pronounce. A non-exhaustive list of common ones
 -->
 
 ---
-<!-- TODO. Continue from here. -->
 ## Ird Culture
 <!-- NOTE. Those who refused the War of Spring, sieged Ctereth and diaspora'd the fuck out of Naptane. They are said to have been cursed with feathers by Et (since they "fled"). Qulbaba irds wore a lot of colourful feathers, which lends to the confusion. -->
 
@@ -107,6 +112,7 @@ Qulbaba and dratl irds are rather slender, while the thulkraka are generally bro
 <!-- TODO. Clothing -->
 Irds were said to have been cursed with feathers when they fled the War of Spring. While they don't actually grow feathers, a common feature in ird attire is the usage of plumage in their clothing. Before the Penance, the color of their clothing depended on their ethnicity. Now, colorful feathers are usually only used in traditional rituals, as most fear the effect the colors may have on their bodies.
 
+<!-- TODO. Continue from here. -->
 ### Origins and History
 **TODO.**
 
