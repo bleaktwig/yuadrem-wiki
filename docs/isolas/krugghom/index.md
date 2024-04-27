@@ -12,7 +12,7 @@ It teaches the belief that other bastions of civilization exist, and it makes an
 ## Politics
 The nation is comprised by only one city, Krugghom.
 The city is ruled by a supplementary state<!-- [supplementary state](TODO) --> built from the ranks of the debridement army<!-- [debridement army](TODO) -->.
-This government took power after the Coup of 779<!-- [Coup of 779](TODO) --> that sparked from the assassination of [traad](../../nations/krudzal/political_hierarchy) Nuri<!-- [Nuri](TODO) -->.
+This government took power after the Coup of 779<!-- [Coup of 779](TODO) --> that sparked from the assassination of traad Nuri<!-- [Nuri](TODO) -->.
 This government has held power up until 802 A.S, and remains unchallenged insofar.
 
 <!-- In the year 779 AS, the last [traad](../../../nations/krudzal/hierarchy), [Nuri](TODO), was assassinated by a lieutenant of the [militia](TODO), [Sulrech Witherslayer](TODO).

@@ -1,2 +1,0 @@
-# Political Hierarchy
-**TODO**.
