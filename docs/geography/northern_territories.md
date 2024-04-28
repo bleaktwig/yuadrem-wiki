@@ -1,10 +1,11 @@
+<!-- TODO. This one requires some heavy updates. -->
 **WIP.**
 
 # The Northern Territories
 <!-- INTRODUCTION ------------------------------------------------------------->
 The Northern Territories span from the northmost point of Yuadrem, the Coldmist Gorge<!-- TODO. Add to map! -->, down to the Sulfur Lake.
 The region is split into two by the Wall of Ice and Stone<!-- TODO. Link. -->, a colossal mountain range that spans from coast to coast.
-While travel to and from the region is very rare, three isolas are known to exist within it: the [Krugghom isola](../isolas/krugghom/index.md), the Coldmist isola<!-- TODO. Link. -->, and the [Steldan isola](../isolas/steldan_isola.md).
+While travel to and from the region is very rare, three isolas are known to exist within it: the [Krugghom Isola](../isolas/krugghom/index.md), the Polar Isola<!-- TODO. Link. -->, and the [Steldan Isola](../isolas/steldan_isola.md).
 
 <!-- GEOGRAPHY ---------------------------------------------------------------->
 ## Geography

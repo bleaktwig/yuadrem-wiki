@@ -65,7 +65,7 @@ After the Penance, it has become common to burn some of the dead at the center o
 <!-- NOTE. I could play more with nix tides. Maybe relate them to the moons? -->
 
 **Bughna moon rituals.**
-The bughna have a special admiration towards Kegal, the indigo moon<!-- TODO. Link. -->. In particular, the nomadic patterns of animal herders are aligned to the moon phases. The search for new grazing grounds only occurs while the Kegalian Storm Signature<!-- TODO. Link. --> is in phase. Bughna gats feel protected by the signature's gaze.
+The bughna have a special admiration towards Kegal, the indigo moon<!-- TODO. Link. -->. In particular, the nomadic patterns of animal herders are aligned to the moon phases. The search for new grazing grounds only occurs while the fundamental signature of lightning<!-- TODO. Link. --> is in phase. Bughna gats feel protected by the signature's gaze.
 <!-- NOTE. Bughna also celebrate thunderstorms as portents of Kegal. -->
 <!-- NOTE. Kegal is the moon with an stupid-large apomantic signature etched to its face. It's a very complex signature, used by Pheter to conduct lightning to Et. -->
 

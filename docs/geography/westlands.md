@@ -1,10 +1,11 @@
+<!-- TODO. This one requires some heavy updates. -->
 **WIP.**
 
 # The Westlands
 <!-- INTRODUCTION ------------------------------------------------------------->
 The Westlands stretch up to the Sulfur Lake to the north, the Ichor Mountains to the east, and the Drejek jungle to the west.
 A variety of biomes define this region, all assailed by hot tropical temperatures.
-Before The Penance<!-- TODO. Link. -->, the region was heavily populated by irds<!-- TODO. Link. --> and barkskins<!-- TODO. Link. -->.
+Before The Penance<!-- TODO. Link. -->, the region was heavily populated by [irds](../kins/hume.md#ird_culture) and [barkskins](../kins/barkskin.md).
 Three empires rose in the region: Hulnar<!-- TODO. Link. -->, Jenkash<!-- TODO. Link. -->, and Gannag<!-- TODO. Link. -->.
 All are thought to have fallen in The Penance, as no contact has been established with them since.
 
@@ -26,11 +27,11 @@ The protectorates' colony of Viphoger was established to exploit this, but it to
 #### Ichor Mountains
 Separating the deserts of Zoedrem and the Dead Sea are the Ichor Mountains.
 Their name comes from the many tributaries they birth, most of which feed the Dratl River.
-While thick, the mountain range is somewhat sparse, and a variety of passages connect the Westlands to the Dead Sea and the Seven Protectorates<!-- TODO. Link. -->.
+While thick, the mountain range is somewhat sparse, and a variety of passages connect the Westlands to the Dead Sea<!-- TODO. Link. --> and the Seven Principates<!-- TODO. Link. -->.
 
 #### Beryl Sea
 The Beryl Sea is a large expanse of warm water.
-Its violent winds, battering waters, and unpredictable thunderstorms make sailing it essentially impossible for anyone but the Qulbaba irds<!--TODO. Link. --> of Jenkash.
+Its violent winds, battering waters, and unpredictable thunderstorms make sailing it essentially impossible for anyone but the Qulbaba irds of Jenkash.
 Yet no nixwalker<!-- TODO. Link. --> has reported ships since The Penance, and the once great empire is thought to be lost to it.
 
 #### Dratl'fal Savanna
@@ -39,12 +40,12 @@ Its name literally translates to "bloodgrass" in Jantherlin<!-- TODO. Link. -->,
 The name also carries a more literal interpretation, as the Hundred Year War<!-- NOTE. Link? --> was fought on this land.
 
 The south-eastern part of the region is also famous for the bafarmat, a purple moss that grows on its shores.
-While abundant in the caverns below the Ichor Mountains, the moss only grows in this small area, and is the only food that can stimulate the hornbeetles<!-- TODO. Link. Hornbeetles are huge pack animals commonly used to move very large amounts of cargo --> to breed.
+While abundant in the caverns below the Ichor Mountains, the moss only grows in this small area, and is the only food that can stimulate the anthutes<!-- TODO. Link. Anthutes are huge pack animals commonly used to move very large amounts of cargo --> to breed.
 Even today, bafarmat is farmed in the city-state of Jorea<!-- TODO. Link. -->, whose populace sell to the nixwalkers.
 
 #### Drejek
 Westernmost of Yuadrem is the thick, dark, and moist jungle of Drejek.
-This region is the birthplace of the Gannag civilization, which spawned the barkskin<!-- TODO. Link. -->.
+This region is the birthplace of the Gannag civilization, which spawned the barkskin.
 While born before The Schism<!-- TODO. Link. -->, it is unknown if the nation survived The Penance, since no contact has been made since.
 
 #### The Fog Gorge
@@ -62,7 +63,4 @@ The Jenkashian empire was born from this land, and their own deforestation is wh
 
 <!-- DEMOGRAPHY --------------------------------------------------------------->
 ## Demography
-Only Jorea remains after The Penance.
-The city-state is dug deep within the Ichor Mountains, protecting itself from the nix in a manner similar to [Krugghom](../isolas/krugghom/index.md).
-Jorea's economy is based on three sources: its underground mushroom farms, its magnetite and galena mines, and its vast plantations of bafarmat.
-The city's population borders the 5,000 inhabitants, of which most are gats<!-- TODO. Link. -->, irds, and tsaneks.
+No civilization remains in the Westlands after The Penance.

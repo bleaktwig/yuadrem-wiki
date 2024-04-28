@@ -13,7 +13,7 @@ TODO LIST:
 
 Yuadrem was first settled by the firstborn oric gods, [Et](religions/tanethism_pantheon.md#et) and [Om](religions/tanethism_pantheon.md#om). Et was a large and thin birch, pliable and adaptable. Om was a short and stout juniper, vigorous and prodigious. These two gods were ever locked in combat, yet none could take the upper hand. This conflict became known as the War of Spring<!-- TODO. Link. -->.
 
-To aid in the eternal battle, Et created the [humes](kins/hume.md), a kin as malleable as the god. Et bestowed upon humes Apomantics<!-- TODO. Link. -->, teaching them to wage war using Word. Om in turn created [marsets](kins/marset.md), a smaller kin able to traverse the forests of Et's children with ease. The marsets were gifted Chromology<!-- TODO. Link. -->, and fought using Color.
+To aid in the eternal battle, Et created the [humes](kins/hume.md), a kin as malleable as the god. Et bestowed upon humes Chromology<!-- TODO. Link. -->, teaching them to wage war using Color. Om in turn created [marsets](kins/marset.md), a smaller kin able to traverse the forests of Et's children with ease. The marsets were gifted Apomantics<!-- TODO. Link. -->, and fought using Word.
 
 The conflict ended with the burning of Om, an event known as the Schism<!-- TODO. Link. -->. the primordial one [Pheter](religions/tanethism_pantheon.md#pheter), angered by the death of the god, retaliated by striking Et with lightning. The blast burned the god-tree, and brought the 40-Year Famine<!-- TODO. Link. --> to both humes and marsets. This event marks the year 0, and the beginning of history.
 
@@ -42,7 +42,7 @@ Due to its size, Yuadrem is often divided into six distinct regions: the [Northe
 ### Politics
 Back in the golden age, Yuadrem was split into various nations, each with their own population centers and varied economies. This era of peace lasted until the death of god-suzerain Olag<!-- TODO. Link. --> in 621 A.S. (After the Schism), an event that sparked the Penance<!-- TODO. Link. -->. With the Penance, an irisdescent tar known as nix<!-- TODO. Link. --> began rolling over the continent. This caused mass migrations, separating the peoples into isolas.
 
-An isola is defined as a region either devoid of nix, or only seasonably affected by it. Most isolas are protected by their topography, often aided by strong sorcerers known as [Illuminants](religions/tanethism_pantheon.md#illuminants). Up to the year 800 A.S., the only known isola was the Fesh Peninsula<!-- TODO. Link. -->. After the arrival of the nixwalkers<!-- TODO. Link. -->, dentrala<!-- TODO. Link. --> apomancers<!-- TODO. Link. --> who travel over the vapors released by nix, it is now known that at least three others isolas exist: [Krugghom](isolas/krugghom/index.md), the [Steldan Isola](isolas/steldan_isola/index.md), and the Coldmist Gorge<!-- TODO. Link. -->.
+An isola is defined as a region either devoid of nix, or only seasonably affected by it. Most isolas are protected by their topography, often aided by strong sorcerers known as [Illuminants](religions/tanethism_pantheon.md#illuminants). Up to the year 800 A.S., the only known isola was the [Fesh Peninsula](isolas/fesh_peninsula/index.md). After the arrival of the nixwalkers<!-- TODO. Link. -->, dentrala<!-- TODO. Link. --> apomancers<!-- TODO. Link. --> who travel over the vapors released by nix, it is now known that at least three others isolas exist: [Krugghom](isolas/krugghom/index.md), the [Steldan Isola](isolas/steldan_isola/index.md), and the Coldmist Gorge<!-- TODO. Link. -->.
 
 <!-- TODO. Talk about the nations of the Fesh Peninsula. -->
 
@@ -51,7 +51,7 @@ An isola is defined as a region either devoid of nix, or only seasonably affecte
 ***Pictured:***
 *Old world migration map of Yuadrem, drawn in 787 A.S. by the Fremite Monastery in Uvarme. It includes all known mass movements of people from the ird diasporas of ~80 B.S. to the Na'anian migration of 445 A.S. Migrations after the Penance are not pictured. The authors separated the four kins (and gats from irds) using colored lines.*
 
-The peoples of Yuadrem are separated into four distinct kins. Each kin was created by a different god-tree, and each was then further divided by ethnic differences. These differences led to the formation of nations during the Golden Age<!-- TODO. Link. -->, the erosion of which later led to the sumis<!-- TODO. Link. -->.
+The peoples of Yuadrem are separated into four distinct kins. Each kin was created by a different god-tree, and each was then further divided by ethnic differences. These differences led to the formation of nations during the Golden Age<!-- TODO. Link. -->, the erosion of which later led to the [sumis](isolas/fesh_peninsula/ane-kene.md#buda_and_sumi).
 
 * [Humes](kins/hume.md), born from Et, are as adaptable as their creator. They became the dominant kin in Yuadrem after the Schism, and remain in this position even after the Penance.
 * [Marsets](kins/marset.md), born from Om, are hardy nomads that roam the remaining forests of Yuadrem. Decimated by both the War of Spring and posterior genocides, they have proven to be a deceptively hardy people.
@@ -104,8 +104,8 @@ Over time, jantherlin developed into most of the languages spoken in Yuadrem. Th
 
 * **Frisian** was the language spoken in the peninsula before The Penance, and remains the most common language in the region. It is currently spoken in the sumis of Fremit, Ushpavam, Vamerit, and Xarxage, as well as in the Holy Nation of Ushpavam and the Nation of Meritan. A dialect of old Avshenesian, very similar to Frisian, is also spoken by the chiefdoms of Raraspan and Dzarog, as well as by the Ketepi people.
 * **Shanise** is the main language spoken in the Northern Territories, and it branched out from Avshenese in the thulkrakan side of the ird diaspora. As of 802 A.S., it is only spoken in the Nation of Gronselar. Shanise is the basis for the gronselarian apomantic system<!-- TODO. Link. -->
-* **Voskian** is a family of languages that developed north of the [Zoedrem desert](geography/westlands.md#zoedrem), with the dispersion of the Bughna people<!-- TODO. Link. --> in the northern bughna migration. It is not currently spoken in any nation, but the family is very common in the six thousand tribes and the peoples of Saefel.
-* **Beash Speech** is an artificial language developed in Voskferm, a now dead nation. The language was developed to communicate with the highly intelligent Thunderbeasts<!-- TODO. Link. -->. It is now used by merchants and travelers to ride these creatures across the sumis of the Fesh Peninsula.
+* **Voskian** is a family of languages that developed north of the [Zoedrem desert](geography/westlands.md#zoedrem), with the dispersion of the Bughna people in the northern bughna migration. It is not currently spoken in any nation, but the family is very common in the six thousand tribes and the peoples of Saefel.
+* **Beash Speech** is an artificial language developed in Voskferm, a now dead nation. The language was developed to communicate with the highly intelligent Anthutes<!-- TODO. Link. -->. It is now used by merchants and travelers to ride these creatures across the sumis of the Fesh Peninsula.
 
 #### Harualian Family
 Some time before the avshenesian family sprouted from Jantherlin, the harualian family started taking shape after the hairusse, qulbaban, and dratlean sides of the ird diaspora. While there were many harualian languages existed in the old world, only two survived The Penance.

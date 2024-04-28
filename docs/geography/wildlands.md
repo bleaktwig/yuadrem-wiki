@@ -39,25 +39,6 @@ The area is partly occupied by Gronselar, an old and forgotten colony of Krudzal
 #### Ironwoods
 **TODO.**
 
-#### Dratl'fal Savanna
-Long before The Penance, the Dratl'fal savanna was the first region to be struck by the nix<!-- TODO. Link. -->.
-Its name literally translates to "bloodgrass" in Jantherlin<!-- TODO. Link. -->, as its flora grows with the characteristic red of the nix.
-The name also carries a more literal interpretation, as the Hundred Year War<!-- NOTE. Link? --> was fought on this land.
-
-The south-eastern part of the region is also famous for the bafarmat, a purple moss that grows on its shores.
-While abundant in the caverns below the Ichor Mountains, the moss only grows in this small area, and is the only food that can stimulate the hornbeetles<!-- TODO. Link. Hornbeetles are huge pack animals commonly used to move very large amounts of cargo --> to breed.
-Even today, bafarmat is farmed in the city-state of Jorea<!-- TODO. Link. -->, whose populace sell to the nixwalkers.
-
-#### Drejek
-Westernmost of Yuadrem is the thick, dark, and moist jungle of Drejek.
-This region is the birthplace of the Gannag civilization, which spawned the barkskins<!-- TODO. Link. -->.
-While born before The Schism<!-- TODO. Link. -->, it is unknown if the nation survived The Penance, since no contact has been made since.
-
-#### Qul Archipelago
-Defining the southern border of the Beryl Sea is the Qul Archipelago.
-The islands are almost completely desolate, as very few foliage can grow in its ash-ridden earth and igneous rock.
-The Jenkashian empire was born from this land, and their own deforestation is what drove them to their great expansion.
-
 <!-- No demography, since it is thought that nobody lives here anymore. -->
 <!-- DEMOGRAPHY --------------------------------------------------------------->
 ## Demography
