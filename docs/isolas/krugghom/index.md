@@ -2,7 +2,7 @@
 
 # Krugghom
 As its name suggests, this isola lies in the capital of the old nation of Krudzal, Krugghom.
-The isola is home to **TODO** people, most of which are [ird](../../kins/hume.md#ird_culture).
+The isola is home to **TODO** people, most of which are [ird](../../kins/hume.md#ird-culture).
 The city's position high above the Kure protected it from nix<!-- [nix](TODO) -->.
 The isola has not been in communication with the rest of Yuadrem ever since the Penance.
 
