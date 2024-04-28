@@ -1,5 +1,5 @@
 # Humes
-[Et](../religions/tanethism_pantheon.md#et) created humes to aid the oric god in the War of Spring<!-- TODO. Link. -->. Despite this, many opposed the conflict, or felt indifferent to it. They fled the company of their god-tree, for which they were cursed with feathers. These humes came to be known as irds, and their dispersion as the Ird Diasporas<!-- TODO. Link. -->. The humes that remained with Et were blessed with horns, and are known as gats.
+[Et](../religions/tanethism_pantheon.md#et) created humes to aid the oric god in the War of Spring<!-- TODO. Link. -->. Despite this, many opposed the conflict, or felt indifferent to it. They fled the company of their god-tree, for which they were cursed with monochromacy. These humes came to be known as irds, and their dispersion as the Ird Diasporas<!-- TODO. Link. -->. The humes that remained with Et were blessed with horns, and are known as gats.
 
 <!-- NOTE.
     * This led to the first siege of Ctereth, where four different ird chiefdoms (led by 4 historic figures) stole qualars to allow their kin to travel away from Naptane.
@@ -20,7 +20,7 @@ Humes are a gendered kin, and usually have one child at a time. Previous to the 
 ### Distinctive Characteristics
 The skin of a gat is generally dark, usually ranging from yellow, through brown, to black. While some gats are blonde, the most common hair colors are brown, black, and sometimes red. It is a common gat custom to sport long hair and beards, often decorated with jewelry.
 
-With the exception of the treb, gats are generally small, ranging from 140 to 170 centimeters on average. Another common feature across gats is their eyes; which are usually of strong colors. This feature is often attributed as a blessing of Color<!-- TODO. Link. --> given by Et.
+With the exception of the treb, gats are generally small, ranging from 140 to 170 centimeters on average. Another common feature across gats is their eyes; which are usually of strong colors. This feature is often attributed as a Blessing of Color<!-- TODO. Link. --> given by Et.
 
 While all original gats had horns, the feature has been lost through the centuries. Those birthed by the remains of the god-tree, or Et-born, retain the horns. They are increasingly rare after the Penance, as nix<!-- TODO. Link. --> has destroyed the land that surrounds the tree.
 <!-- TODO. At some point I need to describe what an Et-born gat is. -->
@@ -65,7 +65,7 @@ After the Penance, it has become common to burn some of the dead at the center o
 <!-- NOTE. I could play more with nix tides. Maybe relate them to the moons? -->
 
 **Bughna moon rituals.**
-The bughna have a special admiration towards Kegal, the indigo moon<!-- TODO. Link. -->. In particular, the nomadic patterns of animal herders are aligned to the moon phases. The search for new grazing grounds only occurs while the Kegalian world signature<!-- TODO. Link. --> is in phase. Bughna gats feel protected by the signature's gaze.
+The bughna have a special admiration towards Kegal, the indigo moon<!-- TODO. Link. -->. In particular, the nomadic patterns of animal herders are aligned to the moon phases. The search for new grazing grounds only occurs while the Kegalian Storm Signature<!-- TODO. Link. --> is in phase. Bughna gats feel protected by the signature's gaze.
 <!-- NOTE. Bughna also celebrate thunderstorms as portents of Kegal. -->
 <!-- NOTE. Kegal is the moon with an stupid-large apomantic signature etched to its face. It's a very complex signature, used by Pheter to conduct lightning to Et. -->
 
@@ -125,14 +125,27 @@ Apart from the Fesh Peninsula<!-- TODO. Link. -->, the only other isolas known t
 The dratl were the last to leave the grasp of Et. They migrated to the desert of Zoedrem, also separating into chiefdoms. Not many of them remain, but some did enter the Fesh Peninsula traveling together with the bughna.
 
 ### Traditions and Religion
-**TODO.**
-<!-- TODO. Fill:
-    * Focus on thulkraka.
-    * One paragraph for qulbaba and one for dratl.
--->
+**Competitions.**
+Competitions are very common to irds, and are the preferred way to settle disagreements. They are usually as public as possible, and are often encouraged and celebrated by others. These matches can involve anything the participants deem necessary. If they are expected to lead to physical injury or death, the chief is to be informed beforehand, and they must either bear witness or anoint someone to do so. Dratl competitions are particularly ferocious, and they often involve combat or violence.
+
+**Promise of Allegiance.**
+As long as both people are willing, anyone can make a public promise of allegiance to another. The person making the vow is called the First, while the other is the Second. In this commitment, the First promises to fight and obey any command of the Second. In exchange, the Second must always be fair to the First, and provide home, food, and water to them.
+
+It is common for the whole chiefdom or a large part of it to make a promise of allegiance to the chief. The vow lasts until the death of any of either person. If a First or Second fails to fulfill their part, they may be judged and exiled, depending on the local ruler and the choice of the other.
+
+**Children and Marriage.**
+Before marriage, irds are encouraged to meet and form bonds with others, usually many at a time. When a woman becomes pregnant, she decides who among her suitors is to be the father. In southern thulkraka culture, however, she can decide on many suitors at once. They then must complete a set of challenges of the bride's choosing. The winner becomes the groom, while the others are to act as servants during the wedding.
+
+The marriage celebration is generally large, and the whole chiefdom or village is expected to take part in it. As their vows, both members are expected to make a promise of allegiance to the other, such as the one they have with their chiefs.
+
+**Adulthood.**
+To become an adult, a child must participate in a competition held in a Day of Change. The particular Days of Change vary across cultures, but all are aligned with the tri-lunar tidal phases, as seen in the Nuagalian Calendar<!-- TODO. Link. -->. Victors in these matches then become adults, while other contestants must wait for subsequent Days of Change. Adulthood is a requirement to make a promise of allegiance, and as such one cannot marry before becoming an adult.
+
+**Death and Funerals.**
+Irds believe that a person's soul remains in the body after they die. No funeral is celebrated upon death, and bodies are blindfolded and laid to rest inside a communal crypt. Thulkraka keep oil urns with the bodies, burning the crypt on the Day of the Immortal, a leap day that occurs every 10 years. Dratl kept their crypts open, allowing vultures to eat the remains and the desert sun to dry the rest. Qulbaba crypts were often dug below the crown of a banyan tree, allowing barkskin<!-- TODO. Link. --> to rise from the bodies of the dead irds.
 
 ### Names
-While the most common language spoken by irds is Shanise, a language in the avshenesian branch<!-- TODO. Link. -->, ird naming conventions are more related to the harualian family<!-- TODO. Link. -->. By this custom, each ird has two names. Their first name is given to them at birth either by their parents or by the village's chief. Then, their second name is inherited from a parent of their choice, adding the prefix *u/ud*, which means "son/daughter of". It is common in ird culture to admire one's parents, and these names are carried with pride.
+While the most common language spoken by irds is Shanise, a language in the avshenesian branch<!-- TODO. Link. -->, ird naming conventions are related to the harualian family<!-- TODO. Link. -->. By this custom, each ird has two names. Their first name is given to them at birth either by their parents or by the village's chief. Then, their second name is inherited from a parent of their choice, adding the prefix *u/ud*, which means "son/daughter of". It is common in ird culture to admire one's parents, and these names are carried with pride.
 
 Ird names are often hard to pronounce by native fresian speakers, and as such irds commonly gain nicknames in Fesh. Common male names in ird culture include:
 Aden, Azat, Daneal, Dirkir, Eastean, Goker, Idrahin, Jakod, Jaldor, Jasin, Kuneit, Ludzu, Nuretin, Nutlar, Rezat, Semir, Shasar, Tajik, Tenel, Shasin, Unut.
