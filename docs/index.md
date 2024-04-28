@@ -83,11 +83,7 @@ Many a hume has a favorite among the gods, one whose ideals and teaching they ma
 Other religions do exist, but receive little attention in the modern world. Once widely practiced, the three most notorious ones are [Tsalemism](religions/tsalemism.md), [Igneism](religions/igneism.md), and [Cosmism](religions/cosmism.md).
 
 ### Languages
-<!-- TODO LIST:
-    * Eventually, I need to add links to all nations from this page.
-
-    NOTE. It would be cool to add some descriptive text to the tree, but maybe it's not a priority at the moment.
--->
+<!-- TODO: Eventually, I need to add links to all nations from this page. -->
 
 ![Language Tree](img/language_tree_y798_v031_dpi72.png)
 *A comprehensive overlook of the languages spoken in the Fesh Peninsula, 798 A.S. The branches represent the branching of language families, while the leaf clusters are the languages currently spoken. The size of each leaf cluster is a rough approximation of the number of speakers by the year of production. Recorded by the Umean monastery.*
