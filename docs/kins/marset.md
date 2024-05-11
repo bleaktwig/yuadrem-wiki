@@ -1,6 +1,31 @@
-# Marsets
-**TODO.**
-<!-- TODO. Change their names and make them more similar to the ape-guys in my sketchbook. -->
+**WIP.**
+
+<!-- TODO. Rename all instances of "marsets" to "imates". -->
+# Imates
+[Om](../religions/tanethism_pantheon.md#om) created imates to defend the oric god from [Et](../religions/tanethism_pantheon.md#et) and the [humes](hume.md) in the War of Spring<!-- TODO. Link. -->. While not particularly suited for war, the kin defended their god-tree until the Schism<!-- TODO. Link. -->. For this, they were Blessed with Word. After the burning of Om, imates escaped genocide by migrating to the south, spreading thorough the southern reaches of Yuadrem.
+
+---
+## Physical Description
+Imates share some resemblance with humes. Both kins poise the bulk of their weight on two legs, have the same number of digits, and are able to express their emotions through their facial expression. However, the body of an imate is covered in hair, which ranges in color from white, through many shades of brown, to black. Lacking the gats' Blessing of Color, no hints of Red or Yellow is seen in their hair. Then, a common train to all imates are their very large ears, which are surrounded by a tuft of white hair.
+
+Imates are separated into two very different species: the oras and the arsets. Oras have larger bodies. An average adult stands at around 2 meters upright, but they would struggle to maintain this posture for long. Hunched, they're not usually taller than a meter and a half. They have strong bodies and long arms, and often weight more than 100 kg.
+
+Arsets are small in contrast, usually not reaching more than 90 cm in length and 15 kg in weight. While they are not as strong as the oras, they have longer claws and a long, striped tail, both of which they use to climb with great dexterity.
+
+Imates are considered adult around 10 years, and tend to live to be around 70 and 80 years. As they age, their hair changes color to display particular signatures, thanks to the Blessing of Word. This, in addition to maintaining the strength of elder imates, extends their natural age in a manner similar to hume sorcerers.
+
+---
+## Clothing and accessories
+**TODO.** No clothing in general, but they love piercings and accessories.
+
+## Origins and history
+**TODO.** Welp. Genocides. Then focus on the different groups that came to the Fesh Peninsula.
+
+## Culture and traditions
+**TODO.** Focus on how they coexist to the point and it's pointless to separate the two species.
+
+## Names
+**TODO.** Improve upon babazano while maintaining the silliness.
 
 <!-- % !TEX root = ../main.tex
 \section{Archer Kin} \label{kin::marset}

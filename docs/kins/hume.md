@@ -1,5 +1,5 @@
 # Humes
-[Et](../religions/tanethism_pantheon.md#et) created humes to aid the oric god in the War of Spring<!-- TODO. Link. -->. Despite this, many opposed the conflict, or felt indifferent to it. They fled the company of their god-tree, for which they were cursed with monochromacy. These humes came to be known as irds, and their dispersion as the Ird Diasporas<!-- TODO. Link. -->. The humes that remained with Et were blessed with horns, and are known as gats.
+[Et](../religions/tanethism_pantheon.md#et) created humes to aid the oric god in the War of Spring<!-- TODO. Link. -->. Despite this, many opposed the conflict, or felt indifferent to it. They fled the company of their god-tree, for which they were cursed with monochromacy. These humes came to be known as irds, and their dispersion as the Ird Diasporas<!-- TODO. Link. -->. The humes that remained with Et were blessed with Color, and are known as gats.
 
 <!-- NOTE.
     * This led to the first siege of Ctereth, where four different ird chiefdoms (led by 4 historic figures) stole qualars to allow their kin to travel away from Naptane.
