@@ -146,9 +146,6 @@ Uldian languages were developed independently by the oths of Ignelli<!-- TODO. L
 * **War of Spring.** The largest of the oric gods, Et and Om, go into war. While no damic or mevic god interfered, Pheter themself was against the conflict. Humes are born from Et as soldiers in this war, while Om creates the marsets to defend themself.
 <!-- TODO. Add the Ird Diaspora + the first siege of Ctereth. -->
 * **The Schism.** After a long and bloody conflict, Et wins the war against Om. Under the orders of their god-tree, the gats burn down the god-tree of the marsets. As the fire spreads, Pheter creates the fundamental signature of lightning<!-- TODO. Link. --> on the surface of the moon Kegal<!-- TODO. Link. -->, ans uses it to strike down Et. The ash from the burned god-trees engulfs Yuadrem, sparking the Age of Dark with the 40-Year Famine.
-<!-- TODO. Add the Gat Diaspora (Bughna and Treb). -->
-
-<!-- NOTE. Ededeian genocide ends with the death of king D'khan at the hands of Genadi. -->
 
 <!-- TODO. Maybe change the dates using a random number generator (within reason). -->
 <!-- AGE OF DARK -------------------------------------------------------------->
@@ -157,6 +154,8 @@ Uldian languages were developed independently by the oths of Ignelli<!-- TODO. L
 
 **TODO.**
 
+<!-- NOTE. Ededeian genocide ends with the death of king D'khan at the hands of Genadi. -->
+<!-- TODO. Add the Gat Diaspora (Bughna and Treb). -->
 <!--
 * **TODO. 32 A.S. The Ctereth sieges & the Armies of Healing.**
 * **TODO. 96 A.S. Founding of Naptane.**

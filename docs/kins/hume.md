@@ -50,14 +50,14 @@ Not all progeny of Et was born equal, and the treb are the perfect example. They
 
 ### Traditions and Religion
 <!-- NOTE. Noves culture has its members remain at home a lot. Either lean into this or figure out more collective celebrations. -->
-**Families and Guilds.**
+**Families and guilds.**
 To the noves, a family is defined as the group of people with which one shares housing. Most members of a family share a profession, and large families are known as guilds. The head of a family is either its oldest member or someone designated by them.
 
 When a child is born, they become a member of the mother's family. Most children know who their parents are, but childcare is a communal endeavor. From their 14th birthday onward, a gat can choose to join another family. They need to be accepted by the head of the receiving family. The departure is often accompanied by a ceremonial feast shared by the two families.
 <!-- NOTE. Many members of a child's family have an important role in their development, and a special place in their heart :). -->
 
 **Death.**
-Across gat culture, the dead are said to protect their families after their death. The old tradition is to bury the dead below the family house, especially under doors and windows. Being below their loved ones aids the dead in their protection.
+Across gat culture, the dead are said to protect their families after their death. The old tradition is to bury the dead below the family house, especially under doors and windows. Lying below their loved ones strengthens the dead, aiding in their protective role.
 <!-- NOTE. The pheter in the bones of the dead literally aids the family by keeping nix out, but this effect is minor. -->
 
 After the Penance, it has become common to burn some of the dead at the center of towns and villages. This helps in staving off nix, as the charred bones release their pheter<!-- TODO. Link. -->. The specific tradition is chosen by the family, but burnings are commonly mandated when nix is on high tide<!-- TODO. Link. -->.

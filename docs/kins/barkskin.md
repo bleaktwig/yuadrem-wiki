@@ -78,6 +78,7 @@ Otherwise, the body is left to rot.
 Natural processes return the nutrients of the body to the earth, as Tek returns what they once borrowed.
 
 **Tekism and Tanethism.**
+<!-- TODO. Update based on what I wrote for the imates. -->
 Most barkskins native to Drejek follow the tekist philosophy, which combines religion and philosophical reasoning.
 While the mode of thinking is somewhat compatible of Tanethism, there are some major differences regarding their divinities.
 They believe in the tree gods and their relation to the Ring of Color, but not on the other orders of gods.
