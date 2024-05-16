@@ -70,7 +70,7 @@ Uld is the tree of Fusine, a kapok of astonishing height. It extends upwards as 
 Kan is the tree of Vahan, a plant unique in Yuadrem. Red branches extend upward at the top of hundreds of meters of a dark gray trunk. The tree captures electricity from the clouds, and erupts into seasonal firestorms that define the landscape of [Krejek](../geography/fractured_lands.md#krejek-and-kaljek).
 
 #### Om
-Om, also known as Tosh-drieln, is the tree of Bagrat, a vigorous juniper. In the War of Spring, Om created the [marsets](../kins/marset.md) to defend itself against the humes of Et. The tree was burned at the beginning of the Schism, and its burnt trunk still stands at the center of the [Fesh peninsula](../geography/fractured_lands.md#fesh-peninsula). Its complex root system forms the many islands in the Turtle Sea<!-- TODO. Link. -->.
+Om, also known as Tosh-drieln, is the tree of Bagrat, a vigorous orange juniper. In the War of Spring, Om created the [marsets](../kins/marset.md) to defend itself against the humes of Et. The tree was burned at the beginning of the Schism, and its burnt trunk still stands at the center of the [Fesh peninsula](../geography/fractured_lands.md#fesh-peninsula). Its complex root system forms the many islands in the Turtle Sea<!-- TODO. Link. -->.
 
 #### Ur
 Ur is the tree of Pagram, a yellow fir that gives its famous coloration to the purple fjord near [Stinos](../geography/northern_territories.md#stinos). The tree, along with the forest surrounding it, is an essential part of the ecology of the fjord.

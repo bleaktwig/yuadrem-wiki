@@ -54,6 +54,8 @@ The god-tree teaches the barkskin knaenese along with the tenets of their societ
 While its uncommon, some barkskins are born outside of Tek's hyphan network.
 They lack this innate connection, and most become unable to commune with the tree.
 
+<!-- NOTE. Imates believe that the soul returns to Om once the body settles under the earth. A barkskin born from the corpse of an imate would raise **serious concern** to other imates, as the soul of the latter would still be trapped in the barkskin's body. -->
+
 **Adulthood and Families.**
 A group of barkskins become adults when they form a family.
 To do this, the would-be family must commune with Tek.

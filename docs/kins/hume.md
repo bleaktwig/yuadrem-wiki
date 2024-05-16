@@ -62,7 +62,7 @@ Across gat culture, the dead are said to protect their families after their deat
 
 After the Penance, it has become common to burn some of the dead at the center of towns and villages. This helps in staving off nix, as the charred bones release their pheter<!-- TODO. Link. -->. The specific tradition is chosen by the family, but burnings are commonly mandated when nix is on high tide<!-- TODO. Link. -->.
 <!-- NOTE. On the death of royalty. Kings and the royal family are burned after death. After that, their bones are placed on a giant mausoleum, all mixed together to accumulate their pheter. -->
-<!-- NOTE. I could play more with nix tides. Maybe relate them to the moons? -->
+<!-- NOTE. I should play more with nix tides. Relate them to the moons, integrate the tri-lunar calendar into the "common" calendar to add some capacity to predict nix tides. -->
 
 **Bughna moon rituals.**
 The bughna have a special admiration towards Kegal, the indigo moon<!-- TODO. Link. -->. In particular, the nomadic patterns of animal herders are aligned to the moon phases. The search for new grazing grounds only occurs while the fundamental signature of lightning<!-- TODO. Link. --> is in phase. Bughna gats feel protected by the signature's gaze.
@@ -84,7 +84,7 @@ In tradition, gats have various names. These names don't have a particular order
 
 While the intricacies of these names are unique to each community -- and sometimes a particular family --, five categories are common.
 
-<!-- TODO. Check out these word particles in fresian.... -->
+<!-- TODO. Check out these word particles in frisian.... -->
 * A **personal name** is the name given to a gat my their mother, usually soon after birth. Personal names are often permanent, but nothing stops a gat from changing them.
 * A **parent name** is the name of a gat's mother or father followed by the suffix *ban*, meaning "sibling of" in avshenese<!-- TODO. LINK -->. A gat may prefer to use this name if a parent was particularly important. Furthermore, additional parent names can be added after the first, climbing up a branch of the family tree.
 * A **profession name** is simply the name of the profession practiced by the gat.

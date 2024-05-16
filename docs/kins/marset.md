@@ -16,7 +16,7 @@ Imates are considered adults at around 10 years, and tend to live to be around 7
 
 ---
 ## Clothing and accessories
-Due to their fur and proclivity to warm and humid weathers, imates in general do not cover their bodies in clothing. It is common to just wear a tabard<!-- TODO. I am not sure if "tabard" is the word I'm looking for here. Check it out more in detail. -->, but some include more fabrics with a purely aesthetic purpose. Imate sorcerers are the exception: as tattooing their body would not be too effective, they wear long ribbons of white fabric with apomantic signatures, forming circuits<!-- TODO. I need a better word than "circuit". --> around their bodies. While they cannot switch between circuits as fast as tattooed hume sorcerers, this system allows them to change between signatures with ease.
+Due to their fur and proclivity to warm and humid weathers, imates in general do not cover their bodies in clothing. It is common to just wear a tabard<!-- TODO. I am not sure if "tabard" is the word I'm looking for here. Check it out more in detail. -->, but some include more fabrics with a purely aesthetic purpose. Imate shamans are the exception: as tattooing their body would not be too effective, they wear long ribbons of white fabric with apomantic signatures, forming circuits<!-- TODO. I need a better word than "circuit". --> around their bodies. While they cannot switch between circuits as fast as tattooed hume sorcerers, this system allows them to change between signatures with ease.
 
 For self expression, imates wear an abundance of accessories, often made of copper or gold. Common examples include bands in the arms and legs, rings, and braid rings. Piercings in the face and ears are the sign of adulthood in the kin. These accessories are often made of bone, wood, copper, or gold, and imates puts more value in the complexity of the design than the material from which it was made.
 
@@ -30,13 +30,10 @@ After the Penance, [...]<!-- TODO. Talk about the imates that invaded the Fesh P
 <!-- TODO. Talk about the other groups of imates that migrated to the area. -->
 
 ## Culture and traditions
-**TODO.** Focus on how they coexist to the point and it's pointless to separate the two species.
+**Village as family.**
+Imates have fully communal families. An imate will usually not know who their particular parents are, and they regard the village in which they were born as their family. When a family grows too large, it will often split. In this process, the mother family will remain in the old village, while the daughter family embarks on a journey to settle.
 
-**Families.**
-**TODO.**
-
-**Death.**
-**TODO.**
+An imate's family is for life. Adoption in general only occurs between mother and daughter families, and even in this context it is rare.
 
 **Dual dwellings.**
 Traditional imate villages consist of two room styles. The larger are wood and fiber circular huts, built on the trunks of trees. These are used for storage and to house adult oras<!--, who are too large to easily climb the canopies -- TODO. Are they tho? -->. Where the dirt allows, patches of farmland surround these huts, and are worked by the oras.
@@ -45,8 +42,14 @@ Then, the branches of the same trees are covered in interconnected chambers, bui
 
 In Fesh, it is common to see one or two of these arboreal communities inside towns and villages. While historical differences still rift the kins, the Penance has forced the formation of these mixed communities.
 
+**Death and return to Om.**
+It is a common belief that a dead imate's soul can only return to Om if its body rots under the earth. Imates traditionally bury their dead below their farmlands, and thus the huts of the oras serve to mourn the recently dead.
+
+For this reason, imates are very reacious to the barkskin<!-- TODO. Link + namechange. --> cycle of birth, since it retards their process of reunification with their god. Furthermore, burning a dead body is extreme sacrilege. If an imate dies by burning or in any way that won't allow its body to rot, as the their soul will never find their way back to Om.
+
 **Specialized roles.**
-Due to their differences, oras and arsets tend to take different roles in their society. Arsets, being small and mobile, hunt, scout, and trade with neighboring villages. Oras, larger and stronger, defend the village, along with tending plantations, attending the young, and crafting items and accessories. <!-- The building of a village is a collective task. -->
+Due to their differences, oras and arsets tend to take different roles in their society. Arsets, being small and mobile, hunt, scout, and trade with neighboring villages. Oras, larger and stronger, defend the village, along with tending plantations, tending the young, and crafting items and accessories. Traditionally, one or more oras act as the village shamans, conducting rites and communing with the recently dead.
+<!-- NOTE. The building of a village is a collective task. -->
 
 **Tradition and Tanethism.**
 Imate tradition follows the belief in the divinity of the tree-gods and their relation to the Ring of Color<!-- TODO. Link. -->. They associate the god-trees to the six world signatures<!-- TODO. I should explain this in the cosmology page... -->, and have unique signatures for each of the seven trees<!-- NOTE. Draw these signatures whenever I work on the imate apomantic system. -->. In general they don't place Om above the other god-trees, but they do praise their dead god more than the others.
