@@ -16,18 +16,16 @@ Imates are considered adults at around 10 years, and tend to live to be around 7
 
 ---
 ## Clothing and accessories
-Due to their fur and proclivity to warm and humid weathers, imates in general do not cover their bodies in clothing. It is common to just wear a tabard<!-- TODO. I am not sure if "tabard" is the word I'm looking for here. Check it out more in detail. -->, but some include more fabrics with a purely aesthetic purpose. Imate shamans are the exception: as tattooing their body would not be too effective, they wear long ribbons of white fabric with apomantic signatures, forming circuits<!-- TODO. I need a better word than "circuit". --> around their bodies. While they cannot switch between circuits as fast as tattooed hume sorcerers, this system allows them to change between signatures with ease.
+Due to their fur and proclivity to warm and humid weathers, imates in general do not cover their bodies in clothing. It is common to just wear a loincloth, but some include more fabrics with a purely aesthetic purpose. Imate shamans are the exception: as tattooing their body would not be too effective, they wear long ribbons of fabric with apomantic signatures, forming circuits<!-- TODO. I need a better word than "circuit". --> around their bodies. While they cannot switch between circuits as fast as tattooed hume sorcerers, this system allows them to change the signature sets with ease.
 
 For self expression, imates wear an abundance of accessories, often made of copper or gold. Common examples include bands in the arms and legs, rings, and braid rings. Piercings in the face and ears are the sign of adulthood in the kin. These accessories are often made of bone, wood, copper, or gold, and imates puts more value in the complexity of the design than the material from which it was made.
 
 ## Origins and history
-After the Schism, imates were left without the canopy of Om to protect them. As such, they settled south of the Turtle Sea, surviving the 40-Year Famine thanks to the abundant flora of the area. These settlements were short lived, however, as after recovering from the famine, gats took to hunting imates en masse<!-- TODO. Am I using this expression right? -->, sparking the Ededian Genocide.
+After the Schism, imates were left without the canopy of Om to protect them. As such, they settled south of the Turtle Sea, surviving the 40-Year Famine thanks to the abundant flora of the area. These settlements were short lived, however, as after recovering from the famine, gats took to hunting imates en masse, sparking the Babaian Genocide.
 
-The imates that survived continued migrating south, and settled in [...]<!-- TODO. Check map and add locations. -->. <!-- TODO. Talk about the diverging cultures as they moved around, focusing on the ones that actually went back to Fesh. -->
+The imates that survived continued migrating south, settling in a variety of regions on the southernmost reaches of Yuadrem. Many gained an affinity with the yellow god-tree Uld, who lives in the Wildlands. Others migrated to the southernmost points of the continent, and a large group to the Ironlakes Islands.
 
-After the Penance, [...]<!-- TODO. Talk about the imates that invaded the Fesh Peninsula along with Gronselar. -->.
-
-<!-- TODO. Talk about the other groups of imates that migrated to the area. -->
+Contact was lost with most of the groups after The Penance. No signs of imates were sign up until 731 A.S., when they sailed in ships from Gronselar<!-- TODO. Link. -->, towards the islands of the Turtle Sea. They expelled the humes in the Lesser Omian War<!-- TODO. Link. -->, reclaiming their historic territory around Om. Over time, however, many refused this conflict, and settled in the territories surrounding the sea.
 
 ## Culture and traditions
 **Village as family.**
@@ -57,41 +55,15 @@ Imate tradition follows the belief in the divinity of the tree-gods and their re
 While many have adapted to Tanethism, their traditional cosmology does not recognize the Mevic Gods<!-- TODO. Link. --> as the makers of the tree-gods. They do, however, recognize Pheter<!-- TODO. Link. --> and Nix<!-- TODO. Link. --> as the forces of creation, and recognize the connection that Illuminants<!-- TODO. Link. --> have with Pheter.
 
 ## Names
-**TODO.** Improve upon babazano while maintaining the silliness.
+<!-- TODO. Rework babazano a bit. Keep the silliness and the consonants, but try to adapt some avshenesian/frisian words to it. Also, very old words have repeated syllables, but it's not so common anymore. -->
+Imates speak Babazano, the only language in the [omian family](../index.md#omian-family). As such, their names are usually in this language. During their childhood, an imate will by assigned many names by their family members, usually based on distinctive features and particular accomplishments. They will settle on a name of their choice as they reach adulthood, often picking their favorite one from their assigned names.
 
-<!-- % !TEX root = ../main.tex
-\subsection*{Misleading Appearance}
-    Marsets don't seem terribly intimidating at first glance.
-    They however have an unusual defense mechanism for driving away threats, which includes any unfortunate creature that disturbs their large arboreal colonies.
+Imates also have a second name, which is inherited from their family. This is the name of the village in which they were born, adding the prefix *do*, which translates literally to "name". Imates that go through adoption are expected to keep their original village name.
 
-    Each marset grows specialized quills from their back, with a smooth tip and a base with four flanges, like the fletching of an arrow.
-    In additional to making the marsets quite painful to grab, these quills are used as projectiles.
+A few common names are:
+Anana, Baba, Badaze, Ebezu, Ezevu, Ezeze, Nenuzu, Nono, Nuzu, Ododo, Odozu, Ovozu, Uvu, Uvozu, Veve, Vevozu, Vovo, Zazu, Zenuvu.
 
-    The little creatures construct their own bows, stripping bark from bendy twigs with their teeth to create the limbs, and harvesting spiderweb for the string.
-    The strands are rubbed together with sand, which is done to thicken the bowstring and reduce stickiness in the middle, creating a sophisticated weapon to launch quills at unlucky foes.
-
-    For shorter range, marsets also use hollow reeds to blow their quills as darts.
-    It's common for the smarter marsets to apply manure or poison to their arrows and darts, improving their deadliness.
-
-\subsection*{Repetitive Language}
-    Marsets hatch from their eggs already able to speak a strange repetitive language, which is entirely regular and does not evolve.
-    This language --- known as Babazano --- can be spoken in one of two ways: soundlessly, with the communication happening through lip reading, or screamed as loud as possible, with no middle ground.
-    Despite this, a marset can learn other languages and not constantly scream at the top of their lungs, but they do tend to be loud speakers.
-
-    Babazano has only ten consonants.
-    All verbs use a single consonant as their root, so there's only ten verbs.
-    By repeating syllables they create new meanings, which makes their language very difficult to understand by the other kins, but for these little creatures it's no issue at all.
-    They hear or lip-read a word and instinctively know which one it is.
-
-\subsection*{Marset Names}
-    Marsets assign names to each other based on distinctive features and accomplishment.
-    An individual marset will wear many names during their childhood, and when they settle on one is when they reach adulthood.
-    Due to the peculiarity of Babazano, it is a common for the other kins to call them by simple monikers, practice that the marsets despise.
-    % Most marsets don't particularly like this, and are very reluctant to accept a nickname given to them.
-
-    \paragraph{Names}
-    Do Anana, Do Baba, Do Badada, Do Ebebebebe, Do Ezeze, Do Nono, Do Odododo, Do Uvu, Do Veve, Do Vovovo.
-
+<!--
 \subsection*{Traits}
     Your marset character has a range of abilities based on its nature and community lifestyle.
 
@@ -117,14 +89,4 @@ While many have adapted to Tanethism, their traditional cosmology does not recog
 
     \subparagraph{Community lifestyle} Despite their loudness, marsets can be very compelling talkers.
     You are competent in the Persuasion skill.
-
-    \subparagraph{Languages} You can speak Babazano from birth, and can lip-read the language.
-    You are also able to read and write Leafrunes, a special writing system designed to communicate simple messages to others of your kin.
-    Additionally, you know how to speak a language of your choice, but you don't know how to read or write it.
-
-\begin{figure}[!b]
-    \centering
-    \includegraphics[width=0.48\textwidth]{04kins/img/13marset_colony.png}
-\end{figure}
-
 \newpage -->

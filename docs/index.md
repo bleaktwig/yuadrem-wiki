@@ -118,6 +118,7 @@ After the god-tree Tol spawned from the corpse of Et, it spawned the oth kin. Ot
 
 #### Omian Family
 **Babazano** was the only language taught by Om to their descendants, the marsets. It is a very repetitive language with little verb variety, making it somewhat easy to learn. It has only 10 consonants, making lip movements very easy to identify. As such, most speakers learn to read lips fairly easily. Currently, Babazano is the only language spoken in the Nation of Om.
+<!-- NOTE. 4 vowels: a, e, o, u. -->
 
 #### Naenkian Family
 Since they do most of their communication through spores, the god-tree Tek did not teach any language to barkskins. They were, however, later taught language by marsets, in an attempt to establish communication. Barkskins learned babazano, which quickly morphed into the naenkian language family due to their unique morphology.
