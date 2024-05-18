@@ -47,7 +47,7 @@ It welcomes visitors with a variety of fierce chimeras. -->
 **TODO**.
 <!-- Moving to the easternmost portion of the sea one can find the Ironlakes Island and the Zashlath savanna.
 The former is a large island full of forests and lakes.
-It was historically a part of the peaceful marset nation of Edede, but most of it now belongs to the warring empire.
+It was historically a part of the peaceful imate nation of Edede, but most of it now belongs to the warring empire.
 The Zashlath savanna is the area west of the desert, protected from its dry air by the moisture of the cerulean waters. -->
 
 #### Vuvu Archipelago

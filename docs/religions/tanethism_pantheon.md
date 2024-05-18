@@ -70,7 +70,7 @@ Uld is the tree of Fusine, a kapok of astonishing height. It extends upwards as 
 Kan is the tree of Vahan, a plant unique in Yuadrem. Red branches extend upward at the top of hundreds of meters of a dark gray trunk. The tree captures electricity from the clouds, and erupts into seasonal firestorms that define the landscape of [Krejek](../geography/fractured_lands.md#krejek-and-kaljek).
 
 #### Om
-Om, also known as Tosh-drieln, is the tree of Bagrat, a vigorous orange juniper. In the War of Spring, Om created the [marsets](../kins/marset.md) to defend itself against the humes of Et. The tree was burned at the beginning of the Schism, and its burnt trunk still stands at the center of the [Fesh peninsula](../geography/fractured_lands.md#fesh-peninsula). Its complex root system forms the many islands in the Turtle Sea<!-- TODO. Link. -->.
+Om, also known as Tosh-drieln, is the tree of Bagrat, a vigorous orange juniper. In the War of Spring, Om created the [imates](../kins/imate.md) to defend itself against the humes of Et. The tree was burned at the beginning of the Schism, and its burnt trunk still stands at the center of the [Fesh peninsula](../geography/fractured_lands.md#fesh-peninsula). Its complex root system forms the many islands in the Turtle Sea<!-- TODO. Link. -->.
 
 #### Ur
 Ur is the tree of Pagram, a yellow fir that gives its famous coloration to the purple fjord near [Stinos](../geography/northern_territories.md#stinos). The tree, along with the forest surrounding it, is an essential part of the ecology of the fjord.
@@ -84,7 +84,7 @@ Occasionally, when a mortal is of particular interested to a mevic god, they wil
 Vugar is the god of family and fertility. As a mortal, he was a prince of Vamerit, and was renowned for establishing laws pertaining family and hereditary rights to the Seven Principates<!-- TODO. Link. -->. He is now depicted with a silver toga of simple style.
 
 #### Genadi
-Genadi is the goddess of bravery and love. As a mortal, she was a marset hero whose acts led to the death of king D'khan, ending the Ededeian Genocide. She is now depicted with toad-like features, carrying her characteristic swordflute.
+Genadi is the goddess of bravery and love. As a mortal, she was a imate hero whose acts led to the death of king D'khan, ending the Ededeian Genocide. She is now depicted with toad-like features, carrying her characteristic swordflute.
 
 #### Sakris
 Sakris is the god of fun and wine. As a mortal, he was the most devoted slave to the prince-merchant Hak of Ushpavam. Even as a god, he is often depicted dutifully attending to guests at a party.
@@ -102,10 +102,10 @@ Nazim is the goddess of justice and the sky. As a mortal, she was an oth scholar
 Gathoz is the god of secrecy and murder. While her name in life is unknown, she is the assassin who battled and killed Olag through Tetrachromacy<!-- TODO. Link. -->. Now, she is often attributed to murders where the perpetrator was never found. She is depicted as a kinless being with a shifting face and body.
 
 #### Havetish
-Havetish is the god of both leadership and tyranny. As a mortal they were Qina, the barskin warlord who led their kin against the marsets in the Babanian Wars. As a god, they are depicted with an uncharacteristic golden armor and a purpleheart spear.
+Havetish is the god of both leadership and tyranny. As a mortal they were Qina, the barskin warlord who led their kin against the imates in the Babanian Wars. As a god, they are depicted with an uncharacteristic golden armor and a purpleheart spear.
 
 #### Mziva
-Mziva is the god of self sacrifice. As a mortal, she was a marset who led her colony to salvation during the Ededeian Genocide, at the cost of her own life. She is now depicted with golden hair and clothes made of flowers.
+Mziva is the god of self sacrifice. As a mortal, she was a imate who led her colony to salvation during the Ededeian Genocide, at the cost of her own life. She is now depicted with golden hair and clothes made of flowers.
 
 --------------------------------------------------------------------------------
 ## Illuminants

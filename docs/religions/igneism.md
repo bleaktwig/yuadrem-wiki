@@ -39,7 +39,7 @@ Igneists recognize that sentience cannot exist without the tides, and praise the
 The Zealous  & R  & Passion, Zeal         & Igneism   & A red dratl ird standing over a sand dune. \\
 The Star     & S  & Admiration, Fame      & Igneism   & A naked tall one, sometimes replaced by a shadow or a uman. \\
 The Equalist & I  & Justice, Equity       & Igneism   & An indigo gat holding a spear and a coin. \\
-The Altruist & G  & Empathy, Compassion   & Igneism   & A furtive golden marset carrying a basket full of eggs. \\
+The Altruist & G  & Empathy, Compassion   & Igneism   & A furtive golden imate carrying a basket full of eggs. \\
 The Sorrow   & -  & Balance, Punishment   & Igneism   & An indistinct cloaked figure holding a bloody heart. \\ -->
 
 <!-- Changing God & -  & Secrecy, Manipulation & Rashiism  & A robed oth with a featureless bronze mask. \\ -->

@@ -1,6 +1,3 @@
-**WIP.**
-
-<!-- TODO. Rename all instances of "marsets" to "imates". -->
 # Imates
 [Om](../religions/tanethism_pantheon.md#om) created imates to defend the oric god from [Et](../religions/tanethism_pantheon.md#et) and the [humes](hume.md) in the War of Spring<!-- TODO. Link. -->. While not particularly suited for war, the kin defended their god-tree until the Schism<!-- TODO. Link. -->. For this, they were Blessed with Word. After the burning of Om, imates escaped genocide by migrating to the south, spreading thorough the southern reaches of Yuadrem.
 
@@ -46,7 +43,7 @@ It is a common belief that a dead imate's soul can only return to Om if its body
 For this reason, imates are very reacious to the barkskin<!-- TODO. Link + namechange. --> cycle of birth, since it retards their process of reunification with their god. Furthermore, burning a dead body is extreme sacrilege. If an imate dies by burning or in any way that won't allow its body to rot, as the their soul will never find their way back to Om.
 
 **Specialized roles.**
-Due to their differences, oras and arsets tend to take different roles in their society. Arsets, being small and mobile, hunt, scout, and trade with neighboring villages. Oras, larger and stronger, defend the village, along with tending plantations, tending the young, and crafting items and accessories. Traditionally, one or more oras act as the village shamans, conducting rites and communing with the recently dead.
+Due to their differences, oras and arsets tend to take different roles in their society. Arsets, being small and mobile, hunt, scout, and trade with neighboring villages. Oras, larger and stronger, defend the village, along with tending plantations, attending the young, and crafting items and accessories. Traditionally, one or more oras act as the village shamans, conducting rites and communing with the recently dead.
 <!-- NOTE. The building of a village is a collective task. -->
 
 **Tradition and Tanethism.**
@@ -62,31 +59,3 @@ Imates also have a second name, which is inherited from their family. This is th
 
 A few common names are:
 Anana, Baba, Badaze, Ebezu, Ezevu, Ezeze, Nenuzu, Nono, Nuzu, Ododo, Odozu, Ovozu, Uvu, Uvozu, Veve, Vevozu, Vovo, Zazu, Zenuvu.
-
-<!--
-\subsection*{Traits}
-    Your marset character has a range of abilities based on its nature and community lifestyle.
-
-    \subparagraph{Ability Score Increase} Your Charisma score is increased by 2, and your Dexterity score is increased by 1.
-
-    \subparagraph{Age} Marsets has a short lifespan, reaching maturity by age 4 and not living much more than 50 years.
-
-    \subparagraph{Alignment} Marsets have a tendency towards helping others, specially in their communities, and are inclined towards the gold tide.
-
-    \subparagraph{Size} Marsets range from 75 to 90 cm.
-    They usually have a slender and agile frame, weighing around 20 kg.
-    Your size is small.
-
-    \subparagraph{Speed} Your base walking speed is 6 meters, and you have a climbing speed of 6 meters.
-
-    \subparagraph{Glider} You have loose flaps of furry skin between your arms and legs, which allow you to glide short distances at a speed of 6 meters per turn, as long as you are not wearing heavy armor.
-    You fall at a rate of 4 meters per turn while gliding, and suffer no falling damage on landing.
-
-    \subparagraph{Sneaky Nature} You have advantage on stealth checks in heavily forested areas.
-
-    \subparagraph{Natural Weapons} You are proficient with shortbows and blowguns, and can use your own quills as arrows or cut them to be used as darts.
-    Every day you can gather up to 10 quills from your back to be used in this fashion.
-
-    \subparagraph{Community lifestyle} Despite their loudness, marsets can be very compelling talkers.
-    You are competent in the Persuasion skill.
-\newpage -->

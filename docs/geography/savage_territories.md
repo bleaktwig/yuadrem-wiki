@@ -20,8 +20,8 @@ Of special note is the adamant country of Byurev, who have halted the growth of 
 #### Chirping Wilds
 **TODO.**
 <!-- Southeast from the Drylands and passing through the Do Nana swamp are the Chirping Wilds, a vast and largely untamed rainforest.
-The jungle is inhabited only by the Iskenese empire, a large grung nation that expelled the original ird and marset population.
-The only territories currently not held by the grungs' military might are the strong qulbaba irds of Harual to the west, and the marsets of Uzuz from the Xuam peninsula. -->
+The jungle is inhabited only by the Iskenese empire, a large grung nation that expelled the original ird and imate population.
+The only territories currently not held by the grungs' military might are the strong qulbaba irds of Harual to the west, and the imates of Uzuz from the Xuam peninsula. -->
 
 #### Savage Plains
 **TODO.**
@@ -42,7 +42,7 @@ The region has facilitated the development of Uzuz due to the heavy presence of 
 **TODO.**
 <!-- West of the Everwoods is the Niknek peninsula, a thin, elongated stretch of land filled with volcanoes and gorges.
 The cape was spared from most of the effects of the Tidal Sway.
-Niknek and the nearby Vuvu Isles now house the refuge marsets from the Ironlakes Island. -->
+Niknek and the nearby Vuvu Isles now house the refuge imates from the Ironlakes Island. -->
 
 <!-- DEMOGRAPHY --------------------------------------------------------------->
 ## Demography

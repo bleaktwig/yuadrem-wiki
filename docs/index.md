@@ -13,9 +13,9 @@ TODO LIST:
 
 Yuadrem was first settled by the firstborn oric gods, [Et](religions/tanethism_pantheon.md#et) and [Om](religions/tanethism_pantheon.md#om). Et was a large and thin birch, pliable and adaptable. Om was a short and stout juniper, vigorous and prodigious. These two gods were ever locked in combat, yet none could take the upper hand. This conflict became known as the War of Spring<!-- TODO. Link. -->.
 
-To aid in the eternal battle, Et created the [humes](kins/hume.md), a kin as malleable as the god. Et bestowed upon humes Chromology<!-- TODO. Link. -->, teaching them to wage war using Color. Om in turn created [marsets](kins/marset.md), a smaller kin able to traverse the forests of Et's children with ease. The marsets were gifted Apomantics<!-- TODO. Link. -->, and fought using Word.
+To aid in the eternal battle, Et created the [humes](kins/hume.md), a kin as malleable as the god. Et bestowed upon humes Chromology<!-- TODO. Link. -->, teaching them to wage war using Color. Om in turn created [imates](kins/imate.md), a smaller kin able to traverse the forests of Et's children with ease. The imates were gifted Apomantics<!-- TODO. Link. -->, and fought using Word.
 
-The conflict ended with the burning of Om, an event known as the Schism<!-- TODO. Link. -->. the primordial one [Pheter](religions/tanethism_pantheon.md#pheter), angered by the death of the god, retaliated by striking Et with lightning. The blast burned the god-tree, and brought the 40-Year Famine<!-- TODO. Link. --> to both humes and marsets. This event marks the year 0, and the beginning of history.
+The conflict ended with the burning of Om, an event known as the Schism<!-- TODO. Link. -->. the primordial one [Pheter](religions/tanethism_pantheon.md#pheter), angered by the death of the god, retaliated by striking Et with lightning. The blast burned the god-tree, and brought the 40-Year Famine<!-- TODO. Link. --> to both humes and imates. This event marks the year 0, and the beginning of history.
 
 --------------------------------------------------------------------------------
 ## Geography
@@ -54,7 +54,7 @@ An isola is defined as a region either devoid of nix, or only seasonably affecte
 The peoples of Yuadrem are separated into four distinct kins. Each kin was created by a different god-tree, and each was then further divided by ethnic differences. These differences led to the formation of nations during the Golden Age<!-- TODO. Link. -->, the erosion of which later led to the [sumis](isolas/fesh_peninsula/ane-kene.md#buda-and-sumi).
 
 * [Humes](kins/hume.md), born from Et, are as adaptable as their creator. They became the dominant kin in Yuadrem after the Schism, and remain in this position even after the Penance.
-* [Marsets](kins/marset.md), born from Om, are hardy nomads that roam the remaining forests of Yuadrem. Decimated by both the War of Spring and posterior genocides, they have proven to be a deceptively hardy people.
+* [imates](kins/imate.md), born from Om, are hardy nomads that roam the remaining forests of Yuadrem. Decimated by both the War of Spring and posterior genocides, they have proven to be a deceptively hardy people.
 * [Oths](kins/oth.md) are a moth-like kin, a quiet people with a natural tendency towards knowledge. Created by the god-tree [Tol](religions/tanethism_pantheon.md#tol), they're often seen as enigmatic as their creator.
 * [Barkskins](kins/barkskin.md) are bone and wood golems, animated by the [god-tree Tek](religions/tanethism_pantheon.md#tek). While often considered too aggressive for peaceful interaction, an alliance has been recently broken between them and the sumi of Fremit<!-- TODO. Link. -->.
 
@@ -90,7 +90,7 @@ Other religions do exist, but receive little attention in the modern world. Once
 
 There are 16 recognized languages spoken in the Fesh Peninsula. They are separated into two distinct trees: Omietian languages and Uldian languages.
 
-Omietian languages are those that were taught by Et, Om, and Tol to their respective kins: humes, marsets, and oths. While etian and omian languages were taught by different god-trees, they have many common roots. Due to this, it is theorized that they came from one original language.
+Omietian languages are those that were taught by Et, Om, and Tol to their respective kins: humes, imates, and oths. While etian and omian languages were taught by different god-trees, they have many common roots. Due to this, it is theorized that they came from one original language.
 
 #### Etian Family
 **Jantherlin** is the earliest known language that is still spoken. It was taught by Et to the first humes, and has been carefully preserved over the years by monks and scholars. In modern times, Jantherlin is only spoken in academic contexts, and its writing system is the base of the etian apomantic system<!-- TODO. Link. -->.
@@ -117,15 +117,15 @@ After the god-tree Tol spawned from the corpse of Et, it spawned the oth kin. Ot
 * The **True Tongue** was the third and final language developed by oths. Also based on Fruenese, it adds to it a large set of unique and very complicated grammatical rules. These make the language exceedenly hard to learn, but give it a unique advantage: it is impossible to lie in True Tongue, hence its name. The language is most commonly spoken by political figures, diplomats, and scholars.
 
 #### Omian Family
-**Babazano** was the only language taught by Om to their descendants, the marsets. It is a very repetitive language with little verb variety, making it somewhat easy to learn. It has only 10 consonants, making lip movements very easy to identify. As such, most speakers learn to read lips fairly easily. Currently, Babazano is the only language spoken in the Nation of Om.
+**Babazano** was the only language taught by Om to their descendants, the imates. It is a very repetitive language with little verb variety, making it somewhat easy to learn. It has only 10 consonants, making lip movements very easy to identify. As such, most speakers learn to read lips fairly easily. Currently, Babazano is the only language spoken in the Nation of Om.
 <!-- NOTE. 4 vowels: a, e, o, u. -->
 
 #### Naenkian Family
-Since they do most of their communication through spores, the god-tree Tek did not teach any language to barkskins. They were, however, later taught language by marsets, in an attempt to establish communication. Barkskins learned babazano, which quickly morphed into the naenkian language family due to their unique morphology.
+Since they do most of their communication through spores, the god-tree Tek did not teach any language to barkskins. They were, however, later taught language by imates, in an attempt to establish communication. Barkskins learned babazano, which quickly morphed into the naenkian language family due to their unique morphology.
 
 * **Knaenese** is the most common language in the naenkian family. Lacking teeth and lips, barkskins communicate only with their alveolar ridge and palate, producing rough-sounding words. Knaenese is currently spoken only in the Nation of Knagan.
 * **Gannagian**, sometimes referred to as Old Knaenese, sounds very similar to knaenese, but is generally simpler. Lacking the proximity to Tek, and thus its spores, the barkskins of Knagan had to further develop their language, leading to this differentiation. Gannagian is only spoken in Gannag. Gannagian is the basis for the gannagian apomantic system<!-- TODO. Link. -->.
-* **Leaf-runes** is a written language developed by marsets and barkskins, used to communicate between the two. The language is written into the bark of trees, and the shape of each gliph depends on the shapes of this bark. This makes it very hard for other kins to understand the writing, but is fairly simple for the two due to their intimate relation with trees. Leaf-runes are mostly used to provide guidance or help in the jungle in a secretive manner.
+* **Leaf-runes** is a written language developed by imates and barkskins, used to communicate between the two. The language is written into the bark of trees, and the shape of each gliph depends on the shapes of this bark. This makes it very hard for other kins to understand the writing, but is fairly simple for the two due to their intimate relation with trees. Leaf-runes are mostly used to provide guidance or help in the jungle in a secretive manner.
 
 #### Uldian Family
 Uldian languages were developed independently by the oths of Ignelli<!-- TODO. Link. -->, under the tutelage of the god-tree [Uld](religions/tanethism_pantheon.md#uld). These languages saw some success in the region, but never spread too far from Ignelli.
@@ -144,9 +144,9 @@ Uldian languages were developed independently by the oths of Ignelli<!-- TODO. L
 * **Nascency of Disparity.** The primordial [Pheter](religions/tanethism_pantheon.md#pheter), god of disparity, is born from [Nix](religions/tanethism_pantheon.md#nix). With Pheter comes the separation of land and sea, and thus Yuadrem is created.
 * **Nascency of Color.** From Pheter, the two [damic gods](religions/tanethism_pantheon.md#damic-gods) are born: [Zash](religions/tanethism_pantheon.md#zash), the sun, and [Fagal](religions/tanethism_pantheon.md#fagal), the darksun. Zash in turn is divided into his six aspects, the [mevic gods](religions/tanethism_pantheon.md#mevic-gods), which conform Color.
 * **First Communion.** To populate Yuadrem, each mevic god plants a seed. These seeds grow into the [oric gods](religions/tanethism_pantheon.md#oric-gods), the first life to stand on Yuadrem.
-* **War of Spring.** The largest of the oric gods, Et and Om, go into war. While no damic or mevic god interfered, Pheter themself was against the conflict. Humes are born from Et as soldiers in this war, while Om creates the marsets to defend themself.
+* **War of Spring.** The largest of the oric gods, Et and Om, go into war. While no damic or mevic god interfered, Pheter themself was against the conflict. Humes are born from Et as soldiers in this war, while Om creates the imates to defend themself.
 <!-- TODO. Add the Ird Diaspora + the first siege of Ctereth. -->
-* **The Schism.** After a long and bloody conflict, Et wins the war against Om. Under the orders of their god-tree, the gats burn down the god-tree of the marsets. As the fire spreads, Pheter creates the fundamental signature of lightning<!-- TODO. Link. --> on the surface of the moon Kegal<!-- TODO. Link. -->, ans uses it to strike down Et. The ash from the burned god-trees engulfs Yuadrem, sparking the Age of Dark with the 40-Year Famine.
+* **The Schism.** After a long and bloody conflict, Et wins the war against Om. Under the orders of their god-tree, the gats burn down the god-tree of the imates. As the fire spreads, Pheter creates the fundamental signature of lightning<!-- TODO. Link. --> on the surface of the moon Kegal<!-- TODO. Link. -->, ans uses it to strike down Et. The ash from the burned god-trees engulfs Yuadrem, sparking the Age of Dark with the 40-Year Famine.
 
 <!-- TODO. Maybe change the dates using a random number generator (within reason). -->
 <!-- AGE OF DARK -------------------------------------------------------------->
