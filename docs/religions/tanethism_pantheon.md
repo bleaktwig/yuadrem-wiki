@@ -93,10 +93,10 @@ Sakris is the god of fun and wine. As a mortal, he was the most devoted slave to
 Hanush is the god of teaching and books. As a mortal, they were a barkskin who mediated the peace between Gannag and the Seven Principates, and proceeded then to create the Gannagian apomantic system<!-- TODO. Link. -->. As a god, they are depicted in a thin dress made of paper scrolls with green signatures.
 
 #### Tamaz
-Tamaz is the goddess of wealth and silver. As a mortal, she was an ird adventurer, known for financing the first colonial ships of Krudzal. She is now depicted in a shiny gray dress, looking through a spyglass.
+Tamaz is the goddess of wealth and silver. As a mortal, she was an ird adventurer, known for financing the first colonial ships of Krudzal. She is now depicted in a shiny gray dress, holding an iron hammer and a saw.
 
 #### Nazim
-Nazim is the goddess of justice and the sky. As a mortal, she was an oth scholar who provided the basis for modern math and astrology. Even as a god she continues to study the stars, and is depicted with an abacus and a spyglass.
+Nazim is the goddess of justice and the sky. As a mortal, she was an oth scholar who provided the basis for modern math and astrology. Even as a god she continues to study the stars, and is depicted with an abacus and a book.
 
 #### Gathoz
 Gathoz is the god of secrecy and murder. While her name in life is unknown, she is the assassin who battled and killed Olag through Tetrachromacy<!-- TODO. Link. -->. Now, she is often attributed to murders where the perpetrator was never found. She is depicted as a kinless being with a shifting face and body.
