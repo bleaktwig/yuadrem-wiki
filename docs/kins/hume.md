@@ -20,7 +20,7 @@ Humes are a gendered kin, and usually have one child at a time. Previous to the 
 ### Distinctive Characteristics
 The skin of a gat is generally dark, usually ranging from yellow, through brown, to black. While some gats are blonde, the most common hair colors are brown, black, and sometimes red. It is a common gat custom to sport long hair and beards, often decorated with jewelry.
 
-With the exception of the treb, gats are generally small, ranging from 140 to 170 centimeters on average. Another common feature across gats is their eyes; which are usually of strong colors. This feature is often attributed as a Blessing of Color<!-- TODO. Link. --> given by Et.
+Except for the treb, gats are generally small, ranging from 140 to 170 centimeters on average. Another common feature across gats is their eyes; which are usually of strong colors. This feature is often attributed as a Blessing of Color<!-- TODO. Link. --> given by Et.
 
 While all original gats had horns, the feature has been lost through the centuries. Those birthed by the remains of the god-tree, or Et-born, retain the horns. They are increasingly rare after the Penance, as nix<!-- TODO. Link. --> has destroyed the land that surrounds the tree.
 <!-- TODO. At some point I need to describe what an Et-born gat is. -->
@@ -121,7 +121,7 @@ The thulkraka migrated to the northernmost regions of Yuadrem, establishing the 
 The qulbaba were the second to emigrate, and settled on the tropical islands of the [Qul Archipelago](../geography/westlands.md#qul-archipelago). Here they separated into a myriad of chiefdoms, claiming the islands and many nearby territories. While they never achieved complete cooperation between chiefs, they became known as the Jenkash Empire<!-- TODO. Link. --> at their maximum expansion.
 
 <!-- TODO. Update this. -->
-Apart from the [Fesh Peninsula](../isolas/fesh_peninsula/index.md), the only other isolas known to exist are the [Steldan Isola](../isolas/steldan_isola/index.md), the [Krugghom Heights](../isolas/krugghom/index.md), and the Coldmist Isola<!-- TODO. Link. -->. These three are part of Krudzal. Inside Fesh, thulkraka from Gronselar conquered the easternmost peninsula, establishing their nation in territories claimed from Ushpavam<!-- TODO. Link. -->. Some qulbaba from the Dentralin Chiefdom<!-- TODO. Link. --> also  settled the region, becoming part of the Sumi of Fremit<!-- TODO. Link. --> and establishing temples in the Saefel Canyon<!-- TODO. Link. -->.
+Inside the Fesh Peninsula, thulkraka from Gronselar conquered the easternmost peninsula, establishing their nation in territories claimed from Ushpavam<!-- TODO. Link. -->. Some qulbaba from the Dentralin Chiefdom<!-- TODO. Link. --> also  settled the region, becoming part of the Sumi of Fremit<!-- TODO. Link. --> and establishing temples in the Saefel Canyon<!-- TODO. Link. -->.
 
 The dratl were the last to leave the grasp of Et. They migrated to the desert of Zoedrem, also separating into chiefdoms. Not many of them remain, but some did enter the Fesh Peninsula traveling together with the bughna.
 

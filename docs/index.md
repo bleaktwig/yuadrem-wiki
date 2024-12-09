@@ -4,11 +4,10 @@
 <!--
 TODO LIST:
 * Finish this first index page. It's the first thing player see in the wiki!
-* Check if I can link to a section in a file -- that would make links so much
-    more useful.
 * Check links **regularly**. They break often.
 * ADD COATIS.
 * Explain somewhere that anything before the penance is called "pre-penance".
+* Try to include pictures from the original Yuadrem repository, probably with a web link.
 -->
 
 Yuadrem was first settled by the firstborn oric gods, [Et](religions/tanethism_pantheon.md#et) and [Om](religions/tanethism_pantheon.md#om). Et was a large and thin birch, pliable and adaptable. Om was a short and stout juniper, vigorous and prodigious. These two gods were ever locked in combat, yet none could take the upper hand. This conflict became known as the War of Spring<!-- TODO. Link. -->.
