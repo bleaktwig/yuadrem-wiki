@@ -33,17 +33,17 @@ Matevos is the goddess of Green, lightness, and glory. Her manifestation is wate
 Febrid, sometimes named Nuagal, is the goddess of Blue, cold, and intellect. Her manifestation is wood, and is related to the stability of communities through [Sibi and Ganu](../isolas/fesh_peninsula/ane-kene.md#bulu). Febrid's representation is an azure jay, leaving a trail of dew in its path. When depicted as a hume, she is crowned by a pair of horns in the shape of a crescent moon, her body covered in apomantic tattoos.
 
 #### Fusine
-Fusine, sometimes named Kegal, is the goddess of Yellow, chaos, and the stars. Her manifestation is metal and lightning, and is associated with the resolution of conflicts, especially through [Yaka](../isolas/fesh_peninsula/ane-kene.md#yaka). Fusine's representation is a golden parakeet, her flight always followed by a storm. She's not often portrayed as a hume -- but as a gargantuan black-bellied slider turtle whose shell shines with a million stars.
+Fusine, sometimes named Kegal, is the goddess of Purple, chaos, and the stars. Her manifestation is metal and lightning, and is associated with the resolution of conflicts, especially through [Yaka](../isolas/fesh_peninsula/ane-kene.md#yaka). Fusine's representation is a golden parakeet, her flight always followed by a storm. She's not often portrayed as a hume -- but as a gargantuan black-bellied slider turtle whose shell shines with a million stars.
 
 #### Vahan
 Vahan is the god of Red, heaviness, and mountains. His manifestation is fire.
-Vahan is said to prefer bolos with high self-sufficiency, and is thus celebrated though [Pali](../isolas/fesh_peninsula/ane-kene.md#bulu) and [Mafa](../isolas/fesh_peninsula/ane-kene.md#buda-and-sumi). His representation is a scarlet ibis, scorching the earth wherever he steps. As a hume, Vahan is often depicted as a red-haired, one-horned person in soldier armor, wielding a large hexagonal mace.
+Vahan is said to prefer bulus with high self-sufficiency, and is thus celebrated though [Pali](../isolas/fesh_peninsula/ane-kene.md#bulu) and [Mafa](../isolas/fesh_peninsula/ane-kene.md#buda-and-sumi). His representation is a scarlet ibis, scorching the earth wherever he steps. As a hume, Vahan is often depicted as a red-haired, one-horned person in soldier armor, wielding a large hexagonal mace.
 
 #### Bagrat
 Bagrat is the god of Orange, heat, and agriculture. His manifestation is earth, and is often associated with kindness, charity, and health, through both [Kudu and Bete](../isolas/fesh_peninsula/ane-kene.md#bulu). Bagrat's representation is a campo troupial, flowers blooming wherever he lands. As a hume, he is depicted as a horned worker working the farm with tools made of red gold.
 
 #### Pagram
-Pagram is the god of Purple, order, and civilization. His manifestation is stone, and is celebrated in the formation of [Tegas](../isolas/fesh_peninsula/ane-kene.md#tega) and their associated rituals. Pagram's representation is a swallow-tailed hummingbird, his fluttering following the flowers that decorate a Tega. As a hume, he is commonly depicted as a horned philosopher wearing white clothing, pompously adorned in gold.
+Pagram is the god of Yellow, order, and civilization. His manifestation is stone, and is celebrated in the formation of [Tegas](../isolas/fesh_peninsula/ane-kene.md#tega) and their associated rituals. Pagram's representation is a swallow-tailed hummingbird, his fluttering following the flowers that decorate a Tega. As a hume, he is commonly depicted as a horned philosopher wearing white clothing, pompously adorned in gold.
 
 --------------------------------------------------------------------------------
 ## Oric Gods
