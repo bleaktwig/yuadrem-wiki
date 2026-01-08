@@ -1,0 +1,2 @@
+# Kan
+Kan was the tree of [Vahan](../mevic_gods/vahan.md), and was a plant unique in the world. Red branches extended upward atop hundreds of meters of a dark gray trunk, evoking the strength of the mevic god that planted it. The godtree stood in the middle of Krejek<!-- TODO. LINK. -->, capturing electricity from the clouds and erupting into seasonal firestorms that defined the landscape of the rocky island.

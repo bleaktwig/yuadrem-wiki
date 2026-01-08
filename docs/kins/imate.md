@@ -1,5 +1,5 @@
 # Imates
-[Om](../religions/tanethism_pantheon.md#om) created imates to defend the oric god from [Et](../religions/tanethism_pantheon.md#et) and the [humes](hume.md) in the War of Spring<!-- TODO. Link. -->. While not particularly suited for war, the kin defended their god-tree until the Schism<!-- TODO. Link. -->. For this, they were Blessed with Word. After the burning of Om, imates escaped genocide by migrating to the south, spreading thorough the southern reaches of Yuadrem.
+[Om](../religion/godtrees/om.md) created imates to defend the oric god from [Et](../religion/godtrees/et.md) and the [humes](hume.md) in the War of Spring<!-- TODO. Link. -->. While not particularly suited for war, the kin defended their godtree until the Schism<!-- TODO. Link. -->. For this, they were Blessed with Word. After the burning of Om, imates escaped genocide by migrating to the south, spreading thorough the southern reaches of Yuadrem.
 
 ---
 ## Physical Description
@@ -20,7 +20,7 @@ For self expression, imates wear an abundance of accessories, often made of copp
 ## Origins and history
 After the Schism, imates were left without the canopy of Om to protect them. As such, they settled south of the Turtle Sea, surviving the 40-Year Famine thanks to the abundant flora of the area. These settlements were short lived, however, as after recovering from the famine, gats took to hunting imates en masse, sparking the Babaian Genocide.
 
-The imates that survived continued migrating south, settling in a variety of regions on the southernmost reaches of Yuadrem. Many gained an affinity with the yellow god-tree Uld, who lives in the Wildlands. Others migrated to the southernmost points of the continent, and a large group to the Ironlakes Islands.
+The imates that survived continued migrating south, settling in a variety of regions on the southernmost reaches of Yuadrem. Many gained an affinity with the yellow godtree Uld, who lives in the Wildlands. Others migrated to the southernmost points of the continent, and a large group to the Ironlakes Islands.
 
 Contact was lost with most of the groups after The Penance. No signs of imates were sign up until 731 A.S., when they sailed in ships from Gronselar<!-- TODO. Link. -->, towards the islands of the Turtle Sea. They expelled the humes in the Lesser Omian War<!-- TODO. Link. -->, reclaiming their historic territory around Om. Over time, however, many refused this conflict, and settled in the territories surrounding the sea.
 
@@ -47,7 +47,7 @@ Due to their differences, oras and arsets tend to take different roles in their 
 <!-- NOTE. The building of a village is a collective task. -->
 
 **Tradition and Tanethism.**
-Imate tradition follows the belief in the divinity of the tree-gods and their relation to the Ring of Color<!-- TODO. Link. -->. They associate the god-trees to the six world signatures<!-- TODO. I should explain this in the cosmology page... -->, and have unique signatures for each of the seven trees<!-- NOTE. Draw these signatures whenever I work on the imate apomantic system. -->. In general they don't place Om above the other god-trees, but they do praise their dead god more than the others.
+Imate tradition follows the belief in the divinity of the tree-gods and their relation to the Ring of Color<!-- TODO. Link. -->. They associate the godtrees to the six world signatures<!-- TODO. I should explain this in the cosmology page... -->, and have unique signatures for each of the seven trees<!-- NOTE. Draw these signatures whenever I work on the imate apomantic system. -->. In general they don't place Om above the other godtrees, but they do praise their dead god more than the others.
 
 While many have adapted to Tanethism, their traditional cosmology does not recognize the Mevic Gods<!-- TODO. Link. --> as the makers of the tree-gods. They do, however, recognize Pheter<!-- TODO. Link. --> and Nix<!-- TODO. Link. --> as the forces of creation, and recognize the connection that Illuminants<!-- TODO. Link. --> have with Pheter.
 

@@ -20,7 +20,7 @@ It remains warm despite its location thanks to an array of volcanos in its cente
 
 #### Golden Fjord
 To the west of Stinos is the Golden Fjord.
-It receives its name from the yellow leaves of the [Ur tree](../religions/tanethism.md).
+It receives its name from the yellow leaves of the [Ur](../religion/godtrees/ur.md).
 The islands are sacred to the Tsalemists<!-- TODO. Link. -->, and used to house both krudzalian colonies and Ribinhep nomads.
 
 #### Gualos

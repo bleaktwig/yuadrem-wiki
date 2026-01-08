@@ -1,5 +1,5 @@
 # Humes
-[Et](../religions/tanethism_pantheon.md#et) created humes to aid the oric god in the War of Spring<!-- TODO. Link. -->. Despite this, many opposed the conflict, or felt indifferent to it. They fled the company of their god-tree, for which they were cursed with monochromacy. These humes came to be known as irds, and their dispersion as the Ird Diasporas<!-- TODO. Link. -->. The humes that remained with Et were blessed with Color, and are known as gats.
+[Et](../religion/godtrees/et.md) created humes to aid the oric god in the War of Spring<!-- TODO. Link. -->. Despite this, many opposed the conflict, or felt indifferent to it. They fled the company of their godtree, for which they were cursed with monochromacy. These humes came to be known as irds, and their dispersion as the Ird Diasporas<!-- TODO. Link. -->. The humes that remained with Et were blessed with Color, and are known as gats.
 
 <!-- NOTE.
     * This led to the first siege of Ctereth, where four different ird chiefdoms (led by 4 historic figures) stole qualars to allow their kin to travel away from Naptane.
@@ -22,7 +22,7 @@ The skin of a gat is generally dark, usually ranging from yellow, through brown,
 
 Except for the treb, gats are generally small, ranging from 140 to 170 centimeters on average. Another common feature across gats is their eyes; which are usually of strong colors. This feature is often attributed as a Blessing of Color<!-- TODO. Link. --> given by Et.
 
-While all original gats had horns, the feature has been lost through the centuries. Those birthed by the remains of the god-tree, or Et-born, retain the horns. They are increasingly rare after the Penance, as nix<!-- TODO. Link. --> has destroyed the land that surrounds the tree.
+While all original gats had horns, the feature has been lost through the centuries. Those birthed by the remains of the godtree, or Et-born, retain the horns. They are increasingly rare after the Penance, as nix<!-- TODO. Link. --> has destroyed the land that surrounds the tree.
 <!-- TODO. At some point I need to describe what an Et-born gat is. -->
 <!-- NOTE. Maybe describe what noves, bughna, and treb mean in Jantherlin/Old Avshenese. -->
 
@@ -75,7 +75,7 @@ One thing in common across all gats is their aversion to piercing weapons, espec
 <!-- NOTE. Olag punished traitors by impaling them in pikes, but without crossing major organs (idk how tho?). Then, not only did they bleed slowly, but they could feel their soul leaking away. -->
 
 **Religion.**
-[Tanethism](../index.md#religion) is the most common religion in Yuadrem. It is the most common belief of all gats since the fifth century. <!-- TODO. This year might change soon!!!! --> Tanethism is a personal religion. Altars to certain gods are common, but established institutions to them are a rare sight, and is even prohibited in some provinces<!-- TODO. Provinces?. -->.
+[Tanethism](../religion/index.md) is the most common religion in Yuadrem. It is the most common belief of all gats since the third century. Tanethism is a personal religion. Altars to certain gods are common, but established institutions to them are a rare sight, and is even prohibited in some provinces<!-- TODO. Provinces?. -->.
 
 Apart from providing the list and description of the religion's gods, the book of Taneth<!-- TODO. Link. --> details the myriad of rituals to each of them. Most gats have a predilection toward certain gods, and include some of them into daily life. Treb are particularly religious. Often liturgy is attached to any activity an individual deems important.
 
@@ -114,7 +114,7 @@ Irds were said to have been cursed with feathers when they fled the War of Sprin
 Thulkraka, who settled in cold climates, used to wear vermilion fabrics with complex patterns above many layers of fur. Nowadays, while their attires are lighter, they keep this color despite the change in environment. Dratl, used to the desert of [Zoedrem](../geography/westlands.md#zoedrem), wore simple cyan and mint clothing to cool them and give them speed. The qulbaba in contrast often kept the colorful patterns from their old traditions, recently adapted to fibers rather than feathers.
 
 ### Origins and History
-The first humes to renounce the War of Spring and abandon Et were the irds. Persecuted by the god-tree fanatics, they fled far from the [Horned Shores](../geography/fractured_lands.md#horned-shores), and far away from the grasp of Et. This event is known as the Ird Diaspora<!-- TODO. Link. -->. While many different ethnicities came from this event, the main ones that remain after the Penance are three. In order of their number, the thulkraka, the qulbaba, and the dratl.
+The first humes to renounce the War of Spring and abandon Et were the irds. Persecuted by the godtree fanatics, they fled far from the [Horned Shores](../geography/fractured_lands.md#horned-shores), and far away from the grasp of Et. This event is known as the Ird Diaspora<!-- TODO. Link. -->. While many different ethnicities came from this event, the main ones that remain after the Penance are three. In order of their number, the thulkraka, the qulbaba, and the dratl.
 
 The thulkraka migrated to the northernmost regions of Yuadrem, establishing the old nation of Krudzal around the north pole. Here, they were the first to develop ironworking, with which they built imposing sailing ships with iron hulls. Krudzalites used these vessels to claim many territories in the continent, later forming many independent states such as Gronselar<!-- TODO. Link. --> and Kaldrathal, among others.
 

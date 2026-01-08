@@ -10,11 +10,11 @@ TODO LIST:
 * Try to include pictures from the original Yuadrem repository, probably with a web link.
 -->
 
-Yuadrem was first settled by the firstborn oric gods, [Et](religions/tanethism_pantheon.md#et) and [Om](religions/tanethism_pantheon.md#om). Et was a large and thin birch, pliable and adaptable. Om was a short and stout juniper, vigorous and prodigious. These two gods were ever locked in combat, yet none could take the upper hand. This conflict became known as the War of Spring<!-- TODO. Link. -->.
+Yuadrem was first settled by the firstborn oric gods, [Et](religion/godtrees/et.md) and [Om](religion/godtrees/om.md). Et was a large and thin birch, pliable and adaptable. Om was a short and stout juniper, vigorous and prodigious. These two gods were ever locked in combat, yet none could take the upper hand. This conflict became known as the War of Spring<!-- TODO. Link. -->.
 
 To aid in the eternal battle, Et created the [humes](kins/hume.md), a kin as malleable as the god. Et bestowed upon humes Chromology<!-- TODO. Link. -->, teaching them to wage war using Color. Om in turn created [imates](kins/imate.md), a smaller kin able to traverse the forests of Et's children with ease. The imates were gifted Apomantics<!-- TODO. Link. -->, and fought using Word.
 
-The conflict ended with the burning of Om, an event known as the Schism<!-- TODO. Link. -->. the primordial one [Pheter](religions/tanethism_pantheon.md#pheter), angered by the death of the god, retaliated by striking Et with lightning. The blast burned the god-tree, and brought the 40-Year Famine<!-- TODO. Link. --> to both humes and imates. This event marks the year 0, and the beginning of history.
+The conflict ended with the burning of Om, an event known as the Schism<!-- TODO. Link. -->. The primordial one [Pheter](religion/primordials/pheter.md), angered by the death of the god, retaliated by striking Et with lightning. The blast burned the godtree, and brought the 40-Year Famine<!-- TODO. Link. --> to both humes and imates. This event marks the year 0, and the beginning of history.
 
 --------------------------------------------------------------------------------
 ## Geography
@@ -41,7 +41,7 @@ Due to its size, Yuadrem is often divided into six distinct regions: the [Northe
 ### Politics
 Back in the golden age, Yuadrem was split into various nations, each with their own population centers and varied economies. This era of peace lasted until the death of god-suzerain Olag<!-- TODO. Link. --> in 621 A.S. (After the Schism), an event that sparked the Penance<!-- TODO. Link. -->. With the Penance, an irisdescent tar known as nix<!-- TODO. Link. --> began rolling over the continent. This caused mass migrations, separating the peoples into isolas.
 
-An isola is defined as a region either devoid of nix, or only seasonably affected by it. Most isolas are protected by their topography, often aided by strong sorcerers known as [Illuminants](religions/tanethism_pantheon.md#illuminants). Up to the year 800 A.S., the only known isola was the [Fesh Peninsula](isolas/fesh_peninsula/index.md). After the arrival of the nixwalkers<!-- TODO. Link. -->, dentrala<!-- TODO. Link. --> apomancers<!-- TODO. Link. --> who travel over the vapors released by nix, it is now known that at least three others isolas exist: [Krugghom](isolas/krugghom/index.md), the [Steldan Isola](isolas/steldan_isola/index.md), and the Coldmist Gorge<!-- TODO. Link. -->.
+An isola is defined as a region either devoid of nix, or only seasonably affected by it. Most isolas are protected by their topography, often aided by strong sorcerers known as [Illuminants](religion/index.md#the-tanethist-pantheon). Up to the year 800 A.S., the only known isola was the [Fesh Peninsula](isolas/fesh_peninsula/index.md). After the arrival of the nixwalkers<!-- TODO. Link. -->, dentrala<!-- TODO. Link. --> apomancers<!-- TODO. Link. --> who travel over the vapors released by nix, it is now known that at least three others isolas exist: [Krugghom](isolas/krugghom/index.md), the [Steldan Isola](isolas/steldan_isola/index.md), and the Coldmist Gorge<!-- TODO. Link. -->.
 
 <!-- TODO. Talk about the nations of the Fesh Peninsula. -->
 
@@ -50,12 +50,12 @@ An isola is defined as a region either devoid of nix, or only seasonably affecte
 ***Pictured:***
 *Old world migration map of Yuadrem, drawn in 787 A.S. by the Fremite Monastery in Uvarme. It includes all known mass movements of people from the ird diasporas of ~80 B.S. to the Na'anian migration of 445 A.S. Migrations after the Penance are not pictured. The authors separated the four kins (and gats from irds) using colored lines.*
 
-The peoples of Yuadrem are separated into four distinct kins. Each kin was created by a different god-tree, and each was then further divided by ethnic differences. These differences led to the formation of nations during the Golden Age<!-- TODO. Link. -->, the erosion of which later led to the [sumis](isolas/fesh_peninsula/ane-kene.md#buda-and-sumi).
+The peoples of Yuadrem are separated into four distinct kins. Each kin was created by a different godtree, and each was then further divided by ethnic differences. These differences led to the formation of nations during the Golden Age<!-- TODO. Link. -->, the erosion of which later led to the [sumis](isolas/fesh_peninsula/ane-kene.md#buda-and-sumi).
 
 * [Humes](kins/hume.md), born from Et, are as adaptable as their creator. They became the dominant kin in Yuadrem after the Schism, and remain in this position even after the Penance.
-* [imates](kins/imate.md), born from Om, are hardy nomads that roam the remaining forests of Yuadrem. Decimated by both the War of Spring and posterior genocides, they have proven to be a deceptively hardy people.
-* [Oths](kins/oth.md) are a moth-like kin, a quiet people with a natural tendency towards knowledge. Created by the god-tree [Tol](religions/tanethism_pantheon.md#tol), they're often seen as enigmatic as their creator.
-* [Barkskins](kins/barkskin.md) are bone and wood golems, animated by the [god-tree Tek](religions/tanethism_pantheon.md#tek). While often considered too aggressive for peaceful interaction, an alliance has been recently broken between them and the sumi of Fremit<!-- TODO. Link. -->.
+* [Imates](kins/imate.md), born from Om, are hardy nomads that roam the remaining forests of Yuadrem. Decimated by both the War of Spring and posterior genocides, they have proven to be a deceptively hardy people.
+* [Oths](kins/oth.md) are a moth-like kin, a quiet people with a natural tendency towards knowledge. Created by the godtree [Tol](religion/godtrees/tol.md), they're often seen as enigmatic as their creator.
+* [Barkskins](kins/barkskin.md) are bone and wood golems, animated by the [god-tree Tek](religion/godtrees/tek.md). While often considered too aggressive for peaceful interaction, an alliance has been recently broken between them and the sumi of Fremit<!-- TODO. Link. -->.
 
 <!-- TODO. Maybe talk a bit about each kin and their relevant migrations. -->
 
@@ -66,20 +66,7 @@ The peoples of Yuadrem are separated into four distinct kins. Each kin was creat
 Different events in prehistory and history have caused migrations and diasporas, but none can be compared to The Penance. In the face of the vast loss of landmass to the nix tides, peoples from all nations and ethnicities coalesced in the Fesh Peninsula.
 
 <!-- TODO. Maybe talk a bit about each migration. -->
-
-### Religion
-The main religion practiced in the Fesh Peninsula is Tanethism.
-
-Old Tanethism is characterized by its myriad of gods -- one for each apomantic signature<!-- TODO. Link. -->. This religion was widely practiced in the Seven Principates<!-- TODO. Link. --> and their various colonies up until the late Age of Gold<!-- TODO. Link. -->. This however changes in the year 520 A.S., when the god-suzerain Olag<!-- TODO. Link. --> establishes a new Tanethism as the official religion of the principates.
-
-The religion is based on a book published by Taneth in 511 A.S. To write it, the nomadic scholar traveled all around the various principates and city-states. He ended up with an exhaustive compilation of the more than a thousand deities praised in the region. In this taxonomy, Taneth classifies the similitude and difference between each god. Based on these, he then proposes a reduced [pantheon](religions/tanethism_pantheon.md) in which similar gods coalesce, along with a clear, tiered hierarchy between them.
-<!-- TODO. Maybe change dates here, make them earlier. -->
-
-Taneth's work was barely known during his life. He died shortly after the publication, and not even his birth date is known.
-
-Many a hume has a favorite among the gods, one whose ideals and teaching they make their own. A few even dedicate entirely to a single deity, serving as a priest, acolyte, or champion of that god's manifestation. Some famous examples among these devouts are the nimrods, an organization of zealous hunters of [Pagram](religions/tanethism_pantheon.md#pagram) who would pursue all who disturb the perceived balance. Another example are the followers of [Havetish](religions/tanethism_pantheon.md#havetish), who to this date seek to distribute wealth and food to the impoverished habitants in the inland regions.
-
-Other religions do exist, but receive little attention in the modern world. Once widely practiced, the three most notorious ones are [Tsalemism](religions/tsalemism.md), [Igneism](religions/igneism.md), and [Cosmism](religions/cosmism.md).
+***Religion.*** The main religion practiced in the known world is [Tanethism](religion/index.md).
 
 ### Languages
 <!-- TODO: Eventually, I need to add links to all nations from this page. -->
@@ -89,7 +76,7 @@ Other religions do exist, but receive little attention in the modern world. Once
 
 There are 16 recognized languages spoken in the Fesh Peninsula. They are separated into two distinct trees: Omietian languages and Uldian languages.
 
-Omietian languages are those that were taught by Et, Om, and Tol to their respective kins: humes, imates, and oths. While etian and omian languages were taught by different god-trees, they have many common roots. Due to this, it is theorized that they came from one original language.
+Omietian languages are those that were taught by Et, Om, and Tol to their respective kins: humes, imates, and oths. While etian and omian languages were taught by different godtrees, they have many common roots. Due to this, it is theorized that they came from one original language.
 
 #### Etian Family
 **Jantherlin** is the earliest known language that is still spoken. It was taught by Et to the first humes, and has been carefully preserved over the years by monks and scholars. In modern times, Jantherlin is only spoken in academic contexts, and its writing system is the base of the etian apomantic system<!-- TODO. Link. -->.
@@ -109,7 +96,7 @@ Some time before the avshenesian family sprouted from Jantherlin, the harualian 
 * **Zsekian** was the language of the Hulnar empire. Very few native speakers remain in the modern world, but the language still sees some use in the chiefdoms of Raraspan and Dzarog, as well as by the Ketepi people.
 
 #### Shamabic Family
-After the god-tree Tol spawned from the corpse of Et, it spawned the oth kin. Oths quickly integrated into the Seven Principates, but developed their own languages from Jantherlin: the Shamabic family.
+After the godtree Tol spawned from the corpse of Et, it spawned the oth kin. Oths quickly integrated into the Seven Principates, but developed their own languages from Jantherlin: the Shamabic family.
 
 * **Fruenese** was the first language developed by the oths. It is a highly practical language with a simple syntax, reflecting the pragmatism of the kin. Fruenese is now the main language spoken in the chiefdom of Nalash and the island of Trevit.
 * The **Silent Tongue** was the second language developed by oths. It doesn't have a writing system, as it uses only visual-manual signs to convey meaning. Despite it being an artificial language, it's separate into many different dialects. It can be seen in the entire Fesh Peninsula, but it is seen the most in the sumi of Fremit. It is the basis for the dentralin apomantic system<!-- TODO. Link. -->
@@ -120,14 +107,14 @@ After the god-tree Tol spawned from the corpse of Et, it spawned the oth kin. Ot
 <!-- NOTE. 4 vowels: a, e, o, u. -->
 
 #### Naenkian Family
-Since they do most of their communication through spores, the god-tree Tek did not teach any language to barkskins. They were, however, later taught language by imates, in an attempt to establish communication. Barkskins learned babazano, which quickly morphed into the naenkian language family due to their unique morphology.
+Since they do most of their communication through spores, the godtree Tek did not teach any language to barkskins. They were, however, later taught language by imates, in an attempt to establish communication. Barkskins learned babazano, which quickly morphed into the naenkian language family due to their unique morphology.
 
 * **Knaenese** is the most common language in the naenkian family. Lacking teeth and lips, barkskins communicate only with their alveolar ridge and palate, producing rough-sounding words. Knaenese is currently spoken only in the Nation of Knagan.
 * **Gannagian**, sometimes referred to as Old Knaenese, sounds very similar to knaenese, but is generally simpler. Lacking the proximity to Tek, and thus its spores, the barkskins of Knagan had to further develop their language, leading to this differentiation. Gannagian is only spoken in Gannag. Gannagian is the basis for the gannagian apomantic system<!-- TODO. Link. -->.
 * **Leaf-runes** is a written language developed by imates and barkskins, used to communicate between the two. The language is written into the bark of trees, and the shape of each gliph depends on the shapes of this bark. This makes it very hard for other kins to understand the writing, but is fairly simple for the two due to their intimate relation with trees. Leaf-runes are mostly used to provide guidance or help in the jungle in a secretive manner.
 
 #### Uldian Family
-Uldian languages were developed independently by the oths of Ignelli<!-- TODO. Link. -->, under the tutelage of the god-tree [Uld](religions/tanethism_pantheon.md#uld). These languages saw some success in the region, but never spread too far from Ignelli.
+Uldian languages were developed independently by the oths of Ignelli<!-- TODO. Link. -->, under the tutelage of the godtree [Uld](religion/godtrees/uld.md). These languages saw some success in the region, but never spread too far from Ignelli.
 
 * **Odhualen** is a very unique language, sharing only broad characteristics with the other dialects of Yuadrem. The language has recently become somewhat popular among monks and scholars due to the fact that its writing system is exceptionally compact. It is the main language spoken in the island of Mbeat.
 * **Krelho** was a variation of Odhualen born as the language spread across the [Wildlands](geography/wildlands.md). It has almost disappeared after The Penance, with more people interested in learning Odhualen rather than its obscure cousin language.
@@ -140,12 +127,12 @@ Uldian languages were developed independently by the oths of Ignelli<!-- TODO. L
 
 <!-- PREHISTORY --------------------------------------------------------------->
 ### Prehistory
-* **Nascency of Disparity.** The primordial [Pheter](religions/tanethism_pantheon.md#pheter), god of disparity, is born from [Nix](religions/tanethism_pantheon.md#nix). With Pheter comes the separation of land and sea, and thus Yuadrem is created.
-* **Nascency of Color.** From Pheter, the two [damic gods](religions/tanethism_pantheon.md#damic-gods) are born: [Zash](religions/tanethism_pantheon.md#zash), the sun, and [Fagal](religions/tanethism_pantheon.md#fagal), the darksun. Zash in turn is divided into his six aspects, the [mevic gods](religions/tanethism_pantheon.md#mevic-gods), which conform Color.
-* **First Communion.** To populate Yuadrem, each mevic god plants a seed. These seeds grow into the [oric gods](religions/tanethism_pantheon.md#oric-gods), the first life to stand on Yuadrem.
+* **Nascency of Disparity.** The primordial [Pheter](religion/primordials/pheter.md), god of disparity, is born from [Nix](religion/primordials/nix.md). With Pheter comes the separation of land and sea, and thus Yuadrem is created.
+* **Nascency of Color.** From Pheter, the two damic gods) are born: [Zash](religion/damic_gods/zash.md), the sun, and [Fagal](religion/damic_gods/fagal.md), the darksun. Zash in turn is divided into his six aspects, the mevic gods, which conform Color.
+* **First Communion.** To populate Yuadrem, each mevic god plants a seed. These seeds grow into the oric gods, the first life to stand on Yuadrem.
 * **War of Spring.** The largest of the oric gods, Et and Om, go into war. While no damic or mevic god interfered, Pheter themself was against the conflict. Humes are born from Et as soldiers in this war, while Om creates the imates to defend themself.
 <!-- TODO. Add the Ird Diaspora + the first siege of Ctereth. -->
-* **The Schism.** After a long and bloody conflict, Et wins the war against Om. Under the orders of their god-tree, the gats burn down the god-tree of the imates. As the fire spreads, Pheter creates the fundamental signature of lightning<!-- TODO. Link. --> on the surface of the moon Kegal<!-- TODO. Link. -->, ans uses it to strike down Et. The ash from the burned god-trees engulfs Yuadrem, sparking the Age of Dark with the 40-Year Famine.
+* **The Schism.** After a long and bloody conflict, Et wins the war against Om. Under the orders of their godtree, the gats burn down the godtree of the imates. As the fire spreads, Pheter creates the fundamental signature of lightning<!-- TODO. Link. --> on the surface of the moon Kegal<!-- TODO. Link. -->, ans uses it to strike down Et. The ash from the burned godtrees engulfs Yuadrem, sparking the Age of Dark with the 40-Year Famine.
 
 <!-- TODO. Maybe change the dates using a random number generator (within reason). -->
 <!-- AGE OF DARK -------------------------------------------------------------->
