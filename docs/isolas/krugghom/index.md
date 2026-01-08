@@ -21,5 +21,5 @@ Due to a lack of political stability, this government has held power for about 2
 
 ## Religion
 The main religion in Krudzal is [Tanethism](../../religion/index.md).
-The practice quickly gained popularity by the late Nations Era<!-- [Nations Era](TODO) --> from the evangelization efforts of Olag<!-- [Olag](TODO) --> and the Seven Principates of the Sea<!-- [Seven Principates of the Sea](TODO) -->.
+The practice quickly gained popularity by the late Nations Era<!-- [Nations Era](TODO) --> from the evangelization efforts of Olag<!-- [Olag](TODO) --> and the Seven Protectorates of the Sea<!-- [Seven Protectorates of the Sea](TODO) -->.
 Despite this, there are still a few followers of the old religion of the region, Tsalemism<!-- [Tsalemism](TODO) -->.

@@ -41,7 +41,7 @@ While working, a laborer might wear red with hints of magenta to allow their bod
 
 ### Origins and History
 <!-- NOTE. Those who sided with Et. Et-born families still retain horns (by feeding the mother Et's sap), which were first gifted by Et to their loyal soldiers. -->
-After the Schism, the surviving gats separated into three groups: noves, bughna, and treb. Those who remained became known as noves gats, and their ethnicity is the most common in the modern world. They built the holy city of Naptane<!-- TODO. Link. --> inside the stump of Et, from which sprung the Seven Principates of the Sea<!-- TODO. Link. -->. Noves are often considered simile to civilization.
+After the Schism, the surviving gats separated into three groups: noves, bughna, and treb. Those who remained became known as noves gats, and their ethnicity is the most common in the modern world. They built the holy city of Naptane<!-- TODO. Link. --> inside the stump of Et, from which sprung the Seven Protectorates of the Sea<!-- TODO. Link. -->. Noves are often considered simile to civilization.
 
 Bughna gats endured the 40-Year Famine<!-- TODO. Link. --> by adopting a nomadic lifestyle, one which defines them still. These humes became known as great pastors and merchants. They strengthened the bond between the principates, in part allowing the establishment of the large gat civilization. Even today they are often associated to good luck.
 

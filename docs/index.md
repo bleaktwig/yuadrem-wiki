@@ -66,7 +66,6 @@ The peoples of Yuadrem are separated into four distinct kins. Each kin was creat
 Different events in prehistory and history have caused migrations and diasporas, but none can be compared to The Penance. In the face of the vast loss of landmass to the nix tides, peoples from all nations and ethnicities coalesced in the Fesh Peninsula.
 
 <!-- TODO. Maybe talk a bit about each migration. -->
-***Religion.*** The main religion practiced in the known world is [Tanethism](religion/index.md).
 
 ### Languages
 <!-- TODO: Eventually, I need to add links to all nations from this page. -->
@@ -120,59 +119,10 @@ Uldian languages were developed independently by the oths of Ignelli<!-- TODO. L
 * **Krelho** was a variation of Odhualen born as the language spread across the [Wildlands](geography/wildlands.md). It has almost disappeared after The Penance, with more people interested in learning Odhualen rather than its obscure cousin language.
 
 --------------------------------------------------------------------------------
-## History
-**TODO.**
 
-<!-- **TODO. Mention Tol and Taneth.** -->
+***Religion.*** The main religion practiced in the known world is [Tanethism](religion/index.md).
 
-<!-- PREHISTORY --------------------------------------------------------------->
-### Prehistory
-* **Nascency of Disparity.** The primordial [Pheter](religion/primordials/pheter.md), god of disparity, is born from [Nix](religion/primordials/nix.md). With Pheter comes the separation of land and sea, and thus Yuadrem is created.
-* **Nascency of Color.** From Pheter, the two damic gods) are born: [Zash](religion/damic_gods/zash.md), the sun, and [Fagal](religion/damic_gods/fagal.md), the darksun. Zash in turn is divided into his six aspects, the mevic gods, which conform Color.
-* **First Communion.** To populate Yuadrem, each mevic god plants a seed. These seeds grow into the oric gods, the first life to stand on Yuadrem.
-* **War of Spring.** The largest of the oric gods, Et and Om, go into war. While no damic or mevic god interfered, Pheter themself was against the conflict. Humes are born from Et as soldiers in this war, while Om creates the imates to defend themself.
-<!-- TODO. Add the Ird Diaspora + the first siege of Ctereth. -->
-* **The Schism.** After a long and bloody conflict, Et wins the war against Om. Under the orders of their godtree, the gats burn down the godtree of the imates. As the fire spreads, Pheter creates the fundamental signature of lightning<!-- TODO. Link. --> on the surface of the moon Kegal<!-- TODO. Link. -->, ans uses it to strike down Et. The ash from the burned godtrees engulfs Yuadrem, sparking the Age of Dark with the 40-Year Famine.
-
-<!-- TODO. Maybe change the dates using a random number generator (within reason). -->
-<!-- AGE OF DARK -------------------------------------------------------------->
-### Age of Dark
-*0 to 195 A.S.*
-
-**TODO.**
-
-<!-- NOTE. Ededeian genocide ends with the death of king D'khan at the hands of Genadi. -->
-<!-- TODO. Add the Gat Diaspora (Bughna and Treb). -->
-<!--
-* **TODO. 32 A.S. The Ctereth sieges & the Armies of Healing.**
-* **TODO. 96 A.S. Founding of Naptane.**
-* **TODO. 141 A.S. Discovery of the barkskins.**
-* **TODO. 195 A.S. Establishment of the 7 principates of the sea and beginning of the reign of the god-suzerain Olag.**
--->
-
-<!-- GOLDEN AGE --------------------------------------------------------------->
-### Golden Age
-*195 to 621 A.S.*
-
-**TODO.**
-
-<!-- * **TODO. Nascency of Oths.** -->
-<!-- * **TODO. Establishment of Tanethism as the main religion.** -->
-
-<!-- AGE OF FOG --------------------------------------------------------------->
-### Age of Fog
-*621 A.S. to present day.*
-
-**TODO.**
-
-<!-- * **TODO. 734 A.S. Landing of Drejek.** -->
-
-<!-- NOTE. Present day: 802 A.S. -->
-
---------------------------------------------------------------------------------
-<!-- COSMOLOGY ---------------------------------------------------------------->
-## Cosmology
-**TODO.**
+***History.*** [Lookie here](history.md).
 
 --------------------------------------------------------------------------------
 For documentation on editing this wiki, check out:

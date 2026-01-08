@@ -22,7 +22,7 @@ Many a hume has a favorite among the gods, one whose ideals and teachings they m
 * [**Zash**](damic_gods/zash.md), the goddess of Light and Luck.
 * [**Fagal**](damic_gods/fagal.md), the god of Dark and the Unknown.
 
-**Mevic Gods**, or _gods of bone_, are the six aspects of Zash. They are the manifestation of the sun goddess and were born in the _Nascency of Color_<!-- NOTE. Link. -->. Each god inhabits their own circular sector in the Ring of Color<!-- NOTE. Link. --> that surrounds the world.
+**Mevic Gods**, or _gods of bone_, are the six aspects of Zash. They are the manifestation of the sun goddess and were born in the [_Nascency of Color_](../history.md#prehistory). Each god inhabits their own circular sector in the Ring of Color<!-- NOTE. Link. --> that surrounds the world.
 
 * [**Matevos**](mevic_gods/matevos.md), the goddess of Green, lightness, and glory.
 * [**Febrid**](mevic_gods/febrid.md), or Nuagal, is the goddess of Blue, cold, and intellect.
@@ -31,7 +31,7 @@ Many a hume has a favorite among the gods, one whose ideals and teachings they m
 * [**Bagrat**](mevic_gods/bagrat.md) is the god of Orange, heat, and agriculture.
 * [**Pagram**](mevic_gods/pagram.md) is the god of Yellow, order, and civilization.
 
-**Oric Gods**, _godtrees_, or _gods of flesh_, were the first trees in the world. Each was born of a seed during the _First Communion_<!-- NOTE. Link. -->, planted by their corresponding mevic god. Most of them have died, either in the Schism<!-- NOTE. LINK. --> or in the Penance<!-- NOTE. Link. -->.
+**Oric Gods**, _godtrees_, or _gods of flesh_, were the first trees in the world. Each was born of a seed during the [_First Communion_](../history.md#prehistory), planted by their corresponding mevic god. Most of them have died, either in the Schism<!-- NOTE. LINK. --> or in the Penance<!-- NOTE. Link. -->.
 
 * [**Tek**](godtrees/tek.md), an immense banyan and parent to the [barkskin](../kins/barkskin.md), is the tree of Matevos.
 * [**Et**](godtrees/et.md), a blue birch and parent to [humes](../kins/hume.md), was the tree of Febrid.
@@ -43,7 +43,7 @@ Many a hume has a favorite among the gods, one whose ideals and teachings they m
 
 **Illuminants**, or _tovasic gods_ ("second gods" in old avshenese), are mortals selected by the gods to conduct pheter. They attain godhood through a ritual of ascension and generally move on to become the protagonists of legends. They become deities after death, watching over the world along with the mevic gods from their kingdom in the Ring of Color<!-- NOTE. Link. -->.
 
-* **The God-Suzerain Olag**<!-- NOTE. Link. -->, perhaps the most important of the tovasic gods, was the suzerain of the Seven Kingdoms of the Sea<!-- NOTE. Link. -->. They died in the Night of the Four Colors<!-- NOTE. Link. -->, and now rule in death alongside Febrid.
+* **The God-Suzerain Olag**<!-- NOTE. Link. -->, perhaps the most important of the tovasic gods, was the suzerain of the Seven Protectorates of the Sea<!-- NOTE. Link. -->. They died in the Night of the Four Colors<!-- NOTE. Link. -->, and now rule in death alongside Febrid.
 * **The Immortal Queen Elña** was the ruler of the Kingdom of Iron<!-- NOTE. Link. -->, in the far south of the world. After death, she is now the goddess of tradition and the forest and is sometimes found in the form of a white deer, watching over the descendants of the irds under her care.
 * **Nikoleta, the Pilgrim** was... **TODO**.
 * **Anush** **TODO**. <!-- TODO. Currently alive, in fesh. -->
@@ -61,6 +61,11 @@ Many a hume has a favorite among the gods, one whose ideals and teachings they m
 * **Gathoz** is the god of secrecy and murder. While her name in life is unknown, she is the assassin who battled and killed God-Suzerain Olag through Tetrachromacy<!-- NOTE. Link. -->. Now, she is often attributed to murders where the perpetrator is never found. She is depicted as a kinless being, her face and body shifting under rags.
 * **Havetish** is the god of both leadership and tyranny. As a mortal they were named Qina, the [barskin](../kins/barkskin.md) warlord who led their kin against the [imates](../kins/imate.md) in the Babanian Wars<!-- NOTE. Link. -->. As a god, they are depicted with an uncharacteristic golden armor and a spear carved from purpleheart wood.
 * **Mziva** is the god of self-sacrifice. As a mortal, she was an [imate](../kins/imate.md) who led her colony to salvation during the Ededeian Genocide<!-- NOTE. Link. -->, at the cost of her own life. She is now depicted with golden hair and clothes made of flowers.
+
+<!--
+TODO list.
+* Add the apomantic signature of each god to their wiki pages, since they're already done (just gotta export some sweet svg/png files.).
+-->
 
 <!--------------------
 Old stuff, unused:
