@@ -24,7 +24,7 @@ A humid subtropical climate permeates the cape, and it is known for its harsh, c
 Also well-known are the tortles inhabiting the small island of Mbeat, for it is the only place where they have met safety after their arrival in Yuadrem.
 
 In both regions lie the oldest nations of Yuadrem, the Seven Principates of the Sea.
-Historically renowned raiders and pillagers, they are now famous for their passivity --- focusing on enterprise and artisanship.
+Historically renowned raiders and pillagers, they are now famous for their passivity—focusing on enterprise and artisanship.
 What they offer is their expert craftgatship, and among them are the only bonecarvers capable of manufacturing qualars. -->
 
 #### The Dead Sea

@@ -1,26 +1,29 @@
 # Religion
 Tanethism is the name given to the main religion in the Fesh Peninsula.
 
-Old Tanethism was characterized by its myriad of gods---one for each apomantic signature<!-- TODO. Link. -->. This religion was widely practiced in the Seven Principates<!-- TODO. Link. --> and their various colonies up to the late Age of Gold<!-- TODO. Link. -->. However, this changed in the year 520 A.S., when the God-Suzerain Olag<!-- TODO. Link. --> established "new" Tanethism as the official religion of the principates.
+Old Tanethism was characterized by its myriad of gods—one for each apomantic signature<!-- TODO. Link. -->. This religion was widely practiced in the Seven Principates<!-- TODO. Link. --> and their various colonies up to the late Age of Gold<!-- TODO. Link. -->. However, this changed in the year 520 A.S., when the God-Suzerain Olag<!-- TODO. Link. --> established "new" Tanethism as the official religion of the principates.
 
-The religion is based on a book published Taneth in 311 A.S., in which the scholar and traveler wrote an exhaustive compilation of the more than a thousand deities praised in the region. In this taxonomy, they classified the similitudes and difference between most of these deities, and proposed a reduced pantheon with a clear, tiered hierarchy between all of them.
+The religion is based on a book published by Taneth in 311 A.S., in which the scholar and traveler wrote an exhaustive compilation of the more than a thousand deities praised in the region. In this taxonomy, they classified the similitudes and differences between most of these deities and proposed a reduced pantheon with a clear, tiered hierarchy between all of them.
 
 While now considered a sacred scholar, Taneth's work was barely known during their life. They died shortly after the publication, and not many details of their life are known.
 
-Many a hume has a favorite among the gods, one whose ideals and teaching they make their own. A few even dedicate entirely to a single deity, serving as a priest, acolyte, or champion of that god's manifestation. Some famous examples among these devouts are the nimrods, an organization of zealous hunters of [Pagram](mevic_gods/pagram.md) who would pursue all who disturb the perceived balance. Another example are the followers of Havetish, who to this date seek to distribute wealth and food to the impoverished habitants in the inland regions.
+Many a hume has a favorite among the gods, one whose ideals and teachings they make their own. A few even dedicate themselves entirely to a single deity, serving as a priest, acolyte, or champion of that god's manifestation. Some famous examples among these devotees are the pagramites, an organization of zealous hunters of [Pagram](mevic_gods/pagram.md) who would pursue all who disturb the perceived balance. Another example is the followers of Havetish, who to this date seek to distribute wealth and food to the impoverished inhabitants in the inland regions.
 
 <!--Other religions do exist, but receive little attention in the modern world. Once widely practiced, the three most notorious ones are [Tsalemism](religions/tsalemism.md), [Igneism](religions/igneism.md), and [Cosmism](religions/cosmism.md).-->
 
 ## The Tanethist Pantheon
-**The Two Primordial** are the forces that created everything that exists, and are uppermost in the pantheon.
+**The Two Primordial** are the forces that created everything that exists and are uppermost in the pantheon.
+
 * [**Nix**](primordials/nix.md), the god of Unity and the Cosmos.
 * [**Pheter**](primordials/pheter.md), the god of Disparity and Creation.
 
-**Damic Gods**, or _first gods_, are the gods of light and dark, and the firstborn of Pheter.
+**Damic Gods**, or _first gods_, are the gods of light and dark and the firstborn of Pheter.
+
 * [**Zash**](damic_gods/zash.md), the goddess of Light and Luck.
 * [**Fagal**](damic_gods/fagal.md), the god of Dark and the Unknown.
 
-**Mevic Gods**, or _gods of bone_, are the six aspects of Zash. They are the manifestation of the sun goddess, and were born in the _Nascenscy of Color_<!-- TODO. Link. -->. Each god inhabits their own circular sector in the Ring of Color<!-- TODO. Link. --> the surrounds the world.
+**Mevic Gods**, or _gods of bone_, are the six aspects of Zash. They are the manifestation of the sun goddess and were born in the _Nascency of Color_<!-- TODO. Link. -->. Each god inhabits their own circular sector in the Ring of Color<!-- TODO. Link. --> that surrounds the world.
+
 * [**Matevos**](mevic_gods/matevos.md), the goddess of Green, lightness, and glory.
 * [**Febrid**](mevic_gods/febrid.md), or Nuagal, is the goddess of Blue, cold, and intellect.
 * [**Fusine**](mevic_gods/fusine.md), or Kegal, is the goddess of Purple, chaos, and the stars.
@@ -28,18 +31,20 @@ Many a hume has a favorite among the gods, one whose ideals and teaching they ma
 * [**Bagrat**](mevic_gods/bagrat.md) is the god of Orange, heat, and agriculture.
 * [**Pagram**](mevic_gods/pagram.md) is the god of Yellow, order, and civilization.
 
-**Oric Gods**, _godtrees_, or _gods of flesh_, were the first trees in the world. Each was born of a seed during the _First Communion_<!-- TODO. Link. -->, planted by their corresponding mevic god. Most of them have died, either in The Schism<!-- TODO. LINK. --> or in The Penance<!-- TODO. Link. -->.
-* [**Tek**](godtrees/tek.md), an inmense banyan and parent to the [barkskin](../kins/barkskin.md), is the tree of Matevos.
+**Oric Gods**, _godtrees_, or _gods of flesh_, were the first trees in the world. Each was born of a seed during the _First Communion_<!-- TODO. Link. -->, planted by their corresponding mevic god. Most of them have died, either in the Schism<!-- TODO. LINK. --> or in the Penance<!-- TODO. Link. -->.
+
+* [**Tek**](godtrees/tek.md), an immense banyan and parent to the [barkskin](../kins/barkskin.md), is the tree of Matevos.
 * [**Et**](godtrees/et.md), a blue birch and parent to [humes](../kins/hume.md), was the tree of Febrid.
-* [**Tol**](godtrees/tol.md) was another birch that sprouted from the stump of Et, and is the parent of [oths](../kins/oth.md).
+* [**Tol**](godtrees/tol.md) was another birch that sprouted from the stump of Et and is the parent of [oths](../kins/oth.md).
 * [**Uld**](godtrees/uld.md), a kapok of striking height, was the tree of Fusine.
 * [**Kan**](godtrees/kan.md), a plant unique in Yuadrem, was the tree of Vahan.
 * [**Om**](godtrees/om.md), a vigorous juniper and parent of the [imates](../kins/imate.md), is the tree of Bagrat.
 * [**Ur**](godtrees/ur.md), a yellow fir, was the tree of Pagram.
 
-**Illuminants**, or _tovasic gods_ ("second god" in old avshenese), are mortals selected by the gods to conduct pheter. They attain godhood through a ritual of ascension, and generally move on to become the protagonists of legends. They become deities after death, watching over the world along the mevic gods from their kingdom in the Ring of Color<!-- TODO. Link. -->.
+**Illuminants**, or _tovasic gods_ ("second gods" in old avshenese), are mortals selected by the gods to conduct pheter. They attain godhood through a ritual of ascension and generally move on to become the protagonists of legends. They become deities after death, watching over the world along with the mevic gods from their kingdom in the Ring of Color<!-- TODO. Link. -->.
+
 * **The God-Suzerain Olag**<!-- TODO. Link. -->, perhaps the most important of the tovasic gods, was the suzerain of the Seven Kingdoms of the Sea<!-- TODO. Link. -->. They died in the Night of the Four Colors<!-- TODO. Link. -->, and now rule in death alongside Febrid.
-* **The Immortal Queen Elña** was the ruler of the Kingdom of Iron<!-- TODO. Link. -->, in the far south of the world. After death, she is now the goddess of tradition and the forest, and is sometimes found in the form of a white deer, watching over the descendants of the irds under her care.
+* **The Immortal Queen Elña** was the ruler of the Kingdom of Iron<!-- TODO. Link. -->, in the far south of the world. After death, she is now the goddess of tradition and the forest and is sometimes found in the form of a white deer, watching over the descendants of the irds under her care.
 * **Nikoleta, the Pilgrim** was... **TODO**.
 * **Anush** **TODO**. <!-- TODO. Currently alive, in fesh. -->
 * **Do Zazuzu** **TODO**. <!-- TODO. Currently alive, in fesh. -->
@@ -47,15 +52,15 @@ Many a hume has a favorite among the gods, one whose ideals and teaching they ma
 * **Jirek** **TODO**. <!-- TODO. Currently alive, in fesh. -->
 * **Vakris** **TODO**. <!-- TODO. Currently alive, in fesh. -->
 * **Zuleija** **TODO**.
-* **Vugar** is the god of family and fertility. As a mortal, he was a prince of the kingdom of Vamerit, and was renowned for establishing laws pertaining family and hereditary rights to the Seven Principates<!-- TODO. Link. -->. He is now depicted with a silver toga of simple style.
-* **Genadi** is the goddess of bravery and love. As a mortal, she was a [imate](../kins/imate.md) hero whose acts led to the death of king D'khan, ending the Ededeian Genocide. She is now depicted with toad-like features, carrying her characteristic swordflute.
+* **Vugar** is the god of family and fertility. As a mortal, he was a prince of the kingdom of Vamerit and was renowned for establishing laws pertaining to family and hereditary rights to the Seven Principates<!-- TODO. Link. -->. He is now depicted with a silver toga of simple style.
+* **Genadi** is the goddess of bravery and love. As a mortal, she was an [imate](../kins/imate.md) hero whose acts led to the death of King D'khan, ending the Ededeian Genocide. She is now depicted with toad-like features, carrying her characteristic swordflute.
 * **Sakris** is the god of fun and wine. As a mortal, he was the most devoted slave to the prince-merchant Hak of Ushpavam<!-- TODO. Link. -->. Even as a god, he is often depicted dutifully attending to guests at a party.
-* **Hanush** is the god of teaching and books. As a mortal, they were a [barkskin](../kins/barkskin.md) who mediated the peace between Gannag and the Seven Principates, and proceeded then to create the Gannagian apomantic system<!-- TODO. Link. -->. As a god, they are depicted in a thin dress made of paper scrolls with green signatures.
+* **Hanush** is the god of teaching and books. As a mortal, they were a [barkskin](../kins/barkskin.md) who mediated the peace between Gannag and the Seven Principates and proceeded then to create the Gannagian apomantic system<!-- TODO. Link. -->. As a god, they are depicted in a thin dress made of paper scrolls with green signatures.
 * **Tamaz** is the goddess of wealth and silver. As a mortal, she was an [ird](../kins/hume.md) adventurer, known for financing the first colonial ships of Krudzal. She is now depicted in a shiny gray dress, holding an iron hammer and a woodworking saw.
-* **Nazim** is the goddess of justice and the sky. As a mortal, she was an [oth](../kins/oth.md) scholar who provided the basis for modern math and astrology. Even as a god she continues to study the stars, and is depicted with an abacus and a book.
+* **Nazim** is the goddess of justice and the sky. As a mortal, she was an [oth](../kins/oth.md) scholar who provided the basis for modern math and astrology. Even as a god she continues to study the stars and is depicted with an abacus and a book.
 * **Gathoz** is the god of secrecy and murder. While her name in life is unknown, she is the assassin who battled and killed God-Suzerain Olag through Tetrachromacy<!-- TODO. Link. -->. Now, she is often attributed to murders where the perpetrator is never found. She is depicted as a kinless being, her face and body shifting under rags.
 * **Havetish** is the god of both leadership and tyranny. As a mortal they were named Qina, the [barskin](../kins/barkskin.md) warlord who led their kin against the [imates](../kins/imate.md) in the Babanian Wars<!-- TODO. Link. -->. As a god, they are depicted with an uncharacteristic golden armor and a spear carved from purpleheart wood.
-* **Mziva** is the god of self sacrifice. As a mortal, she was a [imate](../kins/imate.md) who led her colony to salvation during the Ededeian Genocide<!-- TODO. Link. -->, at the cost of her own life. She is now depicted with golden hair and clothes made of flowers.
+* **Mziva** is the god of self-sacrifice. As a mortal, she was an [imate](../kins/imate.md) who led her colony to salvation during the Ededeian Genocide<!-- TODO. Link. -->, at the cost of her own life. She is now depicted with golden hair and clothes made of flowers.
 
 <!--TODO. UPDATE ALL LINKS TO RELIGION. BE THOROUGH. -- religion, ../religion, ../../religion, etc... -->
 
@@ -87,7 +92,7 @@ Many temples and ritual places exist in the mushroom cities of the cave-dwelling
 The oth scholars hailing from Ignelli were the first to conceptualize the tides.
 They learned that the tides are intrinsically woven into sentience.
 As tightly tied threads between sentient creatures, a change in the tidal alignment in one has profound effects in that of those nearby.
-% Each tide was then assosiated with a symbol and an entity, to give a more concrete face to it and facilitate its worship.
+% Each tide was then associated with a symbol and an entity, to give a more concrete face to it and facilitate its worship.
 
 The blue tide is represented by a blue unfinished book, representing the eternal pursuit of knowledge.
 The gold tide is symbolized as a seed or an egg, telling of the coming of future life with proper nourishment.
