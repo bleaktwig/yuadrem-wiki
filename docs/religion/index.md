@@ -25,9 +25,8 @@ The two primordial are the primal forces that created everything that exists. Th
 ### Damic Gods
 The damic gods, or _first gods_ in [Avshenese](../languages/index.md#avshenesian-family), are the firstborn of Pheter. They were the first disparity in the cosmos, light and dark, and inhabit the skies in the shape of the sun and the third moon, the darksun.
 
-* [**Zash**](damic_gods/zash.md), the goddess of Light and Luck.
-* [**Fagal**](damic_gods/fagal.md), the god of Dark and the Unknown.
-<!-- TODO. Go through the pages of Zash and Fagal... -->
+* [**Zash**](damic_gods/zash.md), the goddess of White, light, luck, beer, travel, immigrants, and gifts.
+* [**Fagal**](damic_gods/fagal.md), the god of Black, darkness, mystery, beauty, oblivion, and property.
 
 ### Mevic Gods
 The **Mevic Gods**, or _gods of bone_, are the six aspects of Zash, and were created by the sun goddess and by Pheter in the [_Nascency of Color_](../history.md#prehistory). Most of the gods inhabit their circular sectors in the Ring of Color<!-- NOTE. Link? -->, with the exception of Febrid and Fusine, who travel the cosmos alongside Zash and Fagal.
@@ -39,6 +38,7 @@ The **Mevic Gods**, or _gods of bone_, are the six aspects of Zash, and were cre
 * [**Bagrat**](mevic_gods/bagrat.md) is the god of Orange, warmth, agriculture, benevolence, and summer.
 * [**Pagram**](mevic_gods/pagram.md) is the god of Yellow, order, civilization, and gold.
 
+<!--v- TODO. CONTINUE EDITING FROM HERE ONWARD. -v--->
 **Oric Gods**, _godtrees_, or _gods of flesh_, were the first trees in the world. Each was born of a seed during the [_First Communion_](../history.md#prehistory), planted by their corresponding mevic god. Most of them have died, either in the [Schism](../history.md#war-of-spring) or in the Penance<!-- NOTE. Link. -->.
 
 * [**Tek**](godtrees/tek.md), an immense banyan and parent to the [barkskin](../kins/barkskin.md), is the tree of Matevos.
@@ -49,6 +49,7 @@ The **Mevic Gods**, or _gods of bone_, are the six aspects of Zash, and were cre
 * [**Om**](godtrees/om.md), a vigorous juniper and parent of the [imates](../kins/imate.md), is the tree of Bagrat.
 * [**Ur**](godtrees/ur.md), a yellow fir, was the tree of Pagram.
 
+<!--TODO. Turn some dead illuminants into planets! That way i can use all of the remaining etian signatures + that'd be cool + there's a pair of twin planets, reducing the illuminants i have to write by one!-->
 **Illuminants**, or _tovasic gods_ ("second gods" in Avshenese), are mortals selected by the gods to conduct pheter. They attain godhood through a ritual of ascension and generally move on to become the protagonists of legends. They become deities after death, watching over the world along with the mevic gods from their kingdom in the Ring of Color<!-- NOTE. Link. -->.
 
 * **The God-Suzerain Olag**<!-- NOTE. Link. -->, perhaps the most important of the tovasic gods, was the suzerain of the Seven Protectorates of the Sea<!-- NOTE. Link. -->. They died in the Night of the Four Colors<!-- NOTE. Link. -->, and now rule in death alongside Febrid.

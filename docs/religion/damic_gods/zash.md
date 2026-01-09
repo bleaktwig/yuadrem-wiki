@@ -1,4 +1,10 @@
 # Zash
-Zash is the goddess of Light and Luck. Her manifestation is Color, and she is often associated with hospitality, beer, travel, immigrants, and gifts.
+Zash is the goddess of White, Light, Luck, Beer, Travel, Immigrants, and Gifts.
 
-She is the sun, creator of Color, and mother of all Mevic gods. Zash is often referred to as The Traveler, and is often portrayed as an indistinct figure cloaked in a light brown robe. Her representation is a great white egret, her white feathers reflecting the blinding light of the sun.
+Color is her incarnation, and she is often associated with acts of hospitality and of celebration. She is the sun, creator of Color, and mother to all Mevic gods. When her astral body is covered by clouds, the goddess takes the form of a great white egret, blinding those who see her with her shining white feathers.
+
+Zash sometimes visits households during the darkest nights, taking an indistinct [hume](../../kins/hume.md) figure in traveler clothes. Refusing extending hospitality to her is a grave mistake—often the last one—for she meets hostility in-kind.
+
+![Glyphs of Zash](img/zash.png)
+
+_Glyphs associated with Zash: the fundamental signature of light, and the etian glyph of the sun._
