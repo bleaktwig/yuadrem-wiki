@@ -1,5 +1,8 @@
 # Vahan
-Vahan is the god of Red, heaviness, and mountains. His manifestation is fire.
-Vahan is said to prefer people with self-sufficiency.
+Vahan is the god of Red, Heaviness, Mountains, and War.
 
-His representation is a scarlet ibis, scorching the earth wherever he steps. As a [hume](../../kins/hume.md), Vahan is often depicted as a red-haired, one-horned person in soldier armor, wielding a large hexagonal mace.
+Fire is his incarnation, and he is associated with the self-sufficiency of both people and communities. The mevic god appears often on Yuadrem as a scarlet ibis, scorching the earth wherever he steps, following the wake of wars and natural disasters. Vahan sometimes takes the form of a [hume](../../kins/hume.md), a red-haired soldier wearing a one-horned helm, wielding a large flanged mace with a firm grip.
+
+![Glyph of Vahan](img/vahan.png)
+
+_The glyph of Vahan, the fundamental signature of heaviness._

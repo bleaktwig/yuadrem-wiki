@@ -1,3 +1,8 @@
+<!-- TODO list.
+* Missing links.
+* Add the apomantic signature of each god to their wiki pages, since they're already done (just gotta export some sweet png files.).
+* Narration is kinda shit here, but i don't have infinite time.
+------------------------------------------------------------------------------>
 # History and Cosmology
 <!---------------------------------------------------------------------------->
 ## Prehistory
@@ -15,7 +20,8 @@ Back on Yuadrem, the godtrees realized they were free from the constrains that t
 
 But while most godtrees rejoiced, one harbored jealousy. [Et](religion/godtrees/et.md), the blue birch, disagreed with Om, wishing for a cold, still world. It devised a plan, and spawned the first sentient creature to enact it: the [hume](kins/hume.md).
 
-<!--NOTE. Include the ring of color?-->
+<!--NOTE. Include a picture of the cosmos?-->
+<!--NOTE. Include a picture of the ring of color?-->
 
 <!---------------------------------------------------------------------------->
 ## War of Spring
@@ -71,7 +77,7 @@ _195 to 621 A.S._
 -->
 
 <!---------------------------------------------------------------------------->
-## Age of Fog
+## Age of Tar
 _621 A.S. to present day._
 
 **TODO.**
@@ -79,10 +85,10 @@ _621 A.S. to present day._
 <!-- * **TODO. 734 A.S. Landing of Drejek.** -->
 <!-- NOTE. Present day: 802 A.S. -->
 
-<!-- TODO. Remember to mention somewhere here that because of their birth without disparity, humes (and other intelligent species) require to consume disparity to maintain thought (separation of things, etc. etc.). this is why the age of fog is advancing, even if it started with olag being an asshole. -->
+<!-- TODO. Remember to mention somewhere here that because of their birth without disparity, humes (and other intelligent species) require to consume disparity to maintain thought (separation of things, etc. etc.). this is why the Age of Tar is advancing, even if it started with olag being an asshole. -->
 
 <!--
-* **621.** The Penance, start of the Age of Fog.
+* **621.** The Penance, start of the Age of Tar.
 * **635.** Dissolution of empires.
 * **655.** Launching of Cabb-Goem Rlamesh.
 * **673.** Death of the Oric gods in Viphoger.

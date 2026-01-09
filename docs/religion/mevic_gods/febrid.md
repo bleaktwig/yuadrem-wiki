@@ -1,5 +1,5 @@
 # Febrid
-Febrid is the goddess of Blue, Cold, Intellect, and Time.
+Febrid is the goddess of Blue, Cold, Intellect, Time, and Winter.
 
 Wood is her incarnation, and she is related to the stability of both individuals and communities. The goddess doesn't show herself often on Yuadrem, but from time to time does so when places of knowledge, such as libraries and monasteries, are built. In these occasions, she takes the shape of a subtle azure jay, and can be recognized for the trail of dew in her path.
 

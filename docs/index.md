@@ -1,14 +1,12 @@
 **WIP.**
 
-# Yuadrem
-<!--
-TODO LIST:
+<!-- TODO list.
+* Missing links.
 * Finish this first index page. It's the first thing player see in the wiki!
-* Check links **regularly**. They break often.
-* ADD COATIS.
-* Explain somewhere that anything before the penance is called "pre-penance".
--->
-
+* Move images to subdirectories where they make more sense.
+* Write a page on apomantics (in a new "sorcery" folder).
+------------------------------------------------------------------------------>
+# Yuadrem
 Yuadrem was first settled by the firstborn oric gods, [Et](religion/godtrees/et.md) and [Om](religion/godtrees/om.md). Et was a large and thin birch, pliable and adaptable. Om was a short and stout juniper, vigorous and prodigious. These two gods were ever locked in combat, yet none could take the upper hand. This conflict became known as the War of Spring<!-- TODO. Link. -->.
 
 To aid in the eternal battle, Et created the [humes](kins/hume.md), a kin as malleable as the god. Et bestowed upon humes Chromology<!-- TODO. Link. -->, teaching them to wage war using Color. Om in turn created [imates](kins/imate.md), a smaller kin able to traverse the forests of Et's children with ease. The imates were gifted Apomantics<!-- TODO. Link. -->, and fought using Word.
@@ -23,7 +21,7 @@ The conflict ended with the burning of both Et and Om, an event known as the [Sc
 
 ![Map of Yuadrem](img/world_map_y604_v083.png)
 ***Pictured:***
-*Trade map of Yuadrem, drawn in 604 A.S. (After the [Schism](history.md#war-of-spring)) by Marim of Avshen under the commission of Olag, the God-Suzerain of Naptane. The region colored in green corresponds to the Seven Protectorates of the Sea. Other colors represent the tax and penalty applied to trade in those regions. This map is proof of the healthy state of maritime travel and trade during the golden age.*
+_Trade map of Yuadrem, drawn in 604 A.S. (After the [Schism](history.md#war-of-spring)) by Marim of Avshen under the commission of Olag, the God-Suzerain of Naptane. The region colored in green corresponds to the Seven Protectorates of the Sea. Other colors represent the tax and penalty applied to trade in those regions. This map is proof of the healthy state of maritime travel and trade during the golden age._
 
 Yuadrem is a supercontinent, the only such landmass in the world, Darhoc<!-- TODO. Link. -->. The topography is varied, split by four different mountain ranges. Due to its large extension from north to south, the climate and ecology vary widely, from the tundras of [Stinos](geography/northern_territories.md#stinos) to the rainforests of [Drejek](geography/westlands.md#krejek).
 
@@ -58,9 +56,9 @@ The peoples of Yuadrem are separated into four distinct kins. Each kin was creat
 
 <!-- TODO. Maybe talk a bit about each kin and their relevant migrations. -->
 
-![Migration Map of Yuadrem, Age of Fog](img/age_of_fog_migration_y801_v011_dpi72.png)
+![Migration Map of Yuadrem, Age of Tar](img/age_of_fog_migration_y801_v011_dpi72.png)
 ***Pictured:***
-*Age of Fog migration map of the Fesh Peninsula, drawn in 801 A.S. by the Fremite Monastery in Uvarme. It includes all mass migrations with their approximate dates.*
+*Age of Tar migration map of the Fesh Peninsula, drawn in 801 A.S. by the Fremite Monastery in Uvarme. It includes all mass migrations with their approximate dates.*
 
 Different events in prehistory and history have caused migrations and diasporas, but none can be compared to The Penance. In the face of the vast loss of landmass to the nix tides, peoples from all nations and ethnicities coalesced in the Fesh Peninsula.
 

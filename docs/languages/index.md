@@ -1,3 +1,8 @@
+<!-- TODO list.
+* Missing links.
+* Move Ane-kene here and mention it.
+* Write a page on apomantics (either here or in a new "sorcery" folder).
+------------------------------------------------------------------------------>
 # Languages
 There are currently 16 recognized languages spoken in the Fesh Peninsula<!-- TODO. Link. -->, most of which have many dialects. They are split into two distinct sections: _Omietian_ and _Uldian_ language trees.
 
@@ -14,7 +19,7 @@ _Omietian languages_ are those that were taught by [Et](../religion/godtrees/et.
 ### Avshenesian Family
 Over time, Jantherlin evolved into most of the languages spoken in Yuadrem, the largest branch of which is the _avshenesian family_. Originally spoken in the Seven Protectorates, it spread far into the continent, only for the different tongues to coalesce again into the Fesh Peninsula<!-- TODO. Link. -->. The avshenesian apomantic system<!-- TODO. Link. --> started from Avshenese, the mother language of the family, and is the most commonly used apomantic system thanks to its simplicity and similitude to Frisian.
 
-[**Frisian**](frisian.md) was spoken in the peninsula before the [Penance](../history.md#age-of-fog)>), and remains the most common vocabulary in the region. It is currently spoken in the sumis of Fremit, Ushpavam, Vamerit, and Xarxage, as well as in the Holy Nation of Ushpavam and the Nation of Meritan. A dialect of old Avshenesian, very similar to Frisian, is also spoken by the chiefdoms of Raraspan and Dzarog, as well as by the Ketepi people.
+[**Frisian**](frisian.md) was spoken in the peninsula before the [Penance](../history.md#age-of-fog), and remains the most common vocabulary in the region. It is currently spoken in the sumis of Fremit, Ushpavam, Vamerit, and Xarxage, as well as in the Holy Nation of Ushpavam and the Nation of Meritan. A dialect of old Avshenesian, very similar to Frisian, is also spoken by the chiefdoms of Raraspan and Dzarog, as well as by the Ketepi people.
 <!-- TODO. Lots of links are needed here. -->
 
 **Shanise** was the main language spoken in the [Northern Territories](../geography/northern_territories.md), and it branched out from Avshenese in the thulkrakan side of the [Ird Diaspora](../history.md#war-of-spring). As of today, it is only spoken in the Nation of Gronselar<!-- TODO. Link. -->. Shanise is the basis for the gronselarian apomantic system<!-- TODO. Link. -->.
@@ -41,7 +46,7 @@ The **Silent Tongue** was the second language developed by oths. It doesn't have
 
 The **True Tongue** was the third and final language in the shamabic family. It's heavily based on Fruenese, but it adds to it a large set of unique and very complicated grammatical rules. These make it exceedingly hard to learn, but give it a unique advantage: it is impossible to lie in True Tongue, hence its name. True Tongue is most commonly spoken by scholars and monks.
 
-<!-- NOTE. A historic moment when someone managed to steal -- in true tongue -- during a trial would be so metal. -->
+<!-- NOTE. A historic moment when someone managed to lie -- in true tongue -- during a trial would be so metal. -->
 
 <!---------------------------------------------------------------------------->
 ## Omian Branch
@@ -64,8 +69,3 @@ Under the tutelage of the godtree [Uld](../religion/godtrees/uld.md), the oths o
 **Odhualen** is a very unique tongue, sharing almost no characteristic with the other dialects of Yuadrem. It is the main language spoken in the island-nation of Mbeat<!-- TODO. Link. -->, and it has also recently gained popularity among scholars due to the conciseness of its writing system.
 
 **Krelho** was a variation of Odhualen as it spread across the [Wildlands](../geography/wildlands.md). It has almost disappeared after the Penance, and finding native speakers is almost impossible.
-
-<!-- TODO LIST.
-* Move Ane-kene here and mention it.
-* Write a page on apomantics (either here or in a new "sorcery" folder).
--->

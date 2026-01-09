@@ -1,4 +1,6 @@
 # Pheter
-Pheter is the god of Disparity and Creation. They were born in the [_Nascency of Disparity_](../../history.md#prehistory), and their arrival meant the creation of everything. Pheter is the progenitor of the Damic gods, and all creation can be attributed to them. Their representation is a pair of maguari storks, with an equal balance of the six colors moving across their bodies.
+Pheter is the god of Disparity, Creation, and War.
 
-Pheter is the source of magic that allows apomantics<!-- TODO. Link. --> to work. For this, their body manifests as a transparent, inodorous matter that permeates the entirety of Darhoc, simply named pheter.
+They were born from [Nix](nix.md) in the [_Nascency of Disparity_](../../history.md#prehistory), and their arrival led to the creation of everything. Pheter is the progenitor of the [damic](../index.md#damic-gods) and [mevic](../index.md#mevic-gods) gods, and all creation leads back to the divinity. They've revealed themself to mortals in many occasions, most commonly in the form of a pair of maguari storks, an equal balance of the six colors dancing through their bodies.
+
+In Darhoc<!-- TODO. Link. -->, they manifest as a transparent, inodorous matter that permeates the entirety of the planet, simply named pheter. Every time disparity is created, it is conducted through this substance, consuming some of it. This wanton consumption is what led to the [Age of Tar](../../history.md#age-of-tar), and what will end up allowing nix to consume all of life.

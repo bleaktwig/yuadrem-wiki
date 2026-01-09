@@ -1,6 +1,10 @@
-# Religion
-Tanethism is the name given to the main religion in the Fesh Peninsula.
-
+<!-- TODO list.
+* Missing links.
+* Rewrite intro paragraphs.
+* Finish up god list.
+* Add a page for one or two illuminants (esp. Olag).
+------------------------------------------------------------------------------>
+# Tanethism
 Old Tanethism was characterized by its myriad of gods—one for each apomantic signature<!-- NOTE. Link. -->. This religion was widely practiced in the Seven Protectorates<!-- NOTE. Link. --> and their various colonies up to the late Age of Gold<!-- NOTE. Link. -->. However, this changed in the year 520 A.S., when the God-Suzerain Olag<!-- NOTE. Link. --> established "new" Tanethism as the official religion of the protectorates.
 
 The religion is based on a book published by Taneth in 311 A.S., in which the scholar and traveler wrote an exhaustive compilation of the more than a thousand deities praised in the region. In this taxonomy, they classified the similitudes and differences between most of these deities and proposed a reduced pantheon with a clear, tiered hierarchy between all of them.
@@ -12,24 +16,28 @@ Many a hume has a favorite among the gods, one whose ideals and teachings they m
 <!--Other religions do exist, but receive little attention in the modern world. Once widely practiced, the three most notorious ones are [Tsalemism](religions/tsalemism.md), [Igneism](religions/igneism.md), and [Cosmism](religions/cosmism.md).-->
 
 ## The Tanethist Pantheon
-**The Two Primordial** are the forces that created everything that exists and are uppermost in the pantheon.
+### Two Primordial
+The two primordial are the primal forces that created everything that exists. They are uppermost in the pantheon, and every creature in the continent acts in their reverence by the mere act of being alive.
 
 * [**Nix**](primordials/nix.md), the god of Unity and the Cosmos.
-* [**Pheter**](primordials/pheter.md), the god of Disparity and Creation.
+* [**Pheter**](primordials/pheter.md), the god of Disparity, Creation, and War.
 
-**Damic Gods**, or _first gods_, are the gods of light and dark and the firstborn of Pheter.
+### Damic Gods
+The damic gods, or _first gods_ in [Avshenese](../languages/index.md#avshenesian-family), are the firstborn of Pheter. They were the first disparity in the cosmos, light and dark, and inhabit the skies in the shape of the sun and the third moon, the darksun.
 
 * [**Zash**](damic_gods/zash.md), the goddess of Light and Luck.
 * [**Fagal**](damic_gods/fagal.md), the god of Dark and the Unknown.
+<!-- TODO. Go through the pages of Zash and Fagal... -->
 
-**Mevic Gods**, or _gods of bone_, are the six aspects of Zash. They are the manifestation of the sun goddess and were born in the [_Nascency of Color_](../history.md#prehistory). Each god inhabits their own circular sector in the Ring of Color<!-- NOTE. Link. --> that surrounds the world.
+### Mevic Gods
+The **Mevic Gods**, or _gods of bone_, are the six aspects of Zash, and were created by the sun goddess and by Pheter in the [_Nascency of Color_](../history.md#prehistory). Most of the gods inhabit their circular sectors in the Ring of Color<!-- NOTE. Link? -->, with the exception of Febrid and Fusine, who travel the cosmos alongside Zash and Fagal.
 
-* [**Matevos**](mevic_gods/matevos.md), the goddess of Green, lightness, and glory.
-* [**Febrid**](mevic_gods/febrid.md), or Nuagal, is the goddess of Blue, cold, and intellect.
-* [**Fusine**](mevic_gods/fusine.md), or Kegal, is the goddess of Purple, chaos, the stars, and retribution.
-* [**Vahan**](mevic_gods/vahan.md) is the god of Red, heaviness, and mountains.
-* [**Bagrat**](mevic_gods/bagrat.md) is the god of Orange, heat, and agriculture.
-* [**Pagram**](mevic_gods/pagram.md) is the god of Yellow, order, and civilization.
+* [**Matevos**](mevic_gods/matevos.md), the goddess of Green, lightness, joy, and the domestication of animals.
+* [**Febrid**](mevic_gods/febrid.md), or Nuagal, is the goddess of Blue, cold, intellect, time, and winter.
+* [**Fusine**](mevic_gods/fusine.md), or Kegal, is the goddess of Purple, chaos, the stars, retribution, and thunder.
+* [**Vahan**](mevic_gods/vahan.md) is the god of Red, heaviness, mountains, and war.
+* [**Bagrat**](mevic_gods/bagrat.md) is the god of Orange, warmth, agriculture, benevolence, and summer.
+* [**Pagram**](mevic_gods/pagram.md) is the god of Yellow, order, civilization, and gold.
 
 **Oric Gods**, _godtrees_, or _gods of flesh_, were the first trees in the world. Each was born of a seed during the [_First Communion_](../history.md#prehistory), planted by their corresponding mevic god. Most of them have died, either in the [Schism](../history.md#war-of-spring) or in the Penance<!-- NOTE. Link. -->.
 
@@ -41,7 +49,7 @@ Many a hume has a favorite among the gods, one whose ideals and teachings they m
 * [**Om**](godtrees/om.md), a vigorous juniper and parent of the [imates](../kins/imate.md), is the tree of Bagrat.
 * [**Ur**](godtrees/ur.md), a yellow fir, was the tree of Pagram.
 
-**Illuminants**, or _tovasic gods_ ("second gods" in [Avshenese](../languages/index.md#avshenesian-family), are mortals selected by the gods to conduct pheter. They attain godhood through a ritual of ascension and generally move on to become the protagonists of legends. They become deities after death, watching over the world along with the mevic gods from their kingdom in the Ring of Color<!-- NOTE. Link. -->.
+**Illuminants**, or _tovasic gods_ ("second gods" in Avshenese), are mortals selected by the gods to conduct pheter. They attain godhood through a ritual of ascension and generally move on to become the protagonists of legends. They become deities after death, watching over the world along with the mevic gods from their kingdom in the Ring of Color<!-- NOTE. Link. -->.
 
 * **The God-Suzerain Olag**<!-- NOTE. Link. -->, perhaps the most important of the tovasic gods, was the suzerain of the Seven Protectorates of the Sea<!-- NOTE. Link. -->. They died in the Night of the Four Colors<!-- NOTE. Link. -->, and now rule in death alongside Febrid.
 * **The Immortal Queen Elña** was the ruler of the Kingdom of Iron<!-- NOTE. Link. -->, in the far south of the world. After death, she is now the goddess of tradition and the forest and is sometimes found in the form of a white deer, watching over the descendants of the irds under her care.
@@ -61,93 +69,3 @@ Many a hume has a favorite among the gods, one whose ideals and teachings they m
 * **Gathoz** is the god of secrecy and murder. While her name in life is unknown, she is the assassin who battled and killed God-Suzerain Olag through Tetrachromacy<!-- NOTE. Link. -->. Now, she is often attributed to murders where the perpetrator is never found. She is depicted as a kinless being, her face and body shifting under rags.
 * **Havetish** is the god of both leadership and tyranny. As a mortal they were named Qina, the [barskin](../kins/barkskin.md) warlord who led their kin against the [imates](../kins/imate.md) in the Babanian Wars<!-- NOTE. Link. -->. As a god, they are depicted with an uncharacteristic golden armor and a spear carved from purpleheart wood.
 * **Mziva** is the god of self-sacrifice. As a mortal, she was an [imate](../kins/imate.md) who led her people to salvation during the [Ededian Genocide](../history.md#war-of-spring), at the cost of her own life. She is now depicted with golden hair and clothes made of flowers.
-
-<!--
-TODO list.
-* Add the apomantic signature of each god to their wiki pages, since they're already done (just gotta export some sweet svg/png files.).
-* Narration is kinda shit here, but i don't have infinite time.
--->
-
-<!--------------------
-Old stuff, unused:
-
-\subsubsection{Cosmism}
-While the worship of the tall ones is forbidden, their own religious ideas persist in the form of Cosmism.
-Cosmism is related to the search of one's place in the larger scheme of things, dubbed the ``cosmos''.
-The Observer is the manifestation of the elusive concept of this cosmos, an omnipresent god observing all of Yuadrem at once.
-
-The ideas behind the doctrine were originally conceived by the ets in time immemorial, and cosmists are generally met with disdain and criticism.
-Due to this, many acolytes of the religion practice their rituals in the protection of the darkness, and it's very rare to see a church openly dedicated to cosmism.
-
-Cosmism explains some of the strange phenomena of Yuadrem as the whims and thoughts of The Observer.
-The tides are the reactions of The Observer to the actions of each being.
-Qualars are the medium by which people can commune with The Observer, granting them some of Their wisdom.
-
-% Cosmists fear the cosmos, and carry strange and surreptitious rituals to appease The Observer or gain its favor.
-
-However, what may be shunned in the surface can always find its place underground.
-There seems to be a deep connection between the search of oneself in the larger scheme of things and the ego death experienced in the tsanek melds.
-Many temples and ritual places exist in the mushroom cities of the cave-dwelling fungal kin, and cosmism is the official religion of the tsanek nation of Na'ane.
-% Tsaneks view the cosmos with curiosity, and seek to understanding through observation and hypotheses.
--------------------->
-
-<!--------------------
-\subsubsection{Igneism}
-The oth scholars hailing from Ignelli were the first to conceptualize the tides.
-They learned that the tides are intrinsically woven into sentience.
-As tightly tied threads between sentient creatures, a change in the tidal alignment in one has profound effects in that of those nearby.
-% Each tide was then associated with a symbol and an entity, to give a more concrete face to it and facilitate its worship.
-
-The blue tide is represented by a blue unfinished book, representing the eternal pursuit of knowledge.
-The gold tide is symbolized as a seed or an egg, telling of the coming of future life with proper nourishment.
-Indicated by a torch, the indigo tide tells of the truth revealed under light, and the punishment exerted upon those who hide it.
-A broken compass represents the red tide, representing the roaming of those who walk without roads.
-The silver tide's symbol is a bell, denoting the attention obtained by those who seek fame.
-
-Nearing the year 174 AS, the knowledge of the tides split the Ignelli school in two - The Igneists and the Rashiists.
-% The Zelseists, who simply sought to further understand this new discovery, and the Rashiists, who attempted to wield and manipulate them.
-The latter created a system of magic known as Rashid, with which they could potentiate the tidal alignment of others.
-Despite the warnings issued by their sister school, the Rashiists honed their craft to its maximal potency, and suffered severely from it.
-Their actions awoke a strange an antique and mysterious creature: The Sorrow.
-
-% The Sorrow is a being of indescribable shape who was summoned to Yuadrem by the Rashiists' folly.
-Breaking the mind of any who lay their eyes upon it, it swiftly took the lives of all who corrupted the balance of the tides, thus ending the Rashiist school's folly.
-Its presence caused the pale blemish, and with it came horrid creatures known now as the xuagra.
-Seeing the destruction caused by their sister school, the Igenists hid the knowledge of their former brethren, forbidding Rashid in any shape or form.
-% Finally, they changed their own name to Igneists in an attempt to bury the other school in anonymity.
-
-Igneism is the worship of the tides as a concept, and the active pursuit of keeping the five balanced.
-Igneists recognize that sentience cannot exist without the tides, and praise them as thanks for the capacity of independent thought.
--------------------->
-
-<!--------------------
-\subsubsection{Tsalemism}
-It is indubitable that astral concepts are commonly associated to divinities, and no religion reflects this as clearly as Tsalemism.
-Tsalemism is a belief that originally gained popularity in the coasts of Krudzal, quickly becoming the official religion of the nation and of many thulkraka irds.
-Due to its proximity to the north pole, Krudzal experiences long polar days and nights every year, and this irregular schedule naturally led to the personification of night and day.
-
-Day is associated to Jua\~nansiz, a rainbow-colored heron that brings daylight and colors to the entirety of the polar region.
-Jua\~nansiz eternally hunts Dzadsiz, a black raven who in turn seeks to tire the heron and finally feast on its exhausted body.
-The birds' duel is unending, and the wreckage of their battle is used to explain the chaotic fjords in the Northern Territories.
-
-The boreal lights seen near the pole are Jua\~nansiz's trail.
-The mountainous landscape of Stinos are the places where Dzadsiz fell, struck by the heron.
-% The endless mists were created by the raven in an attempt to hide from Jua\~nansiz.
-These and many other natural phenomena of the Northern Territories are explained by the birds and their eternal duel.
-
-The two birds are not worshiped equally, but their wrath is feared by all.
-A sailor may produce a small temple to appease Dzadsiz before sailing, and a cartographer may sing a praise to Jua\~nansiz before taking flight.
--------------------->
-
-<!--------------------
-The Scholar  & B  & Reason, Knowledge     & Igneism   & A many-armed blue oth reading multiple books. \\
-The Zealous  & R  & Passion, Zeal         & Igneism   & A red dratl ird standing over a sand dune. \\
-The Star     & S  & Admiration, Fame      & Igneism   & A naked tall one, sometimes replaced by a shadow or a uman. \\
-The Equalist & I  & Justice, Equity       & Igneism   & An indigo gat holding a spear and a coin. \\
-The Altruist & G  & Empathy, Compassion   & Igneism   & A furtive golden imate carrying a basket full of eggs. \\
-The Sorrow   & -  & Balance, Punishment   & Igneism   & An indistinct cloaked figure holding a bloody heart. \\
-Jua\~nansiz  & G  & Day, Sunlight         & Tsalemism & A rainbow-colored heron followed by northern lights. \\
-Dzadsiz      & R  & Night, Darkness       & Tsalemism & A black raven surrounded by never-dispersing mists. \\
-The Observer & -  & Cosmos, the Unknown   & Cosmism   & A titanic three-eyed slug ridden with tentacles and appendages.
-Changing God & -  & Secrecy, Manipulation & Rashiism  & A robed oth with a featureless bronze mask. \\
--------------------->
