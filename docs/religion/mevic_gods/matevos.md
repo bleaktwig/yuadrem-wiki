@@ -3,7 +3,6 @@ Matevos is the goddess of Green, Lightness, Joy, and the Domestication of animal
 
 Water is her incarnation, and she is often associated to the essential needs of a person. The goddess often manifests to mortals in the shape of a grey-breasted parakeet, screaming in accusation of those who would deny others their means to survive. She sometimes takes the form of a [hume](../../kins/hume.md), appearing as a two-horned gat with light clothes, wielding a green bident with nimble expertise.
 
-![Fundamental signature of lightness](img/fundamental_signature.lightness.png)
+![Fundamental signature of lightness](img/matevos.png)
 
-_Fundamental signature of lightness._<br>
-_Glyph of Matevos._
+_The glyph of Matevos, the fundamental signature of lightness._
