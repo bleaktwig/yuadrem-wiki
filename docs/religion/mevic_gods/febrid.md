@@ -1,4 +1,11 @@
 # Febrid
-Febrid, sometimes named Nuagal, is the goddess of Blue, cold, and intellect. Her manifestation is wood, and is related to the stability of communities.
+Febrid, also named Nuagal, is the goddess of Blue, Cold, Intellect, and TODO.
 
-Febrid's representation is an azure jay, leaving a trail of dew in its path. When depicted as a [hume](../../kins/hume.md), she is crowned by a pair of horns in the shape of a crescent moon, her body covered in apomantic tattoos.
+Wood is her incarnation, and she is related to the stability of both individuals and communities. The goddess doesn't show herself often on Yuadrem, but from time to time does so when places of knowledge, such as libraries and monasteries, are built. In these occasions, she takes the shape of a subtle azure jay, and can be recognized for the trail of dew in her path.
+
+Febrid also manifests in the night sky in as Nuagal, Darhoc<!-- TODO. Link. -->'s second moon. In this form, she is an astral body composed only of one deep ocean, which sometimes appears to scholars in dreams, usually before a great revelation.
+
+![Fundamental signature of cold](img/fundamental_signature.cold.png)
+
+_Fundamental signature of cold._<br>
+_Glyph of Febrid._
