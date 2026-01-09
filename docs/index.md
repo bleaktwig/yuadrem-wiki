@@ -7,7 +7,6 @@ TODO LIST:
 * Check links **regularly**. They break often.
 * ADD COATIS.
 * Explain somewhere that anything before the penance is called "pre-penance".
-* Try to include pictures from the original Yuadrem repository, probably with a web link.
 -->
 
 Yuadrem was first settled by the firstborn oric gods, [Et](religion/godtrees/et.md) and [Om](religion/godtrees/om.md). Et was a large and thin birch, pliable and adaptable. Om was a short and stout juniper, vigorous and prodigious. These two gods were ever locked in combat, yet none could take the upper hand. This conflict became known as the War of Spring<!-- TODO. Link. -->.
@@ -65,60 +64,11 @@ The peoples of Yuadrem are separated into four distinct kins. Each kin was creat
 
 Different events in prehistory and history have caused migrations and diasporas, but none can be compared to The Penance. In the face of the vast loss of landmass to the nix tides, peoples from all nations and ethnicities coalesced in the Fesh Peninsula.
 
-<!-- TODO. Maybe talk a bit about each migration. -->
-
-### Languages
-<!-- TODO: Eventually, I need to add links to all nations from this page. -->
-
-![Language Tree](img/language_tree_y798_v031_dpi72.png)
-*A comprehensive overlook of the languages spoken in the Fesh Peninsula, 798 A.S. The branches represent the branching of language families, while the leaf clusters are the languages currently spoken. The size of each leaf cluster is a rough approximation of the number of speakers by the year of production. Recorded by the Umean monastery.*
-
-There are 16 recognized languages spoken in the Fesh Peninsula. They are separated into two distinct trees: Omietian languages and Uldian languages.
-
-Omietian languages are those that were taught by Et, Om, and Tol to their respective kins: humes, imates, and oths. While etian and omian languages were taught by different godtrees, they have many common roots. Due to this, it is theorized that they came from one original language.
-
-#### Etian Family
-**Jantherlin** is the earliest known language that is still spoken. It was taught by Et to the first humes, and has been carefully preserved over the years by monks and scholars. In modern times, Jantherlin is only spoken in academic contexts, and its writing system is the base of the etian apomantic system<!-- TODO. Link. -->.
-
-#### Avshenesian Family
-Over time, jantherlin developed into most of the languages spoken in Yuadrem. The largest branch of these is the avshenesian family. Originally spoken in the Seven Principates, it spread wide into the continent, only for the languages to coalesce again into the Fesh Peninsula. The avshenesian apomantic system<!-- TODO. Link. --> started from the mother language of the family, which is usually used by the commons due to its simplicity.
-
-* **Frisian** was the language spoken in the peninsula before The Penance, and remains the most common language in the region. It is currently spoken in the sumis of Fremit, Ushpavam, Vamerit, and Xarxage, as well as in the Holy Nation of Ushpavam and the Nation of Meritan. A dialect of old Avshenesian, very similar to Frisian, is also spoken by the chiefdoms of Raraspan and Dzarog, as well as by the Ketepi people.
-* **Shanise** is the main language spoken in the Northern Territories, and it branched out from Avshenese in the thulkrakan side of the [Ird Diaspora](history.md#war-of-spring). As of 802 A.S., it is only spoken in the Nation of Gronselar. Shanise is the basis for the gronselarian apomantic system<!-- TODO. Link. -->
-* **Voskian** is a family of languages that developed north of the [Zoedrem desert](geography/westlands.md#zoedrem), with the dispersion of the Bughna people in the northern bughna migration. It is not currently spoken in any nation, but the family is very common in the six thousand tribes and the peoples of Saefel.
-* **Beash Speech** is an artificial language developed in Voskferm, a now dead nation. The language was developed to communicate with the highly intelligent Anthutes<!-- TODO. Link. -->. It is now used by merchants and travelers to ride these creatures across the sumis of the Fesh Peninsula.
-
-#### Harualian Family
-Some time before the avshenesian family sprouted from Jantherlin, the harualian family started taking shape after the hairusse, qulbaban, and dratlean sides of the [Ird Diaspora](history.md#war-of-spring). While there were many harualian languages existed in the old world, only two survived The Penance.
-
-* **Qualinese** was the main language spoken in the Jenkashian empire. While the empire was lost to nix, some of its people migrated to the Fesh Peninsula. The language is now spoken by the Puneui People and is the second most common language in the sumi of Fremit.
-* **Zsekian** was the language of the Hulnar empire. Very few native speakers remain in the modern world, but the language still sees some use in the chiefdoms of Raraspan and Dzarog, as well as by the Ketepi people.
-
-#### Shamabic Family
-After the godtree Tol spawned from the corpse of Et, it spawned the oth kin. Oths quickly integrated into the Seven Principates, but developed their own languages from Jantherlin: the Shamabic family.
-
-* **Fruenese** was the first language developed by the oths. It is a highly practical language with a simple syntax, reflecting the pragmatism of the kin. Fruenese is now the main language spoken in the chiefdom of Nalash and the island of Trevit.
-* The **Silent Tongue** was the second language developed by oths. It doesn't have a writing system, as it uses only visual-manual signs to convey meaning. Despite it being an artificial language, it's separate into many different dialects. It can be seen in the entire Fesh Peninsula, but it is seen the most in the sumi of Fremit. It is the basis for the dentralin apomantic system<!-- TODO. Link. -->
-* The **True Tongue** was the third and final language developed by oths. Also based on Fruenese, it adds to it a large set of unique and very complicated grammatical rules. These make the language exceedenly hard to learn, but give it a unique advantage: it is impossible to lie in True Tongue, hence its name. The language is most commonly spoken by political figures, diplomats, and scholars.
-
-#### Omian Family
-**Babazano** was the only language taught by Om to their descendants, the imates. It is a very repetitive language with little verb variety, making it somewhat easy to learn. It has only 10 consonants, making lip movements very easy to identify. As such, most speakers learn to read lips fairly easily. Currently, Babazano is the only language spoken in the Nation of Om.
-<!-- NOTE. 4 vowels: a, e, o, u. -->
-
-#### Naenkian Family
-Since they do most of their communication through spores, the godtree Tek did not teach any language to barkskins. They were, however, later taught language by imates, in an attempt to establish communication. Barkskins learned babazano, which quickly morphed into the naenkian language family due to their unique morphology.
-
-* **Knaenese** is the most common language in the naenkian family. Lacking teeth and lips, barkskins communicate only with their alveolar ridge and palate, producing rough-sounding words. Knaenese is currently spoken only in the Nation of Knagan.
-* **Gannagian**, sometimes referred to as Old Knaenese, sounds very similar to knaenese, but is generally simpler. Lacking the proximity to Tek, and thus its spores, the barkskins of Knagan had to further develop their language, leading to this differentiation. Gannagian is only spoken in Gannag. Gannagian is the basis for the gannagian apomantic system<!-- TODO. Link. -->.
-* **Leaf-runes** is a written language developed by imates and barkskins, used to communicate between the two. The language is written into the bark of trees, and the shape of each gliph depends on the shapes of this bark. This makes it very hard for other kins to understand the writing, but is fairly simple for the two due to their intimate relation with trees. Leaf-runes are mostly used to provide guidance or help in the jungle in a secretive manner.
-
-#### Uldian Family
-Uldian languages were developed independently by the oths of Ignelli<!-- TODO. Link. -->, under the tutelage of the godtree [Uld](religion/godtrees/uld.md). These languages saw some success in the region, but never spread too far from Ignelli.
-
-* **Odhualen** is a very unique language, sharing only broad characteristics with the other dialects of Yuadrem. The language has recently become somewhat popular among monks and scholars due to the fact that its writing system is exceptionally compact. It is the main language spoken in the island of Mbeat.
-* **Krelho** was a variation of Odhualen born as the language spread across the [Wildlands](geography/wildlands.md). It has almost disappeared after The Penance, with more people interested in learning Odhualen rather than its obscure cousin language.
+<!-- TODO. Maybe talk a bit about each migration? -->
 
 --------------------------------------------------------------------------------
+
+***Languages.*** Teeheehee [here you go](languages/index.md).
 
 ***Religion.*** The main religion practiced in the known world is [Tanethism](religion/index.md).
 

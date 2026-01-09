@@ -15,6 +15,8 @@ Back on Yuadrem, the godtrees realized they were free from the constrains that t
 
 But while most godtrees rejoiced, one harbored jealousy. [Et](religion/godtrees/et.md), the blue birch, disagreed with Om, wishing for a cold, still world. It devised a plan, and spawned the first sentient creature to enact it: the [hume](kins/hume.md).
 
+<!--NOTE. Include the ring of color?-->
+
 <!---------------------------------------------------------------------------->
 ## War of Spring
 Following Et's wishes, humes crafted swords and spears, built cities and fortresses, conducted fire and thunder, and even tame and commanded some of Om's own creations. The first city-states, Fiele, Ashen, and Alagias<!-- TODO. Link? -->, were built in this time, as were too the eight Forts of Spring<!-- TODO. Link? -->.
@@ -24,7 +26,7 @@ Om, fearing the humes' fire, produced a sentient creature of its own, the [imate
 While apomantics proved an effective barrier, the blue godtree had another gift for the humes in store. It gifted them Color<!-- TODO. Link. -->, through which they could also govern the remaining essence of Pheter, and thus humes created chromology<!-- TODO. Link. -->
 
 As the war between oric gods burned brighter and brighter, many humes became disillusioned by their maker's goals. Over time, desertion became increasingly common, leading to the _Ird Diaspora_, and the separation of hume civilization into the [gat](kins/hume.md#gat-culture) and [ird](kins/hume.md#ird-culture) cultures.
-
+<!--NOTE. Maybe talk a bit more here about the 4 "faces" of the ird diaspora; thulkrakan, hairusse, qulbaban, and dratlean. *Or*, make a new page only on the ird diaspora. -->
 <!--NOTE. First siege of Ctereth by the irds?-->
 
 Ultimately, in one final siege, the humes arrived at the base of a tired Om, and, wielding Color, set the godtree on fire. The oric god burned through months, as the gats carried with the mass murder of imates in what's known as the _Ededian Genocide_.
@@ -53,13 +55,14 @@ _195 to 621 A.S._
 **TODO.**
 
 <!-- * **TODO. Nascency of Tol and oths.** -->
+<!-- * Exile of treb gats (3rd century). -->
 <!-- * **TODO. 311 A.S. Taneth writes the good book in 311 A.S.** -->
 <!-- * **TODO. 520 A.S. Establishment of Tanethism as the main religion.** -->
 
 <!--
 * **71.** Founding of Krudzal.
 * **141.** Discovery of barkskins and Tek.
-* **143.** Babaian genocides (143 - 173).
+* **143.** Babaian wars (143 - 173).
 * **195.** Founding of the Seven Kingdoms through the seven ziggurats.
 * **231.** more imate genocides (TODO. look up the names) (231 - 261), under Olag.
 * **411.** Vanishing of Hairuus.

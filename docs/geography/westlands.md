@@ -27,7 +27,7 @@ The protectorates' colony of Viphoger was established to exploit this, but it to
 #### Ichor Mountains
 Separating the deserts of Zoedrem and the Dead Sea are the Ichor Mountains.
 Their name comes from the many tributaries they birth, most of which feed the Dratl River.
-While thick, the mountain range is somewhat sparse, and a variety of passages connect the Westlands to the Dead Sea<!-- TODO. Link. --> and the Seven Principates<!-- TODO. Link. -->.
+While thick, the mountain range is somewhat sparse, and a variety of passages connect the Westlands to the Dead Sea<!-- TODO. Link. --> and the Seven Protectorates<!-- TODO. Link. -->.
 
 #### Beryl Sea
 The Beryl Sea is a large expanse of warm water.
@@ -36,7 +36,7 @@ Yet no nixwalker<!-- TODO. Link. --> has reported ships since The Penance, and t
 
 #### Dratl'fal Savanna
 Long before The Penance, the Dratl'fal savanna was the first region to be struck by the nix<!-- TODO. Link. -->.
-Its name literally translates to "bloodgrass" in Jantherlin<!-- TODO. Link. -->, as its flora grows with the characteristic red of the nix.
+Its name literally translates to "bloodgrass" in [Jantherlin](../languages/index.md#etian-family)<!-- TODO. Link. -->, as its flora grows with the characteristic red of the nix.
 The name also carries a more literal interpretation, as the Hundred Year War<!-- NOTE. Link? --> was fought on this land.
 
 The south-eastern part of the region is also famous for the bafarmat, a purple moss that grows on its shores.

@@ -23,7 +23,7 @@ Except for the treb, gats are generally small, ranging from 140 to 170 centimete
 
 While all original gats had horns, the feature has been lost through the centuries. Those birthed by the remains of the godtree, or Et-born, retain the horns. They are increasingly rare after the Penance, as nix<!-- TODO. Link. --> has destroyed the land that surrounds the tree.
 <!-- TODO. At some point I need to describe what an Et-born gat is. -->
-<!-- NOTE. Maybe describe what noves, bughna, and treb mean in Jantherlin/Old Avshenese. -->
+<!-- NOTE. Maybe describe what noves, bughna, and treb mean in Jantherlin/Avshenese. -->
 
 <!-- NOTE. Tale of the gestation of an et-born.
     Gats are genderless creatures. All gats are born with a pair of seeds hidden in a small sack between their legs. Around the age of 30, a gat reaches physical maturity. This is signaled by a slight swelling in these seeds, which they can now cut and plant under a thick layer of rich soil.
@@ -42,9 +42,9 @@ While working, a laborer might wear red with hints of magenta to allow their bod
 <!-- NOTE. Those who sided with Et. Et-born families still retain horns (by feeding the mother Et's sap), which were first gifted by Et to their loyal soldiers. -->
 After the Schism, the surviving gats separated into three groups: noves, bughna, and treb. Those who remained became known as noves gats, and their ethnicity is the most common in the modern world. They built the holy city of Naptane<!-- TODO. Link. --> inside the stump of Et, from which sprung the Seven Protectorates of the Sea<!-- TODO. Link. -->. Noves are often considered simile to civilization.
 
-Bughna gats endured the 40-Year Famine<!-- TODO. Link. --> by adopting a nomadic lifestyle, one which defines them still. These humes became known as great pastors and merchants. They strengthened the bond between the principates, in part allowing the establishment of the large gat civilization. Even today they are often associated to good luck.
+Bughna gats endured the 40-Year Famine<!-- TODO. Link. --> by adopting a nomadic lifestyle, one which defines them still. These humes became known as great pastors and merchants. They strengthened the bond between the protectorates, in part allowing the establishment of the large gat civilization. Even today they are often associated to good luck.
 
-Not all progeny of Et was born equal, and the treb are the perfect example. They are larger and bulkier than the average hume, and were often the first line of attack in the War of Spring. Treb gats were regarded as brutish, and didn't fit the civilization built by the noves. They were exiled by Olag<!-- TODO. Link. --> during the second century, and most established a new home in the Dead Sea<!-- TODO. Link. -->.
+Not all progeny of Et was born equal, and the treb are the perfect example. They are larger and bulkier than the average hume, and were often the first line of attack in the War of Spring. Treb gats were regarded as brutish, and didn't fit the civilization built by the noves. They were exiled by Olag<!-- TODO. Link. --> during the third century, and most established a new home in the Dead Sea<!-- TODO. Link. -->.
 <!-- NOTE. Treb gats are not *born* brutish. While their culture may seem "violent", they are very religious and show a sophistication with nature that is not commonly seen in other humes. -->
 
 ### Traditions and Religion
@@ -85,10 +85,10 @@ While the intricacies of these names are unique to each community -- and sometim
 
 <!-- TODO. Check out these word particles in frisian.... -->
 * A **personal name** is the name given to a gat my their mother, usually soon after birth. Personal names are often permanent, but nothing stops a gat from changing them.
-* A **parent name** is the name of a gat's mother or father followed by the suffix *ban*, meaning "sibling of" in avshenese<!-- TODO. LINK -->. A gat may prefer to use this name if a parent was particularly important. Furthermore, additional parent names can be added after the first, climbing up a branch of the family tree.
+* A **parent name** is the name of a gat's mother or father followed by the suffix *ban*, meaning "sibling of" in [Avshenese](../languages/index.md#avshenesian-family). A gat may prefer to use this name if a parent was particularly important. Furthermore, additional parent names can be added after the first, climbing up a branch of the family tree.
 * A **profession name** is simply the name of the profession practiced by the gat.
-* A **family name**, which is acquired by all members of a family upon joining. Sometimes, the head of the family will add the *grit* suffix to the family name, meaning "head" in avshenese.
-* A **locality name** that comes from where the gat comes from, adding the *she* prefix, a phoneme associated to location in avshenese. These names are acquired only by travelers, and depend on the extensions of their travels. For example, a gat coming from a different town may be referred to by the name of that town, and one from another province will acquire its name.
+* A **family name**, which is acquired by all members of a family upon joining. Sometimes, the head of the family will add the *grit* suffix to the family name, meaning "head" in Avshenese.
+* A **locality name** that comes from where the gat comes from, adding the *she* prefix, a phoneme associated to location in Avshenese. These names are acquired only by travelers, and depend on the extensions of their travels. For example, a gat coming from a different town may be referred to by the name of that town, and one from another province will acquire its name.
 
 Personal names are often easy to pronounce. A non-exhaustive list of common ones is:
 Adrevik, Agik, Ak, Ani, Anux, Aren, Avag, Baen, Bevan, Dzurar, Gauren, Gevaug, Grigur, Guxar, Kadzak, Kevun, Marim, Narek, Pagran, Puguse, Rauben, Sivadre, Sona, Xarig, Xuvep.
@@ -145,9 +145,9 @@ To become an adult, a child must participate in a competition held in a Day of C
 Irds believe that a person's soul remains in the body after they die. No funeral is celebrated upon death, and bodies are blindfolded and laid to rest inside a communal crypt. Thulkraka keep oil urns with the bodies, burning the crypt on the Day of the Immortal, a leap day that occurs every 10 years. Dratl kept their crypts open, allowing vultures to eat the remains and the desert sun to dry the rest. Qulbaba crypts were often dug below the crown of a banyan tree, allowing [barkskin](barkskin.md) to rise from the bodies of the dead irds.
 
 ### Names
-While the most common language spoken by irds is Shanise, a language in the [avshenesian branch](../index.md#avshenesian-family), ird naming conventions are related to the [harualian family](../index.md#harualian-family). By this custom, each ird has two names. Their first name is given to them at birth either by their parents or by the village's chief. Then, their second name is inherited from a parent of their choice, adding the prefix *u/ud*, which means "son/daughter of". It is common in ird culture to admire one's parents, and these names are carried with pride.
+While the most common language spoken by irds is [Shanise](../languages/index.md#avshenesian-family), a language in the [avshenesian family](../index.md#avshenesian-family), ird naming conventions are related to the [harualian family](../languages/index.md#harualian-family). By this custom, each ird has two names. Their first name is given to them at birth either by their parents or by the village's chief. Then, their second name is inherited from a parent of their choice, adding the prefix *u/ud*, which means "son/daughter of". It is common in ird culture to admire one's parents, and these names are carried with pride.
 
-Ird names are often hard to pronounce by native fresian speakers, and as such irds commonly gain nicknames in Fesh. Common male names in ird culture include:
+Ird names are often hard to pronounce by native frisian speakers, and as such irds commonly gain nicknames in Fesh. Common male names in ird culture include:
 Aden, Azat, Daneal, Dirkir, Eastean, Goker, Idrahin, Jakod, Jaldor, Jasin, Kuneit, Ludzu, Nuretin, Nutlar, Rezat, Semir, Shasar, Tajik, Tenel, Shasin, Unut.
 
 Then, a few common female names are:

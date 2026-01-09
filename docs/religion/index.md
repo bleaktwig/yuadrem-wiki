@@ -1,7 +1,7 @@
 # Religion
 Tanethism is the name given to the main religion in the Fesh Peninsula.
 
-Old Tanethism was characterized by its myriad of gods—one for each apomantic signature<!-- NOTE. Link. -->. This religion was widely practiced in the Seven Principates<!-- NOTE. Link. --> and their various colonies up to the late Age of Gold<!-- NOTE. Link. -->. However, this changed in the year 520 A.S., when the God-Suzerain Olag<!-- NOTE. Link. --> established "new" Tanethism as the official religion of the principates.
+Old Tanethism was characterized by its myriad of gods—one for each apomantic signature<!-- NOTE. Link. -->. This religion was widely practiced in the Seven Protectorates<!-- NOTE. Link. --> and their various colonies up to the late Age of Gold<!-- NOTE. Link. -->. However, this changed in the year 520 A.S., when the God-Suzerain Olag<!-- NOTE. Link. --> established "new" Tanethism as the official religion of the protectorates.
 
 The religion is based on a book published by Taneth in 311 A.S., in which the scholar and traveler wrote an exhaustive compilation of the more than a thousand deities praised in the region. In this taxonomy, they classified the similitudes and differences between most of these deities and proposed a reduced pantheon with a clear, tiered hierarchy between all of them.
 
@@ -41,7 +41,7 @@ Many a hume has a favorite among the gods, one whose ideals and teachings they m
 * [**Om**](godtrees/om.md), a vigorous juniper and parent of the [imates](../kins/imate.md), is the tree of Bagrat.
 * [**Ur**](godtrees/ur.md), a yellow fir, was the tree of Pagram.
 
-**Illuminants**, or _tovasic gods_ ("second gods" in old avshenese), are mortals selected by the gods to conduct pheter. They attain godhood through a ritual of ascension and generally move on to become the protagonists of legends. They become deities after death, watching over the world along with the mevic gods from their kingdom in the Ring of Color<!-- NOTE. Link. -->.
+**Illuminants**, or _tovasic gods_ ("second gods" in [Avshenese](../languages/index.md#avshenesian-family), are mortals selected by the gods to conduct pheter. They attain godhood through a ritual of ascension and generally move on to become the protagonists of legends. They become deities after death, watching over the world along with the mevic gods from their kingdom in the Ring of Color<!-- NOTE. Link. -->.
 
 * **The God-Suzerain Olag**<!-- NOTE. Link. -->, perhaps the most important of the tovasic gods, was the suzerain of the Seven Protectorates of the Sea<!-- NOTE. Link. -->. They died in the Night of the Four Colors<!-- NOTE. Link. -->, and now rule in death alongside Febrid.
 * **The Immortal Queen Elña** was the ruler of the Kingdom of Iron<!-- NOTE. Link. -->, in the far south of the world. After death, she is now the goddess of tradition and the forest and is sometimes found in the form of a white deer, watching over the descendants of the irds under her care.
@@ -52,10 +52,10 @@ Many a hume has a favorite among the gods, one whose ideals and teachings they m
 * **Jirek** **TODO**. <!-- TODO. Currently alive, in fesh. -->
 * **Vakris** **TODO**. <!-- TODO. Currently alive, in fesh. -->
 * **Zuleija** **TODO**.
-* **Vugar** is the god of family and fertility. As a mortal, he was a prince of the kingdom of Vamerit and was renowned for establishing laws pertaining to family and hereditary rights to the Seven Principates<!-- NOTE. Link. -->. He is now depicted with a silver toga of simple style.
+* **Vugar** is the god of family and fertility. As a mortal, he was a prince of the kingdom of Vamerit<!-- TODO. Link. --> and was renowned for establishing laws pertaining to family and hereditary rights to the Seven Protectorates<!-- NOTE. Link. -->. He is now depicted with a silver toga of simple style.
 * **Genadi** is the goddess of bravery and love. As a mortal, she was an [imate](../kins/imate.md) hero whose acts led to the death of King D'khan, ending the [Ededian Genocide](../history.md#war-of-spring). She is now depicted with toad-like features, carrying her characteristic swordflute.
 * **Sakris** is the god of fun and wine. As a mortal, he was the most devoted slave to the prince-merchant Hak of Ushpavam<!-- NOTE. Link. -->. Even as a god, he is often depicted dutifully attending to guests at a party.
-* **Hanush** is the god of teaching and books. As a mortal, they were a [barkskin](../kins/barkskin.md) who mediated the peace between Gannag and the Seven Principates and proceeded then to create the Gannagian apomantic system<!-- NOTE. Link. -->. As a god, they are depicted in a thin dress made of paper scrolls with green signatures.
+* **Hanush** is the god of teaching and books. As a mortal, they were a [barkskin](../kins/barkskin.md) who mediated the peace between Gannag and the Seven Protectorates and proceeded then to create the gannagian apomantic system<!-- NOTE. Link. -->. As a god, their depictions show a body covered entirely by a most complex network of apomantic signatures, a glyph carved into each centimeter of bark.
 * **Tamaz** is the goddess of wealth and silver. As a mortal, she was an [ird](../kins/hume.md) adventurer, known for financing the first colonial ships of Krudzal. She is now depicted in a shiny gray dress, holding an iron hammer and a woodworking saw.
 * **Nazim** is the goddess of justice and the sky. As a mortal, she was an [oth](../kins/oth.md) scholar who provided the basis for modern math and astrology. Even as a god she continues to study the stars and is depicted with an abacus and a book.
 * **Gathoz** is the god of secrecy and murder. While her name in life is unknown, she is the assassin who battled and killed God-Suzerain Olag through Tetrachromacy<!-- NOTE. Link. -->. Now, she is often attributed to murders where the perpetrator is never found. She is depicted as a kinless being, her face and body shifting under rags.

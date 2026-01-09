@@ -33,7 +33,7 @@ They lived alongside Tek, and dedicated their lives to the health and growth of 
 
 Barkskins were originally reserved, and did not interact with humes until the year 141 A.S.
 The irds of the qul archipelago sought to build communities in Drejek, but were quickly repelled by the barkskins.
-This relationship never cooled, and this extended to the Seven Principates -- no alliance was established between the jungle dwellers and the greater world.
+This relationship never cooled, and this extended to the Seven Protectorates -- no alliance was established between the jungle dwellers and the greater world.
 
 After the Penance, Tek and the barkskins were thought to be lost to Nix.
 This was proved wrong in 734 A.S.
@@ -50,7 +50,7 @@ In addition, there exists some barkskin immigration toward the Peninsula proper.
 ### Traditions and Religion
 **Birth.**
 As part of the process where tekust takes over a body, the newborn barkskin communes with Tek for the first time.
-The godtree teaches the barkskin knaenese along with the tenets of their society.
+The godtree teaches the barkskin [Gannagian](../languages/index.md#naenkian-family) along with the tenets of their society.
 While its uncommon, some barkskins are born outside of Tek's hyphan network.
 They lack this innate connection, and most become unable to commune with the tree.
 
@@ -88,12 +88,12 @@ They think of the illuminants as powerful shamans, rather than divine beings.
 
 Tekists attain knowledge to later give it to Tek.
 They see themselves as a detached part of the godtree, and await their eventual return.
-They also commune with Tek through meditation and the consumption of nahan <!-- NOTE. I-water in knaenese -->, a strong psychedelic made by fermenting the sap of the godtree.
+They also commune with Tek through meditation and the consumption of nahan <!-- NOTE. I-water in Knaenese -->, a strong psychedelic made by fermenting the sap of the godtree.
 
 ### Names
 A barkskin is born without a name, and remain nameless most of their youth.
 They decide on a name when they join a potential family in the adulthood ritual.
-These names are usually in knaenese, a language famously hard to pronounce.
+These names are usually in Knaenese, a language famously hard to pronounce.
 It's not uncommon for the other kins to call them by a nickname or a simplified version of the name.
 
 A non-exhaustive list of common names would be:
@@ -165,7 +165,7 @@ They hunt for sustenance and to gather fresh corpses.
     When in fertile land, you only need to eat once per week.
     You can also eat more often if you choose to do so.
 
-    \subparagraph{Languages} You can speak, read, and write knaenese.
+    \subparagraph{Languages} You can speak, read, and write Knaenese.
     You can also speak, read, and write other language of your choice, but your pronunciation leaves much to be desired.
 
     % Despite their lack of lips, the moss kin does speak a language, which is named Knaenese.
@@ -362,7 +362,7 @@ If approached peacefully, they gladly provide shelter or passage through their c
     These creatures are all affected as per the \textbf{Minor Illusion} (see page \pageref{spell::minorillusion}) spell while you concentrate on the effect, which you can do for up to 1 minute.
     The spell save DC is 8 + your Constitution modifier.
 
-    \subparagraph{Languages} You can understand, read and write knaenese and one other language of your choice, but you cannot speak.
+    \subparagraph{Languages} You can understand, read and write Knaenese and one other language of your choice, but you cannot speak.
 
 \begin{table*}[b]%
     \begin{DndTable}[width=\linewidth]{X}

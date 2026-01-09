@@ -53,7 +53,7 @@ While many have adapted to Tanethism, their traditional cosmology does not recog
 
 ## Names
 <!-- TODO. Rework babazano a bit. Keep the silliness and the consonants, but try to adapt some avshenesian/frisian words to it. Also, very old words have repeated syllables, but it's not so common anymore. -->
-Imates speak Babazano, the only language in the [omian family](../index.md#omian-family). As such, their names are usually in this language. During their childhood, an imate will be assigned many names by their family members, usually based on distinctive features and particular accomplishments. They will settle on a name of their choice as they reach adulthood, often picking their favorite one from their assigned names.
+Imates speak [Babazano](../languages/index.md#omian-branch). As such, their names are usually in this language. During their childhood, an imate will be assigned many names by their family members, usually based on distinctive features and particular accomplishments. They will settle on a name of their choice as they reach adulthood, often picking their favorite one from their assigned names.
 
 Imates also have a second name, which is inherited from their family. This is the name of the village in which they were born, adding the prefix *do*, which translates literally to "name". Imates that go through adoption are expected to keep their original village name.
 
