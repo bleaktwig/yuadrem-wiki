@@ -46,7 +46,7 @@ Even today, bafarmat is farmed in the city-state of Jorea<!-- TODO. Link. -->, w
 #### Drejek
 Westernmost of Yuadrem is the thick, dark, and moist jungle of Drejek.
 This region is the birthplace of the Gannag civilization, which spawned the barkskin.
-While born before The Schism<!-- TODO. Link. -->, it is unknown if the nation survived The Penance, since no contact has been made since.
+While born before [The Schism](../history.md#war-of-spring), it is unknown if the nation survived The Penance, since no contact has been made since.
 
 #### The Fog Gorge
 **TODO**.

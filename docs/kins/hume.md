@@ -1,8 +1,7 @@
 # Humes
-[Et](../religion/godtrees/et.md) created humes to aid the oric god in the War of Spring<!-- TODO. Link. -->. Despite this, many opposed the conflict, or felt indifferent to it. They fled the company of their godtree, for which they were cursed with monochromacy. These humes came to be known as irds, and their dispersion as the Ird Diasporas<!-- TODO. Link. -->. The humes that remained with Et were blessed with Color, and are known as gats.
+[Et](../religion/godtrees/et.md) created humes to aid the oric god in the War of Spring<!-- TODO. Link. -->. Despite this, many opposed the conflict, or felt indifferent to it. They fled the company of their godtree, for which they were cursed with monochromacy. These humes came to be known as irds, and their dispersion as the [Ird Diaspora](../history.md#war-of-spring). The humes that remained with Et were blessed with Color, and are known as gats.
 
 <!-- NOTE.
-    * This led to the first siege of Ctereth, where four different ird chiefdoms (led by 4 historic figures) stole qualars to allow their kin to travel away from Naptane.
     * Maybe mention what ird and gat mean in jantherlin? That might help integrate the language into the lore.
 -->
 
@@ -13,7 +12,7 @@ Humes are of a broad spectrum. Before the Penance<!-- TODO. Link. -->, humes tra
 While this varies from culture to culture, in general a hume is considered an adult between 14 and 16 years. Due to high child mortality, life expectancy averages to 25 years. For those who reach that age, they have a reasonable chance of reaching 50 to 60 years. Sorcerers are well known for extending their lives, and it is not unusual for them to live even more than a century.
 <!-- NOTE. The downside of this are all the negative effects of Pheter use in the body, Nix sickness, deformed bodies + strange appendages, etc. -->
 
-Humes are a gendered kin, and usually have one child at a time. Previous to the Schism<!-- TODO. Link. -->, childcare was left to the women of the families, in particular to each child's mother. This varies among cultures, but communal childcare is the norm after the Penance.
+Humes are a gendered kin, and usually have one child at a time. Previous to the [Schism](../history.md#war-of-spring), childcare was left to the women of the families, in particular to each child's mother. This varies among cultures, but communal childcare is the norm after the Penance.
 
 ---
 ## Gat Culture
@@ -114,7 +113,7 @@ Irds were said to have been cursed with feathers when they fled the War of Sprin
 Thulkraka, who settled in cold climates, used to wear vermilion fabrics with complex patterns above many layers of fur. Nowadays, while their attires are lighter, they keep this color despite the change in environment. Dratl, used to the desert of [Zoedrem](../geography/westlands.md#zoedrem), wore simple cyan and mint clothing to cool them and give them speed. The qulbaba in contrast often kept the colorful patterns from their old traditions, recently adapted to fibers rather than feathers.
 
 ### Origins and History
-The first humes to renounce the War of Spring and abandon Et were the irds. Persecuted by the godtree fanatics, they fled far from the [Horned Shores](../geography/fractured_lands.md#horned-shores), and far away from the grasp of Et. This event is known as the Ird Diaspora<!-- TODO. Link. -->. While many different ethnicities came from this event, the main ones that remain after the Penance are three. In order of their number, the thulkraka, the qulbaba, and the dratl.
+The first humes to renounce the War of Spring and abandon Et were the irds. Persecuted by the godtree fanatics, they fled far from the [Horned Shores](../geography/fractured_lands.md#horned-shores), and far away from the grasp of Et. This event is known as the [Ird Diaspora](../history.md#war-of-spring). While many different ethnicities came from this event, the main ones that remain after the Penance are three. In order of their number, the thulkraka, the qulbaba, and the dratl.
 
 The thulkraka migrated to the northernmost regions of Yuadrem, establishing the old nation of Krudzal around the north pole. Here, they were the first to develop ironworking, with which they built imposing sailing ships with iron hulls. Krudzalites used these vessels to claim many territories in the continent, later forming many independent states such as Gronselar<!-- TODO. Link. --> and Kaldrathal, among others.
 

@@ -26,12 +26,12 @@ Many a hume has a favorite among the gods, one whose ideals and teachings they m
 
 * [**Matevos**](mevic_gods/matevos.md), the goddess of Green, lightness, and glory.
 * [**Febrid**](mevic_gods/febrid.md), or Nuagal, is the goddess of Blue, cold, and intellect.
-* [**Fusine**](mevic_gods/fusine.md), or Kegal, is the goddess of Purple, chaos, and the stars.
+* [**Fusine**](mevic_gods/fusine.md), or Kegal, is the goddess of Purple, chaos, the stars, and retribution.
 * [**Vahan**](mevic_gods/vahan.md) is the god of Red, heaviness, and mountains.
 * [**Bagrat**](mevic_gods/bagrat.md) is the god of Orange, heat, and agriculture.
 * [**Pagram**](mevic_gods/pagram.md) is the god of Yellow, order, and civilization.
 
-**Oric Gods**, _godtrees_, or _gods of flesh_, were the first trees in the world. Each was born of a seed during the [_First Communion_](../history.md#prehistory), planted by their corresponding mevic god. Most of them have died, either in the Schism<!-- NOTE. LINK. --> or in the Penance<!-- NOTE. Link. -->.
+**Oric Gods**, _godtrees_, or _gods of flesh_, were the first trees in the world. Each was born of a seed during the [_First Communion_](../history.md#prehistory), planted by their corresponding mevic god. Most of them have died, either in the [Schism](../history.md#war-of-spring) or in the Penance<!-- NOTE. Link. -->.
 
 * [**Tek**](godtrees/tek.md), an immense banyan and parent to the [barkskin](../kins/barkskin.md), is the tree of Matevos.
 * [**Et**](godtrees/et.md), a blue birch and parent to [humes](../kins/hume.md), was the tree of Febrid.
@@ -53,18 +53,19 @@ Many a hume has a favorite among the gods, one whose ideals and teachings they m
 * **Vakris** **TODO**. <!-- TODO. Currently alive, in fesh. -->
 * **Zuleija** **TODO**.
 * **Vugar** is the god of family and fertility. As a mortal, he was a prince of the kingdom of Vamerit and was renowned for establishing laws pertaining to family and hereditary rights to the Seven Principates<!-- NOTE. Link. -->. He is now depicted with a silver toga of simple style.
-* **Genadi** is the goddess of bravery and love. As a mortal, she was an [imate](../kins/imate.md) hero whose acts led to the death of King D'khan, ending the Ededeian Genocide. She is now depicted with toad-like features, carrying her characteristic swordflute.
+* **Genadi** is the goddess of bravery and love. As a mortal, she was an [imate](../kins/imate.md) hero whose acts led to the death of King D'khan, ending the [Ededian Genocide](../history.md#war-of-spring). She is now depicted with toad-like features, carrying her characteristic swordflute.
 * **Sakris** is the god of fun and wine. As a mortal, he was the most devoted slave to the prince-merchant Hak of Ushpavam<!-- NOTE. Link. -->. Even as a god, he is often depicted dutifully attending to guests at a party.
 * **Hanush** is the god of teaching and books. As a mortal, they were a [barkskin](../kins/barkskin.md) who mediated the peace between Gannag and the Seven Principates and proceeded then to create the Gannagian apomantic system<!-- NOTE. Link. -->. As a god, they are depicted in a thin dress made of paper scrolls with green signatures.
 * **Tamaz** is the goddess of wealth and silver. As a mortal, she was an [ird](../kins/hume.md) adventurer, known for financing the first colonial ships of Krudzal. She is now depicted in a shiny gray dress, holding an iron hammer and a woodworking saw.
 * **Nazim** is the goddess of justice and the sky. As a mortal, she was an [oth](../kins/oth.md) scholar who provided the basis for modern math and astrology. Even as a god she continues to study the stars and is depicted with an abacus and a book.
 * **Gathoz** is the god of secrecy and murder. While her name in life is unknown, she is the assassin who battled and killed God-Suzerain Olag through Tetrachromacy<!-- NOTE. Link. -->. Now, she is often attributed to murders where the perpetrator is never found. She is depicted as a kinless being, her face and body shifting under rags.
 * **Havetish** is the god of both leadership and tyranny. As a mortal they were named Qina, the [barskin](../kins/barkskin.md) warlord who led their kin against the [imates](../kins/imate.md) in the Babanian Wars<!-- NOTE. Link. -->. As a god, they are depicted with an uncharacteristic golden armor and a spear carved from purpleheart wood.
-* **Mziva** is the god of self-sacrifice. As a mortal, she was an [imate](../kins/imate.md) who led her colony to salvation during the Ededeian Genocide<!-- NOTE. Link. -->, at the cost of her own life. She is now depicted with golden hair and clothes made of flowers.
+* **Mziva** is the god of self-sacrifice. As a mortal, she was an [imate](../kins/imate.md) who led her people to salvation during the [Ededian Genocide](../history.md#war-of-spring), at the cost of her own life. She is now depicted with golden hair and clothes made of flowers.
 
 <!--
 TODO list.
 * Add the apomantic signature of each god to their wiki pages, since they're already done (just gotta export some sweet svg/png files.).
+* Narration is kinda shit here, but i don't have infinite time.
 -->
 
 <!--------------------

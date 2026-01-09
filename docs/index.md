@@ -14,7 +14,7 @@ Yuadrem was first settled by the firstborn oric gods, [Et](religion/godtrees/et.
 
 To aid in the eternal battle, Et created the [humes](kins/hume.md), a kin as malleable as the god. Et bestowed upon humes Chromology<!-- TODO. Link. -->, teaching them to wage war using Color. Om in turn created [imates](kins/imate.md), a smaller kin able to traverse the forests of Et's children with ease. The imates were gifted Apomantics<!-- TODO. Link. -->, and fought using Word.
 
-The conflict ended with the burning of Om, an event known as the Schism<!-- TODO. Link. -->. The primordial one [Pheter](religion/primordials/pheter.md), angered by the death of the god, retaliated by striking Et with lightning. The blast burned the godtree, and brought the 40-Year Famine<!-- TODO. Link. --> to both humes and imates. This event marks the year 0, and the beginning of history.
+The conflict ended with the burning of both Et and Om, an event known as the [Schism](history.md#war-of-spring). The primordial one [Pheter](religion/primordials/pheter.md), angered by the death of the god, retaliated by striking Et with lightning. The blast burned the godtree, and brought the 40-Year Famine<!-- TODO. Link. --> to both humes and imates. This event marks the year 0, and the beginning of history.
 
 --------------------------------------------------------------------------------
 ## Geography
@@ -24,7 +24,7 @@ The conflict ended with the burning of Om, an event known as the Schism<!-- TODO
 
 ![Map of Yuadrem](img/world_map_y604_v083.png)
 ***Pictured:***
-*Trade map of Yuadrem, drawn in 604 A.S. (After the Schism) by Marim of Avshen under the commission of Olag, the God-Suzerain of Naptane. The region colored in green corresponds to the Seven Protectorates of the Sea. Other colors represent the tax and penalty applied to trade in those regions. This map is proof of the healthy state of maritime travel and trade during the golden age.*
+*Trade map of Yuadrem, drawn in 604 A.S. (After the [Schism](history.md#war-of-spring)) by Marim of Avshen under the commission of Olag, the God-Suzerain of Naptane. The region colored in green corresponds to the Seven Protectorates of the Sea. Other colors represent the tax and penalty applied to trade in those regions. This map is proof of the healthy state of maritime travel and trade during the golden age.*
 
 Yuadrem is a supercontinent, the only such landmass in the world, Darhoc<!-- TODO. Link. -->. The topography is varied, split by four different mountain ranges. Due to its large extension from north to south, the climate and ecology vary widely, from the tundras of [Stinos](geography/northern_territories.md#stinos) to the rainforests of [Drejek](geography/westlands.md#krejek).
 
@@ -48,7 +48,7 @@ An isola is defined as a region either devoid of nix, or only seasonably affecte
 ### Ethnology
 ![Migration Map of Yuadrem, Old World](img/pre_penance_migration_y787_v012_dpi72.png)
 ***Pictured:***
-*Old world migration map of Yuadrem, drawn in 787 A.S. by the Fremite Monastery in Uvarme. It includes all known mass movements of people from the ird diasporas of ~80 B.S. to the Na'anian migration of 445 A.S. Migrations after the Penance are not pictured. The authors separated the four kins (and gats from irds) using colored lines.*
+*Old world migration map of Yuadrem, drawn in 787 A.S. by the Fremite Monastery in Uvarme. It includes all known mass movements of people from the [Ird Diaspora](history.md#war-of-spring) of ~80 B.S. to the Na'anian migration of 445 A.S. Migrations after the Penance are not pictured. The authors separated the four kins (and gats from irds) using colored lines.*
 
 The peoples of Yuadrem are separated into four distinct kins. Each kin was created by a different godtree, and each was then further divided by ethnic differences. These differences led to the formation of nations during the Golden Age<!-- TODO. Link. -->, the erosion of which later led to the [sumis](isolas/fesh_peninsula/ane-kene.md#buda-and-sumi).
 
@@ -84,12 +84,12 @@ Omietian languages are those that were taught by Et, Om, and Tol to their respec
 Over time, jantherlin developed into most of the languages spoken in Yuadrem. The largest branch of these is the avshenesian family. Originally spoken in the Seven Principates, it spread wide into the continent, only for the languages to coalesce again into the Fesh Peninsula. The avshenesian apomantic system<!-- TODO. Link. --> started from the mother language of the family, which is usually used by the commons due to its simplicity.
 
 * **Frisian** was the language spoken in the peninsula before The Penance, and remains the most common language in the region. It is currently spoken in the sumis of Fremit, Ushpavam, Vamerit, and Xarxage, as well as in the Holy Nation of Ushpavam and the Nation of Meritan. A dialect of old Avshenesian, very similar to Frisian, is also spoken by the chiefdoms of Raraspan and Dzarog, as well as by the Ketepi people.
-* **Shanise** is the main language spoken in the Northern Territories, and it branched out from Avshenese in the thulkrakan side of the ird diaspora. As of 802 A.S., it is only spoken in the Nation of Gronselar. Shanise is the basis for the gronselarian apomantic system<!-- TODO. Link. -->
+* **Shanise** is the main language spoken in the Northern Territories, and it branched out from Avshenese in the thulkrakan side of the [Ird Diaspora](history.md#war-of-spring). As of 802 A.S., it is only spoken in the Nation of Gronselar. Shanise is the basis for the gronselarian apomantic system<!-- TODO. Link. -->
 * **Voskian** is a family of languages that developed north of the [Zoedrem desert](geography/westlands.md#zoedrem), with the dispersion of the Bughna people in the northern bughna migration. It is not currently spoken in any nation, but the family is very common in the six thousand tribes and the peoples of Saefel.
 * **Beash Speech** is an artificial language developed in Voskferm, a now dead nation. The language was developed to communicate with the highly intelligent Anthutes<!-- TODO. Link. -->. It is now used by merchants and travelers to ride these creatures across the sumis of the Fesh Peninsula.
 
 #### Harualian Family
-Some time before the avshenesian family sprouted from Jantherlin, the harualian family started taking shape after the hairusse, qulbaban, and dratlean sides of the ird diaspora. While there were many harualian languages existed in the old world, only two survived The Penance.
+Some time before the avshenesian family sprouted from Jantherlin, the harualian family started taking shape after the hairusse, qulbaban, and dratlean sides of the [Ird Diaspora](history.md#war-of-spring). While there were many harualian languages existed in the old world, only two survived The Penance.
 
 * **Qualinese** was the main language spoken in the Jenkashian empire. While the empire was lost to nix, some of its people migrated to the Fesh Peninsula. The language is now spoken by the Puneui People and is the second most common language in the sumi of Fremit.
 * **Zsekian** was the language of the Hulnar empire. Very few native speakers remain in the modern world, but the language still sees some use in the chiefdoms of Raraspan and Dzarog, as well as by the Ketepi people.

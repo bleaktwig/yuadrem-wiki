@@ -34,7 +34,7 @@ The desert's sands are of a sickly gray color, and any creature that inhabit the
 Its inhabitants, the treb gats and the cursed umans are perhaps the best examples of this.
 
 The sands become blacker the more you approach the spire, the largest mountain in Yuadrem.
-The et city of Jan'krug stands atop it, where the ritual that caused the Schism took place.
+The et city of Jan'krug stands atop it, where the ritual that caused [The Schism](../history.md#war-of-spring) took place.
 A long chasm divides the eastern region of the Dead Sea, remnants of the passage of the breathing island, Cabb Goem-Rlamesh.
 Surrounded by hill, mountain, and river, the desert naturally prohibits passage to it, almost as if it's protecting a twisted secret.
 
@@ -43,7 +43,7 @@ These are categorized into two: The Nyxborn and the children of Cabb.
 The former are giant insect-like creatures that can be as large as an elephant and as precise as a mosquito.
 The latter are tormented amalgamates that dislodged from Cabb Goem-Rlamesh, ever haunted by insatiable hunger and unending pain.
 
-% Along with the tortles, grungs, and umans, the Schism brought forth terrible creatures known as the Nyxborn.
+% Along with the tortles, grungs, and umans, [The Schism](../history.md#war-of-spring) brought forth terrible creatures known as the Nyxborn.
 % These insect-like monstrosities can be as huge as the Mirmekolon, a colossal ant-lion hybrid, or as precise as the Khanokoladtes, a palm-sized moth that pierces skulls with its sharp dart-like mouth. -->
 
 #### Krejek and Kaljek

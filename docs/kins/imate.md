@@ -1,5 +1,5 @@
 # Imates
-[Om](../religion/godtrees/om.md) created imates to defend the oric god from [Et](../religion/godtrees/et.md) and the [humes](hume.md) in the War of Spring<!-- TODO. Link. -->. While not particularly suited for war, the kin defended their godtree until the Schism<!-- TODO. Link. -->. For this, they were Blessed with Word. After the burning of Om, imates escaped genocide by migrating to the south, spreading thorough the southern reaches of Yuadrem.
+[Om](../religion/godtrees/om.md) created imates to defend the oric god from [Et](../religion/godtrees/et.md) and the [humes](hume.md) in the War of Spring<!-- TODO. Link. -->. While not particularly suited for war, the kin defended their godtree until the [Schism](../history.md#war-of-spring). For this, they were Blessed with Word. After the burning of Om, imates escaped genocide by migrating to the south, spreading thorough the southern reaches of Yuadrem.
 
 ---
 ## Physical Description

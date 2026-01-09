@@ -1,4 +1,5 @@
 # History and Cosmology
+<!---------------------------------------------------------------------------->
 ## Prehistory
 First, there was only [Nix](religion/primordials/nix.md), the all-encompassing unity that is the cosmos. Then, in the _Nascency of Disparity_, the primordial one [Pheter](religion/primordials/pheter.md) was born from Nix. Along with Pheter came separation: void and form, heavens and earth, seas and land, and thus was born the continent of Yuadrem.
 
@@ -12,32 +13,31 @@ Furthermore, while Pheter and Zash were engrossed in their act of creation, Faga
 
 Back on Yuadrem, the godtrees realized they were free from the constrains that their predecessors had: they could create unimpeded by Nix's limitations. They created mineral, plant, and fungus, filling the continent with life. But it was [Om](religion/godtrees/om.md), the orange juniper, who added movement to this life. Through its fruit, it conceived fishes to roam the seas, animals to roam the lands, and birds to roam the skies.
 
-But while the other godtrees rejoiced, one harbored jealousy. [Et](religion/godtrees/et.md), the blue birch, disagreed with Om, wishing for a cold, still world. It devised a plan, and spawned the first intelligent species to help enact it: the [humes](kins/hume.md).
+But while most godtrees rejoiced, one harbored jealousy. [Et](religion/godtrees/et.md), the blue birch, disagreed with Om, wishing for a cold, still world. It devised a plan, and spawned the first sentient creature to enact it: the [hume](kins/hume.md).
 
+<!---------------------------------------------------------------------------->
 ## War of Spring
-**TODO.**
+Following Et's wishes, humes crafted swords and spears, built cities and fortresses, conducted fire and thunder, and even tame and commanded some of Om's own creations. The first city-states, Fiele, Ashen, and Alagias<!-- TODO. Link? -->, were built in this time, as were too the eight Forts of Spring<!-- TODO. Link? -->.
 
-<!--* **War of Spring.** The largest of the oric gods, Et and Om, go into war. While no damic or mevic god interfered, Pheter themself was against the conflict. Humes are born from Et as soldiers in this war, while Om creates the imates to defend themself.-->
+Om, fearing the humes' fire, produced a sentient creature of its own, the [imates](kins/imate.md). Imates could not build like humes, but they were blessed with Word<!-- TODO. Link. --> by their creator. Via Word, they wielded the essence of Pheter that remained after the god's departure, conducting the six aspects of the mevic gods. Weight, heat, and entropy could be wielded as shields against humes, and thus imates created apomantics<!-- TODO. Link. -->.
 
-<!-- TODO. Add the Ird Diaspora + the first siege of Ctereth. -->
+While apomantics proved an effective barrier, the blue godtree had another gift for the humes in store. It gifted them Color<!-- TODO. Link. -->, through which they could also govern the remaining essence of Pheter, and thus humes created chromology<!-- TODO. Link. -->
 
-<!--* **The Schism.** After a long and bloody conflict, Et wins the war against Om. Under the orders of their godtree, the gats burn down the godtree of the imates. As the fire spreads, Pheter creates the fundamental signature of lightning on the surface of the moon Kegal, and uses it to strike down Et. The ash from the burned godtrees engulfs Yuadrem, sparking the Age of Dark with the 40-Year Famine.-->
+As the war between oric gods burned brighter and brighter, many humes became disillusioned by their maker's goals. Over time, desertion became increasingly common, leading to the _Ird Diaspora_, and the separation of hume civilization into the [gat](kins/hume.md#gat-culture) and [ird](kins/hume.md#ird-culture) cultures.
 
-<!--
-* birth of humes and imates.
-* first city-states: Fiele, Avshen, Alagyaz.
-* First Ctereth siege.
-* ~-300 birth of oths.
--->
+<!--NOTE. First siege of Ctereth by the irds?-->
 
+Ultimately, in one final siege, the humes arrived at the base of a tired Om, and, wielding Color, set the godtree on fire. The oric god burned through months, as the gats carried with the mass murder of imates in what's known as the _Ededian Genocide_.
+
+Pheter, dismayed by the work of their own creation, punished Et for demanding such atrocities. They engraved the fundamental signature of lightning upon Fusine, and then sent her to the heavens. From there, she used the signature to summon great thunder onto Et, fulminating the godtree in an instant, and marking year 0 in the calendar in a day known as _The Schism_.
+
+<!---------------------------------------------------------------------------->
 ## Dark Age
 _0 to 195 A.S._
 
 **TODO.**
 
-<!--second Ctereth siege.-->
 <!--40 year famine-->
-<!-- NOTE. Ededeian genocide ends with the death of king D'khan at the hands of Genadi. -->
 <!-- TODO. Add the Gat Diaspora (Bughna and Treb). -->
 <!--
 * **TODO. 32 A.S. The Ctereth sieges & the Armies of Healing.**
@@ -46,6 +46,7 @@ _0 to 195 A.S._
 * **TODO. 195 A.S. Establishment of the 7 Protectorates of the Sea and beginning of the reign of the God-Suzerain Olag.**
 -->
 
+<!---------------------------------------------------------------------------->
 ## Golden Age
 _195 to 621 A.S._
 
@@ -57,17 +58,16 @@ _195 to 621 A.S._
 
 <!--
 * **71.** Founding of Krudzal.
-* **102.** Third Ctereth siege.
 * **141.** Discovery of barkskins and Tek.
 * **143.** Babaian genocides (143 - 173).
-* **195.** Founding of the Seven Kingdoms.
-* **231.** Ededeian genocides (231 - 261), under Olag.
+* **195.** Founding of the Seven Kingdoms through the seven ziggurats.
+* **231.** more imate genocides (TODO. look up the names) (231 - 261), under Olag.
 * **411.** Vanishing of Hairuus.
 * **520.** Establishment of Tanethism.
 * **533.** Creation of Wordbinding.
 -->
 
-
+<!---------------------------------------------------------------------------->
 ## Age of Fog
 _621 A.S. to present day._
 
