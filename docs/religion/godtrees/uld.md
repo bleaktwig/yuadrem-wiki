@@ -1,2 +1,6 @@
 # Uld
-Uld was a purple kapok of breathtaking size that stood in the middle of the Everforest<!-- TODO. LINK. --> until it was destroyed in the Tidal Sway<!-- TODO. LINK. -->. It was planted by the goddess [Fusine](../mevic_gods/fusine.md), who herself would sit atop the tree's branches every two month to watch upon the world.
+Uld was the god-tree planted by [Fusine](../mevic_gods/fusine.md).
+
+Uld was a purple kapok tree of breathtaking scale, whose purple crown shaded the entirety of the [Everwoods](../../geography/wildlands.md#everwoods), and turned its center into a swamp known as the [Pale Blemish](../../geography/wildlands.md#pale-blemish). While the god-tree didn't produce any progeny, it befriended a band of wandering [oths](../../kins/oth.md), who established the old library of Ignelli<!-- TODO. Link. --> on the labyrinthian passageways created by Uld's trunk and roots.
+
+Along with the oths<!-- TODO. change with these oths' culture name when i have it. -->, the kapok tree invented the [uldian tree of languages](../../languages/index.md#uldian-tree), informing a deeply academic society. The goddess Fusine herself would come down every two months to Ignelli, visiting the oths and exchanging knowledge with them.

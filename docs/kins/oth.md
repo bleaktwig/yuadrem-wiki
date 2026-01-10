@@ -1,5 +1,15 @@
 # Oths
 **TODO.**
+
+<!--TODO.
+Differentiate between the oths that stayed with the humes and the ones that traveled south (these are all the oths of which enough survived to retain their culture):
+* one group stayed with the humes of naptane.
+* one group traveled south and established ignelli, now settled in Mbeat.
+* one group traveled further south, and settled the elderberry wilds and the ironwoods along with the irds of gronselar.
+
+Then, link here where appropriate (mentions of ignelli and shit).
+-->
+
 <!-- % !TEX root = ../main.tex
 \section{Dust Kin} \label{kin::oth}
 \DndDropCapLine{T}{he light beckons, and you follow.}

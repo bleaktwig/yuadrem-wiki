@@ -1,5 +1,5 @@
 # Pheter
-Pheter is the god of Disparity, Creation, and War.
+Pheter is the god of Disparity, Creation, War, and Spring.
 
 They were born from [Nix](nix.md) in the [_Nascency of Disparity_](../../history.md#prehistory), and their arrival led to the creation of everything. Pheter is the progenitor of the [damic](../index.md#damic-gods) and [mevic](../index.md#mevic-gods) gods, and all creation leads back to the divinity. They've revealed themself to mortals in many occasions, most commonly in the form of a pair of maguari storks, an equal balance of the six colors dancing through their bodies.
 

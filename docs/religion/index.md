@@ -16,11 +16,11 @@ Many a hume has a favorite among the gods, one whose ideals and teachings they m
 <!--Other religions do exist, but receive little attention in the modern world. Once widely practiced, the three most notorious ones are [Tsalemism](religions/tsalemism.md), [Igneism](religions/igneism.md), and [Cosmism](religions/cosmism.md).-->
 
 ## The Tanethist Pantheon
-### Two Primordial
+### The Two Primordial
 The two primordial are the primal forces that created everything that exists. They are uppermost in the pantheon, and every creature in the continent acts in their reverence by the mere act of being alive.
 
-* [**Nix**](primordials/nix.md), the god of Unity and the Cosmos.
-* [**Pheter**](primordials/pheter.md), the god of Disparity, Creation, and War.
+* [**Nix**](primordials/nix.md), the god of Unity and the cosmos.
+* [**Pheter**](primordials/pheter.md), the god of Disparity, creation, war, and spring.
 
 ### Damic Gods
 The damic gods, or _first gods_ in [Avshenese](../languages/index.md#avshenesian-family), are the firstborn of Pheter. They were the first disparity in the cosmos, light and dark, and inhabit the skies in the shape of the sun and the third moon, the darksun.
@@ -29,25 +29,25 @@ The damic gods, or _first gods_ in [Avshenese](../languages/index.md#avshenesian
 * [**Fagal**](damic_gods/fagal.md), the god of Black, darkness, mystery, beauty, oblivion, and property.
 
 ### Mevic Gods
-The **Mevic Gods**, or _gods of bone_, are the six aspects of Zash, and were created by the sun goddess and by Pheter in the [_Nascency of Color_](../history.md#prehistory). Most of the gods inhabit their circular sectors in the Ring of Color<!-- NOTE. Link? -->, with the exception of Febrid and Fusine, who travel the cosmos alongside Zash and Fagal.
+The Mevic Gods, or _gods of bone_, are the six aspects of Zash, and were created by the sun goddess and by Pheter in the [_Nascency of Color_](../history.md#prehistory). Most of the gods inhabit their circular sectors in the Ring of Color<!-- NOTE. Link? -->, with the exception of Febrid and Fusine, who travel the cosmos alongside Zash and Fagal.
 
 * [**Matevos**](mevic_gods/matevos.md), the goddess of Green, lightness, joy, and the domestication of animals.
 * [**Febrid**](mevic_gods/febrid.md), or Nuagal, is the goddess of Blue, cold, intellect, time, and winter.
 * [**Fusine**](mevic_gods/fusine.md), or Kegal, is the goddess of Purple, chaos, the stars, retribution, and thunder.
 * [**Vahan**](mevic_gods/vahan.md) is the god of Red, heaviness, mountains, and war.
-* [**Bagrat**](mevic_gods/bagrat.md) is the god of Orange, warmth, agriculture, benevolence, and summer.
-* [**Pagram**](mevic_gods/pagram.md) is the god of Yellow, order, civilization, and gold.
+* [**Bagrat**](mevic_gods/bagrat.md) is the god of Orange, warmth, agriculture, benevolence, vigor, and summer.
+* [**Pagram**](mevic_gods/pagram.md) is the god of Yellow, order, civilization, gold, and autumn.
 
-<!--v- TODO. CONTINUE EDITING FROM HERE ONWARD. -v--->
-**Oric Gods**, _godtrees_, or _gods of flesh_, were the first trees in the world. Each was born of a seed during the [_First Communion_](../history.md#prehistory), planted by their corresponding mevic god. Most of them have died, either in the [Schism](../history.md#war-of-spring) or in the Penance<!-- NOTE. Link. -->.
+### Godtrees
+The Oric Gods, or _gods of flesh_ in Avshenese, were the first trees in the world and are the creators of most living creatures in it. More commonly known as the _god-trees_, each was born of a seed during the [_First Communion_](../history.md#prehistory), planted by their corresponding mevic god. Despite being divine beings, they are physical, and thus, mortal. Regretfully, most of them have died, either in the [Schism](../history.md#war-of-spring) or in the [Penance](../history.md#age-of-tar).
 
-* [**Tek**](godtrees/tek.md), an immense banyan and parent to the [barkskin](../kins/barkskin.md), is the tree of Matevos.
-* [**Et**](godtrees/et.md), a blue birch and parent to [humes](../kins/hume.md), was the tree of Febrid.
-* [**Tol**](godtrees/tol.md) was another birch that sprouted from the stump of Et and is the parent of [oths](../kins/oth.md).
-* [**Uld**](godtrees/uld.md), a kapok of striking height, was the tree of Fusine.
-* [**Kan**](godtrees/kan.md), a plant unique in Yuadrem, was the tree of Vahan.
-* [**Om**](godtrees/om.md), a vigorous juniper and parent of the [imates](../kins/imate.md), is the tree of Bagrat.
-* [**Ur**](godtrees/ur.md), a yellow fir, was the tree of Pagram.
+* [**Tek**](godtrees/tek.md) is an immense banyan, shaded by imposing green crowns. It was planted by Matevos, and is the parent of the [barkskin](../kins/barkskin.md).
+* [**Et**](godtrees/et.md) was a blue birch with many-hued leaves. It was planted by Febrid, and is the creator of the [humes](../kins/hume.md).
+* [**Tol**](godtrees/tol.md) was another birch of a sickly white color. It sprouted from the burned stump of Et, and is the parent of [oths](../kins/oth.md).
+* [**Uld**](godtrees/uld.md) was a kapok tree of striking height and a purple crown. It was the tree of Fusine, and created no kin but educated many.
+* [**Kan**](godtrees/kan.md), a fire-starter tree unique in Yuadrem, was the tree of Vahan.
+* [**Om**](godtrees/om.md) is a vigorous orange juniper with shy saffron crowns. It was the tree of Bagrat, and spawned and raised the [imates](../kins/imate.md).
+* [**Ur**](godtrees/ur.md), a fir with countless golden crowns, was the tree of Pagram.
 
 <!--TODO. Turn some dead illuminants into planets! That way i can use all of the remaining etian signatures + that'd be cool + there's a pair of twin planets, reducing the illuminants i have to write by one!-->
 **Illuminants**, or _tovasic gods_ ("second gods" in Avshenese), are mortals selected by the gods to conduct pheter. They attain godhood through a ritual of ascension and generally move on to become the protagonists of legends. They become deities after death, watching over the world along with the mevic gods from their kingdom in the Ring of Color<!-- NOTE. Link. -->.

@@ -1,8 +1,9 @@
 # Humes
-[Et](../religion/godtrees/et.md) created humes to aid the oric god in the War of Spring<!-- TODO. Link. -->. Despite this, many opposed the conflict, or felt indifferent to it. They fled the company of their godtree, for which they were cursed with monochromacy. These humes came to be known as irds, and their dispersion as the [Ird Diaspora](../history.md#war-of-spring). The humes that remained with Et were blessed with Color, and are known as gats.
+[Et](../religion/godtrees/et.md) created humes to aid the oric god in the War of Spring<!-- TODO. Link. -->. Despite this, many opposed the conflict, or felt indifferent to it. They fled the company of their god-tree, for which they were cursed with monochromacy. These humes came to be known as irds, and their dispersion as the [Ird Diaspora](../history.md#war-of-spring). The humes that remained with Et were blessed with Color, and are known as gats.
 
-<!-- NOTE.
-    * Maybe mention what ird and gat mean in jantherlin? That might help integrate the language into the lore.
+<!-- TODO list:
+* Maybe mention what ird and gat mean in jantherlin? That might help integrate the language into the lore.
+* Change the names noves, bughna, treb, thulkraka, qulbaba, etc. mention that they exist, but say the names in english so they're more memorable and approachable.
 -->
 
 ---
@@ -21,7 +22,7 @@ The skin of a gat is generally dark, usually ranging from yellow, through brown,
 
 Except for the treb, gats are generally small, ranging from 140 to 170 centimeters on average. Another common feature across gats is their eyes; which are usually of strong colors. This feature is often attributed as a Blessing of Color<!-- TODO. Link. --> given by Et.
 
-While all original gats had horns, the feature has been lost through the centuries. Those birthed by the remains of the godtree, or Et-born, retain the horns. They are increasingly rare after the Penance, as nix<!-- TODO. Link. --> has destroyed the land that surrounds the tree.
+While all original gats had horns, the feature has been lost through the centuries. Those birthed by the remains of the god-tree, or Et-born, retain the horns. They are increasingly rare after the Penance, as nix<!-- TODO. Link. --> has destroyed the land that surrounds the tree.
 <!-- TODO. At some point I need to describe what an Et-born gat is. -->
 <!-- NOTE. Maybe describe what noves, bughna, and treb mean in Jantherlin/Avshenese. -->
 
@@ -113,7 +114,7 @@ Irds were said to have been cursed with feathers when they fled the War of Sprin
 Thulkraka, who settled in cold climates, used to wear vermilion fabrics with complex patterns above many layers of fur. Nowadays, while their attires are lighter, they keep this color despite the change in environment. Dratl, used to the desert of [Zoedrem](../geography/westlands.md#zoedrem), wore simple cyan and mint clothing to cool them and give them speed. The qulbaba in contrast often kept the colorful patterns from their old traditions, recently adapted to fibers rather than feathers.
 
 ### Origins and History
-The first humes to renounce the War of Spring and abandon Et were the irds. Persecuted by the godtree fanatics, they fled far from the [Horned Shores](../geography/fractured_lands.md#horned-shores), and far away from the grasp of Et. This event is known as the [Ird Diaspora](../history.md#war-of-spring). While many different ethnicities came from this event, the main ones that remain after the Penance are three. In order of their number, the thulkraka, the qulbaba, and the dratl.
+The first humes to renounce the War of Spring and abandon Et were the irds. Persecuted by the god-tree fanatics, they fled far from the [Horned Shores](../geography/fractured_lands.md#horned-shores), and far away from the grasp of Et. This event is known as the [Ird Diaspora](../history.md#war-of-spring). While many different ethnicities came from this event, the main ones that remain after the Penance are three. In order of their number, the thulkraka, the qulbaba, and the dratl.
 
 The thulkraka migrated to the northernmost regions of Yuadrem, establishing the old nation of Krudzal around the north pole. Here, they were the first to develop ironworking, with which they built imposing sailing ships with iron hulls. Krudzalites used these vessels to claim many territories in the continent, later forming many independent states such as Gronselar<!-- TODO. Link. --> and Kaldrathal, among others.
 

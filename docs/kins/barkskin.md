@@ -50,7 +50,7 @@ In addition, there exists some barkskin immigration toward the Peninsula proper.
 ### Traditions and Religion
 **Birth.**
 As part of the process where tekust takes over a body, the newborn barkskin communes with Tek for the first time.
-The godtree teaches the barkskin [Gannagian](../languages/index.md#naenkian-family) along with the tenets of their society.
+The god-tree teaches the barkskin [Gannagian](../languages/index.md#naenkian-family) along with the tenets of their society.
 While its uncommon, some barkskins are born outside of Tek's hyphan network.
 They lack this innate connection, and most become unable to commune with the tree.
 
@@ -87,8 +87,8 @@ They believe in the tree gods and their relation to the Ring of Color, but not o
 They think of the illuminants as powerful shamans, rather than divine beings.
 
 Tekists attain knowledge to later give it to Tek.
-They see themselves as a detached part of the godtree, and await their eventual return.
-They also commune with Tek through meditation and the consumption of nahan <!-- NOTE. I-water in Knaenese -->, a strong psychedelic made by fermenting the sap of the godtree.
+They see themselves as a detached part of the god-tree, and await their eventual return.
+They also commune with Tek through meditation and the consumption of nahan <!-- NOTE. I-water in Knaenese -->, a strong psychedelic made by fermenting the sap of the god-tree.
 
 ### Names
 A barkskin is born without a name, and remain nameless most of their youth.
@@ -118,7 +118,7 @@ They hunt for sustenance and to gather fresh corpses.
 \subsection*{Call to Adventure}
     A naenk rarely leaves the Drejek jungle in which they are born.
     However, many reasons can spark the need for a naenk or an entire band to abandon their home.
-    A band may leave engaging on a quest, as commanded by Tekatsae itself, or in shame after failing in one.
+    A band may leave engaging on a quest, as commanded by Tek itself, or in shame after failing in one.
     The most common bands abandoning the tribe are those that failed on their initiation rite, culled by the vicious whowie.
 
     While in groups they may be savage, individual naenks are not completely insensitive people.
@@ -130,7 +130,7 @@ They hunt for sustenance and to gather fresh corpses.
     % Due to the fact that the kin can't reproduce by themselves, they protect the tree with their lives and, under normal circumstances, won't allow anyone to even approach it.
 
     There is an old legend of a courageous band that will one day sneak into Ctereth's lair and steal a huge bounty of qualars.
-    These will be used to grow a second tree, brother to Tekatsae, improving the kin's survival by a large margin.
+    These will be used to grow a second tree, brother to Tek, improving the kin's survival by a large margin.
     Many groups have tried to become this band of legend, but none has returned thus far.
 
 \begin{figure}[!b]
@@ -174,7 +174,7 @@ They hunt for sustenance and to gather fresh corpses.
 
     \subparagraph{Subraces} Naenks are most easily separated by their home - Gannag or Na'ane.
 
-    The most common of their kin, Gannagian naenks are the members of the tribes that surround the Tekatsae tree.
+    The most common of their kin, Gannagian naenks are the members of the tribes that surround the Tek tree.
     They have a very strong sense of community and an excellent capacity to work as a team.
     Any one naenk will easily give their life without second thought for their people and for their way of life.
 
@@ -223,7 +223,7 @@ They hunt for sustenance and to gather fresh corpses.
 
     These naenks drink a special beverage upon arrival known as nahan cooked by the nations sovereigns.
     % NOTE. Nahan literally means "I-water" in Knaenese.
-    Nahan weakens the bond of the naenk with the Tekatsae tree, forcing them to attain a qualar to remain sentient.
+    Nahan weakens the bond of the naenk with the Tek tree, forcing them to attain a qualar to remain sentient.
     % As a side effect, it also extends the naenk's life, pushing it to about 50 years.
 
     \subparagraph{Ability Score Increase} You are learned the way of the tsaneks, and your Wisdom score increases by one.
@@ -262,11 +262,11 @@ And there be... there be mushrooms! An entire city of mushrooms!}
 
 % The highest ranking members of their society are the sovereigns and elder sovereigns, who are tsaneks that reached their final stage of development.
 % The former are huge mobile tsaneks that take root in strategic positions in Drejek to establish their complex communication network.
-% The latter are the eldest in the tribe, and merge with Tekatsae itself.
+% The latter are the eldest in the tribe, and merge with Tek itself.
 % They directly speak to the tree, communicating its wishes to the sovereigns and shamans via their root network.
 
 Also known as tsaneks in the naenk tongue, the fungal kin is a species of intelligent fungi creature that inhabit swamps, forests, and caverns.
-They are commonly seen in the jungle of Drejek, as members of the tribes near the tekatsae tree.
+They are commonly seen in the jungle of Drejek, as members of the tribes near the Tek tree.
 Like the naenks, tsaneks grow from the tree itself, starting out as small russet-colored fungi in the tree's base and exposed roots, until they're able to grow legs and emerge.
 Unlike the naenks, the fungal kin are capable of reproducing by themselves, and it's very common to find independent tsanek communities in the darker reaches of Yuadrem.
 
@@ -278,13 +278,13 @@ If approached peacefully, they gladly provide shelter or passage through their c
     They are considered above their mossy companions in their social circles, and are generally treated with respect among them.
 
     When a tsanek reaches 100 years, it is put through the rite of growth.
-    The tsanek must ceremoniously consume a mixture of the sap of tekatsae, wyvernroot, and water of the boiling river. % Wyvernroot is a strong poisonous plant native to Drejek.
-    Next, it must enter a chamber of awareness, which are small caverns below tekatsae.
+    The tsanek must ceremoniously consume a mixture of the sap of Tek, wyvernroot, and water of the boiling river. % Wyvernroot is a strong poisonous plant native to Drejek.
+    Next, it must enter a chamber of awareness, which are small caverns below Tek.
     The tsanek is only left out after a month in isolation.
-    Most of the tsaneks that go through this ritual die, and are consumed by tekatsae, bringing them back to the tree.
+    Most of the tsaneks that go through this ritual die, and are consumed by Tek, bringing them back to the tree.
     The ones that don't become the highest ranking members of their tribal societies: Sovereigns.
     Tsanek sovereigns are large, malformed creatures that reign over the tribes.
-    They are the only creatures capable of directly speaking with tekatsae, and thus are the only that can communicate its wishes to the tribes.
+    They are the only creatures capable of directly speaking with Tek, and thus are the only that can communicate its wishes to the tribes.
 
 \subsection*{Circles and Melds}
     Many tsaneks, feeling unprepared, leave the tribes before this ritual.
@@ -300,7 +300,7 @@ If approached peacefully, they gladly provide shelter or passage through their c
 
 \subsection*{Tsanek Reproduction}
     Like other fungi, tsanek reproduce by mundane sporing.
-    They are the only race that can retain their sentience without qualar, but if their spores grow without the influence of tekatsae or a particularly old sovereign, the sprouting quickly becomes feral, unable to retain sentience.
+    They are the only race that can retain their sentience without qualar, but if their spores grow without the influence of Tek or a particularly old sovereign, the sprouting quickly becomes feral, unable to retain sentience.
     Due to this, tsaneks carefully control their spores' release.
 
     Tsaneks are known to feel very little connection to their offspring.
@@ -309,7 +309,7 @@ If approached peacefully, they gladly provide shelter or passage through their c
     It is rare if young tsaneks can even identify their parents.
 
 \subsection*{Call to Adventure}
-    While many tsanek are needed in the tribes near tekatsae for managerial tasks, it is not unusual for some to travel the globe to learn.
+    While many tsanek are needed in the tribes near Tek for managerial tasks, it is not unusual for some to travel the globe to learn.
     Most focus their study on the qualar and cter'rheth, bringing this knowledge back to their tribes.
 
     Cavern tsaneks regularly travel the many caves below Yuadrem, and some even settle outside of their colonies, most usually in dark gat cities.
@@ -371,8 +371,8 @@ If approached peacefully, they gladly provide shelter or passage through their c
 \end{table*}
 
 \subsubsection{Gannagian Tsanek}
-    Fungal kin that are members of the tribes in Drejek which surround tekatsae.
-    Like their mold kin brothers, they have a very strong sense of community and devotion to their groups, the sovereigns and the tekatsae tree.
+    Fungal kin that are members of the tribes in Drejek which surround Tek.
+    Like their mold kin brothers, they have a very strong sense of community and devotion to their groups, the sovereigns and the Tek tree.
     They are the spiritual leaders of the different groups, and focus on coordinating the tribes and communicating with the sovereigns.
 
     \subparagraph{Ability Score Increase} You focused much of life in study, and your Wisdom score increases by 1.
@@ -387,7 +387,7 @@ If approached peacefully, they gladly provide shelter or passage through their c
     You can produce these spores a number of times equal to your Constitution modifier (minimum of 1) per long rest.
 
 \subsubsection{Na'anian Tsanek}
-    Sometimes, a tsanek will decide to abandon the tribe and break its link with the tekatsae tree.
+    Sometimes, a tsanek will decide to abandon the tribe and break its link with the Tek tree.
     These tsanek, unable to forgo their community lifestyles, tend to join or form fungus kin communities in the caverns of the world, sometimes spawning huge underground fungus cities.
 
     \subparagraph{Ability Score Increase} Your meandering in hostile environments has granted you increased resilience, and your Constitution score is increased by 1.

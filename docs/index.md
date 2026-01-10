@@ -11,7 +11,7 @@ Yuadrem was first settled by the firstborn oric gods, [Et](religion/godtrees/et.
 
 To aid in the eternal battle, Et created the [humes](kins/hume.md), a kin as malleable as the god. Et bestowed upon humes Chromology<!-- TODO. Link. -->, teaching them to wage war using Color. Om in turn created [imates](kins/imate.md), a smaller kin able to traverse the forests of Et's children with ease. The imates were gifted Apomantics<!-- TODO. Link. -->, and fought using Word.
 
-The conflict ended with the burning of both Et and Om, an event known as the [Schism](history.md#war-of-spring). The primordial one [Pheter](religion/primordials/pheter.md), angered by the death of the god, retaliated by striking Et with lightning. The blast burned the godtree, and brought the 40-Year Famine<!-- TODO. Link. --> to both humes and imates. This event marks the year 0, and the beginning of history.
+The conflict ended with the burning of both Et and Om, an event known as the [Schism](history.md#war-of-spring). The primordial one [Pheter](religion/primordials/pheter.md), angered by the death of the god, retaliated by striking Et with lightning. The blast burned the god-tree, and brought the 40-Year Famine<!-- TODO. Link. --> to both humes and imates. This event marks the year 0, and the beginning of history.
 
 --------------------------------------------------------------------------------
 ## Geography
@@ -47,11 +47,11 @@ An isola is defined as a region either devoid of nix, or only seasonably affecte
 ***Pictured:***
 *Old world migration map of Yuadrem, drawn in 787 A.S. by the Fremite Monastery in Uvarme. It includes all known mass movements of people from the [Ird Diaspora](history.md#war-of-spring) of ~80 B.S. to the Na'anian migration of 445 A.S. Migrations after the Penance are not pictured. The authors separated the four kins (and gats from irds) using colored lines.*
 
-The peoples of Yuadrem are separated into four distinct kins. Each kin was created by a different godtree, and each was then further divided by ethnic differences. These differences led to the formation of nations during the Golden Age<!-- TODO. Link. -->, the erosion of which later led to the [sumis](isolas/fesh_peninsula/ane-kene.md#buda-and-sumi).
+The peoples of Yuadrem are separated into four distinct kins. Each kin was created by a different god-tree, and each was then further divided by ethnic differences. These differences led to the formation of nations during the Golden Age<!-- TODO. Link. -->, the erosion of which later led to the [sumis](isolas/fesh_peninsula/ane-kene.md#buda-and-sumi).
 
 * [Humes](kins/hume.md), born from Et, are as adaptable as their creator. They became the dominant kin in Yuadrem after the Schism, and remain in this position even after the Penance.
 * [Imates](kins/imate.md), born from Om, are hardy nomads that roam the remaining forests of Yuadrem. Decimated by both the War of Spring and posterior genocides, they have proven to be a deceptively hardy people.
-* [Oths](kins/oth.md) are a moth-like kin, a quiet people with a natural tendency towards knowledge. Created by the godtree [Tol](religion/godtrees/tol.md), they're often seen as enigmatic as their creator.
+* [Oths](kins/oth.md) are a moth-like kin, a quiet people with a natural tendency towards knowledge. Created by the god-tree [Tol](religion/godtrees/tol.md), they're often seen as enigmatic as their creator.
 * [Barkskins](kins/barkskin.md) are bone and wood golems, animated by the [god-tree Tek](religion/godtrees/tek.md). While often considered too aggressive for peaceful interaction, an alliance has been recently broken between them and the sumi of Fremit<!-- TODO. Link. -->.
 
 <!-- TODO. Maybe talk a bit about each kin and their relevant migrations. -->

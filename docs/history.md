@@ -12,13 +12,13 @@ Now having ground to stand on, the primordial god continued to create disparity 
 
 They created weight by separating heaviness, Red, from lightness, Green, giving birth to [Vahan](religion/mevic_gods/vahan.md) and [Matevos](religion/mevic_gods/matevos.md). They created heat by separating warmth, Orange, from cold, Blue, giving birth to [Bagrat](religion/mevic_gods/bagrat.md) and [Febrid](religion/mevic_gods/febrid.md). And, finally, they created entropy by separating order, Yellow, from chaos, Purple, giving birth to [Pagram](religion/mevic_gods/pagram.md) and [Fusine](religion/mevic_gods/fusine.md).
 
-After reaching adulthood, the mevic gods created something for the first time. In an act known as the _First Communion_, each conceived a seed and planted it into the land. Each seed then grew into a godtree—an oric god, from which all life on Yuadrem was born. This act, however, infuriated the first primordial one, for the seeds that the gods created had no opposite, and as such upset balance in the Cosmos. As punishment, Nix created the Ring of Color<!-- NOTE. Link. -->, which would become the prison of Pheter, Zash, and all the colors.
+After reaching adulthood, the mevic gods created something for the first time. In an act known as the _First Communion_, each conceived a seed and planted it into the land. Each seed then grew into a god-tree—an oric god, from which all life on Yuadrem was born. This act, however, infuriated the first primordial one, for the seeds that the gods created had no opposite, and as such upset balance in the Cosmos. As punishment, Nix created the Ring of Color<!-- NOTE. Link. -->, which would become the prison of Pheter, Zash, and all the colors.
 
 Furthermore, while Pheter and Zash were engrossed in their act of creation, Fagal had silently retreated to witness from the heavens, observing with resentment. While the divinities were lamenting their exile, the damic god struck the Ring and split it into two, forever separating the mevic gods from their siblings and thrusting Zash into the skies, to fly opposite to Fagal forevermore.
 
-Back on Yuadrem, the godtrees realized they were free from the constrains that their predecessors had: they could create unimpeded by Nix's limitations. They created mineral, plant, and fungus, filling the continent with life. But it was [Om](religion/godtrees/om.md), the orange juniper, who added movement to this life. Through its fruit, it conceived fishes to roam the seas, animals to roam the lands, and birds to roam the skies.
+Back on Yuadrem, the god-trees realized they were free from the constrains that their predecessors had: they could create unimpeded by Nix's limitations. They created mineral, plant, and fungus, filling the continent with life. But it was [Om](religion/godtrees/om.md), the orange juniper, who added movement to this life. Through its fruit, it conceived fishes to roam the seas, animals to roam the lands, and birds to roam the skies.
 
-But while most godtrees rejoiced, one harbored jealousy. [Et](religion/godtrees/et.md), the blue birch, disagreed with Om, wishing for a cold, still world. It devised a plan, and spawned the first sentient creature to enact it: the [hume](kins/hume.md).
+But while most god-trees rejoiced, one harbored jealousy. [Et](religion/godtrees/et.md), the blue birch, disagreed with Om, wishing for a cold, still world. It devised a plan, and spawned the first sentient creature to enact it: the [hume](kins/hume.md).
 
 <!--NOTE. Include a picture of the cosmos?-->
 <!--NOTE. Include a picture of the ring of color?-->
@@ -29,15 +29,15 @@ Following Et's wishes, humes crafted swords and spears, built cities and fortres
 
 Om, fearing the humes' fire, produced a sentient creature of its own, the [imates](kins/imate.md). Imates could not build like humes, but they were blessed with Word<!-- TODO. Link. --> by their creator. Via Word, they wielded the essence of Pheter that remained after the god's departure, conducting the six aspects of the mevic gods. Weight, heat, and entropy could be wielded as shields against humes, and thus imates created apomantics<!-- TODO. Link. -->.
 
-While apomantics proved an effective barrier, the blue godtree had another gift for the humes in store. It gifted them Color<!-- TODO. Link. -->, through which they could also govern the remaining essence of Pheter, and thus humes created chromology<!-- TODO. Link. -->
+While apomantics proved an effective barrier, the blue god-tree had another gift for the humes in store. It gifted them Color<!-- TODO. Link. -->, through which they could also govern the remaining essence of Pheter, and thus humes created chromology<!-- TODO. Link. -->
 
 As the war between oric gods burned brighter and brighter, many humes became disillusioned by their maker's goals. Over time, desertion became increasingly common, leading to the _Ird Diaspora_, and the separation of hume civilization into the [gat](kins/hume.md#gat-culture) and [ird](kins/hume.md#ird-culture) cultures.
 <!--NOTE. Maybe talk a bit more here about the 4 "faces" of the ird diaspora; thulkrakan, hairusse, qulbaban, and dratlean. *Or*, make a new page only on the ird diaspora. -->
 <!--NOTE. First siege of Ctereth by the irds?-->
 
-Ultimately, in one final siege, the humes arrived at the base of a tired Om, and, wielding Color, set the godtree on fire. The oric god burned through months, as the gats carried with the mass murder of imates in what's known as the _Ededian Genocide_.
+Ultimately, in one final siege, the humes arrived at the base of a tired Om, and, wielding Color, set the god-tree on fire. The oric god burned through months, as the gats carried with the mass murder of imates in what's known as the _Ededian Genocide_.
 
-Pheter, dismayed by the work of their own creation, punished Et for demanding such atrocities. They engraved the fundamental signature of lightning upon Fusine, and then sent her to the heavens. From there, she used the signature to summon great thunder onto Et, fulminating the godtree in an instant, and marking year 0 in the calendar in a day known as _The Schism_.
+Pheter, dismayed by the work of their own creation, punished Et for demanding such atrocities. They engraved the fundamental signature of lightning upon Fusine, and then sent her to the heavens. From there, she used the signature to summon great thunder onto Et, fulminating the god-tree in an instant, and marking year 0 in the calendar in a day known as _The Schism_.
 
 <!---------------------------------------------------------------------------->
 ## Dark Age
@@ -99,5 +99,6 @@ _621 A.S. to present day._
 * **712.** Death of TODO - Collapse of Meghritan.
 * **716.** Treatise of Five Bridges.
 * **722.** Pilgrimage of Nikoleta.
+* **761.** somewhere around here, the lesser Omietian war~~
 * **802.** Present date.
 -->

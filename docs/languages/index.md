@@ -9,7 +9,7 @@ There are currently 16 recognized languages spoken in the Fesh Peninsula<!-- TOD
 ![Language Tree](img/language_tree.y798_v100_dpi300.png)
 _A comprehensive overlook of the languages spoken in the Fesh Peninsula, 798 A.S.. The branches represent the divergence of families, while the leaf clusters are the languages currently spoken. The size of each leaf cluster is a rough approximation of the number of speakers by the year of production. Recorded by the Umean monastery._
 
-_Omietian languages_ are those that were taught by [Et](../religion/godtrees/et.md), [Om](../religion/godtrees/om.md), and [Tol](../religion/godtrees/tol.md) to their respective kins: [humes](../kins/hume.md), [imates](../kins/imate.md), and [oths](../kins/oth.md). While etian and omian branches were taught by different godtrees, they share many common roots, leading to the theory that they sprung from one original tongue.
+_Omietian languages_ are those that were taught by [Et](../religion/godtrees/et.md), [Om](../religion/godtrees/om.md), and [Tol](../religion/godtrees/tol.md) to their respective kins: [humes](../kins/hume.md), [imates](../kins/imate.md), and [oths](../kins/oth.md). While etian and omian branches were taught by different god-trees, they share many common roots, leading to the theory that they sprung from one original tongue.
 
 <!---------------------------------------------------------------------------->
 ## Etian Branch
@@ -38,7 +38,7 @@ Some time before the avshenesian family sprouted from Jantherlin, the _harualian
 
 <!---------------------------------------------------------------------------->
 ### Shamabic Family
-After the godtree Tol spawned from the corpse of Et, it spawned the oth kin. Oths quickly integrated into the Seven Protectorates, but cultivated their own vocabularies directly from Jantherlin: the _shamabic family_.
+After the god-tree Tol spawned from the corpse of Et, it spawned the oth kin. Oths quickly integrated into the Seven Protectorates, but cultivated their own vocabularies directly from Jantherlin: the _shamabic family_.
 
 **Fruenese** was the first language made by the oths. It is highly practical and has a very simple syntax, reflecting the pragmatism of the kin. Fruenese is now the main tongue spoken in the chiefdom of Nalash<!-- TODO. Link. --> and the island of Trevit<!-- TODO. Link. -->.
 
@@ -54,7 +54,7 @@ The **True Tongue** was the third and final language in the shamabic family. It'
 
 <!---------------------------------------------------------------------------->
 ### Naenkian Family
-Since Tek talks through its root system and spores, the godtree did not teach any tongue to the [barkskin](../kins/barkskin.md). They were, however, later taught verbal language by the imates, establishing communication between the two kins. Barkskins learned a modified version of Babazano adapted to their unique morphology, which turned into the _naenkian family_.
+Since Tek talks through its root system and spores, the god-tree did not teach any tongue to the [barkskin](../kins/barkskin.md). They were, however, later taught verbal language by the imates, establishing communication between the two kins. Barkskins learned a modified version of Babazano adapted to their unique morphology, which turned into the _naenkian family_.
 
 **Gannagian**, sometimes referred to as Old Knaenese, is the first tongue forked from Babazano. Lacking teeth and lips, barkskins communicate only with their alveolar ridge and palate, and as such Gannagian words have very rough sounds, and are hard to learn for members of the other kins. Gannagian is only spoken in Gannag<!-- TODO. Link. -->, and is the basis for the gannagian apomantic system<!-- TODO. Link. -->.
 
@@ -64,7 +64,7 @@ Since Tek talks through its root system and spores, the godtree did not teach an
 
 <!---------------------------------------------------------------------------->
 ## Uldian Tree
-Under the tutelage of the godtree [Uld](../religion/godtrees/uld.md), the oths of Ignelli<!-- TODO. Link. --> invented the _uldian tree_ of languages. These didn't spread far from the [everwoods](../geography/wildlands.md#everwoods), but somehow managed to survive the Penance.
+Under the tutelage of the god-tree [Uld](../religion/godtrees/uld.md), the oths of Ignelli<!-- TODO. Link. --> invented the _uldian tree_ of languages. These didn't spread far from the [Everwoods](../geography/wildlands.md#everwoods), but managed to survive the Penance with the oths that migrated into the Fesh Peninsula.
 
 **Odhualen** is a very unique tongue, sharing almost no characteristic with the other dialects of Yuadrem. It is the main language spoken in the island-nation of Mbeat<!-- TODO. Link. -->, and it has also recently gained popularity among scholars due to the conciseness of its writing system.
 
