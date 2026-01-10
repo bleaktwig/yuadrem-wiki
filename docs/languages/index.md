@@ -6,7 +6,7 @@
 # Languages
 There are currently 16 recognized languages spoken in the Fesh Peninsula<!-- TODO. Link. -->, most of which have many dialects. They are split into two distinct sections: _Omietian_ and _Uldian_ language trees.
 
-![Language Tree](../img/language_tree.y798_v100_dpi300.png)
+![Language Tree](img/language_tree.y798_v100_dpi300.png)
 _A comprehensive overlook of the languages spoken in the Fesh Peninsula, 798 A.S.. The branches represent the divergence of families, while the leaf clusters are the languages currently spoken. The size of each leaf cluster is a rough approximation of the number of speakers by the year of production. Recorded by the Umean monastery._
 
 _Omietian languages_ are those that were taught by [Et](../religion/godtrees/et.md), [Om](../religion/godtrees/om.md), and [Tol](../religion/godtrees/tol.md) to their respective kins: [humes](../kins/hume.md), [imates](../kins/imate.md), and [oths](../kins/oth.md). While etian and omian branches were taught by different godtrees, they share many common roots, leading to the theory that they sprung from one original tongue.
