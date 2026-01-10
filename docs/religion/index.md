@@ -38,7 +38,7 @@ The Mevic Gods, or _gods of bone_, are the six aspects of Zash, and were created
 * [**Bagrat**](mevic_gods/bagrat.md) is the god of Orange, warmth, agriculture, benevolence, vigor, and summer.
 * [**Pagram**](mevic_gods/pagram.md) is the god of Yellow, order, civilization, gold, and autumn.
 
-### Godtrees
+### God-trees
 The Oric Gods, or _gods of flesh_ in Avshenese, were the first trees in the world and are the creators of most living creatures in it. More commonly known as the _god-trees_, each was born of a seed during the [_First Communion_](../history.md#prehistory), planted by their corresponding mevic god. Despite being divine beings, they are physical, and thus, mortal. Regretfully, most of them have died, either in the [Schism](../history.md#war-of-spring) or in the [Penance](../history.md#age-of-tar).
 
 * [**Tek**](godtrees/tek.md) is an immense banyan, shaded by imposing green crowns. It was planted by Matevos, and is the parent of the [barkskin](../kins/barkskin.md).
@@ -49,7 +49,10 @@ The Oric Gods, or _gods of flesh_ in Avshenese, were the first trees in the worl
 * [**Om**](godtrees/om.md) is a vigorous orange juniper with shy saffron crowns. It was the tree of Bagrat, and spawned and raised the [imates](../kins/imate.md).
 * [**Ur**](godtrees/ur.md), a fir with countless golden crowns, was the tree of Pagram.
 
+### Illuminants
 <!--TODO. Turn some dead illuminants into planets! That way i can use all of the remaining etian signatures + that'd be cool + there's a pair of twin planets, reducing the illuminants i have to write by one!-->
+<!-- TODO. Mention **early** that some illuminants go to the heavens after death. -->
+
 **Illuminants**, or _tovasic gods_ ("second gods" in Avshenese), are mortals selected by the gods to conduct pheter. They attain godhood through a ritual of ascension and generally move on to become the protagonists of legends. They become deities after death, watching over the world along with the mevic gods from their kingdom in the Ring of Color<!-- NOTE. Link. -->.
 
 * **The God-Suzerain Olag**<!-- NOTE. Link. -->, perhaps the most important of the tovasic gods, was the suzerain of the Seven Protectorates of the Sea<!-- NOTE. Link. -->. They died in the Night of the Four Colors<!-- NOTE. Link. -->, and now rule in death alongside Febrid.

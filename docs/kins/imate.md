@@ -47,9 +47,9 @@ Due to their differences, oras and arsets tend to take different roles in their 
 <!-- NOTE. The building of a village is a collective task. -->
 
 **Tradition and Tanethism.**
-Imate tradition follows the belief in the divinity of the tree-gods and their relation to the Ring of Color<!-- TODO. Link. -->. They associate the god-trees to the six world signatures<!-- TODO. I should explain this in the cosmology page... -->, and have unique signatures for each of the seven trees<!-- NOTE. Draw these signatures whenever I work on the imate apomantic system. -->. In general they don't place Om above the other god-trees, but they do praise their dead god more than the others.
+Imate tradition follows the belief in the divinity of the [god-trees](../religion/index.md#god-trees) and their relation to the Ring of Color<!-- TODO. Link. -->. They associate the god-trees to the six world signatures<!-- TODO. I should explain this in the cosmology page... -->, and have unique signatures for each of the seven trees<!-- NOTE. Draw these signatures whenever I work on the imate apomantic system. -->. In general they don't place Om above the other god-trees, but they do praise their dead god more than the others.
 
-While many have adapted to Tanethism, their traditional cosmology does not recognize the Mevic Gods<!-- TODO. Link. --> as the makers of the tree-gods. They do, however, recognize Pheter<!-- TODO. Link. --> and Nix<!-- TODO. Link. --> as the forces of creation, and recognize the connection that Illuminants<!-- TODO. Link. --> have with Pheter.
+While many have adapted to Tanethism, their traditional cosmology does not recognize the [mevic gods](../religion/index.md#mevic-gods) as the makers of the god-trees. They do, however, recognize [Pheter](../religion/primordials/pheter.md) and [Nix](../religion/primordials/nix.md) as the forces of creation, and recognize the connection that [Illuminants](../religion/index.md#illuminants) have with Pheter.
 
 ## Names
 <!-- TODO. Rework babazano a bit. Keep the silliness and the consonants, but try to adapt some avshenesian/frisian words to it. Also, very old words have repeated syllables, but it's not so common anymore. -->

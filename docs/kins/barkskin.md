@@ -84,7 +84,7 @@ Natural processes return the nutrients of the body to the earth, as Tek returns 
 Most barkskins native to Drejek follow the tekist philosophy, which combines religion and philosophical reasoning.
 While the mode of thinking is somewhat compatible of [Tanethism](../religion/index.md), there are some major differences regarding their divinities.
 They believe in the tree gods and their relation to the Ring of Color, but not on the other orders of gods.
-They think of the illuminants as powerful shamans, rather than divine beings.
+They think of the [illuminants](../religion/index.md#illuminants) as powerful shamans, rather than divine beings.
 
 Tekists attain knowledge to later give it to Tek.
 They see themselves as a detached part of the god-tree, and await their eventual return.
