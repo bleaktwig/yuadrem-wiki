@@ -14,7 +14,7 @@ They created weight by separating heaviness, Red, from lightness, Green, giving 
 
 After reaching adulthood, the mevic gods created something for the first time. In an act known as the _First Communion_, each conceived a seed and planted it into the land. Each seed then grew into a god-tree—an oric god, from which all life on Yuadrem was born. This act, however, infuriated the first primordial one, for the seeds that the gods created had no opposite, and as such upset balance in the Cosmos. As punishment, Nix created the Ring of Color<!-- NOTE. Link. -->, which would become the prison of Pheter, Zash, and all the colors.
 
-Furthermore, while Pheter and Zash were engrossed in their act of creation, Fagal had silently retreated to witness from the heavens, observing with resentment. While the divinities were lamenting their exile, the damic god struck the Ring and split it into two, forever separating the mevic gods from their siblings and thrusting Zash into the skies, to fly opposite to Fagal forevermore.
+Furthermore, while Pheter and Zash were engrossed in their act of creation, Fagal had silently retreated to witness from the heavens, observing with resentment. While the divinities were lamenting their exile, the damic god struck the Ring and split it into two, forever separating the mevic gods from their siblings and thrusting Zash into the heavens, to fly opposite to Fagal forevermore.
 
 Back on Yuadrem, the god-trees realized they were free from the constrains that their predecessors had: they could create unimpeded by Nix's limitations. They created mineral, plant, and fungus, filling the continent with life. But it was [Om](religion/godtrees/om.md), the orange juniper, who added movement to this life. Through its fruit, it conceived fishes to roam the seas, animals to roam the lands, and birds to roam the skies.
 
@@ -73,7 +73,10 @@ _195 to 621 A.S._
 * **231.** more imate genocides (TODO. look up the names) (231 - 261), under Olag.
 * **411.** Vanishing of Hairuus.
 * **520.** Establishment of Tanethism.
-* **533.** Creation of Wordbinding.
+* **533.** Creation of Wordbinding??
+* **??** rebellion starts.
+* 620 use of all-storm.
+* 621: night of the fourth color, death of Olag.
 -->
 
 <!---------------------------------------------------------------------------->

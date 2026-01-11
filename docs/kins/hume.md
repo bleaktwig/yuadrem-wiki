@@ -45,7 +45,7 @@ After the Schism, the surviving gats separated into three groups: noves, bughna,
 
 Bughna gats endured the 40-Year Famine<!-- TODO. Link. --> by adopting a nomadic lifestyle, one which defines them still. These humes became known as great pastors and merchants. They strengthened the bond between the protectorates, in part allowing the establishment of the large gat civilization. Even today they are often associated to good luck.
 
-Not all progeny of Et was born equal, and the treb are the perfect example. They are larger and bulkier than the average hume, and were often the first line of attack in the War of Spring. Treb gats were regarded as brutish, and didn't fit the civilization built by the noves. They were exiled by Olag<!-- TODO. Link. --> during the third century, and most established a new home in the Dead Sea<!-- TODO. Link. -->.
+Not all progeny of Et was born equal, and the treb are the perfect example. They are larger and bulkier than the average hume, and were often the first line of attack in the War of Spring. Treb gats were regarded as brutish, and didn't fit the civilization built by the noves. They were exiled by the [god-suzerain Olag](../religion/illuminants/olag.md) during the third century, and most established a new home in the Dead Sea<!-- TODO. Link. -->.
 <!-- NOTE. Treb gats are not *born* brutish. While their culture may seem "violent", they are very religious and show a sophistication with nature that is not commonly seen in other humes. -->
 
 ### Traditions and Religion

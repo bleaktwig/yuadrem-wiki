@@ -21,7 +21,7 @@ The conflict ended with the burning of both Et and Om, an event known as the [Sc
 
 ![Map of Yuadrem](img/world_map_y604_v083.png)
 ***Pictured:***
-_Trade map of Yuadrem, drawn in 604 A.S. (After the [Schism](history.md#war-of-spring)) by Marim of Avshen under the commission of Olag, the God-Suzerain of Naptane. The region colored in green corresponds to the Seven Protectorates of the Sea. Other colors represent the tax and penalty applied to trade in those regions. This map is proof of the healthy state of maritime travel and trade during the golden age._
+_Trade map of Yuadrem, drawn in 604 A.S. (After the [Schism](history.md#war-of-spring)) by Marim of Avshen under the commission of [Olag](religion/illuminants/olag.md), the God-Suzerain of Naptane. The region colored in green corresponds to the Seven Protectorates of the Sea. Other colors represent the tax and penalty applied to trade in those regions. This map is proof of the healthy state of maritime travel and trade during the golden age._
 
 Yuadrem is a supercontinent, the only such landmass in the world, Darhoc<!-- TODO. Link. -->. The topography is varied, split by four different mountain ranges. Due to its large extension from north to south, the climate and ecology vary widely, from the tundras of [Stinos](geography/northern_territories.md#stinos) to the rainforests of [Drejek](geography/westlands.md#krejek).
 
@@ -36,7 +36,7 @@ Due to its size, Yuadrem is often divided into six distinct regions: the [Northe
 --------------------------------------------------------------------------------
 ## Sociology
 ### Politics
-Back in the golden age, Yuadrem was split into various nations, each with their own population centers and varied economies. This era of peace lasted until the death of god-suzerain Olag<!-- TODO. Link. --> in 621 A.S. (After the Schism), an event that sparked the Penance<!-- TODO. Link. -->. With the Penance, an irisdescent tar known as nix<!-- TODO. Link. --> began rolling over the continent. This caused mass migrations, separating the peoples into isolas.
+Back in the golden age, Yuadrem was split into various nations, each with their own population centers and varied economies. This era of peace lasted until the death of god-suzerain [Olag](religion/illuminants/olag.md) in 621 A.S. (After the Schism), an event that sparked the [Penance](history.md#age-of-tar). With the Penance, an iridescent tar known as [nix](religion/primordials/nix.md) began rolling over the continent. This caused mass migrations, separating the peoples into isolas.
 
 An isola is defined as a region either devoid of nix, or only seasonably affected by it. Most isolas are protected by their topography, often aided by strong sorcerers known as [Illuminants](religion/index.md#illuminants). Up to the year 800 A.S., the only known isola was the [Fesh Peninsula](isolas/fesh_peninsula/index.md). After the arrival of the nixwalkers<!-- TODO. Link. -->, dentrala<!-- TODO. Link. --> apomancers<!-- TODO. Link. --> who travel over the vapors released by nix, it is now known that at least three others isolas exist: [Krugghom](isolas/krugghom/index.md), the [Steldan Isola](isolas/steldan_isola/index.md), and the Coldmist Gorge<!-- TODO. Link. -->.
 
