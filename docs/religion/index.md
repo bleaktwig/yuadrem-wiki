@@ -2,7 +2,7 @@
 * Missing links.
 * Rewrite intro paragraphs.
 * Finish up god list.
-* Add a page for one or two illuminants (esp. Olag).
+* Write a page with some 3-4 paragraphs for Nikoleta. Maybe one for Elña too?
 ------------------------------------------------------------------------------>
 # Tanethism
 Old Tanethism was characterized by its myriad of gods—one for each apomantic signature<!-- NOTE. Link. -->. This religion was widely practiced in the Seven Protectorates<!-- NOTE. Link. --> and their various colonies up to the late [Age of Gold](../history.md#age-of-gold). However, this changed in the year 520 A.S., when the [god-suzerain Olag](illuminants/olag.md) established "new" Tanethism as the official religion of the protectorates.
@@ -50,26 +50,36 @@ The oric gods, or _gods of flesh_ in Avshenese, were the first trees in the worl
 * [**Ur**](godtrees/ur.md), a fir with countless golden crowns, was the tree of Pagram.
 
 ### Illuminants
-<!--TODO. Turn some dead illuminants into planets! That way i can use all of the remaining etian signatures + that'd be cool + there's a pair of twin planets, reducing the illuminants i have to write by one!-->
-
 The tovasic gods, or _second gods_ in Avshenese, are mortals who are given godhood by higher gods through a ritual of ascension. Better known as illuminants, they are usually protagonists of legends, becoming deities after death and watching over the world alongside the mevic gods from the heavens.
 
-* [**Olag**](illuminants/olag.md) was the first of the illuminants, and the god-suzerain of the Seven Protectorates of the Sea<!-- TODO. Link. -->. They were an Et-born, ascended by Vahan's will in 195 A.S., and died in 621 A.S..
-<!--v- TODO. continue from here onward -v--->
-* **The Immortal Queen Elña** was the ruler of the Kingdom of Iron<!-- NOTE. Link. -->, in the far south of the world. After death, she is now the goddess of tradition and the forest and is sometimes found in the form of a white deer, watching over the descendants of the irds under her care.
-* **Nikoleta, the Pilgrim** was... **TODO**.
-* **Anush** **TODO**. <!-- TODO. Currently alive, in fesh. -->
-* **Do Zazuzu** **TODO**. <!-- TODO. Currently alive, in fesh. -->
+<!-- Ascended by Matevos --->
+* **Elña** is the goddess of tradition and forests. She was the "immortal" queen of the kingdom of Gronselar<!-- TODO. Link. --> in the far south of the world. She was ascended by Pagram, and often takes the shape of a white deer, watching of the descendants of the gronselarian irds, who she still takes under her care.
+* **Sakris** is the god of fun and wine. As a mortal, he was the most devoted slave to the prince-merchant Hak of Ushpavam<!-- NOTE. Link. -->. Ascended by Matevos, he is often depicted dutifully attending to guests at a party, even as a god.
+<!-- Ascended by Febrid --->
+* **Hanush** is the god of teaching and tactics. As a mortal, they were a [barkskin](../kins/barkskin.md) who mediated the peace between Gannag and the Seven Protectorates, then proceeded to create the gannagian apomantic system<!-- NOTE. Link. -->. They were ascended by Febrid, and their depictions show a body covered entirely by a most complex network of apomantic signatures, a glyph carved into each centimeter of bark.
+* **Nikoleta** is the goddess of rituals and sorcery. As a mortal, she was a [gat](../kins/hume.md#gat-culture) sorceress from Fremit<!-- TODO. Link. --> and a scholar of Nix. She created an incantation that temporarily stops the spread of nix, and cast it atop Mount Tashta to stop the tar from invading the Fesh Peninsula. The ritual killed her, but was ascended by Febrid upon death. Her incantation is repeated every year in various parts of the Punika Ridge<!-- TODO. Link. --> to continue protecting the peninsula.
+<!-- Ascended by Fusine --->
+* **Gathoz** is the god of secrecy and murder. While their name in life is unknown, they are the assassin who battled and killed the god-suzerain Olag using Tetrachromacy<!-- NOTE. Link. -->. Now, they are often attributed to murders where the perpetrator is never found. They were ascended by Fusine during the night of the murder, and are depicted as a kinless being, their face and body shifting under rags.
+* **Nasim** is the goddess of justice and the sky. As a mortal, she was an [oth](../kins/oth.md) scholar who provided the basis for modern math and astrology. She was ascended by Fusine, and even as a god continues to study the stars. She is depicted with an abacus and a book.
+<!-- Ascended by Vahan --->
+* [**Olag**](illuminants/olag.md) is the god of craftsmanship and conquest. They were the first of the illuminants, and the god-suzerain of the Seven Protectorates of the Sea<!-- TODO. Link. -->. They were an Et-born who ascended by Vahan's will in 195 A.S. and died in 621 A.S..
+* **Havetish** is the god of both leadership and tyranny. Their mortal name was Qina, and were the [barskin](../kins/barkskin.md) warlord who led their kin against the [imates](../kins/imate.md) in the Babanian Wars<!-- NOTE. Link. -->. They were ascended by the god of war Vahan, and are depicted with a bark and a spear carved from purpleheart wood.
+* **Jirek** is the god of might and salt. He is a treb gat that was ascended by Vahan after he beat and killed the god's previous champion, Zuleija. The illuminant lives in the Ruti mountains in the chiefdom of Nalash, where he waits for challengers to try and take his title.
+* **Zuleija** is the god of discipline and protection. She was a treb gat who fought back against the beasts of the Sylvan Canyon<!-- TODO. Link. -->, allowing for the establishment of the city-states of Viphoger<!-- TODO. Link. -->. She was ascended by Vahan for her strength, and is depicted with weapons and armor made of heavy stone.
+
+<!-- Ascended by Bagrat --->
+* **Genadi** is the goddess of bravery and love. As a mortal, she was an [imate](../kins/imate.md) hero whose acts led to the death of King D'khan, ending the [Ededian Genocide](../history.md#war-of-spring). She was ascended by Bagrat, and is depicted with toad-like features, carrying her characteristic swordflute.
+* **Vugar** is the god of family and fertility. As a mortal, he was the protected prince of the kingdom of Vamerit<!-- TODO. Link. --> and was renowned for establishing laws pertaining to family and hereditary rights to the Seven Protectorates<!-- NOTE. Link. -->. He was ascended by Bagrat, and is often depicted with a silver toga of simple style.
+<!-- Ascended by Pagram --->
+* **Mziva** is the god of self-sacrifice. As a mortal, she was an [imate](../kins/imate.md) who led her people to salvation during the [Ededian Genocide](../history.md#war-of-spring), at the cost of her own life. She was ascended by Tamaz, and is depicted with golden hair and clothes made of flowers.
+* **Tamaz** is the goddess of wealth and silver. As a mortal, she was an [ird](../kins/hume.md#ird-culture) adventurer, known for financing the first colonial ships of Krudzal<!-- TODO. Link? -->. She is now depicted in a shiny gray dress, holding an iron hammer and a woodworking saw, and was ascended by the god of civilization, Pagram.
+
+<!--TODO. -v- Continue from here. -v--->
 * **Jirar** **TODO**.
-* **Jirek** **TODO**. <!-- TODO. Currently alive, in fesh. -->
+* **Do Zazuzu** **TODO**. <!-- TODO. Currently alive, in fesh. -- asc. by Bagrat -->
+* **Anush** **TODO**. <!-- TODO. Currently alive, in fesh. -->
 * **Vakris** **TODO**. <!-- TODO. Currently alive, in fesh. -->
-* **Zuleija** **TODO**.
-* **Vugar** is the god of family and fertility. As a mortal, he was a prince of the kingdom of Vamerit<!-- TODO. Link. --> and was renowned for establishing laws pertaining to family and hereditary rights to the Seven Protectorates<!-- NOTE. Link. -->. He is now depicted with a silver toga of simple style.
-* **Genadi** is the goddess of bravery and love. As a mortal, she was an [imate](../kins/imate.md) hero whose acts led to the death of King D'khan, ending the [Ededian Genocide](../history.md#war-of-spring). She is now depicted with toad-like features, carrying her characteristic swordflute.
-* **Sakris** is the god of fun and wine. As a mortal, he was the most devoted slave to the prince-merchant Hak of Ushpavam<!-- NOTE. Link. -->. Even as a god, he is often depicted dutifully attending to guests at a party.
-* **Hanush** is the god of teaching and books. As a mortal, they were a [barkskin](../kins/barkskin.md) who mediated the peace between Gannag and the Seven Protectorates and proceeded then to create the gannagian apomantic system<!-- NOTE. Link. -->. As a god, their depictions show a body covered entirely by a most complex network of apomantic signatures, a glyph carved into each centimeter of bark.
-* **Tamaz** is the goddess of wealth and silver. As a mortal, she was an [ird](../kins/hume.md) adventurer, known for financing the first colonial ships of Krudzal. She is now depicted in a shiny gray dress, holding an iron hammer and a woodworking saw.
-* **Nazim** is the goddess of justice and the sky. As a mortal, she was an [oth](../kins/oth.md) scholar who provided the basis for modern math and astrology. Even as a god she continues to study the stars and is depicted with an abacus and a book.
-* **Gathoz** is the god of secrecy and murder. While their name in life is unknown, they are the assassin who battled and killed god-suzerain Olag through Tetrachromacy<!-- NOTE. Link. -->. Now, they are often attributed to murders where the perpetrator is never found. They is depicted as a kinless being, their face and body shifting under rags.
-* **Havetish** is the god of both leadership and tyranny. As a mortal they were named Qina, the [barskin](../kins/barkskin.md) warlord who led their kin against the [imates](../kins/imate.md) in the Babanian Wars<!-- NOTE. Link. -->. As a god, they are depicted with an uncharacteristic golden armor and a spear carved from purpleheart wood.
-* **Mziva** is the god of self-sacrifice. As a mortal, she was an [imate](../kins/imate.md) who led her people to salvation during the [Ededian Genocide](../history.md#war-of-spring), at the cost of her own life. She is now depicted with golden hair and clothes made of flowers.
+
+<!--TODO. Turn some dead illuminants into planets! That way i can use all of the remaining etian signatures + that'd be cool + there's a pair of twin planets, reducing the illuminants i have to write by one!-->
+
+<!--TODO. Add a picture of the Cosmos, showing how some gods are literally astral bodies.-->
