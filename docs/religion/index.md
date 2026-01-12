@@ -34,7 +34,7 @@ The mevic gods, or _gods of bone_, are the six aspects of Zash, and were created
 * [**Matevos**](mevic_gods/matevos.md), the goddess of Green, lightness, joy, and the domestication of animals.
 * [**Febrid**](mevic_gods/febrid.md), or Nuagal, is the goddess of Blue, cold, intellect, time, and winter.
 * [**Fusine**](mevic_gods/fusine.md), or Kegal, is the goddess of Purple, chaos, the stars, retribution, and thunder.
-* [**Vahan**](mevic_gods/vahan.md) is the god of Red, heaviness, mountains, and war.
+* [**Vahan**](mevic_gods/vahan.md) is the god of Red, heaviness, mountains, and conflict.
 * [**Bagrat**](mevic_gods/bagrat.md) is the god of Orange, warmth, agriculture, benevolence, vigor, and summer.
 * [**Pagram**](mevic_gods/pagram.md) is the god of Yellow, order, civilization, gold, and autumn.
 
@@ -57,29 +57,41 @@ The tovasic gods, or _second gods_ in Avshenese, are mortals who are given godho
 * **Sakris** is the god of fun and wine. As a mortal, he was the most devoted slave to the prince-merchant Hak of Ushpavam<!-- NOTE. Link. -->. Ascended by Matevos, he is often depicted dutifully attending to guests at a party, even as a god.
 <!-- Ascended by Febrid --->
 * **Hanush** is the god of teaching and tactics. As a mortal, they were a [barkskin](../kins/barkskin.md) who mediated the peace between Gannag and the Seven Protectorates, then proceeded to create the gannagian apomantic system<!-- NOTE. Link. -->. They were ascended by Febrid, and their depictions show a body covered entirely by a most complex network of apomantic signatures, a glyph carved into each centimeter of bark.
-* **Nikoleta** is the goddess of rituals and sorcery. As a mortal, she was a [gat](../kins/hume.md#gat-culture) sorceress from Fremit<!-- TODO. Link. --> and a scholar of Nix. She created an incantation that temporarily stops the spread of nix, and cast it atop Mount Tashta to stop the tar from invading the Fesh Peninsula. The ritual killed her, but was ascended by Febrid upon death. Her incantation is repeated every year in various parts of the Punika Ridge<!-- TODO. Link. --> to continue protecting the peninsula.
+* **Nikoleta**, also known as Bades, is the goddess of rituals and sorcery. As a mortal, she was a [gat](../kins/hume.md#gat-culture) sorceress from Fremit<!-- TODO. Link. --> and a scholar of Nix. She created an incantation that temporarily stops the spread of nix, and cast it atop Mount Tashta to stop the tar from invading the Fesh Peninsula. The ritual killed her, but was ascended by Febrid upon death. Her incantation is repeated every year in various parts of the Punika Ridge<!-- TODO. Link. --> to continue protecting the peninsula. She ascended to the heavens after death, and became the astral body Bades.
+![Etian signature of Bades](illuminants/img/bades.png)
+_Etian signature of Bades._
+
 <!-- Ascended by Fusine --->
-* **Gathoz** is the god of secrecy and murder. While their name in life is unknown, they are the assassin who battled and killed the god-suzerain Olag using Tetrachromacy<!-- NOTE. Link. -->. Now, they are often attributed to murders where the perpetrator is never found. They were ascended by Fusine during the night of the murder, and are depicted as a kinless being, their face and body shifting under rags.
-* **Nasim** is the goddess of justice and the sky. As a mortal, she was an [oth](../kins/oth.md) scholar who provided the basis for modern math and astrology. She was ascended by Fusine, and even as a god continues to study the stars. She is depicted with an abacus and a book.
+* **Laver**, sometimes known as Gathoz, is the god of secrecy and murder. While their name in life is unknown, they are the assassin who battled and killed the god-suzerain Olag using Tetrachromacy<!-- NOTE. Link. -->. Now, they are often attributed to murders where the perpetrator is never found. They were ascended by Fusine during the night of the murder, and are depicted as a kinless being, their face and body shifting under rags. Due to their great sin, they were not allowed into the Ring of Color, and thus now orbits the heavens as an astral body.
+![Etian signature of Laver](illuminants/img/laver.png)
+_Etian signature of Laver._
+
+* **Eful** and **Geful** are the goddesses of justice, the sky, knowledge, and love. As mortals, they were two [oths](../kins/oth.md) scholars who provided the basis for modern math and astrology. They were both ascended together by Fusine, and upon achieving godhood jumped to the heavens to continue their studies, becoming the twin astral bodies known as Relas.
+![Etian signature of Relas](illuminants/img/relas.png)
+_Etian signature of Relas._
+
 <!-- Ascended by Vahan --->
 * [**Olag**](illuminants/olag.md) is the god of craftsmanship and conquest. They were the first of the illuminants, and the god-suzerain of the Seven Protectorates of the Sea<!-- TODO. Link. -->. They were an Et-born who ascended by Vahan's will in 195 A.S. and died in 621 A.S..
-* **Havetish** is the god of both leadership and tyranny. Their mortal name was Qina, and were the [barskin](../kins/barkskin.md) warlord who led their kin against the [imates](../kins/imate.md) in the Babanian Wars<!-- NOTE. Link. -->. They were ascended by the god of war Vahan, and are depicted with a bark and a spear carved from purpleheart wood.
-* **Jirek** is the god of might and salt. He is a treb gat that was ascended by Vahan after he beat and killed the god's previous champion, Zuleija. The illuminant lives in the Ruti mountains in the chiefdom of Nalash, where he waits for challengers to try and take his title.
-* **Zuleija** is the god of discipline and protection. She was a treb gat who fought back against the beasts of the Sylvan Canyon<!-- TODO. Link. -->, allowing for the establishment of the city-states of Viphoger<!-- TODO. Link. -->. She was ascended by Vahan for her strength, and is depicted with weapons and armor made of heavy stone.
+* **Havetish** is the god of both leadership and tyranny. Their mortal name was Qina, and were the [barskin](../kins/barkskin.md) warlord who led their kin against the [imates](../kins/imate.md) in the Babanian Wars<!-- NOTE. Link. -->. They were ascended by the god of conflict Vahan, and are depicted with a bark and a spear carved from purpleheart wood.
+* **Rerisi**, or sometimes known as Zuleija, is the god of discipline and protection. She was a treb gat who fought back against the beasts of the Sylvan Canyon<!-- TODO. Link. -->, allowing for the establishment of the city-states of Viphoger<!-- TODO. Link. -->. She was ascended by Vahan for her strength, and is depicted with weapons and armor made of heavy stone. She soared to the heavens after her death, and is now the furthest astral body from Darhoc.
+![Etian signature of Rerisi](illuminants/img/rerisi.png)
+_Etian signature of Rerisi._
 
 <!-- Ascended by Bagrat --->
-* **Genadi** is the goddess of bravery and love. As a mortal, she was an [imate](../kins/imate.md) hero whose acts led to the death of King D'khan, ending the [Ededian Genocide](../history.md#war-of-spring). She was ascended by Bagrat, and is depicted with toad-like features, carrying her characteristic swordflute.
-* **Vugar** is the god of family and fertility. As a mortal, he was the protected prince of the kingdom of Vamerit<!-- TODO. Link. --> and was renowned for establishing laws pertaining to family and hereditary rights to the Seven Protectorates<!-- NOTE. Link. -->. He was ascended by Bagrat, and is often depicted with a silver toga of simple style.
+* **Tinos**, sometimes known as Genadi, is the goddess of bravery and compassion. As a mortal, she was an [imate](../kins/imate.md) hero whose acts led to the death of King D'khan, ending the [Ededian Genocide](../history.md#war-of-spring). She was ascended by Bagrat, and is depicted with toad-like features, carrying her characteristic swordflute. She rose to the heavens after death, and now wards her fellow imates as an astral body.
+![Etian signature of Tinos](illuminants/img/tinos.png)
+_Etian signature of Tinos._
+
+* **Vugar** is the god of family and generosity. As a mortal, he was the protected prince of the kingdom of Vamerit<!-- TODO. Link. --> and was renowned for establishing laws pertaining to family and hereditary rights to the Seven Protectorates<!-- NOTE. Link. -->. He was ascended by Bagrat, and is often depicted with a silver toga of simple style.
 <!-- Ascended by Pagram --->
 * **Mziva** is the god of self-sacrifice. As a mortal, she was an [imate](../kins/imate.md) who led her people to salvation during the [Ededian Genocide](../history.md#war-of-spring), at the cost of her own life. She was ascended by Tamaz, and is depicted with golden hair and clothes made of flowers.
 * **Tamaz** is the goddess of wealth and silver. As a mortal, she was an [ird](../kins/hume.md#ird-culture) adventurer, known for financing the first colonial ships of Krudzal<!-- TODO. Link? -->. She is now depicted in a shiny gray dress, holding an iron hammer and a woodworking saw, and was ascended by the god of civilization, Pagram.
 
-<!--TODO. -v- Continue from here. -v--->
-* **Jirar** **TODO**.
-* **Do Zazuzu** **TODO**. <!-- TODO. Currently alive, in fesh. -- asc. by Bagrat -->
-* **Anush** **TODO**. <!-- TODO. Currently alive, in fesh. -->
-* **Vakris** **TODO**. <!-- TODO. Currently alive, in fesh. -->
+As far as is known, there exist only four illuminants alive in the Fesh Peninsula at the current date. Skepticism is encouraged, however, as mevic gods have performed many ascensions surreptitiously, with the echelon of the new god only divulged years later, sometimes posthumously.
 
-<!--TODO. Turn some dead illuminants into planets! That way i can use all of the remaining etian signatures + that'd be cool + there's a pair of twin planets, reducing the illuminants i have to write by one!-->
+* **Anush**, also known as Doran, is the god of rot and fertility. They are a barkskin born outside the reach of Tek, and thus unable to commune with the god-tree. Rather than becoming feral, like their kin in Knagan<!-- TODO. Link. -->, the illuminant didn't let their birth become a weakness, and now spreads tekust spores<!-- TODO. Link. --> and assists in funerary rituals across the Fesh Peninsula. They were recently ascended by Bagrat, which has only emboldened their spirit and that of their followers.
+* **Do Zazuzu** is the god of mischief and pageants. He is an oras imate<!-- TODO. Link. --> famous for his role in the independence of Viphoger and his graceful antics. He was ascended by the god of joy Matevos, and now runs a traveling company of troubadours and acrobats that performs all around the Fesh Peninsula.
+* **Jirek** is the god of might and salt. He is a treb gat<!--TODO. Link. --> that was ascended by Vahan after he beat and killed the god's previous champion, Rerisi. The illuminant is now one of the chiefs of Nalash, and lives in the Ruti mountains waiting for challengers to try and take his title.
+* **Vakris** is the god of madness and scavengers. He is a dratl ird<!-- TODO. Link. --> who was the leader of an infamous band of bandits in the Idul Ridge<!-- TODO. Link. --> before being captured by Vawe, the Regent Prince of Ushpavam<!-- TODO. Link. -->. He was exiled after having his group slaughtered and his body disfigured through torture, yet was later ascended in a perverse act of kindness by the goddess of retribution Fusine. He now roams the ridge readying his vengeance, while madly striking any who approach him. 
 
 <!--TODO. Add a picture of the Cosmos, showing how some gods are literally astral bodies.-->

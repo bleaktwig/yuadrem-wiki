@@ -2,6 +2,7 @@
 
 <!-- TODO list.
 * Missing links.
+* Clean up ref directory.
 * Finish this first index page. It's the first thing player see in the wiki!
 * Move images to subdirectories where they make more sense.
 * Write a page on apomantics (in a new "sorcery" folder).
