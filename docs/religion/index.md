@@ -59,9 +59,11 @@ The tovasic gods, or _second gods_ in Avshenese, are mortals who are given godho
 
 * **Eful** and **Geful** are the goddesses of justice, the sky, knowledge, and love. As mortals, they were two [oths](../kins/oth.md) scholars who provided the basis for modern math and astrology. They were both ascended together by Fusine, and upon achieving godhood jumped to the heavens to continue their studies, becoming the twin astral bodies known as Relas.
 
+<p style="text-align: center;">
 | ![Etian signature of Relas](illuminants/img/relas.png) |
 | :----------------------------------------------------: |
 | _Etian signature of Relas._                            |
+</p>
 
 * **Elña** is the goddess of tradition and forests. She was the "immortal" queen of the kingdom of Gronselar<!-- TODO. Link. --> in the far south of the world. She was ascended by Pagram, and often takes the shape of a white deer, watching of the descendants of the gronselarian irds, who she still takes under her care.
 
