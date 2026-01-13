@@ -1,5 +1,4 @@
 <!-- TODO list.
-* Add a picture of the Cosmos, showing how some gods are literally astral bodies.
 * Missing links.
 * Rewrite intro paragraphs.
 * Write a page with some 3-4 paragraphs for Nikoleta. Maybe one for Elña too?
@@ -14,6 +13,10 @@ While now considered a sacred scholar, Taneth's work was barely known during the
 Many a hume has a favorite among the gods, one whose ideals and teachings they make their own. A few even dedicate themselves entirely to a single deity, serving as a priest, acolyte, or champion of that god's manifestation. Some famous examples among these devotees are the Pagramic Nimrods, an organization of zealous hunters of [Pagram](mevic_gods/pagram.md) who would pursue all who disturb the perceived balance. Another example is the followers of Havetish, who to this date seek to distribute wealth and food to the impoverished inhabitants in the inland regions.
 
 <!--Other religions do exist, but receive little attention in the modern world. Once widely practiced, the three most notorious ones are [Tsalemism](religions/tsalemism.md), [Igneism](religions/igneism.md), and [Cosmism](religions/cosmism.md).-->
+
+![The Cosmos](img/cosmos.y796_v100_dpi300.png)
+
+_A first glance into the Cosmos and its relation to the goddesses and gods of Tanethism, 796 A.S.. Each of the divinities that inhabits the heavens is presented around Darhoc and the Ring of Color that surrounds it. Recorded by the Fremite Monastery of Chist._
 
 ## The Tanethist Pantheon
 ### The Two Primordial
@@ -80,7 +83,7 @@ _Etian signature of Bades._
 
 * [**Olag**](illuminants/olag.md) is the god of craftsmanship and conquest. They were the first of the illuminants, and the god-suzerain of the Seven Protectorates of the Sea<!-- TODO. Link. -->. They were an Et-born who ascended by Vahan's will in 195 A.S. and died in 621 A.S..
 
-* **Rerisi**, or sometimes known as Zuleija, is the god of discipline and protection. She was a treb gat who fought back against the beasts of the Sylvan Canyon<!-- TODO. Link. -->, allowing for the establishment of the city-states of Viphoger<!-- TODO. Link. -->. She was ascended by Vahan for her strength, and is depicted with weapons and armor made of heavy stone. She soared to the heavens after her death, and is now the furthest astral body from Darhoc.
+* **Rerisi**, or sometimes known as Zuleija, is the goddess of discipline and protection. She was a treb gat who fought back against the beasts of the Sylvan Canyon<!-- TODO. Link. -->, allowing for the establishment of the city-states of Viphoger<!-- TODO. Link. -->. She was ascended by Vahan for her strength, and is depicted with weapons and armor made of heavy stone. She soared to the heavens after her death, and is now the furthest astral body from Darhoc.
 
 * **Sakris** is the god of fun and wine. As a mortal, he was the most devoted slave to the prince-merchant Hak of Ushpavam<!-- NOTE. Link. -->. Ascended by Matevos, he is often depicted dutifully attending to guests at a party, even as a god.
 
