@@ -56,7 +56,8 @@ The tovasic gods, or _second gods_ in Avshenese, are mortals who are given godho
 
 * **Eful** and **Geful** are the goddesses of justice, the sky, knowledge, and love. As mortals, they were two [oths](../kins/oth.md) scholars who provided the basis for modern math and astrology. They were both ascended together by Fusine, and upon achieving godhood jumped to the heavens to continue their studies, becoming the twin astral bodies known as Relas.
 
-![Etian signature of Relas](illuminants/img/relas.png)<br>
+![Etian signature of Relas](illuminants/img/relas.png)
+
 _Etian signature of Relas._
 
 * **Elña** is the goddess of tradition and forests. She was the "immortal" queen of the kingdom of Gronselar<!-- TODO. Link. --> in the far south of the world. She was ascended by Pagram, and often takes the shape of a white deer, watching of the descendants of the gronselarian irds, who she still takes under her care.
@@ -65,14 +66,16 @@ _Etian signature of Relas._
 
 * **Laver**, sometimes known as Gathoz, is the god of secrecy and murder. While their name in life is unknown, they are the assassin who battled and killed the god-suzerain Olag using Tetrachromacy<!-- NOTE. Link. -->. Now, they are often attributed to murders where the perpetrator is never found. They were ascended by Fusine during the night of the murder, and are depicted as a kinless being, their face and body shifting under rags. Due to their great sin, they were not allowed into the Ring of Color, and thus now orbits the heavens as an astral body.
 
-![Etian signature of Laver](illuminants/img/laver.png)<br>
+![Etian signature of Laver](illuminants/img/laver.png)
+
 _Etian signature of Laver._
 
 * **Mziva** is the god of self-sacrifice. As a mortal, she was an [imate](../kins/imate.md) who led her people to salvation during the [Ededian Genocide](../history.md#war-of-spring), at the cost of her own life. She was ascended by Tamaz, and is depicted with golden hair and clothes made of flowers.
 
 * **Nikoleta**, also known as Bades, is the goddess of rituals and sorcery. As a mortal, she was a [gat](../kins/hume.md#gat-culture) sorceress from Fremit<!-- TODO. Link. --> and a scholar of Nix. She created an incantation that temporarily stops the spread of nix, and cast it atop Mount Tashta to stop the tar from invading the Fesh Peninsula. The ritual killed her, but was ascended by Febrid upon death. Her incantation is repeated every year in various parts of the Punika Ridge<!-- TODO. Link. --> to continue protecting the peninsula. She ascended to the heavens after death, and became the astral body Bades.
 
-![Etian signature of Bades](illuminants/img/bades.png)<br>
+![Etian signature of Bades](illuminants/img/bades.png)
+
 _Etian signature of Bades._
 
 * [**Olag**](illuminants/olag.md) is the god of craftsmanship and conquest. They were the first of the illuminants, and the god-suzerain of the Seven Protectorates of the Sea<!-- TODO. Link. -->. They were an Et-born who ascended by Vahan's will in 195 A.S. and died in 621 A.S..
@@ -81,14 +84,16 @@ _Etian signature of Bades._
 
 * **Sakris** is the god of fun and wine. As a mortal, he was the most devoted slave to the prince-merchant Hak of Ushpavam<!-- NOTE. Link. -->. Ascended by Matevos, he is often depicted dutifully attending to guests at a party, even as a god.
 
-![Etian signature of Rerisi](illuminants/img/rerisi.png)<br>
+![Etian signature of Rerisi](illuminants/img/rerisi.png)
+
 _Etian signature of Rerisi._
 
 * **Tamaz** is the goddess of wealth and silver. As a mortal, she was an [ird](../kins/hume.md#ird-culture) adventurer, known for financing the first colonial ships of Krudzal<!-- TODO. Link? -->. She is now depicted in a shiny gray dress, holding an iron hammer and a woodworking saw, and was ascended by the god of civilization, Pagram.
 
 * **Tinos**, sometimes known as Genadi, is the goddess of bravery and compassion. As a mortal, she was an [imate](../kins/imate.md) hero whose acts led to the death of King D'khan, ending the [Ededian Genocide](../history.md#war-of-spring). She was ascended by Bagrat, and is depicted with toad-like features, carrying her characteristic swordflute. She rose to the heavens after death, and now wards her fellow imates as an astral body.
 
-![Etian signature of Tinos](illuminants/img/tinos.png)<br>
+![Etian signature of Tinos](illuminants/img/tinos.png)
+
 _Etian signature of Tinos._
 
 * **Vugar** is the god of family and generosity. As a mortal, he was the protected prince of the kingdom of Vamerit<!-- TODO. Link. --> and was renowned for establishing laws pertaining to family and hereditary rights to the Seven Protectorates<!-- NOTE. Link. -->. He was ascended by Bagrat, and is often depicted with a silver toga of simple style.
