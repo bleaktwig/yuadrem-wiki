@@ -5,6 +5,6 @@ Wood is her incarnation, and she is related to the stability of both individuals
 
 Febrid can be seen in the night sky in as Nuagal, Darhoc<!-- TODO. Link. -->'s second moon. In this form, she is an astral body composed only of one deep ocean, which sometimes appears to scholars in dreams, usually before a great revelation.
 
-![Glyphs of Febrid](img/febrid.png)
-
-_Two glyphs associated with Febrid: the fundamental signature of cold and the etian glyph of nuagal._
+| ![Glyphs of Febrid](img/febrid.png) |
+|:-----------------------------------:|
+| _Two glyphs associated with Febrid: the fundamental signature of cold and the etian glyph of nuagal._ |

@@ -13,9 +13,9 @@ Most people have a favorite among the gods, one whose ideals and teachings they 
 
 <!--Other religions do exist, but receive little attention in the modern world. Once widely practiced, the three most notorious ones are [Tsalemism](religions/tsalemism.md), [Igneism](religions/igneism.md), and [Cosmism](religions/cosmism.md).-->
 
-| ![The Cosmos](img/cosmos.y796_v100_dpi300.png) |
-|:----------------------------------------------:|
-| _A first glance into the Cosmos and its relation to the goddesses and gods of Tanethism, 796 A.S.. Each of the divinities that inhabits the heavens is presented around Darhoc and the Ring of Color that surrounds it. Recorded by the Fremite Monastery of Chist._ |
+![The Cosmos](img/cosmos.y796_v100_dpi300.png)
+
+_A first glance into the Cosmos and its relation to the goddesses and gods of Tanethism, 796 A.S.. Each of the divinities that inhabits the heavens is presented around Darhoc and the Ring of Color that surrounds it. Recorded by the Fremite Monastery of Chist._
 
 ## The Tanethist Pantheon
 ### The Two Primordial

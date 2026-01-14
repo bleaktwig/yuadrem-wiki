@@ -7,6 +7,6 @@ The goddess doesn't live in the Ring of Color<!-- TODO. Link. -->, but rather fl
 
 In addition to her manifestation as a bird, she sometimes also appears to mortals on dreams, often before terrible natural disasters. In these occasions, she takes the form of a black-bellied slider turtle, her shell shining with a million stars.
 
-![Glyphs of Fusine](img/fusine.png)
-
-_Three glyphs associated with Fusine: the fundamental signature of chaos, the etian glyph of kegal, and the signature of the All-Storm_
+| ![Glyphs of Fusine](img/fusine.png) |
+|:-----------------------------------:|
+| _Three glyphs associated with Fusine: the fundamental signature of chaos, the etian glyph of kegal, and the signature of the All-Storm_ |

@@ -5,6 +5,6 @@ Color is her incarnation, and she is often associated with acts of hospitality a
 
 Zash sometimes visits households during the darkest nights, taking an indistinct [hume](../../kins/hume.md) figure in traveler clothes. Refusing extending hospitality to her is a grave mistake—often the last one—for she meets hostility in-kind.
 
-![Glyphs of Zash](img/zash.png)
-
-_Glyphs associated with Zash: the fundamental signature of light, and the etian glyph of the sun._
+| ![Glyphs of Zash](img/zash.png) |
+|:-------------------------------:|
+| _Glyphs associated with Zash: the fundamental signature of light, and the etian glyph of the sun._ |

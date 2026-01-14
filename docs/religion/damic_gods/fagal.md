@@ -5,6 +5,6 @@ Nothing is her incarnation, and she is commonly associated to private property. 
 
 Fagal sometimes appears to mortals on dreams, acting as portent of great change in one's life. In these opportunities, they appear as a dark, indistinct figure, cloaked in a mantle of stars.
 
-![Glyphs of Fagal](img/fagal.png)
-
-_Glyphs associated with Fagal: the fundamental signature of darkness, and the etian glyph of Fagal._
+| ![Glyphs of Fagal](img/fagal.png) |
+|:---------------------------------:|
+| _Glyphs associated with Fagal: the fundamental signature of darkness, and the etian glyph of Fagal._ |

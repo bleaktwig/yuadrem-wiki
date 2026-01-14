@@ -2,6 +2,7 @@
 
 <!-- TODO list.
 * Missing links.
+* Put all small images on tables -- it looks way cleaner.
 * Clean up ref directory.
 * Finish this first index page. It's the first thing player see in the wiki!
 * Move images to subdirectories where they make more sense.
