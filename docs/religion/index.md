@@ -13,7 +13,7 @@ Most people have a favorite among the gods, one whose ideals and teachings they 
 
 <!--Other religions do exist, but receive little attention in the modern world. Once widely practiced, the three most notorious ones are [Tsalemism](religions/tsalemism.md), [Igneism](religions/igneism.md), and [Cosmism](religions/cosmism.md).-->
 
-![The Cosmos](img/cosmos.y796_v100_dpi300.png)
+![The Cosmos](img/cosmos.y796_v100_dpi300.png){: .center}
 
 _A first glance into the Cosmos and its relation to the goddesses and gods of Tanethism, 796 A.S.. Each of the divinities that inhabits the heavens is presented around Darhoc and the Ring of Color that surrounds it. Recorded by the Fremite Monastery of Chist._
 
@@ -58,7 +58,7 @@ The tovasic gods, or _second gods_ in Avshenese, are mortals who are given godho
 
 * **Eful** and **Geful** are the goddesses of justice, the sky, knowledge, and love. As mortals, they were two [oths](../kins/oth.md) scholars who provided the basis for modern math and astrology. They were both ascended together by Fusine, and upon achieving godhood jumped to the heavens to continue their studies, becoming the twin astral bodies known as Relas.
 
-![Etian signature of Relas](illuminants/img/relas.png)
+![Etian signature of Relas](illuminants/img/relas.png){: .center}
 
 _Etian signature of Relas._
 
@@ -68,7 +68,7 @@ _Etian signature of Relas._
 
 * **Laver**, sometimes known as Gathoz, is the god of secrecy and murder. While their name in life is unknown, they are the assassin who battled and killed the god-suzerain Olag using Tetrachromacy<!-- NOTE. Link. -->. Now, they are often attributed to murders where the perpetrator is never found. They were ascended by Fusine during the night of the murder, and are depicted as a kinless being, their face and body shifting under rags. Due to their great sin, they were not allowed into the Ring of Color, and thus now orbits the heavens as an astral body.
 
-![Etian signature of Laver](illuminants/img/laver.png)
+![Etian signature of Laver](illuminants/img/laver.png){: .center}
 
 _Etian signature of Laver._
 
@@ -76,7 +76,7 @@ _Etian signature of Laver._
 
 * **Nikoleta**, also known as Bades, is the goddess of rituals and sorcery. As a mortal, she was a [gat](../kins/hume.md#gat-culture) sorceress from Fremit<!-- TODO. Link. --> and a scholar of Nix. She created an incantation that temporarily stops the spread of nix, and cast it atop Mount Tashta to stop the tar from invading the Fesh Peninsula. The ritual killed her, but was ascended by Febrid upon death. Her incantation is repeated every year in various parts of the Punika Ridge<!-- TODO. Link. --> to continue protecting the peninsula. She ascended to the heavens after death, and became the astral body Bades.
 
-![Etian signature of Bades](illuminants/img/bades.png)
+![Etian signature of Bades](illuminants/img/bades.png){: .center}
 
 _Etian signature of Bades._
 
@@ -86,7 +86,7 @@ _Etian signature of Bades._
 
 * **Sakris** is the god of fun and wine. As a mortal, he was the most devoted slave to the prince-merchant Hak of Ushpavam<!-- NOTE. Link. -->. Ascended by Matevos, he is often depicted dutifully attending to guests at a party, even as a god.
 
-![Etian signature of Rerisi](illuminants/img/rerisi.png)
+![Etian signature of Rerisi](illuminants/img/rerisi.png){: .center}
 
 _Etian signature of Rerisi._
 
@@ -94,7 +94,7 @@ _Etian signature of Rerisi._
 
 * **Tinos**, sometimes known as Genadi, is the goddess of bravery and compassion. As a mortal, she was an [imate](../kins/imate.md) hero whose acts led to the death of King D'khan, ending the [Ededian Genocide](../history.md#war-of-spring). She was ascended by Bagrat, and is depicted with toad-like features, carrying her characteristic swordflute. She rose to the heavens after death, and now wards her fellow imates as an astral body.
 
-![Etian signature of Tinos](illuminants/img/tinos.png)
+![Etian signature of Tinos](illuminants/img/tinos.png){: .center}
 
 _Etian signature of Tinos._
 
