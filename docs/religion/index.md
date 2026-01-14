@@ -58,9 +58,10 @@ The tovasic gods, or _second gods_ in Avshenese, are mortals who are given godho
 
 * **Eful** and **Geful** are the goddesses of justice, the sky, knowledge, and love. As mortals, they were two [oths](../kins/oth.md) scholars who provided the basis for modern math and astrology. They were both ascended together by Fusine, and upon achieving godhood jumped to the heavens to continue their studies, becoming the twin astral bodies known as Relas.
 
-![Etian signature of Relas](illuminants/img/relas.png){: .center}
-
-_Etian signature of Relas._{: .center}
+| ![Etian signature of Relas](illuminants/img/relas.png) |
+|:------------------------------------------------------:|
+| _Etian signature of Relas._                            |
+{: .center}
 
 * **Elña** is the goddess of tradition and forests. She was the "immortal" queen of the kingdom of Gronselar<!-- TODO. Link. --> in the far south of the world. She was ascended by Pagram, and often takes the shape of a white deer, watching of the descendants of the gronselarian irds, who she still takes under her care.
 
@@ -68,9 +69,10 @@ _Etian signature of Relas._{: .center}
 
 * **Laver**, sometimes known as Gathoz, is the god of secrecy and murder. While their name in life is unknown, they are the assassin who battled and killed the god-suzerain Olag using Tetrachromacy<!-- NOTE. Link. -->. Now, they are often attributed to murders where the perpetrator is never found. They were ascended by Fusine during the night of the murder, and are depicted as a kinless being, their face and body shifting under rags. Due to their great sin, they were not allowed into the Ring of Color, and thus now orbits the heavens as an astral body.
 
-![Etian signature of Laver](illuminants/img/laver.png){: .center}
 
-_Etian signature of Laver._{: .center}
+| ![Etian signature of Laver](illuminants/img/laver.png) |
+|:------------------------------------------------------:|
+| _Etian signature of Laver._                            |{: .center}
 
 * **Mziva** is the god of self-sacrifice. As a mortal, she was an [imate](../kins/imate.md) who led her people to salvation during the [Ededian Genocide](../history.md#war-of-spring), at the cost of her own life. She was ascended by Tamaz, and is depicted with golden hair and clothes made of flowers.
 
