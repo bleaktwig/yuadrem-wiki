@@ -1,3 +1,8 @@
 site_name: Yuadrem Wiki
+site_url: https://bleaktwig.github.io/yuadrem-wiki/
+site_author: Sol Benkel
+repo_url: https://github.com/bleaktwig/yuadrem-wiki/
 theme:
     name: material
+markdown_extensions:
+    - attr_list
