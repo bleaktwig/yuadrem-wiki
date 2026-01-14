@@ -22,12 +22,12 @@ It used to be the most populated desert in Yuadrem, and the old empire of Hulnar
 East of Zoedrem is the Sylvan Canyon, a very hospitable land when compared to its neighboring desert and mountains.
 The canyon walls protect its basin<!-- TODO. Is this the right word? -->, helping it grow grasslands and forests.
 Apart from this shy plantlife, the area is known for its large salt and gemstone deposits.
-The protectorates' colony of Viphoger was established to exploit this, but it too is now lost to The Penance.
+The princedoms' colony of Viphoger was established to exploit this, but it too is now lost to The Penance.
 
 #### Ichor Mountains
 Separating the deserts of Zoedrem and the Dead Sea are the Ichor Mountains.
 Their name comes from the many tributaries they birth, most of which feed the Dratl River.
-While thick, the mountain range is somewhat sparse, and a variety of passages connect the Westlands to the Dead Sea<!-- TODO. Link. --> and the Seven Protectorates<!-- TODO. Link. -->.
+While thick, the mountain range is somewhat sparse, and a variety of passages connect the Westlands to the Dead Sea<!-- TODO. Link. --> and the Seven Princedoms<!-- TODO. Link. -->.
 
 #### Beryl Sea
 The Beryl Sea is a large expanse of warm water.

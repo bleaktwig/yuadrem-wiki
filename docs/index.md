@@ -22,7 +22,7 @@ The conflict ended with the burning of both Et and Om, an event known as the [Sc
 
 ![Map of Yuadrem](img/world_map_y604_v083.png)
 ***Pictured:***
-_Trade map of Yuadrem, drawn in 604 A.S. (After the [Schism](history.md#war-of-spring)) by Marim of Avshen under the commission of [Olag](religion/illuminants/olag.md), the God-Suzerain of Naptane. The region colored in green corresponds to the Seven Protectorates of the Sea. Other colors represent the tax and penalty applied to trade in those regions. This map is proof of the healthy state of maritime travel and trade during the golden age._
+_Trade map of Yuadrem, drawn in 604 A.S. (After the [Schism](history.md#war-of-spring)) by Marim of Avshen under the commission of [Olag](religion/illuminants/olag.md), the God-Suzerain of Naptane. The region colored in green corresponds to the Seven Princedoms of the Sea. Other colors represent the tax and penalty applied to trade in those regions. This map is proof of the healthy state of maritime travel and trade during the golden age._
 
 Yuadrem is a supercontinent, the only such landmass in the world, Darhoc<!-- TODO. Link. -->. The topography is varied, split by four different mountain ranges. Due to its large extension from north to south, the climate and ecology vary widely, from the tundras of [Stinos](geography/northern_territories.md#stinos) to the rainforests of [Drejek](geography/westlands.md#krejek).
 

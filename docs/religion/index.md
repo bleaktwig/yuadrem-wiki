@@ -1,16 +1,15 @@
 <!-- TODO list.
 * Missing links.
-* Rewrite intro paragraphs.
 * Write a page with some 3-4 paragraphs for Nikoleta. Maybe one for Elña too?
 ------------------------------------------------------------------------------>
 # Tanethism
-Old Tanethism was characterized by its myriad of gods—one for each apomantic signature<!-- NOTE. Link. -->. This religion was widely practiced in the Seven Protectorates<!-- NOTE. Link. --> and their various colonies up to the late [Age of Gold](../history.md#age-of-gold). However, this changed in the year 520 A.S., when the [god-suzerain Olag](illuminants/olag.md) established "new" Tanethism as the official religion of the protectorates.
+Old Tanethism was characterized by its myriad of gods—one for each apomantic signature<!-- NOTE. Link. -->. This religion was widely practiced in the Seven Princedoms of the Sea<!-- NOTE. Link. --> and their various colonies up to the late [Age of Gold](../history.md#age-of-gold). However, in the year 520 A.S., by decree of the [god-suzerain Olag](illuminants/olag.md), a "new" Tanethism was established as the official religion of the princedoms. Today, this is the most practiced religion in the Fesh Peninsula<!-- TODO. Link. -->.
 
 The religion is based on a book published by Taneth in 311 A.S., in which the scholar and traveler wrote an exhaustive compilation of the more than a thousand deities praised in the region. In this taxonomy, they classified the similitudes and differences between most of these deities and proposed a reduced pantheon with a clear, tiered hierarchy between all of them.
 
-While now considered a sacred scholar, Taneth's work was barely known during their life. They died shortly after the publication, and not many details of their life are known.
+While now considered a sacred scholar, Taneth's work was barely known during their life. They died in obscurity shortly after the publication, and no detail about them remains on paper apart from their name.
 
-Many a hume has a favorite among the gods, one whose ideals and teachings they make their own. A few even dedicate themselves entirely to a single deity, serving as a priest, acolyte, or champion of that god's manifestation. Some famous examples among these devotees are the Pagramic Nimrods, an organization of zealous hunters of [Pagram](mevic_gods/pagram.md) who would pursue all who disturb the perceived balance. Another example is the followers of Havetish, who to this date seek to distribute wealth and food to the impoverished inhabitants in the inland regions.
+Most people have a favorite among the gods, one whose ideals and teachings they make their own. A few even dedicate themselves entirely to a single deity, serving as a priest, acolyte, or champion of that god. Some famous examples among these devotees are the Pagramic Nimrods, an organization of zealous hunters of [Pagram](mevic_gods/pagram.md) who would pursue all who disturb the perceived balance. Another example is the followers of [Havetish](#illuminants), who to this date seek to distribute wealth and food to the impoverished inhabitants in the inland regions.
 
 <!--Other religions do exist, but receive little attention in the modern world. Once widely practiced, the three most notorious ones are [Tsalemism](religions/tsalemism.md), [Igneism](religions/igneism.md), and [Cosmism](religions/cosmism.md).-->
 
@@ -55,7 +54,7 @@ The oric gods, or _gods of flesh_ in Avshenese, were the first trees in the worl
 ### Illuminants
 The tovasic gods, or _second gods_ in Avshenese, are mortals who are given godhood by higher gods through a ritual of ascension. Better known as illuminants, they are usually protagonists of legends, becoming deities after death and watching over the world alongside the mevic gods from the heavens.
 
-* **Avenush** is the god of teaching and tactics. As a mortal, they were a [barkskin](../kins/barkskin.md) who mediated the peace between Gannag and the Seven Protectorates, then proceeded to create the gannagian apomantic system<!-- NOTE. Link. -->. They were ascended by Febrid, and their depictions show a body covered entirely by a most complex network of apomantic signatures, a glyph carved into each centimeter of bark.
+* **Avenush** is the god of teaching and tactics. As a mortal, they were a [barkskin](../kins/barkskin.md) who mediated the peace between Gannag and the Seven Princedoms, then proceeded to create the gannagian apomantic system<!-- NOTE. Link. -->. They were ascended by Febrid, and their depictions show a body covered entirely by a most complex network of apomantic signatures, a glyph carved into each centimeter of bark.
 
 * **Eful** and **Geful** are the goddesses of justice, the sky, knowledge, and love. As mortals, they were two [oths](../kins/oth.md) scholars who provided the basis for modern math and astrology. They were both ascended together by Fusine, and upon achieving godhood jumped to the heavens to continue their studies, becoming the twin astral bodies known as Relas.
 
@@ -81,7 +80,7 @@ _Etian signature of Laver._
 
 _Etian signature of Bades._
 
-* [**Olag**](illuminants/olag.md) is the god of craftsmanship and conquest. They were the first of the illuminants, and the god-suzerain of the Seven Protectorates of the Sea<!-- TODO. Link. -->. They were an Et-born who ascended by Vahan's will in 195 A.S. and died in 621 A.S..
+* [**Olag**](illuminants/olag.md) is the god of craftsmanship and conquest. They were the first of the illuminants, and the god-suzerain of the Seven Princedoms of the Sea<!-- TODO. Link. -->. They were an Et-born who ascended by Vahan's will in 195 A.S. and died in 621 A.S..
 
 * **Rerisi**, or sometimes known as Zuleija, is the goddess of discipline and protection. She was a treb gat who fought back against the beasts of the Sylvan Canyon<!-- TODO. Link. -->, allowing for the establishment of the city-states of Viphoger<!-- TODO. Link. -->. She was ascended by Vahan for her strength, and is depicted with weapons and armor made of heavy stone. She soared to the heavens after her death, and is now the furthest astral body from Darhoc.
 
@@ -99,7 +98,7 @@ _Etian signature of Rerisi._
 
 _Etian signature of Tinos._
 
-* **Vugar** is the god of family and generosity. As a mortal, he was the protected prince of the kingdom of Vamerit<!-- TODO. Link. --> and was renowned for establishing laws pertaining to family and hereditary rights to the Seven Protectorates<!-- NOTE. Link. -->. He was ascended by Bagrat, and is often depicted with a silver toga of simple style.
+* **Vugar** is the god of family and generosity. As a mortal, he was the protected prince of the kingdom of Vamerit<!-- TODO. Link. --> and was renowned for establishing laws pertaining to family and hereditary rights to the Seven Princedoms<!-- NOTE. Link. -->. He was ascended by Bagrat, and is often depicted with a silver toga of simple style.
 
 As far as is known, there exist only four illuminants alive in the Fesh Peninsula at the current date. Skepticism is encouraged, however, as mevic gods have performed many ascensions surreptitiously, with the echelon of the new god only divulged years later, sometimes posthumously.
 

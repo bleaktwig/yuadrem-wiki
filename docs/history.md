@@ -51,7 +51,7 @@ _0 to 195 A.S._
 * **TODO. 32 A.S. The Ctereth sieges & the Armies of Healing.**
 * **TODO. 96 A.S. Founding of Naptane.**
 * **TODO. 141 A.S. Discovery of the barkskins.**
-* **TODO. 195 A.S. Establishment of the 7 Protectorates of the Sea and beginning of the reign of the God-Suzerain Olag.**
+* **TODO. 195 A.S. Establishment of the 7 Princedoms of the Sea and beginning of the reign of the God-Suzerain Olag.**
 -->
 
 <!---------------------------------------------------------------------------->
@@ -96,7 +96,7 @@ _621 A.S. to present day._
 * **655.** Launching of Cabb-Goem Rlamesh.
 * **673.** Death of the Oric gods in Viphoger.
 * **687.** Establishment of the Fesh isola.
-* **701.** Final collapse of the Seven Protectorates.
+* **701.** Final collapse of the Seven Princedoms.
 * **704.** Death of TODO - Collapse of Ushpavam.
 * **707.** Death of TODO - Collapse of Mbeat.
 * **712.** Death of TODO - Collapse of Meghritan.

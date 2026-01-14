@@ -18,7 +18,7 @@ _Omietian languages_ are those that were taught by [Et](../religion/godtrees/et.
 
 <!---------------------------------------------------------------------------->
 ### Avshenesian Family
-Over time, Jantherlin evolved into most of the languages spoken in Yuadrem, the largest branch of which is the _avshenesian family_. Originally spoken in the Seven Protectorates, it spread far into the continent, only for the different tongues to coalesce again into the Fesh Peninsula<!-- TODO. Link. -->. The avshenesian apomantic system<!-- TODO. Link. --> started from Avshenese, the mother language of the family, and is the most commonly used apomantic system thanks to its simplicity and similitude to Frisian.
+Over time, Jantherlin evolved into most of the languages spoken in Yuadrem, the largest branch of which is the _avshenesian family_. Originally spoken in the Seven Princedoms, it spread far into the continent, only for the different tongues to coalesce again into the Fesh Peninsula<!-- TODO. Link. -->. The avshenesian apomantic system<!-- TODO. Link. --> started from Avshenese, the mother language of the family, and is the most commonly used apomantic system thanks to its simplicity and similitude to Frisian.
 
 [**Frisian**](frisian.md) was spoken in the peninsula before the [Penance](../history.md#age-of-fog), and remains the most common vocabulary in the region. It is currently spoken in the sumis of Fremit, Ushpavam, Vamerit, and Xarxage, as well as in the Holy Nation of Ushpavam and the Nation of Meritan. A dialect of old Avshenesian, very similar to Frisian, is also spoken by the chiefdoms of Raraspan and Dzarog, as well as by the Ketepi people.
 <!-- TODO. Lots of links are needed here. -->
@@ -39,7 +39,7 @@ Some time before the avshenesian family sprouted from Jantherlin, the _harualian
 
 <!---------------------------------------------------------------------------->
 ### Shamabic Family
-After the god-tree Tol spawned from the corpse of Et, it spawned the oth kin. Oths quickly integrated into the Seven Protectorates, but cultivated their own vocabularies directly from Jantherlin: the _shamabic family_.
+After the god-tree Tol spawned from the corpse of Et, it spawned the oth kin. Oths quickly integrated into the Seven Princedoms, but cultivated their own vocabularies directly from Jantherlin: the _shamabic family_.
 
 **Fruenese** was the first language made by the oths. It is highly practical and has a very simple syntax, reflecting the pragmatism of the kin. Fruenese is now the main tongue spoken in the chiefdom of Nalash<!-- TODO. Link. --> and the island of Trevit<!-- TODO. Link. -->.
 

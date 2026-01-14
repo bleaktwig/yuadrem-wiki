@@ -33,7 +33,7 @@ They lived alongside Tek, and dedicated their lives to the health and growth of 
 
 Barkskins were originally reserved, and did not interact with humes until the year 141 A.S.
 The irds of the qul archipelago sought to build communities in Drejek, but were quickly repelled by the barkskins.
-This relationship never cooled, and this extended to the Seven Protectorates -- no alliance was established between the jungle dwellers and the greater world.
+This relationship never cooled, and this extended to the Seven Princedoms -- no alliance was established between the jungle dwellers and the greater world.
 
 After the Penance, Tek and the barkskins were thought to be lost to Nix.
 This was proved wrong in 734 A.S.
