@@ -8,3 +8,5 @@ extra_css:
     - css/extra.css
 markdown_extensions:
     - attr_list
+plugins:
+    - glightbox
