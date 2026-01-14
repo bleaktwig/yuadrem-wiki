@@ -98,9 +98,11 @@ The tovasic gods, or _second gods_ in Avshenese, are mortals who are given godho
 
 * **Tinos**, sometimes known as Genadi, is the goddess of bravery and compassion. As a mortal, she was an [imate](../kins/imate.md) hero whose acts led to the death of King D'khan, ending the [Ededian Genocide](../history.md#war-of-spring). She was ascended by Bagrat, and is depicted with toad-like features, carrying her characteristic swordflute. She rose to the heavens after death, and now wards her fellow imates as an astral body.
 
-![Etian signature of Tinos](illuminants/img/tinos.png){: .center}
+<figure markdown="1">
+![Etian signature of Tinos](illuminants/img/tinos.png)
+<figcaption>_Etian signature of Tinos._</figcaption>
+</figure>
 
-_Etian signature of Tinos._{: .center}
 
 * **Vugar** is the god of family and generosity. As a mortal, he was the protected prince of the kingdom of Vamerit<!-- TODO. Link. --> and was renowned for establishing laws pertaining to family and hereditary rights to the Seven Princedoms<!-- NOTE. Link. -->. He was ascended by Bagrat, and is often depicted with a silver toga of simple style.
 
