@@ -13,9 +13,9 @@ Most people have a favorite among the gods, one whose ideals and teachings they 
 
 <!--Other religions do exist, but receive little attention in the modern world. Once widely practiced, the three most notorious ones are [Tsalemism](religions/tsalemism.md), [Igneism](religions/igneism.md), and [Cosmism](religions/cosmism.md).-->
 
-![The Cosmos](img/cosmos.y796_v100_dpi300.png){: .center}
-
+![The Cosmos](img/cosmos.y796_v100_dpi300.png)<br />
 _A first glance into the Cosmos and its relation to the goddesses and gods of Tanethism, 796 A.S.. Each of the divinities that inhabits the heavens is presented around Darhoc and the Ring of Color that surrounds it. Recorded by the Fremite Monastery of Chist._
+{: .center}
 
 ## The Tanethist Pantheon
 ### The Two Primordial
@@ -58,9 +58,9 @@ The tovasic gods, or _second gods_ in Avshenese, are mortals who are given godho
 
 * **Eful** and **Geful** are the goddesses of justice, the sky, knowledge, and love. As mortals, they were two [oths](../kins/oth.md) scholars who provided the basis for modern math and astrology. They were both ascended together by Fusine, and upon achieving godhood jumped to the heavens to continue their studies, becoming the twin astral bodies known as Relas.
 
-![Etian signature of Relas](illuminants/img/relas.png){: .center}
-
+![Etian signature of Relas](illuminants/img/relas.png)<br />
 _Etian signature of Relas._
+{: .center}
 
 * **Elña** is the goddess of tradition and forests. She was the "immortal" queen of the kingdom of Gronselar<!-- TODO. Link. --> in the far south of the world. She was ascended by Pagram, and often takes the shape of a white deer, watching of the descendants of the gronselarian irds, who she still takes under her care.
 
