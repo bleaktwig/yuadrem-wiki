@@ -78,9 +78,10 @@ The tovasic gods, or _second gods_ in Avshenese, are mortals who are given godho
 
 * **Nikoleta**, also known as Bades, is the goddess of rituals and sorcery. As a mortal, she was a [gat](../kins/hume.md#gat-culture) sorceress from Fremit<!-- TODO. Link. --> and a scholar of Nix. She created an incantation that temporarily stops the spread of nix, and cast it atop Mount Tashta to stop the tar from invading the Fesh Peninsula. The ritual killed her, but was ascended by Febrid upon death. Her incantation is repeated every year in various parts of the Punika Ridge<!-- TODO. Link. --> to continue protecting the peninsula. She ascended to the heavens after death, and became the astral body Bades.
 
-![Etian signature of Bades](illuminants/img/bades.png){: .center}
-
-_Etian signature of Bades._{: .center}
+<figure markdown="span">
+    ![Etian signature of Bades](illuminants/img/bades.png)
+    <figcaption>_Etian signature of Bades._</figcaption>
+</figure>
 
 * [**Olag**](illuminants/olag.md) is the god of craftsmanship and conquest. They were the first of the illuminants, and the god-suzerain of the Seven Princedoms of the Sea<!-- TODO. Link. -->. They were an Et-born who ascended by Vahan's will in 195 A.S. and died in 621 A.S..
 
@@ -88,9 +89,10 @@ _Etian signature of Bades._{: .center}
 
 * **Sakris** is the god of fun and wine. As a mortal, he was the most devoted slave to the prince-merchant Hak of Ushpavam<!-- NOTE. Link. -->. Ascended by Matevos, he is often depicted dutifully attending to guests at a party, even as a god.
 
-![Etian signature of Rerisi](illuminants/img/rerisi.png){: .center}
-
-_Etian signature of Rerisi._{: .center}
+<figure markdown="1">
+    ![Etian signature of Rerisi](illuminants/img/rerisi.png)
+    <figcaption>_Etian signature of Rerisi._</figcaption>
+</figure>
 
 * **Tamaz** is the goddess of wealth and silver. As a mortal, she was an [ird](../kins/hume.md#ird-culture) adventurer, known for financing the first colonial ships of Krudzal<!-- TODO. Link? -->. She is now depicted in a shiny gray dress, holding an iron hammer and a woodworking saw, and was ascended by the god of civilization, Pagram.
 
