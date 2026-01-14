@@ -4,5 +4,7 @@ site_author: Sol Benkel
 repo_url: https://github.com/bleaktwig/yuadrem-wiki/
 theme:
     name: material
+extra_css:
+    - css/extra.css
 markdown_extensions:
     - attr_list
