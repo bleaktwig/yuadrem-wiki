@@ -38,7 +38,7 @@ As if the bleak terrain was not enough, it is the only above-ground home of the 
 #### Sulfur Lake
 South of the Blank Fields lies the Sulfur Lake.
 Fed by volcanic sources, the lake is unique across the continent: it corrodes the flesh of any who enter it.
-The sulfur on its coasts once fed the agriculture of the great nations of Palegna and Sulia, both lost to the Penance.
+The sulfur on its coasts once fed the agriculture of the great nations of Palegna and Sulia, both lost to the [Penance](../history.md#age-of-spring).
 
 #### Arctic Archipelago
 East to the fields is the Arctic Archipelago.

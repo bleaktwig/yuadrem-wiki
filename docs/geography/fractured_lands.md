@@ -23,7 +23,7 @@ Most of the land is devoid of natural resources, with scarce mines and low-quali
 A humid subtropical climate permeates the cape, and it is known for its harsh, capricious waters and frequent storms.
 Also well-known are the tortles inhabiting the small island of Mbeat, for it is the only place where they have met safety after their arrival in Yuadrem.
 
-In both regions lie the oldest nations of Yuadrem, the Seven Princedoms of the Sea.
+In both regions lie the oldest nations of Yuadrem, the [Seven Princedoms of the Sea](../history.md#age-of-winter).
 Historically renowned raiders and pillagers, they are now famous for their passivity—focusing on enterprise and artisanship.
 What they offer is their expert craftgatship, and among them are the only bonecarvers capable of manufacturing qualars. -->
 

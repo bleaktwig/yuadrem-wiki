@@ -5,9 +5,9 @@
 <!-- INTRODUCTION ------------------------------------------------------------->
 The Westlands stretch up to the Sulfur Lake to the north, the Ichor Mountains to the east, and the Drejek jungle to the west.
 A variety of biomes define this region, all assailed by hot tropical temperatures.
-Before The Penance<!-- TODO. Link. -->, the region was heavily populated by [irds](../kins/hume.md#ird-culture) and [barkskins](../kins/barkskin.md).
+Before the [Penance](../history.md#age-of-spring), the region was heavily populated by [irds](../kins/hume.md#ird-culture) and [barkskins](../kins/barkskin.md).
 Three empires rose in the region: Hulnar<!-- TODO. Link. -->, Jenkash<!-- TODO. Link. -->, and Gannag<!-- TODO. Link. -->.
-All are thought to have fallen in The Penance, as no contact has been established with them since.
+All are thought to have fallen in he Penance, as no contact has been established with them since.
 
 <!-- GEOGRAPHY ---------------------------------------------------------------->
 ## Geography
@@ -22,7 +22,7 @@ It used to be the most populated desert in Yuadrem, and the old empire of Hulnar
 East of Zoedrem is the Sylvan Canyon, a very hospitable land when compared to its neighboring desert and mountains.
 The canyon walls protect its basin<!-- TODO. Is this the right word? -->, helping it grow grasslands and forests.
 Apart from this shy plantlife, the area is known for its large salt and gemstone deposits.
-The princedoms' colony of Viphoger was established to exploit this, but it too is now lost to The Penance.
+The princedom of Viphoger was established to exploit this, but it too is now lost to the Penance.
 
 #### Ichor Mountains
 Separating the deserts of Zoedrem and the Dead Sea are the Ichor Mountains.

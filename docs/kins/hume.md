@@ -3,15 +3,16 @@
 
 <!-- TODO list:
 * Maybe mention what ird and gat mean in jantherlin? That might help integrate the language into the lore.
-* Change the names noves, bughna, treb, thulkraka, qulbaba, etc. mention that they exist, but say the names in english so they're more memorable and approachable.
+* Treb gats are descendants of a particular Et-born that could produce progeny!!! Mention that, it's a cool concept that explains their large physical difference with the rest of the gats.
+* Explain what the Et-born are.
 -->
 
 ---
 ## Physical Description
-Humes are of a broad spectrum. Before the Penance<!-- TODO. Link. -->, humes traveled the entirety of Yuadrem, and they are as varied as the environments they settled. Their height usually ranges from slightly more than a meter to about 2. They can weigh anything from 40 to 120 kg, on average. Their skin shades to any color from the darkest brown to the lightest hues. They can grow long hair from their scalps and faces, with great variety of color and thickness.
+Humes are of a broad spectrum. Before the [Penance](../history.md#age-of-spring), humes traveled the entirety of Yuadrem, and they are as varied as the environments they settled. Their height usually ranges from slightly more than a meter to about 2. They can weigh anything from 40 to 120 kg, on average. Their skin shades to any color from the darkest brown to the lightest hues. They can grow long hair from their scalps and faces, with great variety of color and thickness.
 
 While this varies from culture to culture, in general a hume is considered an adult between 14 and 16 years. Due to high child mortality, life expectancy averages to 25 years. For those who reach that age, they have a reasonable chance of reaching 50 to 60 years. Sorcerers are well known for extending their lives, and it is not unusual for them to live even more than a century.
-<!-- NOTE. The downside of this are all the negative effects of Pheter use in the body, Nix sickness, deformed bodies + strange appendages, etc. -->
+<!-- NOTE. The downside of this are all the negative effects of pheter use in the body, Nix sickness, deformed bodies + strange appendages, etc. -->
 
 Humes are a gendered kin, and usually have one child at a time. Previous to the [Schism](../history.md#war-of-autumn), childcare was left to the women of the families, in particular to each child's mother. This varies among cultures, but communal childcare is the norm after the Penance.
 
@@ -41,9 +42,9 @@ While working, a laborer might wear red with hints of magenta to allow their bod
 
 ### Origins and History
 <!-- NOTE. Those who sided with Et. Et-born families still retain horns (by feeding the mother Et's sap), which were first gifted by Et to their loyal soldiers. -->
-After the Schism, the surviving gats separated into three groups: noves, bughna, and treb. Those who remained became known as noves gats, and their ethnicity is the most common in the modern world. They built the holy city of Naptane<!-- TODO. Link. --> inside the stump of Et, from which sprung the Seven Princedoms of the Sea<!-- TODO. Link. -->. Noves are often considered simile to civilization.
+After the Schism, the surviving gats separated into three groups: noves, bughna, and treb. Those who remained became known as noves gats, and their ethnicity is the most common in the modern world. They built the holy city of Naptane<!-- TODO. Link. --> inside the stump of Et, from which sprung the [Seven Princedoms of the Sea](../history.md#age-of-winter). Noves are often considered simile to civilization.
 
-Bughna gats endured the 40-Year Famine<!-- TODO. Link. --> by adopting a nomadic lifestyle, one which defines them still. These humes became known as great pastors and merchants. They strengthened the bond between the princedoms, in part allowing the establishment of the large gat civilization. Even today they are often associated to good luck.
+Bughna gats endured the [40-Year Famine](../history.md#age-of-winter) by adopting a nomadic lifestyle, one which defines them still. These humes became known as great pastors and merchants. They strengthened the bond between the princedoms, in part allowing the establishment of the large gat civilization. Even today they are often associated to good luck.
 
 Not all progeny of Et was born equal, and the treb are the perfect example. They are larger and bulkier than the average hume, and were often the first line of attack in the War of Autumn. Treb gats were regarded as brutish, and didn't fit the civilization built by the noves. They were exiled by the [god-suzerain Olag](../religion/illuminants/olag.md) during the third century, and most established a new home in the Dead Sea<!-- TODO. Link. -->.
 <!-- NOTE. Treb gats are not *born* brutish. While their culture may seem "violent", they are very religious and show a sophistication with nature that is not commonly seen in other humes. -->

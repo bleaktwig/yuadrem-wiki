@@ -20,7 +20,6 @@ Back on Yuadrem, the god-trees realized they were free from the constrains that 
 
 But while most god-trees rejoiced, one harbored jealousy. [Et](religion/godtrees/et.md), the blue birch, disagreed with Om, wishing for a cold, still world. It devised a plan, and spawned the first sentient creature to enact it: the [hume](kins/hume.md).
 
-<!--NOTE. Include a picture of the cosmos?-->
 <!--NOTE. Include a picture of the ring of color?-->
 
 <!---------------------------------------------------------------------------->
@@ -40,28 +39,21 @@ Ultimately, in one final siege, the humes arrived at the base of a tired Om, and
 Pheter, dismayed by the work of their own creation, punished Et for demanding such atrocities. They engraved the fundamental signature of lightning upon Fusine, and then sent her to the heavens. From there, she used the signature to summon great thunder onto Et, fulminating the god-tree in an instant, and marking year 0 in the calendar in a day known as the _Schism_.
 
 <!---------------------------------------------------------------------------->
-## Dark Age
+## Age of Winter
+<!-- NOTE. Maybe change to Age of Cold? Less obvious... -->
 _0 to 195 A.S._
 
-With the raging fires that consumed both Et and Om having no end in sight, the soot and ash of both god-trees clouded the sky all-around the planet. 
+With the raging fires that consumed both Et and Om having no end in sight, the soot and ash of both god-trees clouded the sky all-around the planet. The smoke cover led to an unnaturally-long winter, starting a period known as the _40-year Famine_. This led to a further division of humes, with gat culture now shattering into two: the bughna who left Et behind by adopting a nomadic lifestyle; and the noves who, despite the state of their land, decided to stay near the charred corpse of their god.
 
-The raging fires that consumed both Et and Om had no end in sight, 
+Over time, more and more noves unified under the embrace of one of the last Et-born<!--TODO. Link.-->, one last gift of the god-tree to its children. A gat that later came to be known as the [god-suzerain Olag](religion/illuminants/olag.md), under whom the noves enjoyed the start of a flourishing civilization. Olag founded the first kingdom, Vamerit<!-- TODO. Link. -->, and later built its capital<!--TODO. Link. --> using the charred remains of Et as outer walls. This day, the 11th of Amuvean, 96 A.S., is celebrated to this day as the _Founding of Naptane_.
 
-After the Schism, 
+Seeing the magnificence of the Et-born's labor, most of the the neighboring tribes swore fealty to Olag. Many, however, feared the unification brought by them and attacked the young empire. This is known as the _100-year War_, which was ended by Olag's skill at bargain and warfare. Upon unifying the peoples of the [Horned Shores](geography/fractured_lands.md#horned-shores), the gat separated it into seven princedoms: Dnomit, Khedrat, Meritan, Ushpavam, Vamerit, Viphoger, and Xarxage. Each was ruled by its own prince, which would have to answer to the command Olag, the suzerain. The _Establishment of the Seven Princedoms of the Sea_, which occurred on the 6th of Aduvinean, 195 A.S., marks the start of the next age.
 
-**TODO.**
-
-<!--40 year famine-->
-<!-- TODO. Add the Gat Diaspora (Bughna and Treb). -->
-<!--
-* **TODO. 32 A.S. The Ctereth sieges & the Armies of Healing.**
-* **TODO. 96 A.S. Founding of Naptane.**
-* **TODO. 141 A.S. Discovery of the barkskins.**
-* **TODO. 195 A.S. Establishment of the 7 Princedoms of the Sea and beginning of the reign of the God-Suzerain Olag.**
--->
+<!-- 32 A.S. | The Ctereth sieges & the Armies of Healing (ird). -->
 
 <!---------------------------------------------------------------------------->
-## Golden Age
+## Age of Spring
+<!-- NOTE. Maybe change to Age of Blooms? Less obvious... -->
 _195 to 621 A.S._
 
 **TODO.**
@@ -73,9 +65,9 @@ _195 to 621 A.S._
 
 <!--
 * **71.** Founding of Krudzal.
-* **141.** Discovery of barkskins and Tek.
 * **143.** Babaian wars (143 - 173).
 * **195.** Founding of the Seven Kingdoms through the seven ziggurats.
+* **TODO.** Discovery of barkskins and Tek.
 * **231.** more imate genocides (TODO. look up the names) (231 - 261), under Olag.
 * **411.** Vanishing of Hairuus.
 * **520.** Establishment of Tanethism.
@@ -83,6 +75,7 @@ _195 to 621 A.S._
 * **??** rebellion starts.
 * 620 use of all-storm.
 * 621: night of the fourth color, death of Olag.
+* Maybe nix started oozing from the corpse of Et after Olag's death? would be interesting...
 -->
 
 <!---------------------------------------------------------------------------->

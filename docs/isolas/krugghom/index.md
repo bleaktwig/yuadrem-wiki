@@ -4,7 +4,7 @@
 As its name suggests, this isola lies in the capital of the old nation of Krudzal, Krugghom.
 The isola is home to **TODO** people, most of which are [ird](../../kins/hume.md#ird-culture).
 The city's position high above the Kure protected it from nix<!-- [nix](TODO) -->.
-The isola has not been in communication with the rest of Yuadrem ever since the Penance.
+The isola has not been in communication with the rest of Yuadrem ever since the [Penance](../../history.md#age-of-spring).
 
 The current government follows the recuperationist philosophy.
 It teaches the belief that other bastions of civilization exist, and it makes an active effort to regain contact with them.
@@ -21,5 +21,5 @@ Due to a lack of political stability, this government has held power for about 2
 
 ## Religion
 The main religion in Krudzal is [Tanethism](../../religion/index.md).
-The practice quickly gained popularity by the late Nations Era<!-- [Nations Era](TODO) --> from the evangelization efforts of [Olag](../../religion/illuminants/olag.md) and the Seven Princedoms of the Sea<!-- [Seven Princedoms of the Sea](TODO) -->.
+The practice quickly gained popularity by the late Nations Era<!-- [Nations Era](TODO) --> from the evangelization efforts of [Olag](../../religion/illuminants/olag.md) and the [Seven Princedoms of the Sea](../../history.md#age-of-winter).
 Despite this, there are still a few followers of the old religion of the region, Tsalemism<!-- [Tsalemism](TODO) -->.

@@ -1,9 +1,11 @@
 <!-- TODO list.
 * Missing links.
 * Write a page with some 3-4 paragraphs for Nikoleta. Maybe one for Elña too?
+* Update the calendar with the god name changes (everything's probably fine but let's make sure).
+* Including the days that each god is celebrated in the calendar might be cool.
 ------------------------------------------------------------------------------>
 # Tanethism
-Old Tanethism was characterized by its myriad of gods—one for each apomantic signature<!-- NOTE. Link. -->. This religion was widely practiced in the Seven Princedoms of the Sea<!-- NOTE. Link. --> and their various colonies up to the late [Age of Gold](../history.md#age-of-gold). However, in the year 520 A.S., by decree of the [god-suzerain Olag](illuminants/olag.md), a "new" Tanethism was established as the official religion of the princedoms. Today, this is the most practiced religion in the Fesh Peninsula<!-- TODO. Link. -->.
+Old Tanethism was characterized by its myriad of gods—one for each apomantic signature<!-- NOTE. Link. -->. This religion was widely practiced in the [Seven Princedoms of the Sea](../history.md#age-of-winter) and their various colonies up to the late [Age of Spring](../history.md#age-of-spring). However, in the year 520 A.S., by decree of the [god-suzerain Olag](illuminants/olag.md), a "new" Tanethism was established as the official religion of the princedoms. Today, this is the most practiced religion in the Fesh Peninsula<!-- TODO. Link. -->.
 
 The religion is based on a book published by Taneth in 311 A.S., in which the scholar and traveler wrote an exhaustive compilation of the more than a thousand deities praised in the region. In this taxonomy, they classified the similitudes and differences between most of these deities and proposed a reduced pantheon with a clear, tiered hierarchy between all of them.
 
@@ -41,7 +43,7 @@ The mevic gods, or _gods of bone_, are the six aspects of Zash, and were created
 * [**Pagram**](mevic_gods/pagram.md) is the god of Yellow, order, civilization, gold, and autumn.
 
 ### God-trees
-The oric gods, or _gods of flesh_ in Avshenese, were the first trees in the world and are the creators of most living creatures in it. More commonly known as the _god-trees_, each was born of a seed during the [_First Communion_](../history.md#prehistory), planted by their corresponding mevic god. Despite being divine beings, they are physical, and thus, mortal. Regretfully, most of them have died, either in the [Schism](../history.md#war-of-autumn) or in the [Penance](../history.md#age-of-tar).
+The oric gods, or _gods of flesh_ in Avshenese, were the first trees in the world and are the creators of most living creatures in it. More commonly known as the _god-trees_, each was born of a seed during the [_First Communion_](../history.md#prehistory), planted by their corresponding mevic god. Despite being divine beings, they are physical, and thus, mortal. Regretfully, most of them have died, either in the [Schism](../history.md#war-of-autumn) or in the [Penance](../history.md#age-of-spring).
 
 * [**Tek**](godtrees/tek.md) is an immense banyan, shaded by imposing green crowns. It was planted by Matevos, and is the parent of the [barkskin](../kins/barkskin.md).
 * [**Et**](godtrees/et.md) was a blue birch with many-hued leaves. It was planted by Febrid, and is the creator of the [humes](../kins/hume.md).
@@ -81,9 +83,9 @@ The tovasic gods, or _second gods_ in Avshenese, are mortals who are given godho
 |:------------------------------------------------------:|
 | _Etian signature of Bades._                            |
 
-* [**Olag**](illuminants/olag.md) is the god of craftsmanship and conquest. They were the first of the illuminants, and the god-suzerain of the Seven Princedoms of the Sea<!-- TODO. Link. -->. They were an Et-born who ascended by Vahan's will in 195 A.S. and died in 621 A.S..
+* [**Olag**](illuminants/olag.md) is the god of craftsmanship and conquest. They were the first of the illuminants, and the god-suzerain of the Seven Princedoms of the Sea. They were an Et-born who ascended by Vahan's will in 195 A.S. and died in 621 A.S..
 
-* **Rerisi**, or sometimes known as Zuleija, is the goddess of discipline and protection. She was a treb gat who fought back against the beasts of the Sylvan Canyon<!-- TODO. Link. -->, allowing for the establishment of the city-states of Viphoger<!-- TODO. Link. -->. She was ascended by Vahan for her strength, and is depicted with weapons and armor made of heavy stone. She soared to the heavens after her death, and is now the furthest astral body from Darhoc.
+* **Rerisi**, or sometimes known as Zuleija, is the goddess of discipline and protection. She was a treb gat who fought back against the beasts of the Sylvan Canyon<!-- TODO. Link. -->, allowing for the establishment of the princedom of Viphoger. She was ascended by Vahan for her strength, and is depicted with weapons and armor made of heavy stone. She soared to the heavens after her death, and is now the furthest astral body from Darhoc.
 
 * **Sakris** is the god of fun and wine. As a mortal, he was the most devoted slave to the prince-merchant Hak of Ushpavam<!-- NOTE. Link. -->. Ascended by Matevos, he is often depicted dutifully attending to guests at a party, even as a god.
 
