@@ -24,8 +24,8 @@ But while most god-trees rejoiced, one harbored jealousy. [Et](religion/godtrees
 <!--NOTE. Include a picture of the ring of color?-->
 
 <!---------------------------------------------------------------------------->
-## War of Spring
-Following Et's wishes, humes crafted swords and spears, built cities and fortresses, conducted fire and thunder, and even tame and commanded some of Om's own creations. The first city-states, Fiele, Ashen, and Alagias<!-- TODO. Link? -->, were built in this time, as were too the eight Forts of Spring<!-- TODO. Link? -->.
+## War of Autumn
+Following Et's wishes, humes crafted swords and spears, built cities and fortresses, conducted fire and thunder, and even tame and commanded some of Om's own creations. The first city-states, Fiele, Ashen, and Alagias<!-- TODO. Link? -->, were built in this time, as were too the eight Forts of Autumn<!-- TODO. Link? -->.
 
 Om, fearing the humes' fire, produced a sentient creature of its own, the [imates](kins/imate.md). Imates could not build like humes, but they were blessed with Word<!-- TODO. Link. --> by their creator. Via Word, they wielded the essence of Pheter that remained after the god's departure, conducting the six aspects of the mevic gods. Weight, heat, and entropy could be wielded as shields against humes, and thus imates created apomantics<!-- TODO. Link. -->.
 
@@ -37,11 +37,17 @@ As the war between oric gods burned brighter and brighter, many humes became dis
 
 Ultimately, in one final siege, the humes arrived at the base of a tired Om, and, wielding Color, set the god-tree on fire. The oric god burned through months, as the gats carried with the mass murder of imates in what's known as the _Ededian Genocide_.
 
-Pheter, dismayed by the work of their own creation, punished Et for demanding such atrocities. They engraved the fundamental signature of lightning upon Fusine, and then sent her to the heavens. From there, she used the signature to summon great thunder onto Et, fulminating the god-tree in an instant, and marking year 0 in the calendar in a day known as _The Schism_.
+Pheter, dismayed by the work of their own creation, punished Et for demanding such atrocities. They engraved the fundamental signature of lightning upon Fusine, and then sent her to the heavens. From there, she used the signature to summon great thunder onto Et, fulminating the god-tree in an instant, and marking year 0 in the calendar in a day known as the _Schism_.
 
 <!---------------------------------------------------------------------------->
 ## Dark Age
 _0 to 195 A.S._
+
+With the raging fires that consumed both Et and Om having no end in sight, the soot and ash of both god-trees clouded the sky all-around the planet. 
+
+The raging fires that consumed both Et and Om had no end in sight, 
+
+After the Schism, 
 
 **TODO.**
 

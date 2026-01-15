@@ -27,7 +27,7 @@ Detached barkskins often have a lifespan of only a few decades.
 ## Culture
 ### Origins and History
 Barkskins were created by the tree god Tek in Drejek.
-The year in which this happened is unknown, but it is known that the first barkskins were made from corpses of the [Ird Diaspora](../history.md#war-of-spring).
+The year in which this happened is unknown, but it is known that the first barkskins were made from corpses of the [Ird Diaspora](../history.md#war-of-autumn).
 The original barkskins built only basic houses and structures.
 They lived alongside Tek, and dedicated their lives to the health and growth of Drejek.
 

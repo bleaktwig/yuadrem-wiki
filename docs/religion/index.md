@@ -41,7 +41,7 @@ The mevic gods, or _gods of bone_, are the six aspects of Zash, and were created
 * [**Pagram**](mevic_gods/pagram.md) is the god of Yellow, order, civilization, gold, and autumn.
 
 ### God-trees
-The oric gods, or _gods of flesh_ in Avshenese, were the first trees in the world and are the creators of most living creatures in it. More commonly known as the _god-trees_, each was born of a seed during the [_First Communion_](../history.md#prehistory), planted by their corresponding mevic god. Despite being divine beings, they are physical, and thus, mortal. Regretfully, most of them have died, either in the [Schism](../history.md#war-of-spring) or in the [Penance](../history.md#age-of-tar).
+The oric gods, or _gods of flesh_ in Avshenese, were the first trees in the world and are the creators of most living creatures in it. More commonly known as the _god-trees_, each was born of a seed during the [_First Communion_](../history.md#prehistory), planted by their corresponding mevic god. Despite being divine beings, they are physical, and thus, mortal. Regretfully, most of them have died, either in the [Schism](../history.md#war-of-autumn) or in the [Penance](../history.md#age-of-tar).
 
 * [**Tek**](godtrees/tek.md) is an immense banyan, shaded by imposing green crowns. It was planted by Matevos, and is the parent of the [barkskin](../kins/barkskin.md).
 * [**Et**](godtrees/et.md) was a blue birch with many-hued leaves. It was planted by Febrid, and is the creator of the [humes](../kins/hume.md).
@@ -73,7 +73,7 @@ The tovasic gods, or _second gods_ in Avshenese, are mortals who are given godho
 |:------------------------------------------------------:|
 | _Etian signature of Laver._                            |
 
-* **Mziva** is the god of self-sacrifice. As a mortal, she was an [imate](../kins/imate.md) who led her people to salvation during the [Ededian Genocide](../history.md#war-of-spring), at the cost of her own life. She was ascended by Tamaz, and is depicted with golden hair and clothes made of flowers.
+* **Mziva** is the god of self-sacrifice. As a mortal, she was an [imate](../kins/imate.md) who led her people to salvation during the [Ededian Genocide](../history.md#war-of-autumn), at the cost of her own life. She was ascended by Tamaz, and is depicted with golden hair and clothes made of flowers.
 
 * **Nikoleta**, also known as Bades, is the goddess of rituals and sorcery. As a mortal, she was a [gat](../kins/hume.md#gat-culture) sorceress from Fremit<!-- TODO. Link. --> and a scholar of Nix. She created an incantation that temporarily stops the spread of nix, and cast it atop Mount Tashta to stop the tar from invading the Fesh Peninsula. The ritual killed her, but was ascended by Febrid upon death. Her incantation is repeated every year in various parts of the Punika Ridge<!-- TODO. Link. --> to continue protecting the peninsula. She ascended to the heavens after death, and became the astral body Bades.
 
@@ -93,7 +93,7 @@ The tovasic gods, or _second gods_ in Avshenese, are mortals who are given godho
 
 * **Tamaz** is the goddess of wealth and silver. As a mortal, she was an [ird](../kins/hume.md#ird-culture) adventurer, known for financing the first colonial ships of Krudzal<!-- TODO. Link? -->. She is now depicted in a shiny gray dress, holding an iron hammer and a woodworking saw, and was ascended by the god of civilization, Pagram.
 
-* **Tinos**, sometimes known as Genadi, is the goddess of bravery and compassion. As a mortal, she was an [imate](../kins/imate.md) hero whose acts led to the death of King D'khan, ending the [Ededian Genocide](../history.md#war-of-spring). She was ascended by Bagrat, and is depicted with toad-like features, carrying her characteristic swordflute. She rose to the heavens after death, and now wards her fellow imates as an astral body.
+* **Tinos**, sometimes known as Genadi, is the goddess of bravery and compassion. As a mortal, she was an [imate](../kins/imate.md) hero whose acts led to the death of King D'khan, ending the [Ededian Genocide](../history.md#war-of-autumn). She was ascended by Bagrat, and is depicted with toad-like features, carrying her characteristic swordflute. She rose to the heavens after death, and now wards her fellow imates as an astral body.
 
 | ![Etian signature of Tinos](illuminants/img/tinos.png) |
 |:------------------------------------------------------:|

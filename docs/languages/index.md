@@ -23,7 +23,7 @@ Over time, Jantherlin evolved into most of the languages spoken in Yuadrem, the 
 [**Frisian**](frisian.md) was spoken in the peninsula before the [Penance](../history.md#age-of-fog), and remains the most common vocabulary in the region. It is currently spoken in the sumis of Fremit, Ushpavam, Vamerit, and Xarxage, as well as in the Holy Nation of Ushpavam and the Nation of Meritan. A dialect of old Avshenesian, very similar to Frisian, is also spoken by the chiefdoms of Raraspan and Dzarog, as well as by the Ketepi people.
 <!-- TODO. Lots of links are needed here. -->
 
-**Shanise** was the main language spoken in the [Northern Territories](../geography/northern_territories.md), and it branched out from Avshenese in the thulkrakan side of the [Ird Diaspora](../history.md#war-of-spring). As of today, it is only spoken in the Nation of Gronselar<!-- TODO. Link. -->. Shanise is the basis for the gronselarian apomantic system<!-- TODO. Link. -->.
+**Shanise** was the main language spoken in the [Northern Territories](../geography/northern_territories.md), and it branched out from Avshenese in the thulkrakan side of the [Ird Diaspora](../history.md#war-of-autumn). As of today, it is only spoken in the Nation of Gronselar<!-- TODO. Link. -->. Shanise is the basis for the gronselarian apomantic system<!-- TODO. Link. -->.
 
 **Voskian** is a family of dialects that developed north of the [Zoedrem desert](../geography/westlands.md#zoedrem), with the dispersion of the Bughna people in the northern bughna migration<!-- TODO. Link. -->. It is not currently spoken in any nation, but the family is very common in the six thousand tribes<!-- TODO. Link. --> and the peoples of Saefel<!-- TODO. Link. -->.
 
