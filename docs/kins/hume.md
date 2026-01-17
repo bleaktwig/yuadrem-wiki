@@ -5,11 +5,12 @@
 * Maybe mention what ird and gat mean in jantherlin? That might help integrate the language into the lore.
 * Treb gats are descendants of a particular Et-born that could produce progeny!!! Mention that, it's a cool concept that explains their large physical difference with the rest of the gats.
 * Explain what the Et-born are.
+* Maybe talk a bit more here about the 4 "faces" of the ird diaspora; thulkrakan, hairusse, qulbaban, and dratlean.
 -->
 
 ---
 ## Physical Description
-Humes are of a broad spectrum. Before the [Penance](../history.md#age-of-spring), humes traveled the entirety of Yuadrem, and they are as varied as the environments they settled. Their height usually ranges from slightly more than a meter to about 2. They can weigh anything from 40 to 120 kg, on average. Their skin shades to any color from the darkest brown to the lightest hues. They can grow long hair from their scalps and faces, with great variety of color and thickness.
+Humes are of a broad spectrum. Before the [Penance](../history.md#age-of-tar), humes traveled the entirety of Yuadrem, and they are as varied as the environments they settled. Their height usually ranges from slightly more than a meter to about 2. They can weigh anything from 40 to 120 kg, on average. Their skin shades to any color from the darkest brown to the lightest hues. They can grow long hair from their scalps and faces, with great variety of color and thickness.
 
 While this varies from culture to culture, in general a hume is considered an adult between 14 and 16 years. Due to high child mortality, life expectancy averages to 25 years. For those who reach that age, they have a reasonable chance of reaching 50 to 60 years. Sorcerers are well known for extending their lives, and it is not unusual for them to live even more than a century.
 <!-- NOTE. The downside of this are all the negative effects of pheter use in the body, Nix sickness, deformed bodies + strange appendages, etc. -->

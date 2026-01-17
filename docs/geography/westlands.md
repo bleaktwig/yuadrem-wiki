@@ -5,7 +5,7 @@
 <!-- INTRODUCTION ------------------------------------------------------------->
 The Westlands stretch up to the Sulfur Lake to the north, the Ichor Mountains to the east, and the Drejek jungle to the west.
 A variety of biomes define this region, all assailed by hot tropical temperatures.
-Before the [Penance](../history.md#age-of-spring), the region was heavily populated by [irds](../kins/hume.md#ird-culture) and [barkskins](../kins/barkskin.md).
+Before the [Penance](../history.md#age-of-tar), the region was heavily populated by [irds](../kins/hume.md#ird-culture) and [barkskins](../kins/barkskin.md).
 Three empires rose in the region: Hulnar<!-- TODO. Link. -->, Jenkash<!-- TODO. Link. -->, and Gannag<!-- TODO. Link. -->.
 All are thought to have fallen in the Penance, as no contact has been established with them since.
 

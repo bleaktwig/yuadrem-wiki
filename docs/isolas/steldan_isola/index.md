@@ -3,7 +3,7 @@
 # Steldan isola
 The Steldan isola lies at the north-western end of the [Steldan Mountains](TODO), above the [Wall of Ice and Stone](TODO).
 The isola is home to **TODO** people, of which most are [irds](TODO).
-After the [Penance](../../history.md#age-of-spring), the lower plains of the region were flooded with nix over the course of the years.
+After the [Penance](../../history.md#age-of-tar), the lower plains of the region were flooded with nix over the course of the years.
 The population fled up the mountains, establishing many of the towns that are populated today.
 This isolated them from the rest of [Yuadrem](TODO), thus establishing the isola.
 The inhabitants of the isola have not had any contact with the outside world for almost two centuries.

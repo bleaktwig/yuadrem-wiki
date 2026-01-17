@@ -2,14 +2,14 @@
 *Longevity Above All*.
 
 Statists believe that a strong state can lead the isola to security and longevity.
-The doctrine was born after the [Penance](../../../history.md#age-of-spring), and have been dominant for the whole postpenance era.
+The doctrine was born after the [Penance](../../../history.md#age-of-tar), and have been dominant for the whole Age of Tar.
 Statism reacts to the immediate and long-term thread of [nix](TODO).
 Via a strong state, it seeks to preserve the citizens of [Krudzal](TODO).
 The dominant doctrine of the steldan isola, it is the basis upon which the government is built.
 
 ## Principal Beliefs
 * **Longevity above all**.
-Statism focuses its need for survival in two fronts: allowing its population to survive in the postpenance era, and preserving the long history of Krudzal.
+Statism focuses its need for survival in two fronts: allowing its population to survive in the Age of Tar era, and preserving the long history of Krudzal.
 For the former, it gives absolute power to the state.
 A low degree of personal freedom and high degree of control allows it to best preserve the life of the individual.
 For the latter, it created vaults: underground libraries below each town hall, each with a copy of the complete literature of the Fatherland.

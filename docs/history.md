@@ -58,7 +58,7 @@ Olag, perhaps emboldened by the new perceived threat to the west, chose to furth
 
 The god-suzerain's imperial ambitions only grew with time. After pushing the imates as far south as the [Chirping Wilds](geography/savage_territories.md#chirping-wilds), they sought to control each kingdom and region on their warpath. This strained the empire, however, and a strained relation between the suzerain and the protected princes led to the princedom of Viphoger to declare itself independent. Olag not only could not stop this fracture in their reign, but was also unable to quell the ever-growing unrest in the Seven Princedoms.
 
-Then, when the princedom of Xarxage declared independence, the Et-born unleashed again the greatest horror in history. In the year 620 A.S., they cast an incantation not seen since the War of Autumn—the fundamental signature of lightning. Thunder fell upon Alagias<!-- TODO. Link. -->, the princedom's capital, ending the rebellion while fulminating every living creature in the city.
+Then, when the princedom of Xarxage declared independence, the Et-born unleashed again the greatest horror in history. In the year 620 A.S., they cast an incantation not seen since the War of Autumn—the fundamental signature of lightning. Thunder fell upon Alagias, the princedom's capital, ending the rebellion while fulminating every living creature in the city.
 
 This act both established the god-suzerain's reign as supreme, and was the seed of their death. Only a year after it, during the night of the nineteenth of Divunean, while sitting on a throne built at the core of Et's stump, Olag was murdered by an unknown assassin. The murderer, now known as [Laver](religion/index.md#illuminants), was taken to the heavens by Fusine herself. This is known as the ***Night of the Fourth Color***, and marks the end of the Age of Spring.
 
@@ -67,6 +67,10 @@ This act both established the god-suzerain's reign as supreme, and was the seed 
 _621 A.S. to present day._
 
 **TODO.**
+
+It is known that a divine punishment came after Olag's murder, but to this date the cause of it is debated. Some argue that it came in response to the murder itself, while others that it is in response to the suzerain's use of the signature of lightning. Whichever be the case, the wrath of the gods was unleashed upon Yuadrem in a moment in time now known as the ***Penance***.
+
+
 
 <!-- LIST OF EVENTS
     621 | The Penance, start of the Age of Tar.

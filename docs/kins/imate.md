@@ -22,7 +22,7 @@ After the Schism, imates were left without the canopy of Om to protect them. As 
 
 The imates that survived continued migrating south, settling in a variety of regions on the southernmost reaches of Yuadrem. Many gained an affinity with the yellow god-tree Uld, who lives in the Wildlands. Others migrated to the southernmost points of the continent, and a large group to the Ironlakes Islands.
 
-Contact was lost with most of the groups after the [Penance](../history.md#age-of-spring). No signs of imates were seen up until 731 A.S., when they sailed in ships from Gronselar<!-- TODO. Link. -->, towards the islands of the Turtle Sea. They expelled the humes in the Lesser Omian War<!-- TODO. Link. -->, reclaiming their historic territory around Om. Over time, however, many refused this conflict, and settled in the territories surrounding the sea.
+Contact was lost with most of the groups after the [Penance](../history.md#age-of-tar). No signs of imates were seen up until 731 A.S., when they sailed in ships from Gronselar<!-- TODO. Link. -->, towards the islands of the Turtle Sea. They expelled the humes in the Lesser Omian War<!-- TODO. Link. -->, reclaiming their historic territory around Om. Over time, however, many refused this conflict, and settled in the territories surrounding the sea.
 
 ## Culture and traditions
 **Village as family.**
