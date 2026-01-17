@@ -4,3 +4,5 @@ site_author: Sol Benkel
 repo_url: https://github.com/bleaktwig/yuadrem-wiki/
 theme:
     name: material
+    palette:
+         scheme: slate
