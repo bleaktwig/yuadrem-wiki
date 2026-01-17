@@ -38,7 +38,7 @@ This relationship never cooled, and this extended to the Seven Princedoms -- no 
 After the [Penance](../history.md#age-of-spring), Tek and the barkskins were thought to be lost to Nix.
 This was proved wrong in 734 A.S.
 Tek detached a large part of Drejek, and dragged it through the nix to the Fesh Peninsula.
-The landmass collided with the Punica Peaks, now forming the Drejek Highlands.
+The landmass collided with the Punika Peaks, now forming the Drejek Highlands.
 
 The contact sparked the Landfall War<!-- TODO. workshop name. -->, a short conflict between the barkskin and **TODO** Kingdom.
 With the end of the war, relationships between them and the humes cooled for the first time.

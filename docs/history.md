@@ -1,7 +1,5 @@
 <!-- TODO list.
 * Missing links.
-* Add the apomantic signature of each god to their wiki pages, since they're already done (just gotta export some sweet png files.).
-* Narration is kinda shit here, but i don't have infinite time.
 ------------------------------------------------------------------------------>
 # History and Cosmology
 <!---------------------------------------------------------------------------->
@@ -31,10 +29,8 @@ Om, fearing the humes' fire, produced a sentient creature of its own, the [imate
 While apomantics proved an effective barrier, the blue god-tree had another gift for the humes in store. It gifted them Color<!-- TODO. Link. -->, through which they could also govern the remaining essence of Pheter, and thus humes created chromology<!-- TODO. Link. -->
 
 As the war between oric gods burned brighter and brighter, many humes became disillusioned by their maker's goals. Over time, desertion became increasingly common, leading to the ***Ird Diaspora***, and the separation of hume civilization into the [gat](kins/hume.md#gat-culture) and [ird](kins/hume.md#ird-culture) cultures.
-<!--NOTE. Maybe talk a bit more here about the 4 "faces" of the ird diaspora; thulkrakan, hairusse, qulbaban, and dratlean. *Or*, make a new page only on the ird diaspora. -->
-<!-- First siege of Ctereth by the armies of healing -- irds-->
 
-Ultimately, in one final siege, the humes arrived at the base of a tired Om, and, wielding Color, set the god-tree on fire. The oric god burned through months, as the gats carried with the mass murder of imates in what's known as the ***Ededian Genocide***.
+Ultimately, in one final siege, the humes arrived at the base of a tired Om, and, wielding Color, set the god-tree on fire. The oric god burned through months, as the gats carried with the mass murder of imates in what's known as the ***Ededian Massacre***.
 
 Pheter, dismayed by the work of their own creation, punished Et for demanding such atrocities. They engraved the fundamental signature of lightning upon Fusine, and then sent her to the heavens. From there, she used the signature to summon great thunder onto Et, fulminating the god-tree in an instant, and marking year 0 in the calendar in a day known as the ***Schism***.
 
@@ -48,32 +44,23 @@ Over time, more and more noves unified under the embrace of one of the last Et-b
 
 Seeing the magnificence of the Et-born's labor, most of the the neighboring tribes swore fealty to Olag. Many, however, feared the unification brought by them and attacked the young empire. This is known as the ***100-year War***, which was ended by Olag's skill at bargain and warfare. Upon unifying the peoples of the [Horned Shores](geography/fractured_lands.md#horned-shores), the gat separated it into seven princedoms: Dnomit, Khedrat, Meritan, Ushpavam, Vamerit, Viphoger, and Xarxage. Each was ruled by its own prince, which would have to answer to the command Olag, the suzerain. The ***Establishment of the Seven Princedoms of the Sea***, which occurred on the 6th of Aduvinean, 195 A.S., marks the start of the next age.
 
-<!-- 32 A.S. | The Ctereth sieges by gats. -->
-
 <!---------------------------------------------------------------------------->
 ## Age of Spring
-<!-- NOTE. Maybe change to Age of Blooms? Less obvious... -->
 _195 to 621 A.S._
 
-**TODO.**
+Shortly after the princedoms were founded and a ziggurat was erected on each capital, the empire started reaching outside their original territories of the Horned Shores and the [Fesh Peninsula](isolas/fesh_peninsula/index.md). Both land and sea commerce routes were charted with the many nascent kingdoms in the continent, forming peaceful relations with the bughna gats and the irds. The same luck was not shared by the imates, however, as Olag resumed the slaughter that had stopped with the Schism, forcing the kin further and further south during the ***Babaian Wars*** from 231 to 261 A.S.
 
-<!-- LIST OF EVENTS
-    71          | Founding of Krudzal.
-    143 - 173   | Babaian wars.
-    195         | Founding of the Seven Kingdoms through the seven ziggurats.
-    2nd century | Nascency of Tol and oths. 
-    231 - 261   | more imate genocides under Olag (look up the names).
-    3rd century | Exile of treb gats.
-    311 A.S.    | Taneth writes the good book in 311 A.S.
-    411         | Vanishing of Hairuus.
-    520 A.S.    | Establishment of Tanethism as the main religion.
+Interesting developments also unraveled inside empire, with the ***Nascency of Oths*** in the early Age of Spring. From the charred rim of Et's trunk, which now served as Naptane's outer wall, a seventh god-tree bloomed: [Tol](religion/godtrees/tol.md). This tree, while a birch like its parent, did not share its association with Blue, but rather a sickly white color. It also did not birth humes, but rather [oths](kins/oth.md), a kin that quickly established itself alongside humes in the Seven Princedoms of the Sea and in the lands to the south.
 
-    TODO        | Discovery of barkskins and Tek.
-    533         | Creation of Wordbinding??
-    ??          | rebellion starts.
-    620         | use of all-storm.
-    621         |  night of the fourth color, death of Olag.
--->
+In addition to the oths, explorers to the west of the continents found yet another new kin, the [barkskin](kins/barkskin.md). Born from the god-tree [Tek](religion/godtrees/tek.md), this people had nothing in common with the other kins, and no friendly relationship was ever established between them and gats until after the collapse of the princedoms.
+
+Olag, perhaps emboldened by the new perceived threat to the west, chose to further separate the already divided humes: in the year 358 A.S., they decreed that the treb, commonly seen as the most brutish of the gats, were to be exiled from the Seven Kingdoms. Most treb had part of their hands amputated, a sign now known as the Mark of Exile<!-- TODO. Link. -->, and sent to the Dead Sea<!-- TODO. Link. --> to die between the white sands and the scorching sun. Many survived, however, and formed chiefdoms likes Raraspan and Nalash, which exist to this date.
+
+The god-suzerain's imperial ambitions only grew with time. After pushing the imates as far south as the [Chirping Wilds](geography/savage_territories.md#chirping-wilds), they sought to control each kingdom and region on their warpath. This strained the empire, however, and a strained relation between the suzerain and the protected princes led to the princedom of Viphoger to declare itself independent. Olag not only could not stop this fracture in their reign, but was also unable to quell the ever-growing unrest in the Seven Princedoms.
+
+Then, when the princedom of Xarxage declared independence, the Et-born unleashed again the greatest horror in history. In the year 620 A.S., they cast an incantation not seen since the War of Autumn—the fundamental signature of lightning. Thunder fell upon Alagias<!-- TODO. Link. -->, the princedom's capital, ending the rebellion while fulminating every living creature in the city.
+
+This act both established the god-suzerain's reign as supreme, and was the seed of their death. Only a year after it, during the night of the nineteenth of Divunean, while sitting on a throne built at the core of Et's stump, Olag was murdered by an unknown assassin. The murderer, now known as [Laver](religion/index.md#illuminants), was taken to the heavens by Fusine herself. This is known as the ***Night of the Fourth Color***, and marks the end of the Age of Spring.
 
 <!---------------------------------------------------------------------------->
 ## Age of Tar
@@ -100,3 +87,11 @@ _621 A.S. to present day._
 -->
 
 <!-- TODO. Remember to mention at the end that because of their birth without disparity, humes (and other intelligent species) require to consume disparity to maintain thought (separation of things, etc. etc.). this is why the Age of Tar is advancing, even if it started with olag being an asshole. -->
+
+<!-- SIGNIFICANT EVENTS NOT INCLUDED HERE:
+    * prehistory | First siege of Ctereth by the armies of healing -- irds
+    * 32 A.S.    | The Ctereth sieges by gats. 
+    * 71 A.S.    | Founding of Krudzal.
+    * 411 A.S.   | Vanishing of Hairuus.
+    * 520 A.S.   | Establishment of Tanethism as the main religion.
+------------------------------------------------------------------------------>

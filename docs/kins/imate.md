@@ -1,5 +1,5 @@
 # Imates
-[Om](../religion/godtrees/om.md) created imates to defend the oric god from [Et](../religion/godtrees/et.md) and the [humes](hume.md) in the [War of Autumn](../history.md#war-of-autumn). While not particularly suited for war, the kin defended their god-tree until the [Schism](../history.md#war-of-autumn). For this, they were Blessed with Word. After the burning of Om, imates escaped genocide by migrating to the south, spreading thorough the southern reaches of Yuadrem.
+[Om](../religion/godtrees/om.md) created imates to defend the oric god from [Et](../religion/godtrees/et.md) and the [humes](hume.md) in the [War of Autumn](../history.md#war-of-autumn). While not particularly suited for war, the kin defended their god-tree until the [Schism](../history.md#war-of-autumn). For this, they were Blessed with Word. After the burning of Om, imates escaped their total slaughter by migrating to the south, spreading thorough the southern reaches of Yuadrem.
 
 ---
 ## Physical Description
@@ -18,7 +18,7 @@ Due to their fur and proclivity to warm and humid weathers, imates in general do
 For self expression, imates wear an abundance of accessories, often made of copper or gold. Common examples include bands in the arms and legs, rings, and braid rings. Piercings in the face and ears are the sign of adulthood in the kin. These accessories are often made of bone, wood, copper, or gold, and imates puts more value in the complexity of the design than the material from which it was made.
 
 ## Origins and history
-After the Schism, imates were left without the canopy of Om to protect them. As such, they settled south of the Turtle Sea, surviving the [40-Year Famine](../history.md#age-of-winter) thanks to the abundant flora of the area. These settlements were short lived, however, as after recovering from the famine, gats took to hunting imates en masse, sparking the Babaian Genocide.
+After the Schism, imates were left without the canopy of Om to protect them. As such, they settled south of the Turtle Sea, surviving the [40-Year Famine](../history.md#age-of-winter) thanks to the abundant flora of the area. These settlements were short lived, however, as after recovering from the famine, gats took to hunting imates en masse, sparking the [Babaian Wars](../history.md#age-of-spring).
 
 The imates that survived continued migrating south, settling in a variety of regions on the southernmost reaches of Yuadrem. Many gained an affinity with the yellow god-tree Uld, who lives in the Wildlands. Others migrated to the southernmost points of the continent, and a large group to the Ironlakes Islands.
 
