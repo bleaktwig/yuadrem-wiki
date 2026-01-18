@@ -1,87 +1,87 @@
-# Barkskin
+# Elves
 **TODO. BASICS.**
 
 ---
 ## Physical Description
-The barkskin spawn from the corpses of humanoids exposed to the tekust spore.
+The elves spawn from the corpses of humanoids exposed to the tekust spore.
 The spore comes from the Tek tree, and is of a bright orange coloration.
 The tekust seals the body and stops its decomposition.
 It then grows into moss, merging with the corpse's flesh.
 A thick layer of bark replaces the decomposing skin, hence the name of the kin.
-After a period of about two months, the corpse rises again, this time in the shape of a barkskin.
+After a period of about two months, the corpse rises again, this time in the shape of an elf.
 
-The height and build of a barkskin depends considerably on their birth corpse.
+The height and build of an elf depends considerably on their birth corpse.
 Their skin is typically of a healthy brown and green coloration, often covered by a layer of flora.
 Their eyes gain a yellowish color, which partially hides the original iris.
 
-Barkskins often take great care over the flora that grows on their body.
+Elves often take great care over the flora that grows on their body.
 They'll remove flowers they don't like, prune plants to their desired length, and shape growths to mold their personal garden.
 Some choose to keep their bark sterile, or even grow edible moss and fungi.
 
-In the vicinity of Tek, a barkskin is virtually immortal.
+In the vicinity of Tek, an elf is virtually immortal.
 As long as they remain within the reach of its hyphae, they won't age, and need very little food to survive.
 This ends when they leave the network -- the tekust in their bodies is not enough to stave off rot.
-Detached barkskins often have a lifespan of only a few decades.
+Detached elves often have a lifespan of only a few decades.
 
 ---
 ## Culture
 ### Origins and History
-Barkskins were created by the tree god Tek in Drejek.
-The year in which this happened is unknown, but it is known that the first barkskins were made from corpses of the [Ird Diaspora](../history.md#war-of-autumn).
-The original barkskins built only basic houses and structures.
+Elves were created by the tree god Tek in Drejek.
+The year in which this happened is unknown, but it is known that the first elves were made from corpses of the [Ird Diaspora](../history.md#war-of-autumn).
+The original elves built only basic houses and structures.
 They lived alongside Tek, and dedicated their lives to the health and growth of Drejek.
 
-Barkskins were originally reserved, and did not interact with humes until the year **TODO** A.S.
-The irds of the qul archipelago sought to build communities in Drejek, but were quickly repelled by the barkskins.
+Elves were originally reserved, and did not interact with humes until the year 445 A.S.
+The irds of the qul archipelago sought to build communities in Drejek, but were quickly repelled by the elves.
 This relationship never cooled, and this extended to the Seven Princedoms -- no alliance was established between the jungle dwellers and the greater world.
 
-After the [Penance](../history.md#age-of-tar), Tek and the barkskins were thought to be lost to Nix.
+After the [Penance](../history.md#age-of-tar), Tek and the elves were thought to be lost to Nix.
 This was proved wrong in 734 A.S.
 Tek detached a large part of Drejek, and dragged it through the nix to the Fesh Peninsula.
 The landmass collided with the Punika Peaks, now forming the Drejek Highlands.
 
-The contact sparked the Landfall War<!-- TODO. workshop name. -->, a short conflict between the barkskin and **TODO** Kingdom.
+The contact sparked the Landfall War<!-- TODO. workshop name. -->, a short conflict between the elves and **TODO** Kingdom.
 With the end of the war, relationships between them and the humes cooled for the first time.
 <!-- The kin are now collaborating with humes, both seeking to fight against the spread of nix. -->
 While access to the jungle core and Tek themself is still forbidden, humes are allowed to the Highlands.
-In addition, there exists some barkskin immigration toward the Peninsula proper.
+In addition, there exists some elven immigration toward the Peninsula proper.
 <!-- It's not uncommon to see a small populace of that ethnicity in villages. -->
 
 ### Traditions and Religion
 **Birth.**
-As part of the process where tekust takes over a body, the newborn barkskin communes with Tek for the first time.
-The god-tree teaches the barkskin [Gannagian](../languages/index.md#naenkian-family) along with the tenets of their society.
-While its uncommon, some barkskins are born outside of Tek's hyphan network.
+As part of the process where tekust takes over a body, the newborn elf communes with Tek for the first time.
+The god-tree teaches the elf [Gannagian](../languages/index.md#naenkian-family) along with the tenets of their society.<!-- TODO. This changed, Tek doesn't teach elves any language. -->
+While its uncommon, some elves are born outside of Tek's hyphan network.
 They lack this innate connection, and most become unable to commune with the tree.
 
-<!-- NOTE. Imates believe that the soul returns to Om once the body settles under the earth. A barkskin born from the corpse of an imate would raise **serious concern** to other imates, as the soul of the latter would still be trapped in the barkskin's body. -->
+<!-- NOTE. Imates believe that the soul returns to Om once the body settles under the earth. An elf born from the corpse of an imate would raise **serious concern** to other imates, as the soul of the latter would still be trapped in the elf's body. -->
 
 **Adulthood and Families.**
-A group of barkskins become adults when they form a family.
+A group of elves become adults when they form a family.
 To do this, the would-be family must commune with Tek.
 Through a shaman, the tree god chooses the chief of the family.
 The shaman then carves holes into the chief's thyroid cartilage, gifting their voice with a characteristic whistling noise.
 
 After the chief heals, the group travels to the northern lakes of Drejek to hunt a ueuee.
 Ueuees are huge frog-like monsters that prey on humes.
-While ueuees are fierce beasts, they are often afraid of the barkskin whistles.
+While ueuees are fierce beasts, they are often afraid of the elves' whistles.
 Any group that succeeds in cutting a ueuee's tongue are accepted as a family, and the members are considered adults.
 
-Families usually start with around twenty to thirty barkskins.
+Families usually start with around twenty to thirty elves.
 They often shrink rapidly after the adulthood ritual, as many join civilization or forge a path of their own.
-A barkskin may do with their life as they please, and only need the approval of Tek if they aim to join another family.
+An elf may do with their life as they please, and only need the approval of Tek if they aim to join another family.
 
 **Death.**
-Upon death, a barkskin's corpse feeds the ground and spreads the tekust spore.
+Upon death, an elf's corpse feeds the ground and spreads the tekust spore.
 A family may react in one of two ways, depending on the context.
 If the risk of tekust infecting a hume is real, the corpse is burned summarily.
-The barkskin's bones are then burned to condense its pheter, as is traditional among humes.
+The elf's bones are then burned to condense its pheter, as is traditional among humes.
 Otherwise, the body is left to rot.
 Natural processes return the nutrients of the body to the earth, as Tek returns what they once borrowed.
 
 **Tekism and Tanethism.**
 <!-- TODO. Update based on what I wrote for the imates. -->
-Most barkskins native to Drejek follow the tekist philosophy, which combines religion and philosophical reasoning.
+Most elves native to Drejek follow the tekist philosophy, which combines religion and philosophical reasoning.
 While the mode of thinking is somewhat compatible of [Tanethism](../religion/index.md), there are some major differences regarding their divinities.
 They believe in the tree gods and their relation to the Ring of Color, but not on the other orders of gods.
 They think of the [illuminants](../religion/index.md#illuminants) as powerful shamans, rather than divine beings.
@@ -91,7 +91,7 @@ They see themselves as a detached part of the god-tree, and await their eventual
 They also commune with Tek through meditation and the consumption of nahan <!-- NOTE. I-water in Knaenese -->, a strong psychedelic made by fermenting the sap of the god-tree.
 
 ### Names
-A barkskin is born without a name, and remain nameless most of their youth.
+Am elf is born without a name, and remain nameless most of their youth.
 They decide on a name when they join a potential family in the adulthood ritual.
 These names are usually in Knaenese, a language famously hard to pronounce.
 It's not uncommon for the other kins to call them by a nickname or a simplified version of the name.
@@ -101,12 +101,12 @@ Gantauda, Gesunt, Gunsedant, Hanhant, Hanseek needa, Hantadage, Huntge, Keena, K
 
 ---
 ## Geographic Distribution
-The majority of the barkskin live in the Drejek Highlands.
+The majority of the elves live in the Drejek Highlands.
 Some population groups have formed inside hume villages.
 The largest of these are **TODO**.
 It is unknown if other settlements exist outside of the peninsula.
 
-<!-- TODO. Draw a map of the movement of the barkskin out of Drejek (post-landing) and mark large barkskin population centers. Reference Na'ane stuff. -->
+<!-- TODO. Draw a map of the movement of the elves out of Drejek (post-landing) and mark large elven population centers. Reference Na'ane stuff. -->
 
 ### Subgroups
 **TODO.**

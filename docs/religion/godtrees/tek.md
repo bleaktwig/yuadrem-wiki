@@ -1,5 +1,5 @@
 # Tek
-Tek, or _Tekatsae_ in [Knaenese](../../languages/index.md#naenkian-family), is the god-tree planted by [Matevos](../mevic_gods/matevos.md), and its the creator of the [barkskin](../../kins/barkskin.md).
+Tek, or _Tekatsae_ in [Knaenese](../../languages/index.md#naenkian-family), is the god-tree planted by [Matevos](../mevic_gods/matevos.md), and its the creator of the [elves](../../kins/elf.md).
 
 The tree is an immense banyan that stands tall in the Drejek Plateau<!-- TODO. Link. -->, shading most of the jungle there with an imposing array of innumerable green crowns. Its root system spreads through the entirety of the plateau, giving life to every tree, plant, and fungus in it.
 

@@ -40,8 +40,6 @@ Over time, more and more noves unified under the embrace of one of the last Et-b
 
 Seeing the magnificence of the Et-born's labor, most of the the neighboring tribes swore fealty to Olag. Many, however, feared the unification brought by them and attacked the young empire. This is known as the ***100-year War***, which was ended by Olag's skill at bargain and warfare. Upon unifying the peoples of the [Horned Shores](geography/fractured_lands.md#horned-shores), the gat separated it into seven princedoms: Dnomit, Khedrat, Meritan, Ushpavam, Vamerit, Viphoger, and Xarxage. Each was ruled by its own prince, which would have to answer to the command Olag, the suzerain. The ***Establishment of the Seven Princedoms of the Sea***, which occurred on the 6th of Aduvinean, 195 A.S., marks the start of the next age.
 
-<!--TODO. Fix up and include the world-wide migration map here.-->
-
 <!---------------------------------------------------------------------------->
 ## Age of Spring
 _195 to 621 A.S._
@@ -50,15 +48,17 @@ Shortly after the princedoms were founded and a ziggurat was erected on each cap
 
 Interesting developments also unraveled inside empire, with the ***Nascency of Oths*** in the early Age of Spring. From the charred rim of Et's trunk, which now served as Naptane's outer wall, a seventh god-tree bloomed: [Tol](religion/godtrees/tol.md). This tree, while a birch like its parent, did not share its association with Blue, but rather a sickly white color. It also did not birth humes, but rather [oths](kins/oth.md), a kin that quickly established itself alongside humes in the Seven Princedoms of the Sea and in the lands to the south.
 
-In addition to the oths, explorers to the west of the continents found yet another new kin, the [barkskin](kins/barkskin.md). Born from the god-tree [Tek](religion/godtrees/tek.md), this people had nothing in common with the other kins, and no friendly relationship was ever established between them and gats until after the collapse of the princedoms.
+In addition to the oths, explorers to the west of the continents found yet another new kin, the [elves](kins/elf.md). Born from the god-tree [Tek](religion/godtrees/tek.md), this people had nothing in common with the other kins, and no friendly relationship was ever established between them and gats until after the collapse of the princedoms.
 
-Olag, perhaps emboldened by the new perceived threat to the west, chose to further separate the already divided humes: in the year 358 A.S., they decreed that the treb, commonly seen as the most brutish of the gats, were to be exiled from the Seven Kingdoms. Most treb had part of their hands amputated, a sign now known as the Mark of Exile<!-- TODO. Link. -->, and sent to the Dead Sea<!-- TODO. Link. --> to die between the white sands and the scorching sun. Many survived, however, and formed chiefdoms likes Raraspan and Nalash, which exist to this date.
+Olag, perhaps emboldened by the new perceived threat to the west, chose to further separate the already divided humes: in the year 358 A.S., they decreed the ***Exile of the Treb***: the treb, commonly seen as the most brutish of the gats, were to be removed from the Seven Kingdoms. Most treb had part of their hands amputated, a sign now known as the Mark of Exile<!-- TODO. Link. -->, and sent to the Dead Sea<!-- TODO. Link. --> to die between the white sands and the scorching sun. Many survived, however, and formed chiefdoms likes Raraspan and Nalash, which exist to this date.
 
 The god-suzerain's imperial ambitions only grew with time. After pushing the imates as far south as the [Chirping Wilds](geography/savage_territories.md#chirping-wilds), they sought to control each kingdom and region on their warpath. This strained the empire, however, and a strained relation between the suzerain and the protected princes led to the princedom of Viphoger to declare itself independent. Olag not only could not stop this fracture in their reign, but was also unable to quell the ever-growing unrest in the Seven Princedoms.
 
 Then, when the princedom of Xarxage declared independence, the Et-born unleashed again the greatest horror in history. In the year 620 A.S., they cast an incantation not seen since the War of Autumn—the fundamental signature of lightning. Thunder fell upon Alagias, the princedom's capital, ending the rebellion while fulminating every living creature in the city.
 
 This act both established the god-suzerain's reign as supreme, and was the seed of their death. Only a year after it, during the night of the nineteenth of Divunean, while sitting on a throne built at the core of Et's stump, Olag was murdered by an unknown assassin. The murderer, now known as [Laver](religion/index.md#illuminants), was taken to the heavens by Fusine herself. This is known as the ***Night of the Fourth Color***, and marks the end of the Age of Spring.
+
+<!--TODO. Fix up and include the world-wide migration map here.-->
 
 <!---------------------------------------------------------------------------->
 ## Age of Tar
@@ -72,7 +72,7 @@ The flow hastened with every year that passed, and there was no end in sight to 
 
 In this hopeless situation rose Nikoleta, a sorceress and scholar of Nix from the monastery of Fremit<!-- TODO. Link. --> in the year 682 A.S.. She created an incantation that could ward against the spread of the tar, then cast it atop Mount Tashta, using the geography of the Punika<!-- TODO. Link. --> and Widure<!-- TODO. Link. --> mountain ranges to aid in the protection of the Fesh Peninsula. Her journey and ritual are commemorated as the ***Pilgrimage of Nikoleta***, and are repeated yearly by the sorcerers of the sumi of Fremit<!-- TODO. Link. --> to maintain the incantation's effect.
 
-The Fesh Peninsula, now a haven of safety among a drowning world, became the destination for millions of immigrants. Perhaps the most unexpected of these was the oric god Tek and its kin, the barkskins. The god-tree lifted the entire Drejek plateau using its root system, dragged it across the continent, to then crash it between the Punika and Puneui<!-- TODO. Link. --> mountain ranges. This is known as the ***Landing of Drejek***, and happened between the years 734 and 737 A.S..
+The Fesh Peninsula, now a haven of safety among a drowning world, became the destination for millions of immigrants. Perhaps the most unexpected of these was the oric god Tek and its kin, the elves. The god-tree lifted the entire Drejek plateau using its root system, dragged it across the continent, to then crash it between the Punika and Puneui<!-- TODO. Link. --> mountain ranges. This is known as the ***Landing of Drejek***, and happened between the years 734 and 737 A.S..
 
 Another abrupt event was the ***Lesser Omietian War*** that has raged since 761 A.S., and erupted with the arrival of ships from the far-south kingdom of Gronselar. The imates and irds of this land, filled with a thirst for retribution for the many massacres against the former, invaded the only princedom that remained: Ushpavam. The war was harsh on both sides, but the southern peoples had the advantage. Gronselar took over both the Newe Plateau<!-- TODO. Link. -->, while imates established the new ***Kingdom of Om*** in the Turtle Sea<!-- TODO. Link. --> and the coastline south of Ushpavam, separating the exhausted kingdom in two.
 
@@ -87,7 +87,7 @@ Because of their birth without disparity, humes (and other intelligent species) 
 <!-- SIGNIFICANT EVENTS NOT INCLUDED HERE:
     * prehistory | First siege of Ctereth by the armies of healing -- irds
     *  32 A.S.   | The Ctereth sieges by gats. 
-    *  71 A.S.   | Founding of Krudzal.
+    * 226 A.S.   | Founding of Krudzal.
     * 411 A.S.   | Vanishing of Hairuus.
     * 520 A.S.   | Establishment of Tanethism as the main religion.
     * 635 A.S.   | Dissolution of empires.

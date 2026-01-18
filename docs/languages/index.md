@@ -23,7 +23,7 @@ Over time, Jantherlin evolved into most of the languages spoken in Yuadrem, the 
 [**Frisian**](frisian.md) was spoken in the peninsula before the [Penance](../history.md#age-of-tar), and remains the most common vocabulary in the region. It is currently spoken in the sumis of Fremit, Ushpavam, Vamerit, and Xarxage, as well as in the Holy Princedom of Ushpavam and the Kingdom of Meritan. A dialect of old Avshenesian, very similar to Frisian, is also spoken by the chiefdoms of Raraspan and Dzarog, as well as by the Ketepi people.
 <!-- TODO. Lots of links are needed here. -->
 
-**Shanise** was the main language spoken in the [Northern Territories](../geography/northern_territories.md), and it branched out from Avshenese in the thulkrakan side of the [Ird Diaspora](../history.md#war-of-autumn). As of today, it is only spoken in the Kingdom of Gronselar<!-- TODO. Link. -->. Shanise is the basis for the gronselarian apomantic system<!-- TODO. Link. -->.
+**Shanise** was the main language spoken in the [Northern Territories](../geography/northern_territories.md), and it branched out from Avshenese in the thulk side of the [Ird Diaspora](../history.md#war-of-autumn). As of today, it is only spoken in the Kingdom of Gronselar<!-- TODO. Link. -->. Shanise is the basis for the gronselarian apomantic system<!-- TODO. Link. -->.
 
 **Voskian** is a family of dialects that developed north of the [Zoedrem desert](../geography/westlands.md#zoedrem), with the dispersion of the bughna people in the northern bughna migration<!-- TODO. Link. -->. It is not currently spoken in any chiefdom, sumi, or kingdom, but the family is very common in the six thousand tribes<!-- TODO. Link. --> and the peoples of Saefel<!-- TODO. Link. -->.
 
@@ -31,9 +31,9 @@ Over time, Jantherlin evolved into most of the languages spoken in Yuadrem, the 
 
 <!---------------------------------------------------------------------------->
 ### Harualian Family
-Some time before the avshenesian family sprouted from Jantherlin, the _harualian family_ started taking shape after the hairusse, qulbaban, and dratlean sides of the Ird Diaspora. While many harualian languages existed in the old world, only two are known to have survived the Penance.
+Some time before the avshenesian family sprouted from Jantherlin, the _harualian family_ started taking shape after the hairus, kulbaba, and dral sides of the Ird Diaspora. While many harualian languages existed in the old world, only two are known to have survived the Penance.
 
-**Qualinese** was spoken in the Jenkashian empire. While the empire was lost to nix, some of its citizens migrated to and established in the Fesh Peninsula. The language is now spoken by the Puneui people<!-- TODO. Link. -->, and is the second most common in the sumi of Fremit<!-- TODO. Link. -->.
+**Kualinese** was spoken in the Jenkashian empire. While the empire was lost to nix, some of its citizens migrated to and established in the Fesh Peninsula. The language is now spoken by the Puneui people<!-- TODO. Link. -->, and is the second most common in the sumi of Fremit<!-- TODO. Link. -->.
 
 **Zsekian** defined the Hulnar empire. Very few native speakers remain in the modern world, but the tongue still sees some use in the chiefdoms of Raraspan<!-- TODO. Link. --> and Dzarog<!-- TODO. Link. -->, as well as by the Ketepi people<!-- TODO. Link. --> to the west.
 
@@ -55,13 +55,13 @@ The **True Tongue** was the third and final language in the shamabic family. It'
 
 <!---------------------------------------------------------------------------->
 ### Naenkian Family
-Since Tek talks through its root system and spores, the god-tree did not teach any tongue to the [barkskin](../kins/barkskin.md). They were, however, later taught verbal language by the imates, establishing communication between the two kins. Barkskins learned a modified version of Babazano adapted to their unique morphology, which turned into the _naenkian family_.
+Since Tek talks through its root system and spores, the god-tree did not teach any tongue to the [elves](../kins/elf.md). They were, however, later taught verbal language by the imates, establishing communication between the two kins. Elves learned a modified version of Babazano adapted to their unique morphology, which turned into the _naenkian family_.
 
-**Gannagian**, sometimes referred to as Old Knaenese, is the first tongue forked from Babazano. Lacking teeth and lips, barkskins communicate only with their alveolar ridge and palate, and as such Gannagian words have very rough sounds, and are hard to learn for members of the other kins. Gannagian is only spoken in Gannag<!-- TODO. Link. -->, and is the basis for the gannagian apomantic system<!-- TODO. Link. -->.
+**Gannagian**, sometimes referred to as Old Knaenese, is the first tongue forked from Babazano. Lacking teeth and lips, elves communicate only with their alveolar ridge and palate, and as such Gannagian words have very rough sounds, and are hard to learn for members of the other kins. Gannagian is only spoken in Gannag<!-- TODO. Link. -->, and is the basis for the gannagian apomantic system<!-- TODO. Link. -->.
 
-**Knaenese** is the most common tongue in the naenkian family, and is spoken in the chiefdom of Knagan<!-- TODO. Link. -->. The barkskin there, unable to rely on Tek's roots and spores, had to develop their language to something much more complex than the simple Gannag.
+**Knaenese** is the most common tongue in the naenkian family, and is spoken in the chiefdom of Knagan<!-- TODO. Link. -->. The elves there, unable to rely on Tek's roots and spores, had to develop their language to something much more complex than the simple Gannag.
 
-**Leaf Runes** is a script imagined by imates and barkskins that was used to communicate between the two. The words are written into trees, and the shape of each glyph depends on the texture of their bark. This makes it very hard for the other kins to understand the writing, but is fairly simple for the imates and barkskins thanks to their intimate relation with trees. Leaf Runes are mostly used to provide secretive guidance in forests.
+**Leaf Runes** is a script imagined by imates and elves that was used to communicate between the two. The words are written into trees, and the shape of each glyph depends on the texture of their bark. This makes it very hard for the other kins to understand the writing, but is fairly simple for the imates and elves thanks to their intimate relation with trees. Leaf Runes are mostly used to provide secretive guidance in forests.
 
 <!---------------------------------------------------------------------------->
 ## Uldian Tree

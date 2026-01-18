@@ -45,7 +45,7 @@ The mevic gods, or _gods of bone_, are the six aspects of Zash, and were created
 ### God-trees
 The oric gods, or _gods of flesh_ in Avshenese, were the first trees in the world and are the creators of most living creatures in it. More commonly known as the _god-trees_, each was born of a seed during the [_First Communion_](../history.md#prehistory), planted by their corresponding mevic god. Despite being divine beings, they are physical, and thus, mortal. Regretfully, most of them have died, either in the [Schism](../history.md#war-of-autumn) or in the [Penance](../history.md#age-of-tar).
 
-* [**Tek**](godtrees/tek.md) is an immense banyan, shaded by imposing green crowns. It was planted by Matevos, and is the parent of the [barkskin](../kins/barkskin.md).
+* [**Tek**](godtrees/tek.md) is an immense banyan, shaded by imposing green crowns. It was planted by Matevos, and is the parent of the [elves](../kins/elf.md).
 * [**Et**](godtrees/et.md) was a blue birch with many-hued leaves. It was planted by Febrid, and is the creator of the [humes](../kins/hume.md).
 * [**Tol**](godtrees/tol.md) was another birch of a sickly white color. It sprouted from the burned stump of Et, and is the parent of [oths](../kins/oth.md).
 * [**Uld**](godtrees/uld.md) was a kapok tree of striking height and a purple crown. It was the tree of Fusine, and created no kin but educated many.
@@ -56,7 +56,7 @@ The oric gods, or _gods of flesh_ in Avshenese, were the first trees in the worl
 ### Illuminants
 The tovasic gods, or _second gods_ in Avshenese, are mortals who are given godhood by higher gods through a ritual of ascension. Better known as illuminants, they are usually protagonists of legends, becoming deities after death and watching over the world alongside the mevic gods from the heavens.
 
-* **Avenush** is the god of teaching and tactics. As a mortal, they were a [barkskin](../kins/barkskin.md) who mediated the peace between Gannag and the Seven Princedoms, then proceeded to create the gannagian apomantic system<!-- NOTE. Link. -->. They were ascended by Febrid, and their depictions show a body covered entirely by a most complex network of apomantic signatures, a glyph carved into each centimeter of bark.
+* **Avenush** is the god of teaching and tactics. As a mortal, they were an elf who mediated the peace between Gannag and the Seven Princedoms, then proceeded to create the gannagian apomantic system<!-- NOTE. Link. -->. They were ascended by Febrid, and their depictions show a body covered entirely by a most complex network of apomantic signatures, a glyph carved into each centimeter of bark.
 
 * **Eful** and **Geful** are the goddesses of justice, the sky, knowledge, and love. As mortals, they were two [oths](../kins/oth.md) scholars who provided the basis for modern math and astrology. They were both ascended together by Fusine, and upon achieving godhood jumped to the heavens to continue their studies, becoming the twin astral bodies known as Relas.
 
@@ -66,7 +66,7 @@ The tovasic gods, or _second gods_ in Avshenese, are mortals who are given godho
 
 * **Elña** is the goddess of tradition and forests. She was the "immortal" queen of the kingdom of Gronselar<!-- TODO. Link. --> in the far south of the world. She was ascended by Pagram, and often takes the shape of a white deer, watching of the descendants of the gronselarian irds, who she still takes under her care.
 
-* **Havetish** is the god of both leadership and tyranny. Their mortal name was Qina, and were the [barskin](../kins/barkskin.md) warlord who led their kin against the [imates](../kins/imate.md) in the Babanian Wars<!-- NOTE. Link. -->. They were ascended by the god of conflict Vahan, and are depicted with a bark and a spear carved from purpleheart wood.
+* **Havetish** is the god of both leadership and tyranny. Their mortal name was Qina, and were the elf warlord who led an army of their kin against the Jenkash's irds in the Na'anian wars. They were ascended by the god of conflict Vahan, and are depicted with a bark and a spear carved from purpleheart wood.
 
 * **Laver**, sometimes known as Gathoz, is the god of secrecy and murder. While their name in life is unknown, they are the assassin who battled and killed the god-suzerain Olag using Tetrachromacy<!-- NOTE. Link. -->. Now, they are often attributed to murders where the perpetrator is never found. They were ascended by Fusine during the night of the murder, and are depicted as a kinless being, their face and body shifting under rags. Due to their great sin, they were not allowed into the Ring of Color, and thus now orbits the heavens as an astral body.
 
@@ -104,10 +104,10 @@ The tovasic gods, or _second gods_ in Avshenese, are mortals who are given godho
 
 As far as is known, there exist only four illuminants alive in the Fesh Peninsula at the current date. Skepticism is encouraged, however, as mevic gods have performed many ascensions surreptitiously, with the echelon of the new god only divulged years later, sometimes posthumously.
 
-* **Anush**, also known as Doran, is the god of rot and fertility. They are a barkskin born outside the reach of Tek, and thus unable to commune with the god-tree. Rather than becoming feral, like their kin in Knagan<!-- TODO. Link. -->, the illuminant didn't let their birth become a weakness, and now spreads tekust spores<!-- TODO. Link. --> and assists in funerary rituals across the Fesh Peninsula. They were recently ascended by Bagrat, which has only emboldened their spirit and that of their followers.
+* **Anush**, also known as Doran, is the god of rot and fertility. They are an elf born outside the reach of Tek, and thus unable to commune with the god-tree. Rather than becoming feral, like their kin in Knagan<!-- TODO. Link. -->, the illuminant didn't let their birth become a weakness, and now spreads tekust spores<!-- TODO. Link. --> and assists in funerary rituals across the Fesh Peninsula. They were recently ascended by Bagrat, which has only emboldened their spirit and that of their followers.
 
 * **Do Zazuzu** is the god of mischief and pageants. He is an oras imate<!-- TODO. Link. --> famous for his role in the independence of Viphoger and his graceful antics. He was ascended by the god of joy Matevos, and now runs a traveling company of troubadours and acrobats that performs all around the Fesh Peninsula.
 
 * **Jirek** is the god of might and salt. He is a treb gat<!--TODO. Link. --> that was ascended by Vahan after he beat and killed the god's previous champion, Rerisi. The illuminant is now one of the chiefs of Nalash, and lives in the Ruti mountains waiting for challengers to try and take his title.
 
-* **Vakris** is the god of madness and scavengers. He is a dratl ird<!-- TODO. Link. --> who was the leader of an infamous band of bandits in the Idul Ridge<!-- TODO. Link. --> before being captured by Vawe, the Regent Prince of Ushpavam<!-- TODO. Link. -->. He was exiled after having his group slaughtered and his body disfigured through torture, yet was later ascended in a perverse act of kindness by the goddess of retribution Fusine. He now roams the ridge readying his vengeance, while madly striking any who approach him.
+* **Vakris** is the god of madness and scavengers. He is a dral ird<!-- TODO. Link. --> who was the leader of an infamous band of bandits in the Idul Ridge<!-- TODO. Link. --> before being captured by Vawe, the Regent Prince of Ushpavam<!-- TODO. Link. -->. He was exiled after having his group slaughtered and his body disfigured through torture, yet was later ascended in a perverse act of kindness by the goddess of retribution Fusine. He now roams the ridge readying his vengeance, while madly striking any who approach him.

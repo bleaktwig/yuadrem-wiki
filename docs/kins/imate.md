@@ -40,7 +40,7 @@ In Fesh, it is common to see one or two of these arboreal communities inside tow
 **Death and return to Om.**
 It is a common belief that a dead imate's soul can only return to Om if its body rots under the earth. Imates traditionally bury their dead below their farmlands, and thus the huts of the oras serve to mourn the recently dead.
 
-For this reason, imates are very reacious to the barkskin<!-- TODO. Link + namechange. --> cycle of birth, since it retards their process of reunification with their god. Furthermore, burning a dead body is extreme sacrilege. If an imate dies by burning or in any way that won't allow its body to rot, as the their soul will never find their way back to Om.
+For this reason, imates are very reacious to the [elves](elf.md) cycle of birth, since it retards their process of reunification with their god. Furthermore, burning a dead body is extreme sacrilege. If an imate dies by burning or in any way that won't allow its body to rot, as the their soul will never find their way back to Om.
 
 **Specialized roles.**
 Due to their differences, oras and arsets tend to take different roles in their society. Arsets, being small and mobile, hunt, scout, and trade with neighboring villages. Oras, larger and stronger, defend the village, along with tending plantations, attending the young, and crafting items and accessories. Traditionally, one or more oras act as the village shamans, conducting rites and communing with the recently dead.

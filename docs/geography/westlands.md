@@ -5,7 +5,7 @@
 <!-- INTRODUCTION ------------------------------------------------------------->
 The Westlands stretch up to the Sulfur Lake to the north, the Ichor Mountains to the east, and the Drejek jungle to the west.
 A variety of biomes define this region, all assailed by hot tropical temperatures.
-Before the [Penance](../history.md#age-of-tar), the region was heavily populated by [irds](../kins/hume.md#ird-culture) and [barkskins](../kins/barkskin.md).
+Before the [Penance](../history.md#age-of-tar), the region was heavily populated by [irds](../kins/hume.md#ird-culture) and [elves](../kins/elf.md).
 Three empires rose in the region: Hulnar<!-- TODO. Link. -->, Jenkash<!-- TODO. Link. -->, and Gannag<!-- TODO. Link. -->.
 All are thought to have fallen in the Penance, as no contact has been established with them since.
 
@@ -15,7 +15,7 @@ All are thought to have fallen in the Penance, as no contact has been establishe
 
 #### Zoedrem
 Zoedrem is a large yellow desert that touches both the Whaler's Sea to the east and the Teal Ocean to the west.
-The desert runs undisturbed from the Sulfur Lake down to the Dratl River<!-- TODO. Add name to map. -->.
+The desert runs undisturbed from the Sulfur Lake down to the Dral River<!-- TODO. Add name to map. -->.
 It used to be the most populated desert in Yuadrem, and the old empire of Hulnar was born in its sands.
 
 #### Sylvan Canyon
@@ -26,16 +26,16 @@ The princedom of Viphoger was established to exploit this, but it too is now los
 
 #### Ichor Mountains
 Separating the deserts of Zoedrem and the Dead Sea are the Ichor Mountains.
-Their name comes from the many tributaries they birth, most of which feed the Dratl River.
+Their name comes from the many tributaries they birth, most of which feed the Dral River.
 While thick, the mountain range is somewhat sparse, and a variety of passages connect the Westlands to the Dead Sea<!-- TODO. Link. --> and the Seven Princedoms<!-- TODO. Link. -->.
 
 #### Beryl Sea
 The Beryl Sea is a large expanse of warm water.
-Its violent winds, battering waters, and unpredictable thunderstorms make sailing it essentially impossible for anyone but the Qulbaba irds of Jenkash.
+Its violent winds, battering waters, and unpredictable thunderstorms make sailing it essentially impossible for anyone but the kulbaba irds of Jenkash.
 Yet no nixwalker<!-- TODO. Link. --> has reported ships since The Penance, and the once great empire is thought to be lost to it.
 
-#### Dratl'fal Savanna
-Long before The Penance, the Dratl'fal savanna was the first region to be struck by the nix<!-- TODO. Link. -->.
+#### Dral'fal Savanna
+Long before The Penance, the Dral'fal savanna was the first region to be struck by the nix<!-- TODO. Link. -->.
 Its name literally translates to "bloodgrass" in [Jantherlin](../languages/index.md#etian-family)<!-- TODO. Link. -->, as its flora grows with the characteristic red of the nix.
 The name also carries a more literal interpretation, as the Hundred Year War<!-- NOTE. Link? --> was fought on this land.
 
@@ -45,7 +45,7 @@ Even today, bafarmat is farmed in the city-state of Jorea<!-- TODO. Link. -->, w
 
 #### Drejek
 Westernmost of Yuadrem is the thick, dark, and moist jungle of Drejek.
-This region is the birthplace of the Gannag civilization, which spawned the barkskin.
+This region is the birthplace of the Gannag civilization, which spawned the elves.
 While born before [The Schism](../history.md#war-of-autumn), it is unknown if the nation survived The Penance, since no contact has been made since.
 
 #### The Fog Gorge

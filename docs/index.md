@@ -55,7 +55,7 @@ The peoples of Yuadrem are separated into four distinct kins. Each kin was creat
 * [Humes](kins/hume.md), born from Et, are as adaptable as their creator. They became the dominant kin in Yuadrem after the Schism, and remain in this position even after the Penance.
 * [Imates](kins/imate.md), born from Om, are hardy nomads that roam the remaining forests of Yuadrem. Decimated by both the War of Autumn and posterior massacres, they have proven to be a deceptively hardy people.
 * [Oths](kins/oth.md) are a moth-like kin, a quiet people with a natural tendency towards knowledge. Created by the god-tree [Tol](religion/godtrees/tol.md), they're often seen as enigmatic as their creator.
-* [Barkskins](kins/barkskin.md) are bone and wood golems, animated by the [god-tree Tek](religion/godtrees/tek.md). While often considered too aggressive for peaceful interaction, an alliance has been recently broken between them and the sumi of Fremit<!-- TODO. Link. -->.
+* [Elves](kins/elf.md) are bone and wood golems, animated by the [god-tree Tek](religion/godtrees/tek.md). While often considered too aggressive for peaceful interaction, an alliance has been recently broken between them and the sumi of Fremit<!-- TODO. Link. -->.
 
 <!-- TODO. Maybe talk a bit about each kin and their relevant migrations. -->
 

@@ -5,7 +5,7 @@
 * Maybe mention what ird and gat mean in jantherlin? That might help integrate the language into the lore.
 * Treb gats are descendants of a particular Et-born that could produce progeny!!! Mention that, it's a cool concept that explains their large physical difference with the rest of the gats.
 * Explain what the Et-born are.
-* Maybe talk a bit more here about the 4 "faces" of the ird diaspora; thulkrakan, hairusse, qulbaban, and dratlean.
+* Maybe talk a bit more here about the 4 "faces" of the ird diaspora; thulk, hairus, kulbaba, and dral.
 -->
 
 ---
@@ -108,28 +108,28 @@ Adrevik, Agik, Ak, Ani, Anux, Aren, Avag, Baen, Bevan, Dzurar, Gauren, Gevaug, G
 ### Distinctive Characteristics
 Irds are usually easy to recognize due to their size, which on average is about 175 centimeters. Their skin color varies greatly, but they are generally somewhat paler than gats. Their eye color is also assorted, also often less saturated than that of a gat.
 
-Qulbaba and dratl are rather slender, while the thulkraka are generally tall and broad. Hair color is also a feature commonly used to determine the ethnicity of an ird. Thulkraka irds often have either blonde, black, or ginger hair. Then, the qulbaba have brown hair, usually in dark shades. Dratl irds have light brown or crimson hair, which tends to gray at an earlier age than other humes.
+Kulbaba and dral are rather slender, while the thulk are generally tall and broad. Hair color is also a feature commonly used to determine the ethnicity of an ird. Thulk irds often have either blonde, black, or ginger hair. Then, the kulbaba have brown hair, usually in dark shades. Dral irds have light brown or crimson hair, which tends to gray at an earlier age than other humes.
 
 ### Clothing
 Irds were said to have been cursed with feathers when they fled the War of Autumn. While today they don't grow feathers, a common feature in ird attire is the usage of plumage in their clothing. Before the Penance, the color of their clothes depended on their ethnicity. Now, colorful feathers are usually only used in traditional rituals, as most fear the effect the colors may have on their bodies.
 
-Thulkraka, who settled in cold climates, used to wear vermilion fabrics with complex patterns above many layers of fur. Nowadays, while their attires are lighter, they keep this color despite the change in environment. Dratl, used to the desert of [Zoedrem](../geography/westlands.md#zoedrem), wore simple cyan and mint clothing to cool them and give them speed. The qulbaba in contrast often kept the colorful patterns from their old traditions, recently adapted to fibers rather than feathers.
+Thulk, who settled in cold climates, used to wear vermilion fabrics with complex patterns above many layers of fur. Nowadays, while their attires are lighter, they keep this color despite the change in environment. Dral, used to the desert of [Zoedrem](../geography/westlands.md#zoedrem), wore simple cyan and mint clothing to cool them and give them speed. The kulbaba in contrast often kept the colorful patterns from their old traditions, recently adapted to fibers rather than feathers.
 
 ### Origins and History
-The first humes to renounce the War of Autumn and abandon Et were the irds. Persecuted by the god-tree fanatics, they fled far from the [Horned Shores](../geography/fractured_lands.md#horned-shores), and far away from the grasp of Et. This event is known as the [Ird Diaspora](../history.md#war-of-apring). While many different ethnicities came from this event, the main ones that remain after the Penance are three. In order of their number, the thulkraka, the qulbaba, and the dratl.
+The first humes to renounce the War of Autumn and abandon Et were the irds. Persecuted by the god-tree fanatics, they fled far from the [Horned Shores](../geography/fractured_lands.md#horned-shores), and far away from the grasp of Et. This event is known as the [Ird Diaspora](../history.md#war-of-apring). While many different ethnicities came from this event, the main ones that remain after the Penance are three. In order of their number, the thulk, the kulbaba, and the dral.
 
-The thulkraka migrated to the northernmost regions of Yuadrem, establishing the old nation of Krudzal around the north pole. Here, they were the first to develop ironworking, with which they built imposing sailing ships with iron hulls. Krudzalites used these vessels to claim many territories in the continent, later forming many independent states such as Gronselar<!-- TODO. Link. --> and Kaldrathal, among others.
+The thulk migrated to the northernmost regions of Yuadrem, establishing the old nation of Krudzal around the north pole. Here, they were the first to develop ironworking, with which they built imposing sailing ships with iron hulls. Krudzalites used these vessels to claim many territories in the continent, later forming many independent states such as Gronselar<!-- TODO. Link. --> and Kaldrathal, among others.
 
-The qulbaba were the second to emigrate, and settled on the tropical islands of the [Qul Archipelago](../geography/westlands.md#qul-archipelago). Here they separated into a myriad of chiefdoms, claiming the islands and many nearby territories. While they never achieved complete cooperation between chiefs, they became known as the Jenkash Empire<!-- TODO. Link. --> at their maximum expansion.
+The kulbaba were the second to emigrate, and settled on the tropical islands of the [Qul Archipelago](../geography/westlands.md#qul-archipelago). Here they separated into a myriad of chiefdoms, claiming the islands and many nearby territories. While they never achieved complete cooperation between chiefs, they became known as the Jenkash Empire<!-- TODO. Link. --> at their maximum expansion.
 
 <!-- TODO. Update this. -->
-Inside the Fesh Peninsula, thulkraka from Gronselar conquered the easternmost peninsula, establishing their nation in territories claimed from Ushpavam<!-- TODO. Link. -->. Some qulbaba from the Dentralin Chiefdom<!-- TODO. Link. --> also  settled the region, becoming part of the Sumi of Fremit<!-- TODO. Link. --> and establishing temples in the Saefel Canyon<!-- TODO. Link. -->.
+Inside the Fesh Peninsula, thulk from Gronselar conquered the easternmost peninsula, establishing their nation in territories claimed from Ushpavam<!-- TODO. Link. -->. Some kulbaba from the Dentralin Chiefdom<!-- TODO. Link. --> also  settled the region, becoming part of the Sumi of Fremit<!-- TODO. Link. --> and establishing temples in the Saefel Canyon<!-- TODO. Link. -->.
 
-The dratl were the last to leave the grasp of Et. They migrated to the desert of Zoedrem, also separating into chiefdoms. Not many of them remain, but some did enter the Fesh Peninsula traveling together with the bughna.
+The dral were the last to leave the grasp of Et. They migrated to the desert of Zoedrem, also separating into chiefdoms. Not many of them remain, but some did enter the Fesh Peninsula traveling together with the bughna.
 
 ### Traditions and Religion
 **Competitions.**
-Competitions are very common to irds, and are the preferred way to settle disagreements. They are usually as public as possible, and are often encouraged and celebrated by others. These matches can involve anything the participants deem necessary. If they are expected to lead to physical injury or death, the chief is to be informed beforehand, and they must either bear witness or anoint someone to do so. Dratl competitions are particularly ferocious, and they often involve combat or violence.
+Competitions are very common to irds, and are the preferred way to settle disagreements. They are usually as public as possible, and are often encouraged and celebrated by others. These matches can involve anything the participants deem necessary. If they are expected to lead to physical injury or death, the chief is to be informed beforehand, and they must either bear witness or anoint someone to do so. Dral competitions are particularly ferocious, and they often involve combat or violence.
 
 **Promise of Allegiance.**
 As long as both people are willing, anyone can make a public promise of allegiance to another. The person making the vow is called the First, while the other is the Second. In this commitment, the First promises to fight and obey any command of the Second. In exchange, the Second must always be fair to the First, and provide home, food, and water to them.
@@ -137,7 +137,7 @@ As long as both people are willing, anyone can make a public promise of allegian
 It is common for the whole chiefdom or a large part of it to make a promise of allegiance to the chief. The vow lasts until the death of any of either person. If a First or Second fails to fulfill their part, they may be judged and exiled, depending on the local ruler and the choice of the other.
 
 **Children and Marriage.**
-Before marriage, irds are encouraged to meet and form bonds with others, usually many at a time. When a woman becomes pregnant, she decides who among her suitors is to be the father. In southern thulkraka culture, however, she can decide on many suitors at once. They then must complete a set of challenges of the bride's choosing. The winner becomes the groom, while the others are to act as servants during the wedding.
+Before marriage, irds are encouraged to meet and form bonds with others, usually many at a time. When a woman becomes pregnant, she decides who among her suitors is to be the father. In southern thulk culture, however, she can decide on many suitors at once. They then must complete a set of challenges of the bride's choosing. The winner becomes the groom, while the others are to act as servants during the wedding.
 
 The marriage celebration is generally large, and the whole chiefdom or village is expected to take part in it. As their vows, both members are expected to make a promise of allegiance to the other, such as the one they have with their chiefs.
 
@@ -145,7 +145,7 @@ The marriage celebration is generally large, and the whole chiefdom or village i
 To become an adult, a child must participate in a competition held in a Day of Change. The particular Days of Change vary across cultures, but all are aligned with the tri-lunar tidal phases, as seen in the Nuagalian Calendar<!-- TODO. Link. -->. Victors in these matches then become adults, while other contestants must wait for subsequent Days of Change. Adulthood is a requirement to make a promise of allegiance, and as such one cannot marry before becoming an adult.
 
 **Death and Funerals.**
-Irds believe that a person's soul remains in the body after they die. No funeral is celebrated upon death, and bodies are blindfolded and laid to rest inside a communal crypt. Thulkraka keep oil urns with the bodies, burning the crypt on the Day of the Immortal, a leap day that occurs every 10 years. Dratl kept their crypts open, allowing vultures to eat the remains and the desert sun to dry the rest. Qulbaba crypts were often dug below the crown of a banyan tree, allowing [barkskin](barkskin.md) to rise from the bodies of the dead irds.
+Irds believe that a person's soul remains in the body after they die. No funeral is celebrated upon death, and bodies are blindfolded and laid to rest inside a communal crypt. Thulk keep oil urns with the bodies, burning the crypt on the Day of the Immortal, a leap day that occurs every 10 years. Dral kept their crypts open, allowing vultures to eat the remains and the desert sun to dry the rest. Kulbaba crypts were often dug below the crown of a banyan tree, allowing [elves](elf.md) to rise from the bodies of the dead irds.
 
 ### Names
 While the most common language spoken by irds is [Shanise](../languages/index.md#avshenesian-family), a language in the [avshenesian family](../index.md#avshenesian-family), ird naming conventions are related to the [harualian family](../languages/index.md#harualian-family). By this custom, each ird has two names. Their first name is given to them at birth either by their parents or by the village's chief. Then, their second name is inherited from a parent of their choice, adding the prefix *u/ud*, which means "son/daughter of". It is common in ird culture to admire one's parents, and these names are carried with pride.

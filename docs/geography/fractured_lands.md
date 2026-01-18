@@ -19,7 +19,7 @@ Most of the land is devoid of natural resources, with scarce mines and low-quali
 
 #### Fesh Peninsula
 **TODO.**
-<!-- East to these lands is the Fesh peninsula, an area inhabited mainly by gats, tortles and thulkraka irds.
+<!-- East to these lands is the Fesh peninsula, an area inhabited mainly by gats, tortles and thulk irds.
 A humid subtropical climate permeates the cape, and it is known for its harsh, capricious waters and frequent storms.
 Also well-known are the tortles inhabiting the small island of Mbeat, for it is the only place where they have met safety after their arrival in Yuadrem.
 
