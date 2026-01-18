@@ -23,7 +23,7 @@ _A first glance into the Cosmos and its relation to the goddesses and gods of Ta
 ### The Two Primordial
 The two primordial are the primal forces that created everything that exists. They are uppermost in the pantheon, and every creature in the continent acts in their reverence by the mere act of being alive.
 
-* [**Nix**](primordials/nix.md), the god of Unity and the cosmos.
+* [**Nix**](primordials/nix.md), the god of Unity, the cosmos, and inevitability.
 * [**Pheter**](primordials/pheter.md), the god of Disparity, creation, war, and spring.
 
 ### Damic Gods
@@ -82,7 +82,7 @@ The tovasic gods, or _second gods_ in Avshenese, are mortals who are given godho
 |:------------------------------------------------------:|
 | _Etian signature of Bades._                            |
 
-* [**Olag**](illuminants/olag.md) is the god of craftsmanship and conquest. They were the first of the illuminants, and the god-suzerain of the Seven Princedoms of the Sea. They were an Et-born who ascended by Vahan's will in 195 A.S. and died in 621 A.S..
+* [**Olag**](illuminants/olag.md) is the god of craftsmanship and conquest. They were the first of the illuminants, and the god-suzerain of the Seven Princedoms of the Sea. They were an Et-born who ascended by Vahan's will in 195 A.S., and died in 621 A.S..
 
 * **Rerisi**, or sometimes known as Zuleija, is the goddess of discipline and protection. She was a treb gat who fought back against the beasts of the Sylvan Canyon<!-- TODO. Link. -->, allowing for the establishment of the princedom of Viphoger. She was ascended by Vahan for her strength, and is depicted with weapons and armor made of heavy stone. She soared to the heavens after her death, and is now the furthest astral body from Darhoc.
 

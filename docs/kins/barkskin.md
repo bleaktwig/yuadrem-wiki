@@ -219,9 +219,9 @@ They hunt for sustenance and to gather fresh corpses.
 
 \subsubsection{Na'anian Naenk}
     Among the naenks that grow disillusioned with their tribes, many choose to pack their possessions and leave.
-    Among these self-exiled naenks, most usually choose to join the neighboring nation of Na'ane to live with their tsanek brothers.
+    Among these self-exiled naenks, most usually choose to join the neighboring tribe of Na'ane to live with their tsanek brothers.
 
-    These naenks drink a special beverage upon arrival known as nahan cooked by the nations sovereigns.
+    These naenks drink a special beverage upon arrival known as nahan cooked by the tribal sovereigns.
     % NOTE. Nahan literally means "I-water" in Knaenese.
     Nahan weakens the bond of the naenk with the Tek tree, forcing them to attain a qualar to remain sentient.
     % As a side effect, it also extends the naenk's life, pushing it to about 50 years.

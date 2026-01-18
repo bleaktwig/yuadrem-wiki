@@ -1,8 +1,4 @@
-<!-- TODO list.
-* Missing links.
------------------------------------------------------------------------------->
 # History and Cosmology
-<!---------------------------------------------------------------------------->
 ## Prehistory
 First, there was only [Nix](religion/primordials/nix.md), the all-encompassing unity that is the cosmos. Then, in the ***Nascency of Disparity***, the primordial one [Pheter](religion/primordials/pheter.md) was born from Nix. Along with Pheter came separation: void and form, heavens and earth, seas and land, and thus was born the continent of Yuadrem.
 
@@ -44,6 +40,8 @@ Over time, more and more noves unified under the embrace of one of the last Et-b
 
 Seeing the magnificence of the Et-born's labor, most of the the neighboring tribes swore fealty to Olag. Many, however, feared the unification brought by them and attacked the young empire. This is known as the ***100-year War***, which was ended by Olag's skill at bargain and warfare. Upon unifying the peoples of the [Horned Shores](geography/fractured_lands.md#horned-shores), the gat separated it into seven princedoms: Dnomit, Khedrat, Meritan, Ushpavam, Vamerit, Viphoger, and Xarxage. Each was ruled by its own prince, which would have to answer to the command Olag, the suzerain. The ***Establishment of the Seven Princedoms of the Sea***, which occurred on the 6th of Aduvinean, 195 A.S., marks the start of the next age.
 
+<!--TODO. Fix up and include the world-wide migration map here.-->
+
 <!---------------------------------------------------------------------------->
 ## Age of Spring
 _195 to 621 A.S._
@@ -66,36 +64,33 @@ This act both established the god-suzerain's reign as supreme, and was the seed 
 ## Age of Tar
 _621 A.S. to present day._
 
-**TODO.**
+It is known that a divine punishment came after Olag's murder, but the cause of it is debated to this date. Some argue that it came in response to the murder itself, while others that it is in response to the suzerain's use of the signature of lightning. Whichever be the case, the wrath of the gods was unleashed upon Yuadrem in a moment in time known now as the ***Penance***.
 
-It is known that a divine punishment came after Olag's murder, but to this date the cause of it is debated. Some argue that it came in response to the murder itself, while others that it is in response to the suzerain's use of the signature of lightning. Whichever be the case, the wrath of the gods was unleashed upon Yuadrem in a moment in time now known as the ***Penance***.
+Slowly at first, a black iridescent tar started to sprout from the suzerain's throne in the corpse of Et. This tar is the manifestation of the god of Unity Nix, and bears their namesake. Nix has always been a well-known product of sorcery, but it had never been seen flowing in such a way. This flow, while slow, didn't stop. It consume the throne. The holy ziggurat. The capital Naptane. The god-tree's remains. Then the entirety of the princedom of Vamerit.
 
+The flow hastened with every year that passed, and there was no end in sight to the horror. Panic overtook the peoples of Yuadrem. The Seven Princedoms disbanded quickly and without ceremony, while mass migrations became the norm. Every pocket of safety disappeared under tar within months, if not days. Kingdoms collapsed as their castles crumbled and the rubble was swallowed. The end of the world seemed inevitable.
 
+In this hopeless situation rose Nikoleta, a sorceress and scholar of Nix from the monastery of Fremit<!-- TODO. Link. --> in the year 682 A.S.. She created an incantation that could ward against the spread of the tar, then cast it atop Mount Tashta, using the geography of the Punika<!-- TODO. Link. --> and Widure<!-- TODO. Link. --> mountain ranges to aid in the protection of the Fesh Peninsula. Her journey and ritual are commemorated as the ***Pilgrimage of Nikoleta***, and are repeated yearly by the sorcerers of the sumi of Fremit<!-- TODO. Link. --> to maintain the incantation's effect.
 
-<!-- LIST OF EVENTS
-    621 | The Penance, start of the Age of Tar.
-        Maybe nix started oozing from the corpse of Et after Olag's death? would be interesting...
-    635 | Dissolution of empires.
-    655 | Launching of Cabb-Goem Rlamesh.
-    673 | Death of the Oric gods in Viphoger.
-    687 | Establishment of the Fesh isola.
-    701 | Final collapse of the Seven Princedoms.
-    704 | Death of TODO - Collapse of Ushpavam.
-    707 | Death of TODO - Collapse of Mbeat.
-    712 | Death of TODO - Collapse of Meghritan.
-    716 | Treatise of Five Bridges.
-    722 | Pilgrimage of Nikoleta.
-    734 | Landing of Drejek.
-    761 | somewhere around here, the lesser Omietian war~~
-    802 | Present date.
--->
+The Fesh Peninsula, now a haven of safety among a drowning world, became the destination for millions of immigrants. Perhaps the most unexpected of these was the oric god Tek and its kin, the barkskins. The god-tree lifted the entire Drejek plateau using its root system, dragged it across the continent, to then crash it between the Punika and Puneui<!-- TODO. Link. --> mountain ranges. This is known as the ***Landing of Drejek***, and happened between the years 734 and 737 A.S..
 
-<!-- TODO. Remember to mention at the end that because of their birth without disparity, humes (and other intelligent species) require to consume disparity to maintain thought (separation of things, etc. etc.). this is why the Age of Tar is advancing, even if it started with olag being an asshole. -->
+Another abrupt event was the ***Lesser Omietian War*** that has raged since 761 A.S., and erupted with the arrival of ships from the far-south kingdom of Gronselar. The imates and irds of this land, filled with a thirst for retribution for the many massacres against the former, invaded the only princedom that remained: Ushpavam. The war was harsh on both sides, but the southern peoples had the advantage. Gronselar took over both the Newe Plateau<!-- TODO. Link. -->, while imates established the new ***Kingdom of Om*** in the Turtle Sea<!-- TODO. Link. --> and the coastline south of Ushpavam, separating the exhausted kingdom in two.
+
+This partition led to the collapse of Ushpavam into two: the Sumi of Ushpavam<!-- TODO. Link. --> to the west, and the Holy Princedom of Ushpavam<!-- TODO. Link. --> to the east. While the former signed the ***Treatise of Five Bridges*** in 796 A.S. to end the carnage, the latter is still locked in war with Gronselar and the Kingdom of Om to this date.
+
+<!--TODO. Change the dates in the Fesh peninsula migration map and include it here.-->
+
+<!-- NOTE.
+Because of their birth without disparity, humes (and other intelligent species) require to consume disparity to maintain thought (separation of things, etc. etc.). this is why the Age of Tar is advancing, even if it started with olag being an asshole.
+------------------------------------------------------------------------------>
 
 <!-- SIGNIFICANT EVENTS NOT INCLUDED HERE:
     * prehistory | First siege of Ctereth by the armies of healing -- irds
-    * 32 A.S.    | The Ctereth sieges by gats. 
-    * 71 A.S.    | Founding of Krudzal.
+    *  32 A.S.   | The Ctereth sieges by gats. 
+    *  71 A.S.   | Founding of Krudzal.
     * 411 A.S.   | Vanishing of Hairuus.
     * 520 A.S.   | Establishment of Tanethism as the main religion.
+    * 635 A.S.   | Dissolution of empires.
+    * 655 A.S.   | Launching of Cabb-Goem Rlamesh.
+    * 673 A.S.   | Mass death of god-sent in Viphoger.
 ------------------------------------------------------------------------------>

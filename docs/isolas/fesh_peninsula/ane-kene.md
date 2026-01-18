@@ -4,7 +4,7 @@ Ane-kene is the sociological agreement proposed by the [Febrid](../../religion/m
 <!-- TODO. Mention that this system is born out of a need to cooperate in the face of nix, and there's a goal to extend it to the whole peninsula. -->
 <!-- TODO. UPDATE LINKS TO RELIGION. -->
 
-The system starts with the individual, or the Ivu, and builds structures from them. These structures start from the Ivu, and are sustained by them -- power is built from the bottom-up, not top-down as in the nations of old.
+The system starts with the individual, or the Ivu, and builds structures from them. These structures start from the Ivu, and are sustained by them—power is built from the bottom-up, not top-down as in the kingdoms of old.
 
 ## Ivu
 The ivu is the individual person, their body and soul. Every ivu has common needs, capacities, and most importantly, time. In ane-kene, the ivu dedicates part of their time to their community, which in turn provides for the ivu's needs. The ivu has four fundamental needs, which should be provided by the community to allow for the stability of the ane-kene.

@@ -7,6 +7,7 @@
 * Comment out the kin lore from the WAC document---for now, keep it only in the wiki. If i ever feel like it's sufficiently finalized, i can move on and set in on the book.
 * Move images to subdirectories where they make more sense.
 * Write a page on apomantics (in a new "sorcery" folder).
+* Custom colors/theme would be nice, but maybe too much work. Evaluate.
 ------------------------------------------------------------------------------>
 # Yuadrem
 Yuadrem was first settled by the firstborn oric gods, [Et](religion/godtrees/et.md) and [Om](religion/godtrees/om.md). Et was a large and thin birch, pliable and adaptable. Om was a short and stout juniper, vigorous and prodigious. These two gods were ever locked in combat, yet none could take the upper hand. This conflict became known as the War of Autumn<!-- TODO. Link. -->.
@@ -42,14 +43,14 @@ Back in the Age of Spring, Yuadrem was split into various nations, each with the
 
 An isola is defined as a region either devoid of nix, or only seasonably affected by it. Most isolas are protected by their topography, often aided by strong sorcerers known as [Illuminants](religion/index.md#illuminants). Up to the year 800 A.S., the only known isola was the [Fesh Peninsula](isolas/fesh_peninsula/index.md). After the arrival of the nixwalkers<!-- TODO. Link. -->, dentrala<!-- TODO. Link. --> apomancers<!-- TODO. Link. --> who travel over the vapors released by nix, it is now known that at least three others isolas exist: [Krugghom](isolas/krugghom/index.md), the [Steldan Isola](isolas/steldan_isola/index.md), and the Coldmist Gorge<!-- TODO. Link. -->.
 
-<!-- TODO. Talk about the nations of the Fesh Peninsula. -->
+<!-- TODO. Talk about the states and sumis of the Fesh Peninsula. -->
 
 ### Ethnology
 ![Migration Map of Yuadrem, Old World](img/pre_penance_migration_y787_v012_dpi72.png)
 ***Pictured:***
 *Old world migration map of Yuadrem, drawn in 787 A.S. by the Fremite Monastery in Uvarme. It includes all known mass movements of people from the [Ird Diaspora](history.md#war-of-autumn) of ~80 B.S. to the Na'anian migration of 445 A.S. Migrations after the Penance are not pictured. The authors separated the four kins (and gats from irds) using colored lines.*
 
-The peoples of Yuadrem are separated into four distinct kins. Each kin was created by a different [god-tree](religion/index.md#god-trees), and each was then further divided by ethnic differences. These differences led to the formation of nations during the Age of Spring the erosion of which later led to the [sumis](isolas/fesh_peninsula/ane-kene.md#buda-and-sumi).
+The peoples of Yuadrem are separated into four distinct kins. Each kin was created by a different [god-tree](religion/index.md#god-trees), and each was then further divided by ethnic differences. These differences led to the formation of kingdoms during the Age of Spring the erosion of which later led to the [sumis](isolas/fesh_peninsula/ane-kene.md#buda-and-sumi).
 
 * [Humes](kins/hume.md), born from Et, are as adaptable as their creator. They became the dominant kin in Yuadrem after the Schism, and remain in this position even after the Penance.
 * [Imates](kins/imate.md), born from Om, are hardy nomads that roam the remaining forests of Yuadrem. Decimated by both the War of Autumn and posterior massacres, they have proven to be a deceptively hardy people.
@@ -62,7 +63,7 @@ The peoples of Yuadrem are separated into four distinct kins. Each kin was creat
 ***Pictured:***
 *Age of Tar migration map of the Fesh Peninsula, drawn in 801 A.S. by the Fremite Monastery in Uvarme. It includes all mass migrations with their approximate dates.*
 
-Different events in prehistory and history have caused migrations and diasporas, but none can be compared to the Penance. In the face of the vast loss of landmass to the nix tides, peoples from all nations and ethnicities coalesced in the Fesh Peninsula.
+Different events in prehistory and history have caused migrations and diasporas, but none can be compared to the Penance. In the face of the vast loss of landmass to the nix tides, peoples from all origins and ethnicities coalesced in the Fesh Peninsula.
 
 <!-- TODO. Maybe talk a bit about each migration? -->
 

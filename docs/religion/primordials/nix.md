@@ -1,5 +1,5 @@
 # Nix
-Nix is the god of Unity and the Cosmos.
+Nix is the god of Unity, the Cosmos, and Inevitability.
 
 Their body is the cosmos itself: everything that exists is borrowed, and must eventually be returned to them. They have never manifested themself to a creature in the planet, but are are generally portrayed as a bare-faced curassow, its feathers iridescent like oil on water.
 
