@@ -58,7 +58,9 @@ Then, when the princedom of Xarxage declared independence, the Et-born unleashed
 
 This act both established the god-suzerain's reign as supreme, and was the seed of their death. Only a year after it, during the night of the nineteenth of Divunean, while sitting on a throne built at the core of Et's stump, Olag was murdered by an unknown assassin. The murderer, now known as [Laver](religion/index.md#illuminants), was taken to the heavens by Fusine herself. This is known as the ***Night of the Fourth Color***, and marks the end of the Age of Spring.
 
-<!--TODO. Fix up and include the world-wide migration map here.-->
+![Migration map of Yuadrem, Age of Winter and Age of Spring](img/migration_map.yuadrem.y787.v100.dpi300.png)
+
+_Approximate map of migrations during the Age of Winter and the Age of Spring. Published in 787 A.S. by the Fremite Monastery in Uvarme. It includes all known mass movements of people from the Ird Diaspora of ~80 B.S. to the Na'anian migration of 445 A.S. Migrations after the Penance are not pictured. The authors separated the four kins using colored lines._
 
 <!---------------------------------------------------------------------------->
 ## Age of Tar

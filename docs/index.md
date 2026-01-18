@@ -46,10 +46,6 @@ An isola is defined as a region either devoid of nix, or only seasonably affecte
 <!-- TODO. Talk about the states and sumis of the Fesh Peninsula. -->
 
 ### Ethnology
-![Migration Map of Yuadrem, Old World](img/pre_penance_migration_y787_v012_dpi72.png)
-***Pictured:***
-*Old world migration map of Yuadrem, drawn in 787 A.S. by the Fremite Monastery in Uvarme. It includes all known mass movements of people from the [Ird Diaspora](history.md#war-of-autumn) of ~80 B.S. to the Na'anian migration of 445 A.S. Migrations after the Penance are not pictured. The authors separated the four kins (and gats from irds) using colored lines.*
-
 The peoples of Yuadrem are separated into four distinct kins. Each kin was created by a different [god-tree](religion/index.md#god-trees), and each was then further divided by ethnic differences. These differences led to the formation of kingdoms during the Age of Spring the erosion of which later led to the [sumis](isolas/fesh_peninsula/ane-kene.md#buda-and-sumi).
 
 * [Humes](kins/hume.md), born from Et, are as adaptable as their creator. They became the dominant kin in Yuadrem after the Schism, and remain in this position even after the Penance.
@@ -57,15 +53,11 @@ The peoples of Yuadrem are separated into four distinct kins. Each kin was creat
 * [Oths](kins/oth.md) are a moth-like kin, a quiet people with a natural tendency towards knowledge. Created by the god-tree [Tol](religion/godtrees/tol.md), they're often seen as enigmatic as their creator.
 * [Elves](kins/elf.md) are bone and wood golems, animated by the [god-tree Tek](religion/godtrees/tek.md). While often considered too aggressive for peaceful interaction, an alliance has been recently broken between them and the sumi of Fremit<!-- TODO. Link. -->.
 
-<!-- TODO. Maybe talk a bit about each kin and their relevant migrations. -->
-
 ![Migration Map of Yuadrem, Age of Tar](img/age_of_fog_migration_y801_v011_dpi72.png)
 ***Pictured:***
 *Age of Tar migration map of the Fesh Peninsula, drawn in 801 A.S. by the Fremite Monastery in Uvarme. It includes all mass migrations with their approximate dates.*
 
 Different events in prehistory and history have caused migrations and diasporas, but none can be compared to the Penance. In the face of the vast loss of landmass to the nix tides, peoples from all origins and ethnicities coalesced in the Fesh Peninsula.
-
-<!-- TODO. Maybe talk a bit about each migration? -->
 
 --------------------------------------------------------------------------------
 
