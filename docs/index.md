@@ -39,7 +39,7 @@ Due to its size, Yuadrem is often divided into six distinct regions: the [Northe
 --------------------------------------------------------------------------------
 ## Sociology
 ### Politics
-Back in the Age of Spring, Yuadrem was split into various nations, each with their own population centers and varied economies. This era of peace lasted until the death of god-suzerain [Olag](religion/illuminants/olag.md) in 621 A.S. (After the Schism), an event that sparked the [Penance](history.md#age-of-tar). With it, an iridescent tar known as [nix](religion/primordials/nix.md) began rolling over the continent. This caused mass migrations, separating the peoples into isolas.
+Back in the Age of Spring, Yuadrem was split into various nations, each with their own population centers and varied economies. This era of peace lasted until the death of god-suzerain [Olag](religion/illuminants/olag.md) in 621 A.S. (After the Schism), an event that sparked the [Penance](history.md#age-of-sap). With it, an iridescent sap known as [nix](religion/primordials/nix.md) began rolling over the continent. This caused mass migrations, separating the peoples into isolas.
 
 An isola is defined as a region either devoid of nix, or only seasonably affected by it. Most isolas are protected by their topography, often aided by strong sorcerers known as [Illuminants](religion/index.md#illuminants). Up to the year 800 A.S., the only known isola was the [Fesh Peninsula](isolas/fesh_peninsula/index.md). After the arrival of the nixwalkers<!-- TODO. Link. -->, dentrala<!-- TODO. Link. --> apomancers<!-- TODO. Link. --> who travel over the vapors released by nix, it is now known that at least three others isolas exist: [Krugghom](isolas/krugghom/index.md), the [Steldan Isola](isolas/steldan_isola/index.md), and the Coldmist Gorge<!-- TODO. Link. -->.
 
@@ -53,9 +53,9 @@ The peoples of Yuadrem are separated into four distinct kins. Each kin was creat
 * [Oths](kins/oth.md) are a moth-like kin, a quiet people with a natural tendency towards knowledge. Created by the god-tree [Tol](religion/godtrees/tol.md), they're often seen as enigmatic as their creator.
 * [Elves](kins/elf.md) are bone and wood golems, animated by the [god-tree Tek](religion/godtrees/tek.md). While often considered too aggressive for peaceful interaction, an alliance has been recently broken between them and the sumi of Fremit<!-- TODO. Link. -->.
 
-![Migration Map of Yuadrem, Age of Tar](img/age_of_fog_migration_y801_v011_dpi72.png)
+![Migration Map of Yuadrem, Age of Sap](img/age_of_fog_migration_y801_v011_dpi72.png)
 ***Pictured:***
-*Age of Tar migration map of the Fesh Peninsula, drawn in 801 A.S. by the Fremite Monastery in Uvarme. It includes all mass migrations with their approximate dates.*
+*Age of Sap migration map of the Fesh Peninsula, drawn in 801 A.S. by the Fremite Monastery in Uvarme. It includes all mass migrations with their approximate dates.*
 
 Different events in prehistory and history have caused migrations and diasporas, but none can be compared to the Penance. In the face of the vast loss of landmass to the nix tides, peoples from all origins and ethnicities coalesced in the Fesh Peninsula.
 

@@ -35,7 +35,7 @@ Elves were originally reserved, and did not interact with humes until the year 4
 The irds of the qul archipelago sought to build communities in Drejek, but were quickly repelled by the elves.
 This relationship never cooled, and this extended to the Seven Princedoms -- no alliance was established between the jungle dwellers and the greater world.
 
-After the [Penance](../history.md#age-of-tar), Tek and the elves were thought to be lost to Nix.
+After the [Penance](../history.md#age-of-sap), Tek and the elves were thought to be lost to Nix.
 This was proved wrong in 734 A.S.
 Tek detached a large part of Drejek, and dragged it through the nix to the Fesh Peninsula.
 The landmass collided with the Punika Peaks, now forming the Drejek Highlands.

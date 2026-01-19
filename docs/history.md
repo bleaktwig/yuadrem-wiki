@@ -63,16 +63,16 @@ This act both established the god-suzerain's reign as supreme, and was the seed 
 _Approximate map of migrations during the Age of Winter and the Age of Spring. Published in 787 A.S. by the Fremite Monastery in Uvarme. It includes all known mass movements of people from the Ird Diaspora of ~80 B.S. to the Na'anian migration of 445 A.S. Migrations after the Penance are not pictured. The authors separated the four kins using colored lines._
 
 <!---------------------------------------------------------------------------->
-## Age of Tar
+## Age of Sap
 _621 A.S. to present day._
 
 It is known that a divine punishment came after Olag's murder, but the cause of it is debated to this date. Some argue that it came in response to the murder itself, while others that it is in response to the suzerain's use of the signature of lightning. Whichever be the case, the wrath of the gods was unleashed upon Yuadrem in a moment in time known now as the ***Penance***.
 
-Slowly at first, a black iridescent tar started to sprout from the suzerain's throne in the corpse of Et. This tar is the manifestation of the god of Unity Nix, and bears their namesake. Nix has always been a well-known product of sorcery, but it had never been seen flowing in such a way. This flow, while slow, didn't stop. It consume the throne. The holy ziggurat. The capital Naptane. The god-tree's remains. Then the entirety of the princedom of Vamerit.
+Slowly at first, a black iridescent sap started to sprout from the suzerain's throne in the corpse of Et. This sap is the manifestation of the god of Unity Nix, and bears their namesake. Nix has always been a well-known product of sorcery, but it had never been seen flowing in such a way. This flow, while slow, didn't stop. It consume the throne. The holy ziggurat. The capital Naptane. The god-tree's remains. Then the entirety of the princedom of Vamerit.
 
-The flow hastened with every year that passed, and there was no end in sight to the horror. Panic overtook the peoples of Yuadrem. The Seven Princedoms disbanded quickly and without ceremony, while mass migrations became the norm. Every pocket of safety disappeared under tar within months, if not days. Kingdoms collapsed as their castles crumbled and the rubble was swallowed. The end of the world seemed inevitable.
+The flow hastened with every year that passed, and there was no end in sight to the horror. Panic overtook the peoples of Yuadrem. The Seven Princedoms disbanded quickly and without ceremony, while mass migrations became the norm. Every pocket of safety disappeared under sap within months, if not days. Kingdoms collapsed as their castles crumbled and the rubble was swallowed. The end of the world seemed inevitable.
 
-In this hopeless situation rose Nikoleta, a sorceress and scholar of Nix from the monastery of Fremit<!-- TODO. Link. --> in the year 682 A.S.. She created an incantation that could ward against the spread of the tar, then cast it atop Mount Tashta, using the geography of the Punika<!-- TODO. Link. --> and Widure<!-- TODO. Link. --> mountain ranges to aid in the protection of the Fesh Peninsula. Her journey and ritual are commemorated as the ***Pilgrimage of Nikoleta***, and are repeated yearly by the sorcerers of the sumi of Fremit<!-- TODO. Link. --> to maintain the incantation's effect.
+In this hopeless situation rose Nikoleta, a sorceress and scholar of Nix from the monastery of Fremit<!-- TODO. Link. --> in the year 682 A.S.. She created an incantation that could ward against the spread of the sap, then cast it atop Mount Tashta, using the geography of the Punika<!-- TODO. Link. --> and Widure<!-- TODO. Link. --> mountain ranges to aid in the protection of the Fesh Peninsula. Her journey and ritual are commemorated as the ***Pilgrimage of Nikoleta***, and are repeated yearly by the sorcerers of the sumi of Fremit<!-- TODO. Link. --> to maintain the incantation's effect.
 
 The Fesh Peninsula, now a haven of safety among a drowning world, became the destination for millions of immigrants. Perhaps the most unexpected of these was the oric god Tek and its kin, the elves. The god-tree lifted the entire Drejek plateau using its root system, dragged it across the continent, to then crash it between the Punika and Puneui<!-- TODO. Link. --> mountain ranges. This is known as the ***Landing of Drejek***, and happened between the years 734 and 737 A.S..
 
@@ -83,7 +83,7 @@ This partition led to the collapse of Ushpavam into two: the Sumi of Ushpavam<!-
 <!--TODO. Change the dates in the Fesh peninsula migration map and include it here.-->
 
 <!-- NOTE.
-Because of their birth without disparity, humes (and other intelligent species) require to consume disparity to maintain thought (separation of things, etc. etc.). this is why the Age of Tar is advancing, even if it started with olag being an asshole.
+Because of their birth without disparity, humes (and other intelligent species) require to consume disparity to maintain thought (separation of things, etc. etc.). this is why the Age of Sap is advancing, even if it started with olag being an asshole.
 ------------------------------------------------------------------------------>
 
 <!-- SIGNIFICANT EVENTS NOT INCLUDED HERE:
