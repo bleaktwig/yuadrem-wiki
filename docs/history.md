@@ -76,11 +76,13 @@ In this hopeless situation rose Nikoleta, a sorceress and scholar of Nix from th
 
 The Fesh Peninsula, now a haven of safety among a drowning world, became the destination for millions of immigrants. Perhaps the most unexpected of these was the oric god Tek and its kin, the elves. The god-tree lifted the entire Drejek plateau using its root system, dragged it across the continent, to then crash it between the Punika and Puneui<!-- TODO. Link. --> mountain ranges. This is known as the ***Landing of Drejek***, and happened between the years 734 and 737 A.S..
 
-Another abrupt event was the ***Lesser Omietian War*** that has raged since 761 A.S., and erupted with the arrival of ships from the far-south kingdom of Gronselar. The imates and irds of this land, filled with a thirst for retribution for the many massacres against the former, invaded the only princedom that remained: Ushpavam. The war was harsh on both sides, but the southern peoples had the advantage. Gronselar took over both the Newe Plateau<!-- TODO. Link. -->, while imates established the new ***Kingdom of Om*** in the Turtle Sea<!-- TODO. Link. --> and the coastline south of Ushpavam, separating the exhausted kingdom in two.
+Another abrupt event was the ***War of Summer*** that has raged since 761 A.S., and erupted with the arrival of ships from the far-south kingdom of Gronselar. The imates and irds of this land, filled with a thirst for retribution for the many massacres against the former, invaded the only princedom that remained: Ushpavam. The war was harsh on both sides, but the southern peoples had the advantage. Gronselar took over both the Newe Plateau<!-- TODO. Link. -->, while imates established the new ***Kingdom of Om*** in the Turtle Sea<!-- TODO. Link. --> and the coastline south of Ushpavam, separating the exhausted kingdom in two.
 
 This partition led to the collapse of Ushpavam into two: the Sumi of Ushpavam<!-- TODO. Link. --> to the west, and the Holy Princedom of Ushpavam<!-- TODO. Link. --> to the east. While the former signed the ***Treatise of Five Bridges*** in 796 A.S. to end the carnage, the latter is still locked in war with Gronselar and the Kingdom of Om to this date.
 
-<!--TODO. Change the dates in the Fesh peninsula migration map and include it here.-->
+![Migration map of the Fesh Peninsula, Age of Sap](img/migration_map.fesh.y801.v101.dpi300.png)
+
+_Approximate map of migrations during the Age of Sap. Published in 801 A.S. by the Fremite Monastery in Uvarme. It includes all migrations from the establishments of the treb chiefdoms of 623–627 A.S. to the recent arrival of the Nixwalkers<!--TODO. Link.--> in 800 A.S._
 
 <!-- NOTE.
 Because of their birth without disparity, humes (and other intelligent species) require to consume disparity to maintain thought (separation of things, etc. etc.). this is why the Age of Sap is advancing, even if it started with olag being an asshole.
