@@ -3,6 +3,7 @@ The peoples of Yuadrem are separated into four distinct "kins". A kin is defined
 
 Different events in prehistory and history have caused many migrations and diasporas, but none can be compared to the [Penance](../history#age-of-sap). In the face of the vast loss of landmass to tides of nix, peoples from all origins and ethnicities have coalesced into the Fesh Peninsula<!--TODO:LINK--->.
 
+--------------------------------------------------------------------------------
 [**Humes**](hume), born from [Et](../religion/godtrees/et), were the first kin to step upon the world. As pliable as their creator, the have been the most numerous and predominant of the peoples since the [Schism](../history.md#war-of-autumn), a position they maintain even after the Penance.
 
 [**Imates**](imate) were created by [Om](../religion/godtrees/om) to defend itself against humes during the [War of Autumn](../history#war-of-autumn). Decimated by the war and the many posterior massacres, they've proven themselves to be a deceptively sturdy people.

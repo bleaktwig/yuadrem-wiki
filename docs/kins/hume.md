@@ -48,7 +48,7 @@ After the Schism, the surviving gats separated into three groups: noves, bughna,
 Bughna gats endured the [40-Year Famine](../history.md#age-of-winter) by adopting a nomadic lifestyle, one which defines them still. These humes became known as great pastors and merchants. They strengthened the bond between the princedoms, in part allowing the establishment of the large gat civilization. Even today they are often associated to good luck.
 
 Not all progeny of Et was born equal, and the treb are the perfect example. They are larger and bulkier than the average hume, and were often the first line of attack in the War of Autumn. Treb gats were regarded as brutish, and didn't fit the civilization built by the noves. They were exiled by the [god-suzerain Olag](../religion/illuminants/olag.md) during the third century, and most established a new home in the Dead Sea<!-- TODO. Link. -->.
-<!-- NOTE. Treb gats are not *born* brutish. While their culture may seem "violent", they are very religious and show a sophistication with nature that is not commonly seen in other humes. -->
+<!-- NOTE. Treb gats are not *born* brutish. While their culture may seem "violent", they are deeply religious and show a sophistication with nature that is not commonly seen in other humes. -->
 
 ### Traditions and Religion
 <!-- NOTE. Noves culture has its members remain at home a lot. Either lean into this or figure out more collective celebrations. -->
@@ -129,7 +129,7 @@ The dral were the last to leave the grasp of Et. They migrated to the desert of 
 
 ### Traditions and Religion
 **Competitions.**
-Competitions are very common to irds, and are the preferred way to settle disagreements. They are usually as public as possible, and are often encouraged and celebrated by others. These matches can involve anything the participants deem necessary. If they are expected to lead to physical injury or death, the chief is to be informed beforehand, and they must either bear witness or anoint someone to do so. Dral competitions are particularly ferocious, and they often involve combat or violence.
+Competitions are commonplace to irds, and are the preferred way to settle disagreements. They are usually as public as possible, and are often encouraged and celebrated by others. These matches can involve anything the participants deem necessary. If they are expected to lead to physical injury or death, the chief is to be informed beforehand, and they must either bear witness or anoint someone to do so. Dral competitions are particularly ferocious, and they often involve combat or violence.
 
 **Promise of Allegiance.**
 As long as both people are willing, anyone can make a public promise of allegiance to another. The person making the vow is called the First, while the other is the Second. In this commitment, the First promises to fight and obey any command of the Second. In exchange, the Second must always be fair to the First, and provide home, food, and water to them.

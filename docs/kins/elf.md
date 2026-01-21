@@ -19,7 +19,7 @@ They'll remove flowers they don't like, prune plants to their desired length, an
 Some choose to keep their bark sterile, or even grow edible moss and fungi.
 
 In the vicinity of Tek, an elf is virtually immortal.
-As long as they remain within the reach of its hyphae, they won't age, and need very little food to survive.
+As long as they remain within the reach of its hyphae, they won't age, and need minimal food to survive.
 This ends when they leave the network -- the tekust in their bodies is not enough to stave off rot.
 Detached elves often have a lifespan of only a few decades.
 

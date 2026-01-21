@@ -7,9 +7,9 @@
 
 ---
 ## Physical Description
-Imates share some resemblance with humes. Both kins poise the bulk of their weight on two legs, have the same number of digits, and are able to express their emotions through facial expression. However, the body of an imate is covered in hair, which ranges in color from white, through many shades of brown, to black. Lacking the gats' Blessing of Color, no hints of Red or Yellow is seen in their hair. Then, a common trait to all imates are their very large ears, which are surrounded by a tuft of white hair.
+Imates share some resemblance with humes. Both kins poise the bulk of their weight on two legs, have the same number of digits, and are able to express their emotions through facial expression. However, the body of an imate is covered in hair, which ranges in color from white, through many shades of brown, to black. Lacking the gats' Blessing of Color, no hints of Red or Yellow is seen in their hair. Then, a common trait to all imates are their oversized ears, which are surrounded by a tuft of white hair.
 
-Imates are separated into two very different species: the oras and the arsets. Oras have larger bodies. An average adult stands at around 2 meters upright, but they would struggle to maintain this posture for long. Hunched, they're not usually taller than a meter and a half. They have strong bodies and long arms, and often weight more than 100 kg.
+Imates are separated into two different species: the oras and the arsets. Oras have larger bodies. An average adult stands at around 2 meters upright, but they would struggle to maintain this posture for long. Hunched, they're not usually taller than a meter and a half. They have strong bodies and long arms, and often weight more than 100 kg.
 
 Arsets are small in comparison, usually not reaching more than 90 cm in length and 15 kg in weight. While they are not as strong as the oras, they have longer claws and a long, striped tail, both of which they use to climb with great dexterity.
 
@@ -44,7 +44,7 @@ In Fesh, it is common to see one or two of these arboreal communities inside tow
 **Death and return to Om.**
 It is a common belief that a dead imate's soul can only return to Om if its body rots under the earth. Imates traditionally bury their dead below their farmlands, and thus the huts of the oras serve to mourn the recently dead.
 
-For this reason, imates are very reacious to the [elves](elf.md) cycle of birth, since it retards their process of reunification with their god. Furthermore, burning a dead body is extreme sacrilege. If an imate dies by burning or in any way that won't allow its body to rot, as the their soul will never find their way back to Om.
+For this reason, imates find the [elves](elf.md) cycle of birth hard to accept, since it retards their process of reunification with their god. Furthermore, burning a dead body is extreme sacrilege. If an imate dies by burning or in any way that won't allow its body to rot, as the their soul will never find their way back to Om.
 
 **Specialized roles.**
 Due to their differences, oras and arsets tend to take different roles in their society. Arsets, being small and mobile, hunt, scout, and trade with neighboring villages. Oras, larger and stronger, defend the village, along with tending plantations, attending the young, and crafting items and accessories. Traditionally, one or more oras act as the village shamans, conducting rites and communing with the recently dead.
