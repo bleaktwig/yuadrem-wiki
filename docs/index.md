@@ -1,40 +1,40 @@
 **WIP.**
 
 <!-- TODO list.
+Stuff required to finish wiki (for now):
+* [ ] hide geography and isola pages (for now) and erase links to them.
+* [ ] write general ethnology page from what's on index.
+* [ ] clean up index.
+* [ ] clean up kins in wiki and book.
+* [ ] do an editing pass on book.
+* [ ] remake character sheet from siniath ambar character sheet.
+* [ ] write oths in wiki and book.
+
+Other TODOs:
+* Finish this first index page. It's the first thing player see in the wiki!
 * Missing links.
 * Clean up ref directory.
-* Finish this first index page. It's the first thing player see in the wiki!
 * Comment out the kin lore from the WAC document---for now, keep it only in the wiki. If i ever feel like it's sufficiently finalized, i can move on and set in on the book.
 * Move images to subdirectories where they make more sense.
 * Write a page on apomantics (in a new "sorcery" folder).
 * Custom colors/theme would be nice, but maybe too much work. Evaluate.
+* Finish the geography folder, + move mostly everything to the past tense. Make sure the reader knows that the world is dying!
+* Customize this bitch a tad: https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#custom-colors
+* Try out new link style: [Schism](<history#War of Autumn>).
 ------------------------------------------------------------------------------>
 # Yuadrem
-Yuadrem was first settled by the firstborn oric gods, [Et](religion/godtrees/et.md) and [Om](religion/godtrees/om.md). Et was a large and thin birch, pliable and adaptable. Om was a short and stout juniper, vigorous and prodigious. These two gods were ever locked in combat, yet none could take the upper hand. This conflict became known as the War of Autumn<!-- TODO. Link. -->.
+Yuadrem is the only continent in the world. It's topography was diverse, its broad vertical extension permitting a varied climate and a robust ecology. The landmass was painted with multi-colored forests, vast and beautiful deserts and tundras, rich-green jungles and savannas bursting with life, monumental mountains and deep canyons.
 
-To aid in the eternal battle, Et created the [humes](kins/hume.md), a kin as malleable as the god. Et bestowed upon humes Chromology<!-- TODO. Link. -->, teaching them to wage war using Color. Om in turn created [imates](kins/imate.md), a smaller kin able to traverse the forests of Et's children with ease. The imates were gifted Apomantics<!-- TODO. Link. -->, and fought using Word.
+The land was first settled by the six original [god-trees](religion/index.md#god-trees), one for each color. They created all life on the continent, from the smallest ant to the largest whale, including the four sentient kins: the [hume](kins/hume.md), the [imate](kins/imate.md), the [oth](kins/oth.md), and the [elf](kins/imate.md).
 
-The conflict ended with the burning of both Et and Om, an event known as the [Schism](history.md#war-of-autumn). The primordial one [Pheter](religion/primordials/pheter.md), angered by the death of the god, retaliated by striking Et with lightning. The blast burned the god-tree, and brought the [40-Year Famine](history.md#age-of-winter) to both humes and imates. This event marks the year 0, and the beginning of history.
+This all changed in 621 After the [Schism](history.md#war-of-autumn) (A.S.), with the murder of the [god-suzerain Olag](religion/illuminants/olag.md). The world was assaulted by [nix](<religion/primordials/nix>), an all-consuming iridescent sap that is slowly eroding all disparity. The only inhabitable land now is the Fesh Peninsula<!-- TODO. Link. -->, a small arm jutting out from the Punika Peaks, protected from nix both by geography and apomantic incantations<!-- TODO. Link. -->.
+
+![Map of Yuadrem](img/world_map.yuadrem.y604.v083.dpi300.png)
+_Old trade map of Yuadrem, drawn in 604 A.S. in Avshen, under the commission of the god-suzerain Olag. The region colored in green corresponds to the [Seven Princedoms of the Sea](history.md#age-of-winter), while other colors represent the tax and penalty applied to trade in the other lands of the continent. The map serves as a reminder of the healthy sate of trade and maritime travel during the [Age of Spring](history.md#age-of-spring), a once taken-for-granted boon now lost to nix._
 
 --------------------------------------------------------------------------------
-## Geography
-<!-- TODO LIST:
-    * Finish the geography folder, + move mostly everything to the past tense. Make sure the reader knows that the world is dying!
--->
-
-![Map of Yuadrem](img/world_map_y604_v083.png)
-***Pictured:***
-_Trade map of Yuadrem, drawn in 604 A.S. (After the [Schism](history.md#war-of-autumn)) by Marim of Avshen under the commission of [Olag](religion/illuminants/olag.md), the God-Suzerain of Naptane. The region colored in green corresponds to the [Seven Princedoms of the Sea](history.md#age-of-winter). Other colors represent the tax and penalty applied to trade in those regions. This map is proof of the healthy state of maritime travel and trade during the [Age of Spring](history.md#age-of-spring)._
-
-Yuadrem is a supercontinent, the only such landmass in the world, Darhoc<!-- TODO. Link. -->. The topography is varied, split by four different mountain ranges. Due to its large extension from north to south, the climate and ecology vary widely, from the tundras of [Stinos](geography/northern_territories.md#stinos) to the rainforests of [Drejek](geography/westlands.md#krejek).
-
-Due to its size, Yuadrem is often divided into six distinct regions: the [Northern Territories](geography/northern_territories.md), the [Westlands](geography/westlands.md), the [Fractured Lands](geography/fractured_lands.md), the [Sunland](geography/sunland.md), the [Savage Territories](geography/savage_territories.md), and the [Wildlands](geography/wildlands.md). In addition, the four oceans that surround it are:
-
-* The Frigid Ocean to the north-east, which is known for its low temperatures and abundance of migratory idzels<!-- TODO. Link. -->, large sea monsters famous for wrecking ships during the [Age of Spring](history.md#age-of-spring).
-* The warm Teal Ocean to the north-west, home to a varied marine life.
-* The Burnt Ocean to the east, both devoid of life and impossible to sail since the landing of [Cabb Goem-Rlamesh](geography/sunland.md#cabb-goem-rlamesh).
-* The Southern Ocean to the south, the least explored of the four.
-<!-- TODO. Maybe change most of this to the past tense? -->
+## Fesh Peninsula
+**TODO.**
 
 --------------------------------------------------------------------------------
 ## Sociology
@@ -52,10 +52,6 @@ The peoples of Yuadrem are separated into four distinct kins. Each kin was creat
 * [Imates](kins/imate.md), born from Om, are hardy nomads that roam the remaining forests of Yuadrem. Decimated by both the War of Autumn and posterior massacres, they have proven to be a deceptively hardy people.
 * [Oths](kins/oth.md) are a moth-like kin, a quiet people with a natural tendency towards knowledge. Created by the god-tree [Tol](religion/godtrees/tol.md), they're often seen as enigmatic as their creator.
 * [Elves](kins/elf.md) are bone and wood golems, animated by the [god-tree Tek](religion/godtrees/tek.md). While often considered too aggressive for peaceful interaction, an alliance has been recently broken between them and the sumi of Fremit<!-- TODO. Link. -->.
-
-![Migration Map of Yuadrem, Age of Sap](img/age_of_fog_migration_y801_v011_dpi72.png)
-***Pictured:***
-*Age of Sap migration map of the Fesh Peninsula, drawn in 801 A.S. by the Fremite Monastery in Uvarme. It includes all mass migrations with their approximate dates.*
 
 Different events in prehistory and history have caused migrations and diasporas, but none can be compared to the Penance. In the face of the vast loss of landmass to the nix tides, peoples from all origins and ethnicities coalesced in the Fesh Peninsula.
 
