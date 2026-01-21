@@ -23,9 +23,9 @@ Over time, Jantherlin evolved into most of the languages spoken in Yuadrem, the 
 [**Frisian**](frisian.md) was spoken in the peninsula before the [Penance](../history.md#age-of-sap), and remains the most common vocabulary in the region. It is currently spoken in the sumis of Fremit, Ushpavam, Vamerit, and Xarxage, as well as in the Holy Princedom of Ushpavam and the Kingdom of Meritan. A dialect of old Avshenesian, very similar to Frisian, is also spoken by the chiefdoms of Raraspan and Dzarog, as well as by the Ketepi people.
 <!-- TODO. Lots of links are needed here. -->
 
-**Shanise** was the main language spoken in the [Northern Territories](../geography/northern_territories.md), and it branched out from Avshenese in the thulk side of the [Ird Diaspora](../history.md#war-of-autumn). As of today, it is only spoken in the Kingdom of Gronselar<!-- TODO. Link. -->. Shanise is the basis for the gronselarian apomantic system<!-- TODO. Link. -->.
+**Shanise** was the main language spoken in the Northern Territories<!--TODO:LINK--->, and it branched out from Avshenese in the thulk side of the [Ird Diaspora](../history.md#war-of-autumn). As of today, it is only spoken in the Kingdom of Gronselar<!-- TODO. Link. -->. Shanise is the basis for the gronselarian apomantic system<!-- TODO. Link. -->.
 
-**Voskian** is a family of dialects that developed north of the [Zoedrem desert](../geography/westlands.md#zoedrem), with the dispersion of the bughna people in the northern bughna migration<!-- TODO. Link. -->. It is not currently spoken in any chiefdom, sumi, or kingdom, but the family is very common in the six thousand tribes<!-- TODO. Link. --> and the peoples of Saefel<!-- TODO. Link. -->.
+**Voskian** is a family of dialects that developed north of the Zoedrem desert<!--TODO:LINK--->, with the dispersion of the bughna people in the northern bughna migration<!-- TODO. Link. -->. It is not currently spoken in any chiefdom, sumi, or kingdom, but the family is very common in the six thousand tribes<!-- TODO. Link. --> and the peoples of Saefel<!-- TODO. Link. -->.
 
 **Beast Speech** is an artificial vocabulary forged in Voskferm<!-- TODO. Link. -->, a kingdom that disappeared in the Penance. The language was designed to communicate with the highly intelligent Anthutes<!-- TODO. Link. -->, large horned mammals that were once common in that region. It is now used by merchants and travelers to ride these animals across the sumis and kingdoms of the Fesh Peninsula.
 
@@ -65,8 +65,8 @@ Since Tek talks through its root system and spores, the god-tree did not teach a
 
 <!---------------------------------------------------------------------------->
 ## Uldian Tree
-Under the tutelage of the god-tree [Uld](../religion/godtrees/uld.md), the oths of Ignelli<!-- TODO. Link. --> invented the _uldian tree_ of languages. These didn't spread far from the [Everwoods](../geography/wildlands.md#everwoods), but managed to survive the Penance with the oths that migrated into the Fesh Peninsula.
+Under the tutelage of the god-tree [Uld](../religion/godtrees/uld.md), the oths of Ignelli<!-- TODO. Link. --> invented the _uldian tree_ of languages. These didn't spread far from the Everwoods<!--TODO:LINK--->, but managed to survive the Penance with the oths that migrated into the Fesh Peninsula.
 
 **Odhualen** is a very unique tongue, sharing almost no characteristic with the other dialects of Yuadrem. It is the main language spoken in the island-state of Mbeat<!-- TODO. Link. -->, and it has also recently gained popularity among scholars due to the conciseness of its writing system.
 
-**Krelho** was a variation of Odhualen as it spread across the [Wildlands](../geography/wildlands.md). It has almost disappeared after the Penance, and finding native speakers is almost impossible.
+**Krelho** was a variation of Odhualen as it spread across the Wildlands<!--TODO:LINK--->. It has almost disappeared after the Penance, and finding native speakers is almost impossible.
