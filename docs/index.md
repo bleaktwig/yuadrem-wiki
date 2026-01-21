@@ -4,8 +4,12 @@
 Stuff required to finish wiki (for now):
 * [x] hide geography and isola pages (for now) and erase links to them.
 * [x] write general ethnology page from what's on index.
-* [ ] clean up index.
+* [x] clean up index.
 * [ ] clean up kins in wiki and book.
+    * [ ] hume.
+    * [ ] imate.
+    * [ ] elf.
+    * [ ] oth.
 * [ ] move ane-kene to languages (?) and re-do links.
 * [ ] do an editing pass on book.
 * [ ] remake character sheet from siniath ambar character sheet.
@@ -31,19 +35,12 @@ The land was first settled by the six original [god-trees](religion/index.md#god
 This all changed in 621 After the [Schism](history.md#war-of-autumn) (A.S.), with the murder of the [god-suzerain Olag](religion/illuminants/olag.md). The world was assaulted by [nix](<religion/primordials/nix>), an all-consuming iridescent sap that is slowly eroding all disparity. The only inhabitable land now is the Fesh Peninsula<!-- TODO. Link. -->, a small arm jutting out from the Punika Peaks, protected from nix both by geography and periodic rituals<!-- TODO. Link. -->.
 
 ![Map of Yuadrem](img/world_map.yuadrem.y604.v083.dpi300.png)
-_Old trade map of Yuadrem, drawn in 604 A.S. in Avshen, under the commission of the god-suzerain Olag. The region colored in green corresponds to the [Seven Princedoms of the Sea](history.md#age-of-winter), while other colors represent the tax and penalty applied to trade in the other lands of the continent. The map serves as a reminder of the healthy sate of trade and maritime travel during the [Age of Spring](history.md#age-of-spring), a once taken-for-granted boon now lost to nix._
+_Old trade map of Yuadrem, drawn in 604 A.S. in Avshen, under the order of the god-suzerain Olag. The region colored in green corresponds to the [Seven Princedoms of the Sea](history.md#age-of-winter), while other colors represent the tax and penalty applied to trade in the other lands of the continent. The map serves as a reminder of the healthy sate of trade and maritime travel during the [Age of Spring](history.md#age-of-spring), a once taken-for-granted boon now lost to nix._
 
 <!--^- TODO. I should update this map with the name changes (a bit annoying but it shouldn't take long c:) -^-->
 
---------------------------------------------------------------------------------
-
-***Ethnology.*** [whoopie!](kins/index.md)
-
-***Languages.*** Teeheehee [here you go](languages/index.md).
-
-***Religion.*** The main religion practiced in the known world is [Tanethism](religion/index.md).
-
-***History.*** [Lookie here](history.md).
+| [**Ethnology.**](kins/index) | [**Languages.**](languages/index) | [**Religion**](religion/index) | [**History**](history) |
+|-|-|-|-|
 
 --------------------------------------------------------------------------------
 For documentation on editing this wiki, check out:
