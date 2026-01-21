@@ -39,7 +39,9 @@ _Old trade map of Yuadrem, drawn in 604 A.S. in Avshen, under the order of the g
 
 <!--^- TODO. I should update this map with the name changes (a bit annoying but it shouldn't take long c:) -^-->
 
-| [**Ethnology.**](kins/index) | [**Languages.**](languages/index) | [**Religion**](religion/index) | [**History**](history) |
+--------------------------------------------------------------------------------
+
+| [**Ethnology**](kins/index) | [**Languages**](languages/index) | [**Religion**](religion/index) | [**History**](history) |
 |-|-|-|-|
 
 --------------------------------------------------------------------------------
