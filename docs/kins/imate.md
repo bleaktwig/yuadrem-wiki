@@ -1,6 +1,10 @@
 # Imates
 [Om](../religion/godtrees/om.md) created imates to defend the oric god from [Et](../religion/godtrees/et.md) and the [humes](hume.md) in the [War of Autumn](../history.md#war-of-autumn). While not particularly suited for war, the kin defended their god-tree until the [Schism](../history.md#war-of-autumn). For this, they were Blessed with Word. After the burning of Om, imates escaped their total slaughter by migrating to the south, spreading thorough the southern reaches of Yuadrem.
 
+<!--
+    Today, they are separated into two: a militaristic, war-hardened people that established the Kingdom of Om, and diverse groups of hardy nomads that roam the remaining forests of the Fesh Peninsula.
+--->
+
 ---
 ## Physical Description
 Imates share some resemblance with humes. Both kins poise the bulk of their weight on two legs, have the same number of digits, and are able to express their emotions through facial expression. However, the body of an imate is covered in hair, which ranges in color from white, through many shades of brown, to black. Lacking the gats' Blessing of Color, no hints of Red or Yellow is seen in their hair. Then, a common trait to all imates are their very large ears, which are surrounded by a tuft of white hair.
