@@ -1,5 +1,3 @@
-**WIP.**
-
 <!-- TODO list.
 Stuff required to finish wiki (for now):
 * [x] hide geography and isola pages (for now) and erase links to them.
