@@ -1,34 +1,33 @@
 # Humes
-[Et](../religion/godtrees/et.md) created humes to aid the oric god in the [War of Autumn](../history.md#war-of-autumn). Despite this, many opposed the conflict, or felt indifferent to it. They fled the company of their god-tree, for which they were cursed with monochromacy. These humes came to be known as irds, and their dispersion as the [Ird Diaspora](../history.md#war-of-autumn). The humes that remained with Et were blessed with Color, and are known as gats.
+The god-tree [Et](../religion/godtrees/et.md) created humes to aid it's fight against [Om](../religion/godtrees/om.md) during the [War of Autumn](../history.md#war-of-autumn). Over time, many humes grew opposed to this conflict, and fled the company of their god-tree, for which they were cursed with monochromacy. These people came to be known as the _ird_, which roughly translates to "one who runs" in [jantherlin](../languages/index.md#etian-branch), and their dispersion around the world as the [Ird Diaspora](../history.md#war-of-autumn). Those that remained were blessed with Color, and are known as the _gat_, meaning "one who stays" in the old language.
 
-<!-- TODO list:
-* Maybe mention what ird and gat mean in jantherlin? That might help integrate the language into the lore.
-* Treb gats are descendants of a particular Et-born that could produce progeny!!! Mention that, it's a cool concept that explains their large physical difference with the rest of the gats.
-* Explain what the Et-born are.
-* Maybe talk a bit more here about the 4 "faces" of the ird diaspora; thulk, hairus, kulbaba, and dral.
--->
-
----
+<!---------------------------------------------------------------------------->
 ## Physical Description
-Humes are of a broad spectrum. Before the [Penance](../history.md#age-of-sap), humes traveled the entirety of Yuadrem, and they are as varied as the environments they settled. Their height usually ranges from slightly more than a meter to about 2. They can weigh anything from 40 to 120 kg, on average. Their skin shades to any color from the darkest brown to the lightest hues. They can grow long hair from their scalps and faces, with great variety of color and thickness.
+Humes are of a broad spectrum. Before the [Penance](../history.md#age-of-sap), they traveled the entirety of Yuadrem, and are as varied as the environments they settled. Their height frequently ranges from slightly more than a meter to about 2, and can weigh anything from 40 to 120 kg, on average. Hume skin shades to any color from the darkest brown to the lightest hues. They can grow long hair from their scalps and faces, with great variety of color and thickness.
 
-While this varies from culture to culture, in general a hume is considered an adult between 14 and 16 years. Due to high child mortality, life expectancy averages to 25 years. For those who reach that age, they have a reasonable chance of reaching 50 to 60 years. Sorcerers are well known for extending their lives, and it is not unusual for them to live even more than a century.
-<!-- NOTE. The downside of this are all the negative effects of pheter use in the body, Nix sickness, deformed bodies + strange appendages, etc. -->
+While this varies from culture to culture, in general a hume is considered an adult between 14 and 16 years, with life expectancy averaging at 25 years due to high child mortality. For humes who reach 25, they have a reasonable chance of living up to 50 or 60 years. Hume sorcerers<!--TODO.Link.---> are well known for extending their lifespan, and is usual for them to live even more than a century.
+<!-- NOTE. The downside of this are all the negative effects of pheter use in the body, Nix sickness, deformed bodies + strange appendages, etc. --->
 
-Humes are a gendered kin, and usually have one child at a time. Previous to the [Schism](../history.md#war-of-autumn), childcare was left to the women of the families, in particular to each child's mother. This varies among cultures, but communal childcare is the norm after the Penance.
+Most humes are a gendered kin, and mostly have one child at a time. The burden of caring for children varies across cultures: for gats, communal childcare is the norm, where everyone in the community or "bulu"<!--TODO:LINK.---> will care for those who can't care for themselves, while in most ird cultures it is often left to those considered "weak" by their communities.
+<!-- NOTE. This is an oversimplification of relationships in ird cultures, ignoring that the separation into "weak" and "strong" doesn't really relate to physical strength. --->
 
----
+--------------------------------------------------------------------------------
 ## Gat Culture
 ### Distinctive Characteristics
-The skin of a gat is generally dark, usually ranging from yellow, through brown, to black. While some gats are blonde, the most common hair colors are brown, black, and sometimes red. It is a common gat custom to sport long hair and beards, often decorated with jewelry.
+The typical gat skin is dark, ranging from yellow, through brown, to black. While some gats are blonde, the most common hair colors are brown, black, with some shades of red. It is a common gat custom to sport long hair and beards, both often decorated with jewelry.
 
-Except for the treb, gats are generally small, ranging from 140 to 170 centimeters on average. Another common feature across gats is their eyes; which are usually of strong colors. This feature is often attributed as a Blessing of Color<!-- TODO. Link. --> given by Et.
+Gats are not very tall people, ranging from 140 to 170 centimeters on average. A common feature among gats is their vibrant eyes: thanks to the Blessing of Color, they are of very strong colors, and most of them can change this color at will.
 
-While all original gats had horns, the feature has been lost through the centuries. Those birthed by the remains of the god-tree, or Et-born, retain the horns. They are increasingly rare after the Penance, as nix<!-- TODO. Link. --> has destroyed the land that surrounds the tree.
-<!-- TODO. At some point I need to describe what an Et-born gat is. -->
+### Origins and History
+The first gats were bore as the fruits of Et, and were marked with horns to signify their divine ascendance. Known as the Et-born, they are sturdier than the average gat, and are impervious to aging. They are extremely rare in the current day, as the few that remain were born before the [Schism](../history.md#war-of-autumn).
+
+<!--TODO. Keep editing from here on forward.--->
+
+<!--TODO. DESCRIBE THE TREB FIRST, AS THEY'RE THE CLOSEST TO THE ET-BORN.--->
+
 <!-- NOTE. Maybe describe what noves, bughna, and treb mean in Jantherlin/Avshenese. -->
 
-<!-- NOTE. Tale of the gestation of an et-born.
+<!-- NOTE. Tale of the gestation of a treb gat.
     Gats are genderless creatures. All gats are born with a pair of seeds hidden in a small sack between their legs. Around the age of 30, a gat reaches physical maturity. This is signaled by a slight swelling in these seeds, which they can now cut and plant under a thick layer of rich soil.
 
     While underground, the seed will grow by leeching nutrients off the earth. After a gestation period of around 2 years, the gat will dig their way up from the ground and emerge as a somewhat competent infant. A gat would-be-parent must always be careful about where to plant their seed, for if a newborn sees the sun or any strong light during their first days, they run the risk of being permanently blinded.
@@ -36,19 +35,22 @@ While all original gats had horns, the feature has been lost through the centuri
     TODO. This clearly requires an update -- gats are now humes.
 -->
 
-### Clothing
-Clothing is varied over the different gat cultures, but one thing remains constant: each gat's garments generally focuses on one particular color. Blessed by Color, gats are particularly affected by the hue of their fibers, and they take advantage of this to manipulate their mind, personality, and physiology.
+<!-- TODO list:
+    * Treb gats are descendants of a particular Et-born that could produce progeny!!! Mention that, it's a cool concept that explains their large physical difference with the rest of the gats.
+    * Maybe talk a bit more here about the 4 "faces" of the ird diaspora; thulk, hairus, kulbaba, and dral.
+-->
 
-While working, a laborer might wear red with hints of magenta to allow their body to gain strength faster. A scholar may wear blue with details in cyan and chartreuse to improve their memory retention. Travelers often wear green in the day to speed up their travels, then orange or saffron during the night to receive more heat from their bonfire.
-
-### Origins and History
-<!-- NOTE. Those who sided with Et. Et-born families still retain horns (by feeding the mother Et's sap), which were first gifted by Et to their loyal soldiers. -->
 After the Schism, the surviving gats separated into three groups: noves, bughna, and treb. Those who remained became known as noves gats, and their ethnicity is the most common in the modern world. They built the holy city of Naptane<!-- TODO. Link. --> inside the stump of Et, from which sprung the [Seven Princedoms of the Sea](../history.md#age-of-winter). Noves are often considered simile to civilization.
 
 Bughna gats endured the [40-Year Famine](../history.md#age-of-winter) by adopting a nomadic lifestyle, one which defines them still. These humes became known as great pastors and merchants. They strengthened the bond between the princedoms, in part allowing the establishment of the large gat civilization. Even today they are often associated to good luck.
 
 Not all progeny of Et was born equal, and the treb are the perfect example. They are larger and bulkier than the average hume, and were often the first line of attack in the War of Autumn. Treb gats were regarded as brutish, and didn't fit the civilization built by the noves. They were exiled by the [god-suzerain Olag](../religion/illuminants/olag.md) during the third century, and most established a new home in the Dead Sea<!-- TODO. Link. -->.
 <!-- NOTE. Treb gats are not *born* brutish. While their culture may seem "violent", they are deeply religious and show a sophistication with nature that is not commonly seen in other humes. -->
+
+### Clothing
+Clothing is varied over the different gat cultures, but one thing remains constant: each gat's garments generally focuses on one particular color. Blessed by Color, gats are particularly affected by the hue of their fibers, and they take advantage of this to manipulate their mind, personality, and physiology.
+
+While working, a laborer might wear red with hints of magenta to allow their body to gain strength faster. A scholar may wear blue with details in cyan and chartreuse to improve their memory retention. Travelers often wear green in the day to speed up their travels, then orange or saffron during the night to receive more heat from their bonfire.
 
 ### Traditions and Religion
 <!-- NOTE. Noves culture has its members remain at home a lot. Either lean into this or figure out more collective celebrations. -->
@@ -103,17 +105,12 @@ Adrevik, Agik, Ak, Ani, Anux, Aren, Avag, Baen, Bevan, Dzurar, Gauren, Gevaug, G
     * Just knowing someone's full name gives you a lot of information on that person.
 -->
 
----
+-------------------------------------------------------------------------------
 ## Ird Culture
 ### Distinctive Characteristics
 Irds are usually easy to recognize due to their size, which on average is about 175 centimeters. Their skin color varies greatly, but they are generally somewhat paler than gats. Their eye color is also assorted, also often less saturated than that of a gat.
 
 Kulbaba and dral are rather slender, while the thulk are generally tall and broad. Hair color is also a feature commonly used to determine the ethnicity of an ird. Thulk irds often have either blonde, black, or ginger hair. Then, the kulbaba have brown hair, usually in dark shades. Dral irds have light brown or crimson hair, which tends to gray at an earlier age than other humes.
-
-### Clothing
-Irds were said to have been cursed with feathers when they fled the War of Autumn. While today they don't grow feathers, a common feature in ird attire is the usage of plumage in their clothing. Before the Penance, the color of their clothes depended on their ethnicity. Now, colorful feathers are usually only used in traditional rituals, as most fear the effect the colors may have on their bodies.
-
-Thulk, who settled in cold climates, used to wear vermilion fabrics with complex patterns above many layers of fur. Nowadays, while their attires are lighter, they keep this color despite the change in environment. Dral, used to the desert of Zoedrem<!--TODO:LINK--->, wore simple cyan and mint clothing to cool them and give them speed. The kulbaba in contrast often kept the colorful patterns from their old traditions, recently adapted to fibers rather than feathers.
 
 ### Origins and History
 The first humes to renounce the War of Autumn and abandon Et were the irds. Persecuted by the god-tree fanatics, they fled far from the Horned Shores<!--TODO:LINK--->, and far away from the grasp of Et. This event is known as the [Ird Diaspora](../history.md#war-of-apring). While many different ethnicities came from this event, the main ones that remain after the Penance are three. In order of their number, the thulk, the kulbaba, and the dral.
@@ -126,6 +123,11 @@ The kulbaba were the second to emigrate, and settled on the tropical islands of 
 Inside the Fesh Peninsula, thulk from Gronselar conquered the easternmost peninsula, establishing their nation in territories claimed from Ushpavam<!-- TODO. Link. -->. Some kulbaba from the Dentralin Chiefdom<!-- TODO. Link. --> also  settled the region, becoming part of the Sumi of Fremit<!-- TODO. Link. --> and establishing temples in the Saefel Canyon<!-- TODO. Link. -->.
 
 The dral were the last to leave the grasp of Et. They migrated to the desert of Zoedrem, also separating into chiefdoms. Not many of them remain, but some did enter the Fesh Peninsula traveling together with the bughna.
+
+### Clothing
+Irds were said to have been cursed with feathers when they fled the War of Autumn. While today they don't grow feathers, a common feature in ird attire is the usage of plumage in their clothing. Before the Penance, the color of their clothes depended on their ethnicity. Now, colorful feathers are usually only used in traditional rituals, as most fear the effect the colors may have on their bodies.
+
+Thulk, who settled in cold climates, used to wear vermilion fabrics with complex patterns above many layers of fur. Nowadays, while their attires are lighter, they keep this color despite the change in environment. Dral, used to the desert of Zoedrem<!--TODO:LINK--->, wore simple cyan and mint clothing to cool them and give them speed. The kulbaba in contrast often kept the colorful patterns from their old traditions, recently adapted to fibers rather than feathers.
 
 ### Traditions and Religion
 **Competitions.**

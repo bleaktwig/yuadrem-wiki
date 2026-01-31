@@ -9,6 +9,7 @@ Stuff required to finish wiki (for now):
     * [ ] elf.
     * [ ] oth.
 * [ ] move ane-kene to languages (?) and re-do links.
+* [ ] fix signatures in religion.md and subdirectories.
 * [ ] do an editing pass on book.
 * [ ] remake character sheet from siniath ambar character sheet.
 * [ ] write oths in wiki and book.
