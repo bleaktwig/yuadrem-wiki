@@ -16,36 +16,28 @@ Most humes are a gendered kin, and mostly have one child at a time. The burden o
 ### Distinctive Characteristics
 The typical gat skin is dark, ranging from yellow, through brown, to black. While some gats are blonde, the most common hair colors are brown, black, with some shades of red. It is a common gat custom to sport long hair and beards, both often decorated with jewelry.
 
-Gats are not very tall people, ranging from 140 to 170 centimeters on average. A common feature among gats is their vibrant eyes: thanks to the Blessing of Color, they are of very strong colors, and most of them can change this color at will.
+Gats are somewhat short people, ranging from 140 to 170 centimeters on average. A common feature among gats is their vibrant eyes: thanks to the Blessing of Color, they are of very strong colors, and most of them can change this color at will.
 
 ### Origins and History
-The first gats were bore as the fruits of Et, and were marked with horns to signify their divine ascendance. Known as the Et-born, they are sturdier than the average gat, and are impervious to aging. They are extremely rare in the current day, as the few that remain were born before the [Schism](../history.md#war-of-autumn).
+The first gats were borne as the fruits of Et, and were marked with horns to signify their divine ascendance. Known as the Et-born, they are usually the most vigorous among gats, and are impervious to aging and to wounds that would be deadly to most. They are extremely rare in the current day, and the few that remain were born before the [Schism](../history.md#war-of-autumn).
 
-<!--TODO. Keep editing from here on forward.--->
+While most Et-born are sterile, one was different. The illuminant [Rerisi](../religion/index.md#illuminants) could produce offspring, and she did so in abundance—she created the _treb_, or "one who dies" in jantherlin. The treb are larger and bulkier than the average gat, and were often the first line of attack during the War of Autumn. Even as children of an Et-born, the treb were regarded as brutish, such that they didn't fit the civilization built by the other gats. In the third century, they were exiled by the [god-suzerain Olag](../religion/illuminants/olag.md), and most established a new home in the Dead Sea<!--TODO.Link.---> and in the Sylvan Canyon<!--TODO.Link.--->
 
-<!--TODO. DESCRIBE THE TREB FIRST, AS THEY'RE THE CLOSEST TO THE ET-BORN.--->
-
-<!-- NOTE. Maybe describe what noves, bughna, and treb mean in Jantherlin/Avshenese. -->
+<!-- NOTE. Rumors of facts?
+    Treb gats are not *born* brutish. While their culture may seem "violent", they are deeply religious and show a sophistication with nature that is not commonly seen in other humes.
+--->
 
 <!-- NOTE. Tale of the gestation of a treb gat.
-    Gats are genderless creatures. All gats are born with a pair of seeds hidden in a small sack between their legs. Around the age of 30, a gat reaches physical maturity. This is signaled by a slight swelling in these seeds, which they can now cut and plant under a thick layer of rich soil.
+    The treb are genderless creatures. All treb are born with a pair of seeds hidden in a small sack between their legs. Around the age of 30, a treb reaches physical maturity. This is signaled by a slight swelling in these seeds, which they can now cut and plant under a thick layer of rich soil.
 
-    While underground, the seed will grow by leeching nutrients off the earth. After a gestation period of around 2 years, the gat will dig their way up from the ground and emerge as a somewhat competent infant. A gat would-be-parent must always be careful about where to plant their seed, for if a newborn sees the sun or any strong light during their first days, they run the risk of being permanently blinded.
+    While underground, the seed will grow by leeching nutrients off the earth. After a gestation period of around 2 years, the treb will dig their way up from the ground and emerge as a somewhat competent infant. A treb would-be-parent must always be careful about where to plant their seed, for if a newborn sees the sun or any strong light during their first days, they run the risk of being permanently blinded.
+--->
 
-    TODO. This clearly requires an update -- gats are now humes.
--->
+After the Schism, the gats that remained around the charred corpse of Et became known as the noves, or the "one who stays" in jantherlin. The noves are the most common ethnicity in the modern world, and are often considered simile to civilization. They built the holy city of Naptane<!-- TODO. Link. --> inside the stump of Et, from which sprung the [Seven Princedoms of the Sea](../history.md#age-of-winter).
 
-<!-- TODO list:
-    * Treb gats are descendants of a particular Et-born that could produce progeny!!! Mention that, it's a cool concept that explains their large physical difference with the rest of the gats.
-    * Maybe talk a bit more here about the 4 "faces" of the ird diaspora; thulk, hairus, kulbaba, and dral.
--->
+The bughna, or "one who leaves", endured the [40-Year Famine](../history.md#age-of-winter) by adopting a nomadic lifestyle, one which defines them still. These humes became known as great pastors and merchants, and strengthened the bonds between the princedoms, helping in the establishment of the large gat civilization. Even today they are often associated to good luck.
 
-After the Schism, the surviving gats separated into three groups: noves, bughna, and treb. Those who remained became known as noves gats, and their ethnicity is the most common in the modern world. They built the holy city of Naptane<!-- TODO. Link. --> inside the stump of Et, from which sprung the [Seven Princedoms of the Sea](../history.md#age-of-winter). Noves are often considered simile to civilization.
-
-Bughna gats endured the [40-Year Famine](../history.md#age-of-winter) by adopting a nomadic lifestyle, one which defines them still. These humes became known as great pastors and merchants. They strengthened the bond between the princedoms, in part allowing the establishment of the large gat civilization. Even today they are often associated to good luck.
-
-Not all progeny of Et was born equal, and the treb are the perfect example. They are larger and bulkier than the average hume, and were often the first line of attack in the War of Autumn. Treb gats were regarded as brutish, and didn't fit the civilization built by the noves. They were exiled by the [god-suzerain Olag](../religion/illuminants/olag.md) during the third century, and most established a new home in the Dead Sea<!-- TODO. Link. -->.
-<!-- NOTE. Treb gats are not *born* brutish. While their culture may seem "violent", they are deeply religious and show a sophistication with nature that is not commonly seen in other humes. -->
+<!--TODO. Keep editing from here on forward.--->
 
 ### Clothing
 Clothing is varied over the different gat cultures, but one thing remains constant: each gat's garments generally focuses on one particular color. Blessed by Color, gats are particularly affected by the hue of their fibers, and they take advantage of this to manipulate their mind, personality, and physiology.
@@ -114,6 +106,10 @@ Kulbaba and dral are rather slender, while the thulk are generally tall and broa
 
 ### Origins and History
 The first humes to renounce the War of Autumn and abandon Et were the irds. Persecuted by the god-tree fanatics, they fled far from the Horned Shores<!--TODO:LINK--->, and far away from the grasp of Et. This event is known as the [Ird Diaspora](../history.md#war-of-apring). While many different ethnicities came from this event, the main ones that remain after the Penance are three. In order of their number, the thulk, the kulbaba, and the dral.
+
+<!-- TODO list:
+    * Maybe talk a bit more here about the 4 "faces" of the ird diaspora; thulk, hairus, kulbaba, and dral.
+-->
 
 The thulk migrated to the northernmost regions of Yuadrem, establishing the old nation of Krudzal around the north pole. Here, they were the first to develop ironworking, with which they built imposing sailing ships with iron hulls. Krudzalites used these vessels to claim many territories in the continent, later forming many independent states such as Gronselar<!-- TODO. Link. --> and Kaldrathal, among others.
 
