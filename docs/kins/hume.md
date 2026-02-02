@@ -21,9 +21,9 @@ Gats are somewhat short people, ranging from 140 to 170 centimeters on average. 
 ### Origins and History
 The first gats were borne as the fruits of Et, and were marked with horns to signify their divine ascendance. Known as the Et-born, they are usually the most vigorous among gats, and are impervious to aging and to wounds that would be deadly to most. They are extremely rare in the current day, and the few that remain were born before the [Schism](../history.md#war-of-autumn).
 
-While most Et-born are sterile, one was different. The illuminant [Rerisi](../religion/index.md#illuminants) could produce offspring, and she did so in abundance—she created the _treb_, or "one who dies" in jantherlin. The treb are larger and bulkier than the average gat, and were often the first line of attack during the War of Autumn. Even as children of an Et-born, the treb were regarded as brutish, such that they didn't fit the civilization built by the other gats. In the third century, they were exiled by the [god-suzerain Olag](../religion/illuminants/olag.md), and most established a new home in the Dead Sea<!--TODO.Link.---> and in the Sylvan Canyon<!--TODO.Link.--->
+While most Et-born are sterile, a peculiar one was different. The illuminant [Rerisi](../religion/index.md#illuminants) could produce offspring, and she did so in abundance—she created the _treb_, or "one who dies" in jantherlin. The treb are larger and bulkier than the average gat, and were often the first line of attack during the War of Autumn. Even as children of an Et-born, the treb were regarded as brutish, such that they didn't fit the civilization built by the other gats. In the third century, they were exiled by the [god-suzerain Olag](../religion/illuminants/olag.md), and most established a new home in the Dead Sea<!--TODO.Link.---> and in the Sylvan Canyon<!--TODO.Link.--->
 
-<!-- NOTE. Rumors of facts?
+<!-- NOTE. Rumors or facts?
     Treb gats are not *born* brutish. While their culture may seem "violent", they are deeply religious and show a sophistication with nature that is not commonly seen in other humes.
 --->
 
@@ -37,43 +37,45 @@ After the Schism, the gats that remained around the charred corpse of Et became 
 
 The bughna, or "one who leaves", endured the [40-Year Famine](../history.md#age-of-winter) by adopting a nomadic lifestyle, one which defines them still. These humes became known as great pastors and merchants, and strengthened the bonds between the princedoms, helping in the establishment of the large gat civilization. Even today they are often associated to good luck.
 
-<!--TODO. Keep editing from here on forward.--->
-
 ### Clothing
-Clothing is varied over the different gat cultures, but one thing remains constant: each gat's garments generally focuses on one particular color. Blessed by Color, gats are particularly affected by the hue of their fibers, and they take advantage of this to manipulate their mind, personality, and physiology.
+Clothes are varied across the different gat cultures, but one thing remains constant: a person's garments generally focuses on a few particular, strong colors. Blessed by Color, gats are particularly affected by the hue of their clothing, and they take advantage of this to manipulate their mind, personality, and physiology.
 
-While working, a laborer might wear red with hints of magenta to allow their body to gain strength faster. A scholar may wear blue with details in cyan and chartreuse to improve their memory retention. Travelers often wear green in the day to speed up their travels, then orange or saffron during the night to receive more heat from their bonfire.
+While working, a laborer might wear red with hints of magenta to allow their body to enhance their physical strength. A scholar may wear blue with details in cyan and chartreuse to improve their memory retention. Travelers often wear green in the day to speed up their travels, then orange or saffron during the night to receive more warmth from their bonfire.
 
 ### Traditions and Religion
-<!-- NOTE. Noves culture has its members remain at home a lot. Either lean into this or figure out more collective celebrations. -->
 **Families and guilds.**
-To the noves, a family is defined as the group of people with which one shares housing. Most members of a family share a profession, and large families are known as guilds. The head of a family is either its oldest member or someone designated by them.
+To the noves, a family is defined as the group of people with whom one shares housing. Most members of a family share a profession, and large families are known as guilds. The head of a family is usually either its oldest member or someone designated by vote.
 
-When a child is born, they become a member of the mother's family. Most children know who their parents are, but childcare is a communal endeavor. From their 14th birthday onward, a gat can choose to join another family. They need to be accepted by the head of the receiving family. The departure is often accompanied by a ceremonial feast shared by the two families.
-<!-- NOTE. Many members of a child's family have an important role in their development, and a special place in their heart :). -->
+In most gat cultures, a child becomes a member of their mother's family when they're born, and their care becomes a communal endeavor. When they reach adulthood—usually around year 14—a gat can choose to join another family, as long as they're accepted by this family's head. The departure is often accompanied by a ceremonial feast shared by the two families.
+<!-- NOTEs.
+    * Many members of a child's family have an important role in their development, and a special place in their heart :).
+    * Noves culture has its members remain at home a lot. Either lean into this or figure out more collective celebrations.
+--->
 
 **Death.**
-Across gat culture, the dead are said to protect their families after their death. The old tradition is to bury the dead below the family house, especially under doors and windows. Lying below their loved ones strengthens the dead, aiding in their protective role.
-<!-- NOTE. The pheter in the bones of the dead literally aids the family by keeping nix out, but this effect is minor. -->
+Across gat cultures, the dead are said to protect their families after their death, and old tradition dictates to bury the dead below the family house, usually under doors and windows. Lying below their loved ones strengthens the dead as they take on the role of a protector.
+<!-- NOTE. The pheter in the bones of the dead literally aids the family by keeping nix out, but this effect is minor. --->
 
-After the Penance, it has become common to burn some of the dead at the center of towns and villages. This helps in staving off nix, as the charred bones release their pheter<!-- TODO. Link. -->. The specific tradition is chosen by the family, but burnings are commonly mandated when nix is on high tide<!-- TODO. Link. -->.
-<!-- NOTE. On the death of royalty. Kings and the royal family are burned after death. After that, their bones are placed on a giant mausoleum, all mixed together to accumulate their pheter. -->
-<!-- NOTE. I should play more with nix tides. Relate them to the moons, integrate the tri-lunar calendar into the "common" calendar to add some capacity to predict nix tides. -->
+After the Penance, a new tradition that's quickly become commonplace is to burn some of the dead at the center of towns and villages. This helps to stave off [nix](../religion/primordials/nix.md), as the charred bones release their [pheter](../religion/primordials/pheter.md). While in general the specific manner a body is disposed of is chosen by the family, burning bodies is often mandatory when nix is on high tide.
+
+<!-- NOTEs.
+    * On the death of royalty. Kings and the royal family are burned after death. After that, their bones are placed on a giant mausoleum, all mixed together to accumulate their pheter.
+    * Maybe I should play more with nix tides. Relate them to the moons, integrate the tri-lunar calendar into the "common" calendar to add some capacity to predict nix tides.
+--->
+
+**Religion.**
+[Tanethism](../religion/index.md) is the standard faith in Yuadrem, and has been so since the early third century, albeit in a less organized manner than today's. While some dedicate their life to a particular god, it has no clergy or authorities—Tanethism is a fully personal religion. Altars to certain gods are common both in cities and in the wild, as small statues and temples are scattered all across Yuadrem.
+
+Apart from providing the list and description of the religion's gods, the Book of Taneth details the myriad of rituals to each of them. Most gats have a predilection toward certain gods, and include small rituals to them into daily life, as liturgy is attached to any activity one deems important. Perhaps due to their unique connection to the divine, the treb are particularly religious, and the number and complexity of their rituals exceeding those of the other kins.
 
 **Bughna moon rituals.**
-The bughna have a special admiration towards Kegal, the indigo moon<!-- TODO. Link. -->. In particular, the nomadic patterns of animal herders are aligned to the moon phases. The search for new grazing grounds only occurs while the fundamental signature of lightning<!-- TODO. Link. --> is in phase. Bughna gats feel protected by the signature's gaze.
-<!-- NOTE. Bughna also celebrate thunderstorms as portents of Kegal. -->
-<!-- NOTE. Kegal is the moon with an stupid-large apomantic signature etched to its face. It's a very complex signature, used by Pheter to conduct lightning to Et. -->
+The bughna have a special admiration towards [Kegal, the indigo moon](../religion/mevic_gods/fusine.md), and the nomadic patterns of animal herders are aligned to this moon's phases. The search for new grazing grounds only occurs while the fundamental signature of lightning is in phase, as the gats feel protected by the signature's gaze. They also celebrate thunderstorms as portents of the god, sometimes engaging in dangerous rituals seeking her favor.
 
+<!--TODO. Keep editing from here on forward.--->
 **Aversion to piercing.**
 One thing in common across all gats is their aversion to piercing weapons, especially after the Penance. Puncture wounds are believed to cause an excessive leakage of pheter. This means that not only the victim's body is damaged, but some of their soul is as well. For this reason, gravely piercing another hume is punishable by death in most gat cultures.
 <!-- NOTE. The soul is the pheter stored in a body. -->
 <!-- NOTE. Olag punished traitors by impaling them in pikes, but without crossing major organs (idk how tho?). Then, not only did they bleed slowly, but they could feel their soul leaking away. -->
-
-**Religion.**
-[Tanethism](../religion/index.md) is the most common religion in Yuadrem. It is the most common belief of all gats since the third century. Tanethism is a personal religion. Altars to certain gods are common, but established institutions to them are a rare sight, and is even prohibited in some provinces<!-- TODO. Provinces?. -->.
-
-Apart from providing the list and description of the religion's gods, the book of Taneth<!-- TODO. Link. --> details the myriad of rituals to each of them. Most gats have a predilection toward certain gods, and include some of them into daily life. Treb are particularly religious. Often liturgy is attached to any activity an individual deems important.
 
 ### Names
 In tradition, gats have various names. These names don't have a particular order, and many can change during a gat's lifetime. In addition, different people and communities will often know a gat by different names. Names are not officialized, and the duty of recording individuals is left to each family.
