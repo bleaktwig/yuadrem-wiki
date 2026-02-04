@@ -42,6 +42,10 @@ Clothes are varied across the different gat cultures, but one thing remains cons
 
 While working, a laborer might wear red with hints of magenta to allow their body to enhance their physical strength. A scholar may wear blue with details in cyan and chartreuse to improve their memory retention. Travelers often wear green in the day to speed up their travels, then orange or saffron during the night to receive more warmth from their bonfire.
 
+| ![Gat shepherd from the Saefel Canyon](img/hume.gat.saefel.png) |
+|:---------------------------------:|
+| _Gat shepherd from the Saefel Canyon. Blessed by Color, they wear green and blue clothes to aid their speed and help maintain body temperature. They carry a makeshift bone polearm, which doubles as a walking stick._ |
+
 ### Traditions and Religion
 **Families and guilds.**
 To the noves, a family is defined as the group of people with whom one shares housing. Most members of a family share a profession, and large families are known as guilds. The head of a family is usually either its oldest member or someone designated by vote.
@@ -97,6 +101,10 @@ Adrevik, Agik, Ak, Ani, Anux, Aren, Avag, Baen, Bevan, Dzurar, Gauren, Gevaug, G
     * Names are neither official nor recorded, but presenting yourself with a name that contains a lie is very badly seen, and may even be punished in some ethnic groups.
     * Just knowing someone's full name gives you a lot of information on that person.
 -->
+
+| ![Gat noble from the Holy Princedom of Ushpavam](img/hume.gat.holy_princedom_of_ushpavam.png) |
+|:---------------------------------:|
+| _Gat noble from the Holy Princedom of Ushpavam. His red clothes serve to fortify him, while the gold he wards evokes virtue. His horns, made from boar husks, conjure an association to the god-suzerain Olag and the Et-born in general._ |
 
 <!--TODO. Keep editing from here on forward.--->
 -------------------------------------------------------------------------------
