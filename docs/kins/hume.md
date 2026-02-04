@@ -106,10 +106,10 @@ Adrevik, Agik, Ak, Ani, Anux, Aren, Avag, Baen, Bevan, Dzurar, Gauren, Gevaug, G
 |:---------------------------------:|
 | _Gat noble from the Holy Princedom of Ushpavam. His red clothes serve to fortify him, while the gold he wards evokes virtue. His horns, made from boar husks, conjure an association to the god-suzerain Olag and the Et-born in general._ |
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
 ## Ird Culture
 ### Distinctive Characteristics
-Irds are usually easy to recognize due to their size, which on average is about 175 centimeters. Their skin color varies considerably, but they are generally paler than gats. Their irises are dimmer than those of their counterpart, with shades of brown being the most common.
+Irds are usually easy to recognize due to their size, which on average is about 175 centimeters. Their skin color varies considerably, but they are generally paler than gats. Their irises are dimmer than those of their counterpart, with shades of brown being the most frequent.
 
 Irds are often separated into three distinct ethnicities—kulbaba, dral, and thulk. While the former two are rather slender when compared to gats, the latter are generally tall and broad. Hair color can also be used to differentiate irds: the kulbaba often have dark brown hair; the dral lighter shades of brown or even crimson hues, which tends to gray at an earlier age than that of other humes; while the thulk often have either blond, black, or ginger hair.
 
@@ -120,46 +120,50 @@ The first humes to renounce the War of Autumn and abandon Et were the irds. Pers
     * Maybe talk a bit more here about the 4 "faces" of the ird diaspora; thulk, hairus, kulbaba, and dral.
 -->
 
-The thulk migrated to the northernmost regions of Yuadrem, establishing the old kingdom of Krudzal around the polar region. Here, they were the first to work iron, with which they built imposing sailing ships known as "ironhulls". Krudzalites tamed the seas with these vessels, spreading the thulk to territories such as the Elderberry Wilds<!--TODO:LINK--->, from which the settlers of Gronselar<!--TODO:LINK---> arrived.
+The thulk migrated to the northernmost regions of Yuadrem, establishing the old kingdom of Krudzal around the polar region. Here, they were the first to work iron, with which they built imposing sailing ships known as "ironhulls". Krudzal tamed the seas with these vessels, spreading the thulk to territories such as the Elderberry Wilds<!--TODO:LINK--->, from which the settlers of Gronselar<!--TODO:LINK---> arrived.
 
-<!--TODO. Keep editing from here on forward.--->
-The kulbaba were the second to emigrate, and settled on the tropical islands of the Qul Archipelago<!--TODO:LINK--->. Here they separated into a myriad of chiefdoms, claiming the islands and many nearby territories. While they never achieved complete cooperation between chiefs, they became known as the Jenkash Empire<!--TODO:LINK---> at their maximum expansion.
+The kulbaba were the second to emigrate, and settled on the tropical islands of the Qul Archipelago<!--TODO:LINK--->. On it, they separated into a myriad of chiefdoms, claiming the islands and many of the nearby territories. While they never achieved full cooperation between chiefs, they became known as the Jenkash Empire<!--TODO:LINK---> due to their constant expansion. Most of the kulbaba arrived in the Fesh Peninsula along with the [elves](elf.md) in the [Landing of Drejek](../history.md#age-of-sap), while most of the Dentralin Chiefdom<!--TODO:LINK---> immigrate earlier among the bughna, establishing temples in the Sumi of Fremit<!--TODO:LINK---> and the Saefel Canyon<!--TODO:LINK--->.
 
-<!-- TODO. Update this. -->
-Inside the Fesh Peninsula, thulk from Gronselar conquered the easternmost peninsula, establishing their nation in territories claimed from Ushpavam<!--TODO:LINK--->. Some kulbaba from the Dentralin Chiefdom<!--TODO:LINK---> also  settled the region, becoming part of the Sumi of Fremit<!--TODO:LINK---> and establishing temples in the Saefel Canyon<!--TODO:LINK--->.
-
-The dral were the last to leave the grasp of Et. They migrated to the desert of Zoedrem, also separating into chiefdoms. Not many of them remain, but some did enter the Fesh Peninsula traveling together with the bughna.
+The dral were the last to leave the grasp of Et. They migrated to the desert of Zoedrem<!--TODO:LINK---> and the Dratl'fal Savanna<!--TODO:LINK--->, also separating into chiefdoms. Not many of them remain, but some did enter the peninsula by immigrating among the bughna.
 
 ### Clothing
-Irds were said to have been cursed with feathers when they fled the War of Autumn. While today they don't grow feathers, a common feature in ird attire is the usage of plumage in their clothing. Before the Penance, the color of their clothes depended on their ethnicity. Now, colorful feathers are usually only used in traditional rituals, as most fear the effect the colors may have on their bodies.
+Irds were said to have been cursed with feathers when they fled the War of Autumn. While they don't actually grow feathers, a common feature in ird attire is the usage of plumage in their clothing. They would wear many colors before the Penance, but now colorful feathers are usually only used in traditional rituals, as most fear the effect the colors may have on them bodies.
 
-Thulk, who settled in cold climates, used to wear vermilion fabrics with complex patterns above many layers of fur. Nowadays, while their attires are lighter, they keep this color despite the change in environment. Dral, used to the desert of Zoedrem<!--TODO:LINK--->, wore simple cyan and mint clothing to cool them and give them speed. The kulbaba in contrast often kept the colorful patterns from their old traditions, recently adapted to fibers rather than feathers.
+The thulk, who settled in cold climates, used to wear vermilion fabrics with complex patterns above many layers of fur. Nowadays, while their attires are lighter, they keep this color despite the change in environment. The dral, used to the desert of Zoedrem<!--TODO:LINK--->, wore simple cyan and mint clothing to cool them down and give them speed. The kulbaba in contrast often kept the colorful patterns from their old traditions, recently adapted to fibers instead than feathers.
+
+| ![Ird hunter from Gronselar](img/hume.ird.gronselar.png) |
+|:---------------------------------:|
+| _Ird hunter from Gronselar, wearing a traditional poncho. Her sword and shin guards made of bronze attest to the exceptional metalworking achieved by her people._ |
 
 ### Traditions and Religion
-**Competitions.**
-Competitions are commonplace to irds, and are the preferred way to settle disagreements. They are usually as public as possible, and are often encouraged and celebrated by others. These matches can involve anything the participants deem necessary. If they are expected to lead to physical injury or death, the chief is to be informed beforehand, and they must either bear witness or anoint someone to do so. Dral competitions are particularly ferocious, and they often involve combat or violence.
+**Constant Competitions.**
+Competitions are commonplace to irds, and frequently are the preferred way to settle disagreements. They are consummated as public as possible, and are often encouraged and celebrated by others. These matches can involve anything the participants deem necessary. If they are expected to lead to physical injury or death, the chief or family head is to be informed beforehand, and they must either bear witness or anoint someone to do so. Dral competitions are particularly ferocious, and they often involve violence or outright combat.
 
 **Promise of Allegiance.**
-As long as both people are willing, anyone can make a public promise of allegiance to another. The person making the vow is called the First, while the other is the Second. In this commitment, the First promises to fight and obey any command of the Second. In exchange, the Second must always be fair to the First, and provide home, food, and water to them.
+As long as both people are willing, anyone can make a public promise of allegiance to another. The person making the vow is called the "First", while the other is the "Second". In this commitment, the First promises to fight and obey any command of the Second. In exchange, the Second must always be fair to the First, and provide home, food, and water to them.
 
-It is common for the whole chiefdom or a large part of it to make a promise of allegiance to the chief. The vow lasts until the death of any of either person. If a First or Second fails to fulfill their part, they may be judged and exiled, depending on the local ruler and the choice of the other.
+It is common for the whole chiefdom or a large part of it to make a promise of allegiance to the chief. The vow lasts until the death of either person. If a First or Second fails to fulfill their part, they are judged by the local ruler, with a frequent punishment being exile.
 
 **Children and Marriage.**
-Before marriage, irds are encouraged to meet and form bonds with others, usually many at a time. When a woman becomes pregnant, she decides who among her suitors is to be the father. In southern thulk culture, however, she can decide on many suitors at once. They then must complete a set of challenges of the bride's choosing. The winner becomes the groom, while the others are to act as servants during the wedding.
+Before marriage, irds are encouraged to meet and form bonds with others, usually many at a time, until a person becomes pregnant. When this happens, she decides who among her suitors is to be the father. It is not unusual for one to choose many suitors at once, who must complete a set of challenges of the bride's choosing. The champion becomes the groom, while the others are to act as servants during the wedding.
 
 The marriage celebration is generally large, and the whole chiefdom or village is expected to take part in it. As their vows, both members are expected to make a promise of allegiance to the other, such as the one they have with their chiefs.
 
 **Adulthood.**
-To become an adult, a child must participate in a competition held in a Day of Change. The particular Days of Change vary across cultures, but all are aligned with the tri-lunar tidal phases, as seen in the Nuagalian Calendar<!--TODO:LINK--->. Victors in these matches then become adults, while other contestants must wait for subsequent Days of Change. Adulthood is a requirement to make a promise of allegiance, and as such one cannot marry before becoming an adult.
+To become an adult, a child must participate in a competition held in a Day of Change. The particular Days of Change vary across cultures, but all are aligned with the tidal phases of the moons, as seen in the Gronselarian Calendar<!--TODO:LINK--->. Victors in these matches then become adults, while other contestants must wait for subsequent Days of Change. Adulthood is a requirement to make a promise of allegiance—one cannot marry before becoming an adult.
 
 **Death and Funerals.**
-Irds believe that a person's soul remains in the body after they die. No funeral is celebrated upon death, and bodies are blindfolded and laid to rest inside a communal crypt. Thulk keep oil urns with the bodies, burning the crypt on the Day of the Immortal, a leap day that occurs every 10 years. Dral kept their crypts open, allowing vultures to eat the remains and the desert sun to dry the rest. Kulbaba crypts were often dug below the crown of a banyan tree, allowing [elves](elf.md) to rise from the bodies of the dead irds.
+Irds believe that a person's soul remains in the body after they die. No funeral is celebrated upon death, and bodies are blindfolded and laid to rest inside a communal crypt. The thulk keep oil urns with the bodies, burning the crypt on the "Day of the Immortal"—the leap day that occurs once every 10 years. The dral kept these crypts open, allowing scavengers to eat the remains and the elements to do the rest. Kulbaba crypts are left near the crown of a banyan tree, allowing elves to rise from the bodies of the dead irds.
 
 ### Names
-While the most common language spoken by irds is [shanise](../languages/index.md#avshenesian-family), a language in the [avshenesian family](../index.md#avshenesian-family), ird naming conventions are related to the [harualian family](../languages/index.md#harualian-family). By this custom, each ird has two names. Their first name is given to them at birth either by their parents or by the village's chief. Then, their second name is inherited from a parent of their choice, adding the prefix *u/ud*, which means "son/daughter of". It is common in ird culture to admire one's parents, and these names are carried with pride.
+While the most common language nowadays is [shanise](../languages/index.md#avshenesian-family), a language in the [avshenesian family](../index.md#avshenesian-family), ird naming conventions come from the [harualian family](../languages/index.md#harualian-family). By this custom, each ird has two names: a first name given to them at birth either parent or by the chiefdom's head; and a second name inherited from a parent of their choice, adding the prefix _u/ud_, which means "child of" in old harualian. Irds tend to admire their parents, and these names are carried with pride.
 
-Ird names are often hard to pronounce by native frisian speakers, and as such irds commonly gain nicknames in Fesh. Common male names in ird culture include:
+Ird names are often hard to pronounce by native frisian speakers, and as nicknames are usual in Fesh. Common male names in ird culture include:
 Aden, Azat, Daneal, Dirkir, Eastean, Goker, Idrahin, Jakod, Jaldor, Jasin, Kuneit, Ludzu, Nuretin, Nutlar, Rezat, Semir, Shasar, Tajik, Tenel, Shasin, Unut.
 
-Then, a few common female names are:
+Then, a few frequent female names are:
 Aise, Anutshan, Dena, Dilsad, Dorun, Drinja, Eda, Gudlag, Gulden, Hazal, Iris, Katrin, Kisnet, Naina, Nere, Sehil, Selna, Sher, Solveag, Tedzije, Zainesh.
+
+| ![Ird smith from an Ironweaver bulu](img/hume.ird.saefel.png) |
+|:---------------------------------:|
+| _Ird smith from an Ironweaver bulu<!--TODO:LINK---> in Saefel. The Ironweavers are the only people that retain the art of forging iron, and don full iron armor to show their workmanship._ |
