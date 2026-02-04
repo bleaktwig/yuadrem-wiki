@@ -5,10 +5,10 @@ The god-tree [Et](../religion/godtrees/et.md) created humes to aid it's fight ag
 ## Physical Description
 Humes are of a broad spectrum. Before the [Penance](../history.md#age-of-sap), they traveled the entirety of Yuadrem, and are as varied as the environments they settled. Their height frequently ranges from slightly more than a meter to about 2, and can weigh anything from 40 to 120 kg, on average. Hume skin shades to any color from the darkest brown to the lightest hues. They can grow long hair from their scalps and faces, with great variety of color and thickness.
 
-While this varies from culture to culture, in general a hume is considered an adult between 14 and 16 years, with life expectancy averaging at 25 years due to high child mortality. For humes who reach 25, they have a reasonable chance of living up to 50 or 60 years. Hume sorcerers<!--TODO.Link.---> are well known for extending their lifespan, and is usual for them to live even more than a century.
+While this varies from culture to culture, in general a hume is considered an adult between 14 and 16 years, with life expectancy averaging at 25 years due to high child mortality. For humes who reach 25, they have a reasonable chance of living up to 50 or 60 years. Hume sorcerers<!--TODO:LINK---> are well known for extending their lifespan, and is usual for them to live even more than a century.
 <!-- NOTE. The downside of this are all the negative effects of pheter use in the body, Nix sickness, deformed bodies + strange appendages, etc. --->
 
-Most humes are a gendered kin, and mostly have one child at a time. The burden of caring for children varies across cultures: for gats, communal childcare is the norm, where everyone in the community or "bulu"<!--TODO:LINK.---> will care for those who can't care for themselves, while in most ird cultures it is often left to those considered "weak" by their communities.
+Most humes are a gendered kin, and mostly have one child at a time. The burden of caring for children varies across cultures: for gats, communal childcare is the norm, where everyone in the community or "bulu"<!--TODO:LINK---> will care for those who can't care for themselves, while in most ird cultures it is often left to those considered "weak" by their communities.
 <!-- NOTE. This is an oversimplification of relationships in ird cultures, ignoring that the separation into "weak" and "strong" doesn't really relate to physical strength. --->
 
 --------------------------------------------------------------------------------
@@ -21,7 +21,7 @@ Gats are somewhat short people, ranging from 140 to 170 centimeters on average. 
 ### Origins and History
 The first gats were borne as the fruits of Et, and were marked with horns to signify their divine ascendance. Known as the Et-born, they are usually the most vigorous among gats, and are impervious to aging and to wounds that would be deadly to most. They are extremely rare in the current day, and the few that remain were born before the [Schism](../history.md#war-of-autumn).
 
-While most Et-born are sterile, a peculiar one was different. The illuminant [Rerisi](../religion/index.md#illuminants) could produce offspring, and she did so in abundance—she created the _treb_, or "one who dies" in jantherlin. The treb are larger and bulkier than the average gat, and were often the first line of attack during the War of Autumn. Even as children of an Et-born, the treb were regarded as brutish, such that they didn't fit the civilization built by the other gats. In the third century, they were exiled by the [god-suzerain Olag](../religion/illuminants/olag.md), and most established a new home in the Dead Sea<!--TODO.Link.---> and in the Sylvan Canyon<!--TODO.Link.--->
+While most Et-born are sterile, a peculiar one was different. The illuminant [Rerisi](../religion/index.md#illuminants) could produce offspring, and she did so in abundance—she created the _treb_, or "one who dies" in jantherlin. The treb are larger and bulkier than the average gat, and were often the first line of attack during the War of Autumn. Even as children of an Et-born, the treb were regarded as brutish, such that they didn't fit the civilization built by the other gats. In the third century, they were exiled by the [god-suzerain Olag](../religion/illuminants/olag.md), and most established a new home in the Dead Sea<!--TODO:LINK---> and in the Sylvan Canyon<!--TODO:LINK--->
 
 <!-- NOTE. Rumors or facts?
     Treb gats are not *born* brutish. While their culture may seem "violent", they are deeply religious and show a sophistication with nature that is not commonly seen in other humes.
@@ -33,7 +33,7 @@ While most Et-born are sterile, a peculiar one was different. The illuminant [Re
     While underground, the seed will grow by leeching nutrients off the earth. After a gestation period of around 2 years, the treb will dig their way up from the ground and emerge as a somewhat competent infant. A treb would-be-parent must always be careful about where to plant their seed, for if a newborn sees the sun or any strong light during their first days, they run the risk of being permanently blinded.
 --->
 
-After the Schism, the gats that remained around the charred corpse of Et became known as the noves, or the "one who stays" in jantherlin. The noves are the most common ethnicity in the modern world, and are often considered simile to civilization. They built the holy city of Naptane<!-- TODO. Link. --> inside the stump of Et, from which sprung the [Seven Princedoms of the Sea](../history.md#age-of-winter).
+After the Schism, the gats that remained around the charred corpse of Et became known as the noves, or the "one who stays" in jantherlin. The noves are the most common ethnicity in the modern world, and are often considered simile to civilization. They built the holy city of Naptane<!--TODO:LINK---> inside the stump of Et, from which sprung the [Seven Princedoms of the Sea](../history.md#age-of-winter).
 
 The bughna, or "one who leaves", endured the [40-Year Famine](../history.md#age-of-winter) by adopting a nomadic lifestyle, one which defines them still. These humes became known as great pastors and merchants, and strengthened the bonds between the princedoms, helping in the establishment of the large gat civilization. Even today they are often associated to good luck.
 
@@ -90,7 +90,7 @@ While the intricacies of these names are unique to each community—and sometime
 * A **parent name** is the name of a gat's parent followed by the suffix _ban/van_, which means "sibling of" in [avshenese](../languages/index.md#avshenesian-family). Additional parent names can be added after the first one, climbing up a branch of the family tree. A person may prefer to use one or more of these names if they have a particularly known ancestor.
 * A **profession name** is simply the name of the profession practiced by the gat.
 * A **family name** is gained by all members of a family or guild upon being born into or joining it. Sometimes, the head of the family will add the _grit_ suffix to this family name, which translates to "head" in avshenese.
-* A **locality name** which reflects the origin of the gat. The _she_ prefix is added to it, which is a phoneme associated to location in avshenese. These names are usually only used by travelers, and depend on the extensions of these travels—a gat coming from a different town may be referred to by the name of that town, while one from another kingdom or sumi<!--TODO:LINK.---> will acquire its name.
+* A **locality name** which reflects the origin of the gat. The _she_ prefix is added to it, which is a phoneme associated to location in avshenese. These names are usually only used by travelers, and depend on the extensions of these travels—a gat coming from a different town may be referred to by the name of that town, while one from another kingdom or sumi<!--TODO:LINK---> will acquire its name.
 
 Personal names are often easy to pronounce. A non-exhaustive list of common ones is:
 Adrevik, Agik, Ak, Ani, Anux, Aren, Avag, Baen, Bevan, Dzurar, Gauren, Gevaug, Grigur, Guxar, Kadzak, Kevun, Marim, Narek, Pagran, Puguse, Rauben, Sivadre, Sona, Xarig, Xuvep.
@@ -106,27 +106,27 @@ Adrevik, Agik, Ak, Ani, Anux, Aren, Avag, Baen, Bevan, Dzurar, Gauren, Gevaug, G
 |:---------------------------------:|
 | _Gat noble from the Holy Princedom of Ushpavam. His red clothes serve to fortify him, while the gold he wards evokes virtue. His horns, made from boar husks, conjure an association to the god-suzerain Olag and the Et-born in general._ |
 
-<!--TODO. Keep editing from here on forward.--->
 -------------------------------------------------------------------------------
 ## Ird Culture
 ### Distinctive Characteristics
-Irds are usually easy to recognize due to their size, which on average is about 175 centimeters. Their skin color varies greatly, but they are generally somewhat paler than gats. Their eye color is also assorted, also often less saturated than that of a gat.
+Irds are usually easy to recognize due to their size, which on average is about 175 centimeters. Their skin color varies considerably, but they are generally paler than gats. Their irises are dimmer than those of their counterpart, with shades of brown being the most common.
 
-Kulbaba and dral are rather slender, while the thulk are generally tall and broad. Hair color is also a feature commonly used to determine the ethnicity of an ird. Thulk irds often have either blonde, black, or ginger hair. Then, the kulbaba have brown hair, usually in dark shades. Dral irds have light brown or crimson hair, which tends to gray at an earlier age than other humes.
+Irds are often separated into three distinct ethnicities—kulbaba, dral, and thulk. While the former two are rather slender when compared to gats, the latter are generally tall and broad. Hair color can also be used to differentiate irds: the kulbaba often have dark brown hair; the dral lighter shades of brown or even crimson hues, which tends to gray at an earlier age than that of other humes; while the thulk often have either blond, black, or ginger hair.
 
 ### Origins and History
-The first humes to renounce the War of Autumn and abandon Et were the irds. Persecuted by the god-tree fanatics, they fled far from the Horned Shores<!--TODO:LINK--->, and far away from the grasp of Et. This event is known as the [Ird Diaspora](../history.md#war-of-apring). While many different ethnicities came from this event, the main ones that remain after the Penance are three. In order of their number, the thulk, the kulbaba, and the dral.
+The first humes to renounce the War of Autumn and abandon Et were the irds. Persecuted by the god-tree followers, they fled from the Horned Shores<!--TODO:LINK--->, and far away from the grasp of Et in what's known as the [Ird Diaspora](../history.md#war-of-apring). While many ethnicities came from this event, the ones that remain commonplace after the Penance are three—the thulk, the kulbaba, and the dral, ordered by the number of members from each.
 
 <!-- TODO list:
     * Maybe talk a bit more here about the 4 "faces" of the ird diaspora; thulk, hairus, kulbaba, and dral.
 -->
 
-The thulk migrated to the northernmost regions of Yuadrem, establishing the old nation of Krudzal around the north pole. Here, they were the first to develop ironworking, with which they built imposing sailing ships with iron hulls. Krudzalites used these vessels to claim many territories in the continent, later forming many independent states such as Gronselar<!-- TODO. Link. --> and Kaldrathal, among others.
+The thulk migrated to the northernmost regions of Yuadrem, establishing the old kingdom of Krudzal around the polar region. Here, they were the first to work iron, with which they built imposing sailing ships known as "ironhulls". Krudzalites tamed the seas with these vessels, spreading the thulk to territories such as the Elderberry Wilds<!--TODO:LINK--->, from which the settlers of Gronselar<!--TODO:LINK---> arrived.
 
-The kulbaba were the second to emigrate, and settled on the tropical islands of the Qul Archipelago<!--TODO:LINK--->. Here they separated into a myriad of chiefdoms, claiming the islands and many nearby territories. While they never achieved complete cooperation between chiefs, they became known as the Jenkash Empire<!-- TODO. Link. --> at their maximum expansion.
+<!--TODO. Keep editing from here on forward.--->
+The kulbaba were the second to emigrate, and settled on the tropical islands of the Qul Archipelago<!--TODO:LINK--->. Here they separated into a myriad of chiefdoms, claiming the islands and many nearby territories. While they never achieved complete cooperation between chiefs, they became known as the Jenkash Empire<!--TODO:LINK---> at their maximum expansion.
 
 <!-- TODO. Update this. -->
-Inside the Fesh Peninsula, thulk from Gronselar conquered the easternmost peninsula, establishing their nation in territories claimed from Ushpavam<!-- TODO. Link. -->. Some kulbaba from the Dentralin Chiefdom<!-- TODO. Link. --> also  settled the region, becoming part of the Sumi of Fremit<!-- TODO. Link. --> and establishing temples in the Saefel Canyon<!-- TODO. Link. -->.
+Inside the Fesh Peninsula, thulk from Gronselar conquered the easternmost peninsula, establishing their nation in territories claimed from Ushpavam<!--TODO:LINK--->. Some kulbaba from the Dentralin Chiefdom<!--TODO:LINK---> also  settled the region, becoming part of the Sumi of Fremit<!--TODO:LINK---> and establishing temples in the Saefel Canyon<!--TODO:LINK--->.
 
 The dral were the last to leave the grasp of Et. They migrated to the desert of Zoedrem, also separating into chiefdoms. Not many of them remain, but some did enter the Fesh Peninsula traveling together with the bughna.
 
@@ -150,7 +150,7 @@ Before marriage, irds are encouraged to meet and form bonds with others, usually
 The marriage celebration is generally large, and the whole chiefdom or village is expected to take part in it. As their vows, both members are expected to make a promise of allegiance to the other, such as the one they have with their chiefs.
 
 **Adulthood.**
-To become an adult, a child must participate in a competition held in a Day of Change. The particular Days of Change vary across cultures, but all are aligned with the tri-lunar tidal phases, as seen in the Nuagalian Calendar<!-- TODO. Link. -->. Victors in these matches then become adults, while other contestants must wait for subsequent Days of Change. Adulthood is a requirement to make a promise of allegiance, and as such one cannot marry before becoming an adult.
+To become an adult, a child must participate in a competition held in a Day of Change. The particular Days of Change vary across cultures, but all are aligned with the tri-lunar tidal phases, as seen in the Nuagalian Calendar<!--TODO:LINK--->. Victors in these matches then become adults, while other contestants must wait for subsequent Days of Change. Adulthood is a requirement to make a promise of allegiance, and as such one cannot marry before becoming an adult.
 
 **Death and Funerals.**
 Irds believe that a person's soul remains in the body after they die. No funeral is celebrated upon death, and bodies are blindfolded and laid to rest inside a communal crypt. Thulk keep oil urns with the bodies, burning the crypt on the Day of the Immortal, a leap day that occurs every 10 years. Dral kept their crypts open, allowing vultures to eat the remains and the desert sun to dry the rest. Kulbaba crypts were often dug below the crown of a banyan tree, allowing [elves](elf.md) to rise from the bodies of the dead irds.
