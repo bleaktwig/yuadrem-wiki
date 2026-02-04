@@ -27,7 +27,7 @@ The two primordial are the primal forces that created everything that exists. Th
 * [**Pheter**](primordials/pheter.md), the god of Disparity, creation, war, and spring.
 
 ### Damic Gods
-The damic gods, or _first gods_ in [Avshenese](../languages/index.md#avshenesian-family), are the firstborn of Pheter. They were the first disparity in the cosmos, light and dark, and inhabit the heavens in the shape of the sun and the third moon, the darksun.
+The damic gods, or _first gods_ in [avshenese](../languages/index.md#avshenesian-family), are the firstborn of Pheter. They were the first disparity in the cosmos, light and dark, and inhabit the heavens in the shape of the sun and the third moon, the darksun.
 
 * [**Zash**](damic_gods/zash.md), the goddess of White, light, luck, beer, travel, immigrants, and gifts.
 * [**Fagal**](damic_gods/fagal.md), the god of Black, darkness, mystery, beauty, oblivion, and property.
@@ -43,7 +43,7 @@ The mevic gods, or _gods of bone_, are the six aspects of Zash, and were created
 * [**Pagram**](mevic_gods/pagram.md) is the god of Yellow, order, civilization, gold, and autumn.
 
 ### God-trees
-The oric gods, or _gods of flesh_ in Avshenese, were the first trees in the world and are the creators of most living creatures in it. More commonly known as the _god-trees_, each was born of a seed during the [_First Communion_](../history.md#prehistory), planted by their corresponding mevic god. Despite being divine beings, they are physical, and thus, mortal. Regretfully, most of them have died, either in the [Schism](../history.md#war-of-autumn) or in the [Penance](../history.md#age-of-sap).
+The oric gods, or _gods of flesh_ in avshenese, were the first trees in the world and are the creators of most living creatures in it. More commonly known as the _god-trees_, each was born of a seed during the [_First Communion_](../history.md#prehistory), planted by their corresponding mevic god. Despite being divine beings, they are physical, and thus, mortal. Regretfully, most of them have died, either in the [Schism](../history.md#war-of-autumn) or in the [Penance](../history.md#age-of-sap).
 
 * [**Tek**](godtrees/tek.md) is an immense banyan, shaded by imposing green crowns. It was planted by Matevos, and is the parent of the [elves](../kins/elf.md).
 * [**Et**](godtrees/et.md) was a blue birch with many-hued leaves. It was planted by Febrid, and is the creator of the [humes](../kins/hume.md).
@@ -54,7 +54,7 @@ The oric gods, or _gods of flesh_ in Avshenese, were the first trees in the worl
 * [**Ur**](godtrees/ur.md), a fir with countless golden crowns, was the tree of Pagram.
 
 ### Illuminants
-The tovasic gods, or _second gods_ in Avshenese, are mortals who are given godhood by higher gods through a ritual of ascension. Better known as illuminants, they are usually protagonists of legends, becoming deities after death and watching over the world alongside the mevic gods from the heavens.
+The tovasic gods, or _second gods_ in avshenese, are mortals who are given godhood by higher gods through a ritual of ascension. Better known as illuminants, they are usually protagonists of legends, becoming deities after death and watching over the world alongside the mevic gods from the heavens.
 
 * **Avenush** is the god of teaching and tactics. As a mortal, they were an elf who mediated the peace between Gannag and the Seven Princedoms, then proceeded to create the gannagian apomantic system<!-- NOTE. Link. -->. They were ascended by Febrid, and their depictions show a body covered entirely by a most complex network of apomantic signatures, a glyph carved into each centimeter of bark.
 

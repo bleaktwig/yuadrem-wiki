@@ -88,12 +88,12 @@ They think of the [illuminants](../religion/index.md#illuminants) as powerful sh
 
 Tekists attain knowledge to later give it to Tek.
 They see themselves as a detached part of the god-tree, and await their eventual return.
-They also commune with Tek through meditation and the consumption of nahan <!-- NOTE. I-water in Knaenese -->, a strong psychedelic made by fermenting the sap of the god-tree.
+They also commune with Tek through meditation and the consumption of nahan <!-- NOTE. I-water in knaenese -->, a strong psychedelic made by fermenting the sap of the god-tree.
 
 ### Names
 Am elf is born without a name, and remain nameless most of their youth.
 They decide on a name when they join a potential family in the adulthood ritual.
-These names are usually in Knaenese, a language famously hard to pronounce.
+These names are usually in knaenese, a language famously hard to pronounce.
 It's not uncommon for the other kins to call them by a nickname or a simplified version of the name.
 
 A non-exhaustive list of common names would be:
@@ -165,20 +165,20 @@ They hunt for sustenance and to gather fresh corpses.
     When in fertile land, you only need to eat once per week.
     You can also eat more often if you choose to do so.
 
-    \subparagraph{Languages} You can speak, read, and write Knaenese.
+    \subparagraph{Languages} You can speak, read, and write knaenese.
     You can also speak, read, and write other language of your choice, but your pronunciation leaves much to be desired.
 
-    % Despite their lack of lips, the moss kin does speak a language, which is named Knaenese.
-    % Knaenese is a very simple, accommodating to their impaired speech.
+    % Despite their lack of lips, the moss kin does speak a language, which is named knaenese.
+    % knaenese is a very simple, accommodating to their impaired speech.
     % While a naenk can learn other languages, their pronunciation usually leaves much to be desired.
 
     \subparagraph{Subraces} Naenks are most easily separated by their home - Gannag or Na'ane.
 
-    The most common of their kin, Gannagian naenks are the members of the tribes that surround the Tek tree.
+    The most common of their kin, gannagian naenks are the members of the tribes that surround the Tek tree.
     They have a very strong sense of community and an excellent capacity to work as a team.
     Any one naenk will easily give their life without second thought for their people and for their way of life.
 
-    While all naenks are capable fighters, Gannagian naenk take on different jobs to fulfill different tasks.
+    While all naenks are capable fighters, gannagian naenk take on different jobs to fulfill different tasks.
     The most common of these are the warriors, the hunters, and the gatherers.
     Your subrace traits depend on which of these roles you take.
 
@@ -222,7 +222,7 @@ They hunt for sustenance and to gather fresh corpses.
     Among these self-exiled naenks, most usually choose to join the neighboring tribe of Na'ane to live with their tsanek brothers.
 
     These naenks drink a special beverage upon arrival known as nahan cooked by the tribal sovereigns.
-    % NOTE. Nahan literally means "I-water" in Knaenese.
+    % NOTE. Nahan literally means "I-water" in knaenese.
     Nahan weakens the bond of the naenk with the Tek tree, forcing them to attain a qualar to remain sentient.
     % As a side effect, it also extends the naenk's life, pushing it to about 50 years.
 
@@ -362,7 +362,7 @@ If approached peacefully, they gladly provide shelter or passage through their c
     These creatures are all affected as per the \textbf{Minor Illusion} (see page \pageref{spell::minorillusion}) spell while you concentrate on the effect, which you can do for up to 1 minute.
     The spell save DC is 8 + your Constitution modifier.
 
-    \subparagraph{Languages} You can understand, read and write Knaenese and one other language of your choice, but you cannot speak.
+    \subparagraph{Languages} You can understand, read and write knaenese and one other language of your choice, but you cannot speak.
 
 \begin{table*}[b]%
     \begin{DndTable}[width=\linewidth]{X}

@@ -1,5 +1,5 @@
 # Om
-Om, also known as _Tosh-drieln_ in [Jantherlin](../../languages/index.md#etian-family) and the twice-born tree, is the god-tree planted by the god [Bagrat](../mevic_gods/bagrat.md) and the parent of the [imates](../../kins/imate.md).
+Om, also known as _Tosh-drieln_ in [jantherlin](../../languages/index.md#etian-family) and the twice-born tree, is the god-tree planted by the god [Bagrat](../mevic_gods/bagrat.md) and the parent of the [imates](../../kins/imate.md).
 
 The tree is a vigorous orange juniper with a complex root system that forms the many islands of the Turtle Sea<!-- TODO. Link. -->. While the tree burned down in the [Schism](../../history.md#war-of-autumn), it begat a second trunk from its eastern side over the centuries.
 

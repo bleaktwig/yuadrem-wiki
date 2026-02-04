@@ -57,7 +57,6 @@ Across gat cultures, the dead are said to protect their families after their dea
 <!-- NOTE. The pheter in the bones of the dead literally aids the family by keeping nix out, but this effect is minor. --->
 
 After the Penance, a new tradition that's quickly become commonplace is to burn some of the dead at the center of towns and villages. This helps to stave off [nix](../religion/primordials/nix.md), as the charred bones release their [pheter](../religion/primordials/pheter.md). While in general the specific manner a body is disposed of is chosen by the family, burning bodies is often mandatory when nix is on high tide.
-
 <!-- NOTEs.
     * On the death of royalty. Kings and the royal family are burned after death. After that, their bones are placed on a giant mausoleum, all mixed together to accumulate their pheter.
     * Maybe I should play more with nix tides. Relate them to the moons, integrate the tri-lunar calendar into the "common" calendar to add some capacity to predict nix tides.
@@ -71,23 +70,23 @@ Apart from providing the list and description of the religion's gods, the Book o
 **Bughna moon rituals.**
 The bughna have a special admiration towards [Kegal, the indigo moon](../religion/mevic_gods/fusine.md), and the nomadic patterns of animal herders are aligned to this moon's phases. The search for new grazing grounds only occurs while the fundamental signature of lightning is in phase, as the gats feel protected by the signature's gaze. They also celebrate thunderstorms as portents of the god, sometimes engaging in dangerous rituals seeking her favor.
 
-<!--TODO. Keep editing from here on forward.--->
 **Aversion to piercing.**
-One thing in common across all gats is their aversion to piercing weapons, especially after the Penance. Puncture wounds are believed to cause an excessive leakage of pheter. This means that not only the victim's body is damaged, but some of their soul is as well. For this reason, gravely piercing another hume is punishable by death in most gat cultures.
-<!-- NOTE. The soul is the pheter stored in a body. -->
-<!-- NOTE. Olag punished traitors by impaling them in pikes, but without crossing major organs (idk how tho?). Then, not only did they bleed slowly, but they could feel their soul leaking away. -->
+One thing in common for all gats is their aversion to penetration wounds, especially so after the Penance. Punctures are believed to cause a leakage of the pheter trapped inside the body, such that not only the victim's body is damaged, but their soul is as well.
+<!-- NOTEs.
+    * The soul is the pheter stored in a body.
+    * Olag punished traitors by impaling them in pikes, but without crossing major organs (idk how tho?). Then, not only did they bleed slowly, but they could feel their soul leaking away.
+--->
 
 ### Names
-In tradition, gats have various names. These names don't have a particular order, and many can change during a gat's lifetime. In addition, different people and communities will often know a gat by different names. Names are not officialized, and the duty of recording individuals is left to each family.
+By old tradition, gats have various names, which don't have a particular order and may change during a person's lifetime. In addition, different people and communities will often know a person by different names. Names are not made official, and the duty of recording individuals is left to each family.
 
-While the intricacies of these names are unique to each community -- and sometimes a particular family --, five categories are common.
+While the intricacies of these names are unique to each community—and sometimes a particular family—five categories are common:
 
-<!-- TODO. Check out these word particles in frisian.... -->
-* A **personal name** is the name given to a gat my their mother, usually soon after birth. Personal names are often permanent, but nothing stops a gat from changing them.
-* A **parent name** is the name of a gat's mother or father followed by the suffix *ban*, meaning "sibling of" in [Avshenese](../languages/index.md#avshenesian-family). A gat may prefer to use this name if a parent was particularly important. Furthermore, additional parent names can be added after the first, climbing up a branch of the family tree.
+* A **personal name** is the name given to a gat my their mother, usually soon after birth. People usually keep this personal name thorough life, but nothing stops them from changing it.
+* A **parent name** is the name of a gat's parent followed by the suffix _ban/van_, which means "sibling of" in [avshenese](../languages/index.md#avshenesian-family). Additional parent names can be added after the first one, climbing up a branch of the family tree. A person may prefer to use one or more of these names if they have a particularly known ancestor.
 * A **profession name** is simply the name of the profession practiced by the gat.
-* A **family name**, which is acquired by all members of a family upon joining. Sometimes, the head of the family will add the *grit* suffix to the family name, meaning "head" in Avshenese.
-* A **locality name** that comes from where the gat comes from, adding the *she* prefix, a phoneme associated to location in Avshenese. These names are acquired only by travelers, and depend on the extensions of their travels. For example, a gat coming from a different town may be referred to by the name of that town, and one from another province will acquire its name.
+* A **family name** is gained by all members of a family or guild upon being born into or joining it. Sometimes, the head of the family will add the _grit_ suffix to this family name, which translates to "head" in avshenese.
+* A **locality name** which reflects the origin of the gat. The _she_ prefix is added to it, which is a phoneme associated to location in avshenese. These names are usually only used by travelers, and depend on the extensions of these travels—a gat coming from a different town may be referred to by the name of that town, while one from another kingdom or sumi<!--TODO:LINK.---> will acquire its name.
 
 Personal names are often easy to pronounce. A non-exhaustive list of common ones is:
 Adrevik, Agik, Ak, Ani, Anux, Aren, Avag, Baen, Bevan, Dzurar, Gauren, Gevaug, Grigur, Guxar, Kadzak, Kevun, Marim, Narek, Pagran, Puguse, Rauben, Sivadre, Sona, Xarig, Xuvep.
@@ -99,6 +98,7 @@ Adrevik, Agik, Ak, Ani, Anux, Aren, Avag, Baen, Bevan, Dzurar, Gauren, Gevaug, G
     * Just knowing someone's full name gives you a lot of information on that person.
 -->
 
+<!--TODO. Keep editing from here on forward.--->
 -------------------------------------------------------------------------------
 ## Ird Culture
 ### Distinctive Characteristics
@@ -148,7 +148,7 @@ To become an adult, a child must participate in a competition held in a Day of C
 Irds believe that a person's soul remains in the body after they die. No funeral is celebrated upon death, and bodies are blindfolded and laid to rest inside a communal crypt. Thulk keep oil urns with the bodies, burning the crypt on the Day of the Immortal, a leap day that occurs every 10 years. Dral kept their crypts open, allowing vultures to eat the remains and the desert sun to dry the rest. Kulbaba crypts were often dug below the crown of a banyan tree, allowing [elves](elf.md) to rise from the bodies of the dead irds.
 
 ### Names
-While the most common language spoken by irds is [Shanise](../languages/index.md#avshenesian-family), a language in the [avshenesian family](../index.md#avshenesian-family), ird naming conventions are related to the [harualian family](../languages/index.md#harualian-family). By this custom, each ird has two names. Their first name is given to them at birth either by their parents or by the village's chief. Then, their second name is inherited from a parent of their choice, adding the prefix *u/ud*, which means "son/daughter of". It is common in ird culture to admire one's parents, and these names are carried with pride.
+While the most common language spoken by irds is [shanise](../languages/index.md#avshenesian-family), a language in the [avshenesian family](../index.md#avshenesian-family), ird naming conventions are related to the [harualian family](../languages/index.md#harualian-family). By this custom, each ird has two names. Their first name is given to them at birth either by their parents or by the village's chief. Then, their second name is inherited from a parent of their choice, adding the prefix *u/ud*, which means "son/daughter of". It is common in ird culture to admire one's parents, and these names are carried with pride.
 
 Ird names are often hard to pronounce by native frisian speakers, and as such irds commonly gain nicknames in Fesh. Common male names in ird culture include:
 Aden, Azat, Daneal, Dirkir, Eastean, Goker, Idrahin, Jakod, Jaldor, Jasin, Kuneit, Ludzu, Nuretin, Nutlar, Rezat, Semir, Shasar, Tajik, Tenel, Shasin, Unut.

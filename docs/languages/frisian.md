@@ -101,7 +101,7 @@ Can be
 ---
 ## Constituent Order Typology
 ### Constituent Order in Main Clauses
-Frisian, as well as the other languages derived from [Avshenese](index.md#avshenesian-family), are of a mixed constituent order.
+Frisian, as well as the other languages derived from [avshenese](index.md#avshenesian-family), are of a mixed constituent order.
 Yet, they are all Subject-Object-Verb (SOV) languages.
 
 1. **e te gume kukufe**
