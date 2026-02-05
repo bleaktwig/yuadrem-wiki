@@ -3,13 +3,19 @@ The god-tree [Om](../religion/godtrees/om.md) created imates to defend the oric 
 
 Due to their many migrations, imates are now separated into two: the militaristic, war-hardened people that established the Kingdom of Om<!--TODO:LINK---> with the help of the [irds](hume.md#ird-culture) of Gronselar<!--TODO:LINK--->, and many groups of diverse nomads that roam the remaining forests of the Fesh Peninsula.
 
+<!--NOTE: IMATE ETHNICITIES:
+    * Kingdom of Om.
+    * Random forest communities.
+    * Gronselar.
+--->
+
 <!----------------------------------------------------------------------------->
 ## Physical description
-Imates bear some resemblance to humes: both kins poise the bulk of their weight on two legs; they have the same number of digits; and are able to express their emotions through words and facial expression. However, the body of an imate is covered in hair which ranges in color from white, through many shades of brown, to black. Lacking the [gats'](hume.md#gat-culture) blessing of Color, no hints of Red or Yellow is seen in their hair. Then, a common trait to all imates are their oversized ears, which are surrounded by a tuft of white hair.
+Imates bear some resemblance to humes: both kins poise the bulk of their weight on two legs; they have the same number of digits; and are able to express their emotions through words and facial expression. However, the body of an imate is covered in hair which ranges in color from white, through many shades of brown, to black. Lacking the [gats'](hume.md#gat-culture) Blessing of Color, no hints of Red or Yellow is seen in their hair. Then, a common trait to all imates are their oversized ears, which are surrounded by a tuft of white hair.
 
 Imates are separated into two different species: the oras and the arsets. Oras have larger bodies—the average adult stands upright at around 2 meters, but they would struggle to maintain this posture for long. Hunched, they're not taller than a meter and a half. They have strong bodies and long arms, and often weight more than 100 kilograms.
 
-Arsets are small in comparison, usually not reaching more than 90 cm in length and 15 kilograms in weight. While they are not as strong as the oras, they have longer claws and a long, striped tail, both of which they use to climb with great dexterity.
+Arsets are small in comparison, usually not reaching more than 90 centimeters in length and 15 kilograms in weight. While they are not as strong as the oras, they have longer claws and a long, striped tail, both of which they use to climb with great dexterity.
 
 Imates are considered adults when they reach an age of 10 years, and tend to live up to 70 or 80 years. As they age, their hair changes color to display particular signatures, thanks to the Blessing of Word. This, in addition to conserving the vigor of the elders, extends their natural age in a manner similar to the tattoos of a hume sorcerer<!--TODO:LINK--->.
 
@@ -55,7 +61,7 @@ It is a common belief that a dead imate's soul can only return to Om if its body
 For this reason, imates find the [elves](elf.md) cycle of birth hard to accept, since it retards their process of reunification with their god. For the same reason, burning a dead body is extreme sacrilege—if an imate dies by burning or in any way that won't allow its body to rot, their soul will never find its way back to Om.
 
 **Specialized roles.**
-Due to their differences, oras and arsets tend to take different roles in their society. Arsets, being small and mobile, hunt, scout, and trade with neighboring villages. Oras, larger and stronger, will defend the village, tend plantations, attend the young, and craft various items and accessories. Traditionally, one or more oras will act as the village shamans, conducting rites and communing with the recently dead.
+Due to their differences, oras and arsets tend to take different occupations in their society. Arsets, being small and mobile, hunt, scout, and trade with neighboring villages. Oras, larger and stronger, will defend the village, tend plantations, attend the young, and craft various items and accessories. Traditionally, one or more oras will act as the village shamans, conducting rites and communing with the recently dead.
 
 **Tradition and Tanethism.**
 Imate tradition follows the belief in the divinity of the [god-trees](../religion/index.md#god-trees) and their relation to the Ring of Color<!--TODO:LINK--->. They associate the god-trees to the fundamental signatures of color<!--TODO:LINK--->, and have unique signatures for each of the seven trees. In general they don't place Om above the other god-trees, but they do praise their god more than the others.

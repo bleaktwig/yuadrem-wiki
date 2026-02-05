@@ -44,7 +44,8 @@ _Old trade map of Yuadrem, drawn in 604 A.S. in Avshen, under the order of the g
 |-|-|-|-|
 
 --------------------------------------------------------------------------------
-For documentation on editing this wiki, check out:
-
-* [mkdocs.org](https://www.mkdocs.org).
-* [mkdocs-material](https://squidfunk.github.io/mkdocs-material/creating-your-site/).
+<!--
+    For documentation on editing this wiki, check out:
+    * [mkdocs.org](https://www.mkdocs.org).
+    * [mkdocs-material](https://squidfunk.github.io/mkdocs-material/creating-your-site/).
+--->

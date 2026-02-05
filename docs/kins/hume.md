@@ -1,6 +1,17 @@
 # Humes
 The god-tree [Et](../religion/godtrees/et.md) created humes to aid it's fight against [Om](../religion/godtrees/om.md) during the [War of Autumn](../history.md#war-of-autumn). Over time, many humes grew opposed to this conflict, and fled the company of their god-tree, for which they were cursed with monochromacy. These people came to be known as the _ird_, which roughly translates to "one who runs" in [jantherlin](../languages/index.md#etian-branch), and their dispersion around the world as the [Ird Diaspora](../history.md#war-of-autumn). Those that remained were blessed with Color, and are known as the _gat_, meaning "one who stays" in the old language.
 
+<!--NOTE: HUME ETHNICITIES:
+    * gat.
+        * noves.
+        * bughna.
+        * treb.
+    * ird.
+        * thulk.
+        * kulbaba.
+        * dral.
+--->
+
 <!----------------------------------------------------------------------------->
 ## Physical description
 Humes are of a broad spectrum. Before the [Penance](../history.md#age-of-sap), they traveled the entirety of Yuadrem, and are as varied as the environments they settled. Their height frequently ranges from slightly more than a meter to about 2, and can weigh anything from 40 to 120 kilograms, on average. Hume skin shades to any color from the darkest brown to the lightest hues. They can grow long hair from their scalps and faces, with great variety of color and thickness.

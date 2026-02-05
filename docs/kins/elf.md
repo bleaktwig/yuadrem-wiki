@@ -3,6 +3,12 @@ The god-tree [Tek](../religion/godtrees/tek.md) created elves during the [War of
 
 Most elves live in the Drejek Highlands<!--TODO:LINK--->, where they established the sumi<!--TODO:LINK---> of Gannag<!--TODO:LINK---> and keep a peaceful relation with the neighboring chiefdoms and sumis. Recently, however, many of the kin separated from their god-tree, founding the sumi of Knagan<!--TODO:LINK---> in the Great Riwe Plateau<!--TODO:LINK--->. These are violent, and engage in constant battles with the peoples nearby. Finally, a few elves have settled alongside [humes](hume.md) and [imates](imate.md), forming a strange yet fruitful relationship between the kins.
 
+<!--NOTE: ELF ETHNICITIES:
+    * Gannag.
+    * Knagan.
+    * Those who live among other kins.
+--->
+
 <!----------------------------------------------------------------------------->
 ## Physical description
 Elves spawn from recently-dead humanoids who are exposed to tekust, a bright-orange spore that comes from Tek. The spore seals the body and stops its decomposition, growing into a moss that merges with its flesh. Bark hardens and replaces the decomposing skin, shaping the body into an elf in a span of time of 6 months to 2 years, depending on the size of the carcass and the environmental conditions.
