@@ -19,20 +19,20 @@ Most people have a favorite among the gods, one whose ideals and teachings they 
 
 _A first glance into the Cosmos and its relation to the goddesses and gods of Tanethism, 796 A.S.. Each of the divinities that inhabits the heavens is presented around Darhoc and the Ring of Color that surrounds it. Recorded by the Fremite Monastery of Chist._
 
-## The Tanethist Pantheon
-### The Two Primordial
+## The Tanethist pantheon
+### The two primordial
 The two primordial are the primal forces that created everything that exists. They are uppermost in the pantheon, and every creature in the continent acts in their reverence by the mere act of being alive.
 
 * [**Nix**](primordials/nix.md), the god of Unity, the cosmos, and inevitability.
 * [**Pheter**](primordials/pheter.md), the god of Disparity, creation, war, and spring.
 
-### Damic Gods
+### Damic gods
 The damic gods, or _first gods_ in [avshenese](../languages/index.md#avshenesian-family), are the firstborn of Pheter. They were the first disparity in the cosmos, light and dark, and inhabit the heavens in the shape of the sun and the third moon, the darksun.
 
 * [**Zash**](damic_gods/zash.md), the goddess of White, light, luck, beer, travel, immigrants, and gifts.
 * [**Fagal**](damic_gods/fagal.md), the god of Black, darkness, mystery, beauty, oblivion, and property.
 
-### Mevic Gods
+### Mevic gods
 The mevic gods, or _gods of bone_, are the six aspects of Zash, and were created by the sun goddess and by Pheter in the [_Nascency of Color_](../history.md#prehistory). Most of the gods inhabit their circular sectors in the Ring of Color<!-- NOTE. Link. -->, with the exception of Febrid and Fusine, who travel the cosmos alongside Zash and Fagal.
 
 * [**Matevos**](mevic_gods/matevos.md), the goddess of Green, lightness, joy, and the domestication of animals.

@@ -2,7 +2,7 @@
 The god-tree [Et](../religion/godtrees/et.md) created humes to aid it's fight against [Om](../religion/godtrees/om.md) during the [War of Autumn](../history.md#war-of-autumn). Over time, many humes grew opposed to this conflict, and fled the company of their god-tree, for which they were cursed with monochromacy. These people came to be known as the _ird_, which roughly translates to "one who runs" in [jantherlin](../languages/index.md#etian-branch), and their dispersion around the world as the [Ird Diaspora](../history.md#war-of-autumn). Those that remained were blessed with Color, and are known as the _gat_, meaning "one who stays" in the old language.
 
 <!----------------------------------------------------------------------------->
-## Physical Description
+## Physical description
 Humes are of a broad spectrum. Before the [Penance](../history.md#age-of-sap), they traveled the entirety of Yuadrem, and are as varied as the environments they settled. Their height frequently ranges from slightly more than a meter to about 2, and can weigh anything from 40 to 120 kilograms, on average. Hume skin shades to any color from the darkest brown to the lightest hues. They can grow long hair from their scalps and faces, with great variety of color and thickness.
 
 While this varies from culture to culture, in general a hume is considered an adult between 14 and 16 years, with life expectancy averaging at 25 years due to high child mortality. For humes who reach 25, they have a reasonable chance of living up to 50 or 60 years. Hume sorcerers<!--TODO:LINK---> are well known for extending their lifespan, and is usual for them to live even more than a century.
@@ -12,13 +12,13 @@ Most humes are a gendered kin, and mostly have one child at a time. The burden o
 <!-- NOTE. This is an oversimplification of relationships in ird cultures, ignoring that the separation into "weak" and "strong" doesn't really relate to physical strength. --->
 
 --------------------------------------------------------------------------------
-## Gat Culture
-### Distinctive Characteristics
+## Gat culture
+### Distinctive characteristics
 The typical gat skin is dark, ranging from yellow, through brown, to black. While some gats are blonde, the most common hair colors are brown, black, with some shades of red. It is a common gat custom to sport long hair and beards, both often decorated with jewelry.
 
 Gats are somewhat short people, ranging from 140 to 170 centimeters on average. A common feature among gats is their vibrant eyes: thanks to the Blessing of Color, they are of very strong colors, and most of them can change this color at will.
 
-### Origins and History
+### Origins and history
 The first gats were borne as the fruits of Et, and were marked with horns to signify their divine ascendance. Known as the Et-born, they are usually the most vigorous among gats, and are impervious to aging and to wounds that would be deadly to most. They are extremely rare in the current day, and the few that remain were born before the [Schism](../history.md#war-of-autumn).
 
 While most Et-born are sterile, a peculiar one was different. The illuminant [Rerisi](../religion/index.md#illuminants) could produce offspring, and she did so in abundance—she created the _treb_, or "one who dies" in jantherlin. The treb are larger and bulkier than the average gat, and were often the first line of attack during the War of Autumn. Even as children of an Et-born, the treb were regarded as brutish, such that they didn't fit the civilization built by the other gats. In the third century, they were exiled by the [god-suzerain Olag](../religion/illuminants/olag.md), and most established a new home in the Dead Sea<!--TODO:LINK---> and in the Sylvan Canyon<!--TODO:LINK--->
@@ -46,7 +46,7 @@ While working, a laborer might wear red with hints of magenta to allow their bod
 |:---------------------------------:|
 | _Gat shepherd from the Saefel Canyon. Blessed by Color, they wear green and blue clothes to aid their speed and help maintain body temperature. They carry a makeshift bone polearm, which doubles as a walking stick._ |
 
-### Traditions and Religion
+### Traditions and religion
 **Families and guilds.**
 To the noves, a family is defined as the group of people with whom one shares housing. Most members of a family share a profession, and large families are known as guilds. The head of a family is usually either its oldest member or someone designated by vote.
 
@@ -107,13 +107,13 @@ Adrevik, Agik, Ak, Ani, Anux, Aren, Avag, Baen, Bevan, Dzurar, Gauren, Gevaug, G
 | _Gat noble from the Holy Princedom of Ushpavam. His red clothes serve to fortify him, while the gold he wards evokes virtue. His horns, made from boar husks, conjure an association to the god-suzerain Olag and the Et-born in general._ |
 
 --------------------------------------------------------------------------------
-## Ird Culture
-### Distinctive Characteristics
+## Ird culture
+### Distinctive characteristics
 Irds are usually easy to recognize due to their size, which on average is about 175 centimeters. Their skin color varies considerably, but they are generally paler than gats. Their irises are dimmer than those of their counterpart, with shades of brown being the most frequent.
 
 Irds are often separated into three distinct ethnicities—kulbaba, dral, and thulk. While the former two are rather slender when compared to gats, the latter are generally tall and broad. Hair color can also be used to differentiate irds: the kulbaba often have dark brown hair; the dral lighter shades of brown or even crimson hues, which tends to gray at an earlier age than that of other humes; while the thulk often have either blond, black, or ginger hair.
 
-### Origins and History
+### Origins and history
 The first humes to renounce the War of Autumn and abandon Et were the irds. Persecuted by the god-tree followers, they fled from the Horned Shores<!--TODO:LINK--->, and far away from the grasp of Et in what's known as the [Ird Diaspora](../history.md#war-of-apring). While many ethnicities came from this event, the ones that remain commonplace after the Penance are three—the thulk, the kulbaba, and the dral, ordered by the number of members from each.
 
 <!-- TODO list:
@@ -135,7 +135,7 @@ The thulk, who settled in cold climates, used to wear vermilion fabrics with com
 |:---------------------------------:|
 | _Ird hunter from Gronselar, wearing a traditional poncho. Her sword and shin guards made of bronze attest to the exceptional metalworking achieved by her people._ |
 
-### Traditions and Religion
+### Traditions and religion
 **Constant Competitions.**
 Competitions are commonplace to irds, and frequently are the preferred way to settle disagreements. They are consummated as public as possible, and are often encouraged and celebrated by others. These matches can involve anything the participants deem necessary. If they are expected to lead to physical injury or death, the chief or family head is to be informed beforehand, and they must either bear witness or anoint someone to do so. Dral competitions are particularly ferocious, and they often involve violence or outright combat.
 

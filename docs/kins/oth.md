@@ -2,6 +2,8 @@
 **TODO.**
 
 <!--TODO.
+    * similar to humes but w/ four arms? 
+
 Differentiate between the oths that stayed with the humes and the ones that traveled south (these are all the oths of which enough survived to retain their culture):
 * one group stayed with the humes of naptane.
 * one group traveled south and established ignelli, now settled in Mbeat.
@@ -121,7 +123,7 @@ They're a solitary yet intimate creature with a penchant for nature and ritual.
 
     \subparagraph{Size} Oth typically range from between 135 to just under 180 cm.
     Your size if Medium.
-    You are impressively lightweight for your size, weighing around 45 kg.
+    You are impressively lightweight for your size, weighing around 45 kilograms.
 
     \subparagraph{Speed} Your base walking speed it 6 meters.
 

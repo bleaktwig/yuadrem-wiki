@@ -4,7 +4,7 @@ The god-tree [Om](../religion/godtrees/om.md) created imates to defend the oric 
 Due to their many migrations, imates are now separated into two: the militaristic, war-hardened people that established the Kingdom of Om<!--TODO:LINK---> with the help of the [irds](hume.md#ird-culture) of Gronselar<!--TODO:LINK--->, and many groups of diverse nomads that roam the remaining forests of the Fesh Peninsula.
 
 <!----------------------------------------------------------------------------->
-## Physical Description
+## Physical description
 Imates bear some resemblance to humes: both kins poise the bulk of their weight on two legs; they have the same number of digits; and are able to express their emotions through words and facial expression. However, the body of an imate is covered in hair which ranges in color from white, through many shades of brown, to black. Lacking the [gats'](hume.md#gat-culture) blessing of Color, no hints of Red or Yellow is seen in their hair. Then, a common trait to all imates are their oversized ears, which are surrounded by a tuft of white hair.
 
 Imates are separated into two different species: the oras and the arsets. Oras have larger bodies—the average adult stands upright at around 2 meters, but they would struggle to maintain this posture for long. Hunched, they're not taller than a meter and a half. They have strong bodies and long arms, and often weight more than 100 kilograms.

@@ -1,4 +1,4 @@
-# Olag, the God-Suzerain
+# Olag, the god-suzerain
 Olag is the god of Craftsmanship and Conquest. Perhaps the most important figure in history, the illuminant was the suzerain of the [Seven Princedoms of the Sea](../../history.md#age-of-winter), moving civilization out of the [Age of Winter](../../history.md#age-of-winter) and into the [Age of Spring](../../history.md#age-of-spring).
 
 Olag was a dark-skinned Et-born [gat](../../kins/hume.md#gat-culture) with snow-white hair. They were larger in stature and bulkier in frame than the average hume, resembling a treb gat. They had two large horn similar to those of a stag, which grew across the illuminant's centuries of life, reaching a stunning size by the end of their time.

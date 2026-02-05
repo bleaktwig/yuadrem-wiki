@@ -1,4 +1,4 @@
-# History and Cosmology
+# History and cosmology
 ## Prehistory
 First, there was only [Nix](religion/primordials/nix.md), the all-encompassing unity that is the cosmos. Then, in the ***Nascency of Disparity***, the primordial one [Pheter](religion/primordials/pheter.md) was born from Nix. Along with Pheter came separation: void and form, heavens and earth, seas and land, and thus was born the continent of Yuadrem.
 

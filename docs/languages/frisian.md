@@ -1,6 +1,6 @@
 **WIP.**
 
-# A Comparative Grammar of the Frisian Languages
+# A comparative grammar of the frisian languages
 With special attention to the variety spoken in the Feresi region.
 
 By **TODO**.
