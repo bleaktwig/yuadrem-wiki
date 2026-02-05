@@ -1,9 +1,9 @@
 # Humes
 The god-tree [Et](../religion/godtrees/et.md) created humes to aid it's fight against [Om](../religion/godtrees/om.md) during the [War of Autumn](../history.md#war-of-autumn). Over time, many humes grew opposed to this conflict, and fled the company of their god-tree, for which they were cursed with monochromacy. These people came to be known as the _ird_, which roughly translates to "one who runs" in [jantherlin](../languages/index.md#etian-branch), and their dispersion around the world as the [Ird Diaspora](../history.md#war-of-autumn). Those that remained were blessed with Color, and are known as the _gat_, meaning "one who stays" in the old language.
 
-<!---------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------->
 ## Physical Description
-Humes are of a broad spectrum. Before the [Penance](../history.md#age-of-sap), they traveled the entirety of Yuadrem, and are as varied as the environments they settled. Their height frequently ranges from slightly more than a meter to about 2, and can weigh anything from 40 to 120 kg, on average. Hume skin shades to any color from the darkest brown to the lightest hues. They can grow long hair from their scalps and faces, with great variety of color and thickness.
+Humes are of a broad spectrum. Before the [Penance](../history.md#age-of-sap), they traveled the entirety of Yuadrem, and are as varied as the environments they settled. Their height frequently ranges from slightly more than a meter to about 2, and can weigh anything from 40 to 120 kilograms, on average. Hume skin shades to any color from the darkest brown to the lightest hues. They can grow long hair from their scalps and faces, with great variety of color and thickness.
 
 While this varies from culture to culture, in general a hume is considered an adult between 14 and 16 years, with life expectancy averaging at 25 years due to high child mortality. For humes who reach 25, they have a reasonable chance of living up to 50 or 60 years. Hume sorcerers<!--TODO:LINK---> are well known for extending their lifespan, and is usual for them to live even more than a century.
 <!-- NOTE. The downside of this are all the negative effects of pheter use in the body, Nix sickness, deformed bodies + strange appendages, etc. --->
