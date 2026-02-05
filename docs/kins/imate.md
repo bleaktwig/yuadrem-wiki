@@ -17,7 +17,7 @@ Imates are considered adults when they reach an age of 10 years, and tend to liv
 |:---------------------------------:|
 | _Oras farmer and spirit guide from Saefel. While imates don’t usually wear clothes, many who live among humes are wearing plain, colorless loincloths._ |
 
---------------------------------------------------------------------------------
+<!----------------------------------------------------------------------------->
 ## Clothing and accessories
 Due to their fur and proclivity to warm and humid weathers, imates in general do not cover their bodies in clothing. It is common to just wear a loincloth, but some include more fabrics with a purely aesthetic purpose. Imate shamans are the exception: since their body hair would make tattoos ineffective, they wear long ribbons of fabric with apomantic signatures, forming spells around their bodies. While they cannot cast spells as fast as tattooed hume sorcerers, this system allows them to change the signature sets with ease.
 
@@ -27,6 +27,7 @@ Imates wear an abundance of accessories as a form of self expression. Common exa
 |:---------------------------------:|
 | _Arset hunter from Saefel, perched on a branch. Imates traditionally wear refined gold jewelry, which is often shared among their families._ |
 
+<!----------------------------------------------------------------------------->
 ## Origins and history
 After the Schism, imates were left without the canopy of Om to call home. As such, they fled south of the Turtle Sea, surviving the [40-Year Famine](../history.md#age-of-winter) thanks to the abundant flora and fauna of the southern regions. These settlements were short lived, however, as after recovering from the famine, gats took to hunting them en masse, sparking the [Babaian Wars](../history.md#age-of-spring).
 
@@ -34,6 +35,7 @@ The imates that survived kept migrating south, settling in a variety of regions 
 
 Contact between hume and imate was almost completely lost after the [Penance](../history.md#age-of-sap). No signs of imates were found up until 731 A.S., when they sailed in ships from Gronselar<!--TODO:LINK---> towards the islands of the Turtle Sea. They expelled the gats in the [War of Summer](../history.md#age-of-sap), reclaiming their historic territory around Om. Over the years, however, many have refused this conflict, choosing to settle the forests surrounding the sea.
 
+<!----------------------------------------------------------------------------->
 ## Culture and traditions
 **Village as family.**
 Imates have fully communal families. An imate will usually not know who their particular parents are, and they regard the village in which they were born as their family. When a village grows too large, it will often split—the "mother" family will remain in the old environment, while the "daughter" embarks on a journey to settle.
@@ -63,7 +65,7 @@ Imate tradition follows the belief in the divinity of the [god-trees](../religio
 
 While many have adapted to Tanethism, their traditional cosmology does not recognize the [mevic gods](../religion/index.md#mevic-gods) as the makers of the god-trees. They do, however, recognize [Pheter](../religion/primordials/pheter.md) and [Nix](../religion/primordials/nix.md) as the forces of creation, and recognize the connection that [Illuminants](../religion/index.md#illuminants) have with Pheter.
 
-<!--TODO:CONTINUE FROM HERE--->
+<!----------------------------------------------------------------------------->
 ## Names
 Imates speak [babazano](../languages/index.md#omian-branch). As such, their names are frequently in this language. During their childhood, an imate will be assigned many names by their family members, usually based on distinctive features and particular accomplishments, such as "she-who-sings", or "picks-many-fights". They will settle on a name of their choice as they reach adulthood, often picking their favorite one from their assigned names.
 
