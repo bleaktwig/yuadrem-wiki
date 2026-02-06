@@ -47,7 +47,7 @@ The oric gods, or _gods of flesh_ in avshenese, were the first trees in the worl
 
 * [**Tek**](godtrees/tek.md) is an immense banyan, shaded by imposing green crowns. It was planted by Matevos, and is the parent of the [elves](../kins/elf.md).
 * [**Et**](godtrees/et.md) was a blue birch with many-hued leaves. It was planted by Febrid, and is the creator of the [humes](../kins/hume.md).
-* [**Tol**](godtrees/tol.md) was another birch of a sickly white color. It sprouted from the burned stump of Et, and is the parent of [oths](../kins/oth.md).
+* [**Tol**](godtrees/tol.md) was another birch of a sickly white color. It sprouted from the burned stump of Et, and is the parent of the [fey](../kins/fay.md).
 * [**Uld**](godtrees/uld.md) was a kapok tree of striking height and a purple crown. It was the tree of Fusine, and created no kin but educated many.
 * [**Kan**](godtrees/kan.md), a fire-starter tree unique in Yuadrem, was the tree of Vahan.
 * [**Om**](godtrees/om.md) is a vigorous orange juniper with shy saffron crowns. It was the tree of Bagrat, and spawned and raised the [imates](../kins/imate.md).
@@ -58,7 +58,7 @@ The tovasic gods, or _second gods_ in avshenese, are mortals who are given godho
 
 * **Avenush** is the god of teaching and tactics. As a mortal, they were an elf who mediated the peace between Gannag and the Seven Princedoms, then proceeded to create the gannagian apomantic system<!-- NOTE. Link. -->. They were ascended by Febrid, and their depictions show a body covered entirely by a most complex network of apomantic signatures, a glyph carved into each centimeter of bark.
 
-* **Eful** and **Geful** are the goddesses of justice, the sky, knowledge, and love. As mortals, they were two [oths](../kins/oth.md) scholars who provided the basis for modern math and astrology. They were both ascended together by Fusine, and upon achieving godhood jumped to the heavens to continue their studies, becoming the twin astral bodies known as Relas.
+* **Eful** and **Geful** are the goddesses of justice, the sky, knowledge, and love. As mortals, they were two [fey](../kins/fay.md) scholars who provided the basis for modern math and astrology. They were both ascended together by Fusine, and upon achieving godhood jumped to the heavens to continue their studies, becoming the twin astral bodies known as Relas.
 
 | ![Etian signature of Relas](illuminants/img/relas.png) |
 |:------------------------------------------------------:|

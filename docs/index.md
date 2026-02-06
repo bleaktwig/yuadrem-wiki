@@ -1,21 +1,24 @@
 <!-- TODO list.
-Stuff required to finish wiki (for now):
-* [x] hide geography and isola pages (for now) and erase links to them.
-* [x] write general ethnology page from what's on index.
-* [x] clean up index.
-* [ ] clean up kins in wiki and book.
-    * [ ] hume.
-    * [ ] imate.
-    * [ ] elf.
-    * [ ] oth.
-* [ ] move ane-kene to languages (?) and re-do links.
-* [ ] fix signatures in religion.md and subdirectories.
-* [ ] do an editing pass on book.
-* [ ] remake character sheet from siniath ambar character sheet.
-* [ ] write oths in wiki and book.
+    Stuff required to finish wiki (for now):
+    * [x] hide geography and isola pages (for now) and erase links to them.
+    * [x] write general ethnology page from what's on index.
+    * [x] clean up index.
+    * [x] clean up kins in wiki.
+        * [x] hume.
+        * [x] imate.
+        * [x] elf.
+        * [x] fay.
+    * [ ] clean up kins in book.
+        * [ ] hume.
+        * [ ] imate.
+        * [ ] elf.
+        * [ ] fay.
+    * [ ] move ane-kene to languages (?) and re-do links.
+    * [ ] fix signatures in religion.md and subdirectories.
+    * [ ] do an editing pass on book.
+    * [ ] remake character sheet from siniath ambar character sheet.
 
 Other TODOs:
-* Finish this first index page. It's the first thing player see in the wiki!
 * Missing links.
 * Clean up ref directory.
 * Comment out the kin lore from the WAC document---for now, keep it only in the wiki. If i ever feel like it's sufficiently finalized, i can move on and set in on the book.
@@ -29,7 +32,7 @@ Other TODOs:
 # Yuadrem
 Yuadrem is the only continent in the world. It's topography was diverse, its broad vertical extension permitting a varied climate and a robust ecology. The landmass was painted with multi-colored forests, vast and beautiful deserts and tundras, rich-green jungles and savannas bursting with life, monumental mountains and deep canyons.
 
-The land was first settled by the six original [god-trees](religion/index.md#god-trees), one for each color. They created all life on the continent, from the smallest ant to the largest whale, including the four sentient kins: the [hume](kins/hume.md), the [imate](kins/imate.md), the [oth](kins/oth.md), and the [elf](kins/imate.md).
+The land was first settled by the six original [god-trees](religion/index.md#god-trees), one for each color. They created all life on the continent, from the smallest ant to the largest whale, including the four sentient kins: the [hume](kins/hume.md), the [imate](kins/imate.md), the [fay](kins/fay.md), and the [elf](kins/imate.md).
 
 This all changed in 621 After the [Schism](history.md#war-of-autumn) (A.S.), with the murder of the [god-suzerain Olag](religion/illuminants/olag.md). The world was assaulted by [nix](<religion/primordials/nix>), an all-consuming iridescent sap that is slowly eroding all disparity. The only inhabitable land now is the Fesh Peninsula<!--TODO:LINK--->, a small arm jutting out from the Punika Peaks, protected from nix both by geography and periodic rituals<!--TODO:LINK--->.
 

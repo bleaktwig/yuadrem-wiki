@@ -107,7 +107,7 @@ Personal names are often easy to pronounce. A non-exhaustive list of common ones
 Adrevik, Agik, Ak, Ani, Anux, Aren, Avag, Baen, Bevan, Dzurar, Gauren, Gevaug, Grigur, Guxar, Kadzak, Kevun, Marim, Narek, Pagran, Puguse, Rauben, Sivadre, Sona, Xarig, Xuvep.
 
 <!-- NOTE. On names.
-    * Oths hate the many names convention - organizing family trees and keeping track of historic figures is a total pain.
+    * The fey hate the many names convention - organizing family trees and keeping track of historic figures is a total pain.
     * "Personal name" "parent name" "profession name" "family name" "locality name" "greatest achievement name (sometimes)".
     * Names are neither official nor recorded, but presenting yourself with a name that contains a lie is very badly seen, and may even be punished in some ethnic groups.
     * Just knowing someone's full name gives you a lot of information on that person.

@@ -44,7 +44,7 @@ The contact sparked a cautious curiosity from the sumi of Fremit<!--TODO:LINK---
 **Communion at birth.**
 As part of the process where tekust takes over a body, the newborn elf communes with Tek for the first time. The god-tree teaches the elf the history and tenets of their society, along with the knowledge of the [gannagian](../languages/index.md#naenkian-family) language. Some elves, especially those from Knagan, are born outside of Tek's hyphan network. They lack this innate connection, and are unable to commune with the god-tree.
 
-Most elves come from the bodies of humes and [oths](oth.md), and their macabre method of reproduction is being slowly integrated into their cultures. Imates, however, as they believe that their soul can only return to Om once their body rots under the earth. Any elf born from an imate would raise immediate concern among them, as the soul would still be trapped in the elf's body, stolen by Tek.
+Most elves come from the bodies of humes, and their macabre method of reproduction is being slowly integrated into their cultures. Imates, however, as they believe that their soul can only return to Om once their body rots under the earth. Any elf born from an imate would raise immediate concern among them, as the soul would still be trapped in the elf's body, stolen by Tek.
 
 **Adulthood and families.**
 A troupe of elves become adults when they form a family, for which they must first commune with Tek. The god-tree chooses the chief of the family through a shaman, who then carves holes into the chief's thyroid cartilage—gifting their voice a characteristic whistle tone.
