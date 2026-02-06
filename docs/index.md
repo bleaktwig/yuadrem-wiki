@@ -8,7 +8,7 @@
         * [x] imate.
         * [x] elf.
         * [x] fay.
-    * [ ] clean up kins in book.
+    * [ ] add + clean up kins in book.
         * [ ] hume.
         * [ ] imate.
         * [ ] elf.
