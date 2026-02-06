@@ -29,7 +29,7 @@ Elves take great care over what grows on their body. They'll remove flowers they
 
 <!----------------------------------------------------------------------------->
 ## Origins and history
-Elves were an extremely reserved kin, and did not have any major interaction with humes until the late fourth century, when the irds of Jenkash<!--TODO:LINK---> sought to colonize Drejek. They were quickly repelled, starting a violent conflict between the two that eventually cooled down into an uneasy yet peaceful alliance. This never extended to the Seven Princedoms<!--TODO:LINK--->—no major contact was ever established between the jungle dwellers and the greater world.
+Elves were an isolated kin, and did not have any major interaction with humes until the late fourth century, when the irds of Jenkash<!--TODO:LINK---> sought to colonize Drejek. They were quickly repelled, starting a violent conflict between the two that eventually cooled down into an uneasy yet peaceful alliance. This never extended to the Seven Princedoms<!--TODO:LINK--->—no major contact was ever established between the jungle dwellers and the greater world.
 
 After the [Penance](../history.md#age-of-sap), both Tek and its elves were thought to be lost to [Nix](../religion/primordials/nix.md). This was proved wrong in the [Landing of Drejek](../history.md#age-of-sap), when the inhabitants of the Fesh Peninsula<!--TODO:LINK---> learned that Tek used its roots to detach a large portion of Drejek, slowly dragging it through nix to crash into the Fesh Peninsula. The plateau collided with the Punika Peaks, forming the Drejek Highlands<!--TODO:LINK--->.
 
