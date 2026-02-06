@@ -1,7 +1,7 @@
 # Imates
 The god-tree [Om](../religion/godtrees/om.md) created imates to defend the oric god from [Et](../religion/godtrees/et.md) during the [War of Autumn](../history.md#war-of-autumn). While not particularly suited for war, the kin fiercely defended their god-tree until the [Schism](../history.md#war-of-autumn). They were blessed with Word for their devotion. After the burning of their parent, imates escaped total slaughter by migrating to the south, spreading thorough the southern reaches of Yuadrem.
 
-Due to their many migrations, imates are now separated into two: the militaristic, war-hardened people that established the Kingdom of Om<!--TODO:LINK---> with the help of the [irds](hume.md#ird-culture) of Gronselar<!--TODO:LINK--->, and many groups of diverse nomads that roam the remaining forests of the Fesh Peninsula.
+Due to their many migrations, imates are now separated into two: the militaristic, war-hardened people that established the Kingdom of Om<!--TODO:LINK---> with the help of the people of Gronselar<!--TODO:LINK--->, and many groups of diverse nomads that roam the remaining forests of the Fesh Peninsula.
 
 <!--NOTE: IMATE ETHNICITIES:
     * Kingdom of Om.
@@ -39,7 +39,7 @@ After the Schism, imates were left without the canopy of Om to call home. As suc
 
 The imates that survived kept migrating south, settling in a variety of regions on the southernmost reaches of Yuadrem. Many gained an affinity with the yellow [god-tree Uld](../religion/godtrees/uld.md), who lived in the Wildlands. Others migrated to the southernmost points of the continent—the Elderberry Wilds—while a large group to the Ironlakes Island.
 
-Contact between hume and imate was almost completely lost after the [Penance](../history.md#age-of-sap). No signs of imates were found up until 731 A.S., when they sailed in ships from Gronselar<!--TODO:LINK---> towards the islands of the Turtle Sea. They expelled the gats in the [War of Summer](../history.md#age-of-sap), reclaiming their historic territory around Om. Over the years, however, many have refused this conflict, choosing to settle the forests surrounding the sea.
+Contact between hume and imate was almost completely lost after the [Penance](../history.md#age-of-sap). No signs of imates were found up until 731 A.S., when they sailed in ships from Gronselar<!--TODO:LINK---> towards the islands of the Turtle Sea. They expelled the gats in the [War of Summer](../history.md#age-of-sap), reclaiming their historic territory around Om. Over the years, however, many have rejected to participate in this conflict, choosing to settle the forests surrounding the sea.
 
 <!----------------------------------------------------------------------------->
 ## Culture and traditions
@@ -75,7 +75,7 @@ While many have adapted to Tanethism, their traditional cosmology does not recog
 ## Names
 Imates speak [babazano](../languages/index.md#omian-branch). As such, their names are frequently in this language. During their childhood, an imate will be assigned many names by their family members, usually based on distinctive features and particular accomplishments, such as "she-who-sings", or "picks-many-fights". They will settle on a name of their choice as they reach adulthood, often picking their favorite one from their assigned names.
 
-Imates also have a second name, which is inherited from their family. This is the name of the village in which they were born, adding the prefix *do*, which translates literally to "name" in babazano. Imates that go through adoption usually keep their original village name.
+Imates also have a second name, which is inherited from their family. This is the name of the village in which they were born, adding the prefix _do_, which translates literally to "name" in babazano. Imates that go through adoption usually keep their original village name.
 
 A few common names are:
 Anana, Baba, Badaze, Ebezu, Ezevu, Ezeze, Nenuzu, Nono, Nuzu, Ododo, Odozu, Ovozu, Uvu, Uvozu, Veve, Vevozu, Vovo, Zazu, Zenuvu.

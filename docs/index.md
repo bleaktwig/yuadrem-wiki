@@ -9,19 +9,21 @@
         * [x] elf.
         * [x] fay.
     * [ ] add + clean up kins in book.
-        * [ ] hume.
-        * [ ] imate.
+        * [x] hume.
+        * [x] imate.
         * [ ] elf.
         * [ ] fay.
-    * [ ] move ane-kene to languages (?) and re-do links.
-    * [ ] fix signatures in religion.md and subdirectories.
-    * [ ] do an editing pass on book.
+    * [ ] rework quirks and move them to their own directory.
     * [ ] remake character sheet from siniath ambar character sheet.
+    * [ ] do an editing pass on book.
+    * [ ] fix signatures in religion.md and subdirectories.
+    * [ ] move ane-kene to languages (?) and re-do links.
+    * [ ] update map in this page with the name changes.
 
 Other TODOs:
 * Missing links.
 * Clean up ref directory.
-* Comment out the kin lore from the WAC document---for now, keep it only in the wiki. If i ever feel like it's sufficiently finalized, i can move on and set in on the book.
+* Comment out the kin lore from the WAC document—for now, keep it only in the wiki. If i ever feel like it's sufficiently finalized, i can move on and set in on the book.
 * Move images to subdirectories where they make more sense.
 * Write a page on apomantics (in a new "sorcery" folder).
 * Finish the geography folder, + move mostly everything to the past tense. Make sure the reader knows that the world is dying!
@@ -38,8 +40,6 @@ This all changed in 621 After the [Schism](history.md#war-of-autumn) (A.S.), wit
 
 ![Map of Yuadrem](img/world_map.yuadrem.y604.v083.dpi300.png)
 _Old trade map of Yuadrem, drawn in 604 A.S. in Avshen, under the order of the god-suzerain Olag. The region colored in green corresponds to the [Seven Princedoms of the Sea](history.md#age-of-winter), while other colors represent the tax and penalty applied to trade in the other lands of the continent. The map serves as a reminder of the healthy sate of trade and maritime travel during the [Age of Spring](history.md#age-of-spring), a once taken-for-granted boon now lost to nix._
-
-<!--^- TODO. I should update this map with the name changes (a bit annoying but it shouldn't take long c:) -^-->
 
 --------------------------------------------------------------------------------
 
