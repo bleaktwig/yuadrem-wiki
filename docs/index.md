@@ -11,8 +11,8 @@
     * [ ] add + clean up kins in book.
         * [x] hume.
         * [x] imate.
-        * [ ] elf.
-        * [ ] fay.
+        * [x] fay.
+        * [x] elf.
     * [ ] rework quirks and move them to their own directory.
     * [ ] remake character sheet from siniath ambar character sheet.
     * [ ] do an editing pass on book.

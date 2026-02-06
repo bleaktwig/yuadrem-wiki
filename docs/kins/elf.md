@@ -11,7 +11,7 @@ Most elves live in the Drejek Highlands<!--TODO:LINK--->, where they established
 
 <!----------------------------------------------------------------------------->
 ## Physical description
-Elves spawn from recently-dead humanoids who are exposed to tekust, a bright-orange spore that comes from Tek. The spore seals the body and stops its decomposition, growing into a moss that merges with its flesh. Bark hardens and replaces the decomposing skin, shaping the body into an elf in a span of time of 6 months to 2 years, depending on the size of the carcass and the environmental conditions.
+Elves spawn from recently-dead humanoids who are exposed to tekust, a bright orange spore that comes from Tek. The spore seals the body and stops its decomposition, growing into a moss that merges with its flesh. Bark hardens and replaces the decomposing skin, shaping the body into an elf in a span of time of 6 months to 2 years, depending on the size of the carcass and the environmental conditions.
 
 The height and build of an elf depends on their birth corpse, mimicking its bone structure while being somewhat thinner than the body's previous owner. Their skin is typically of a healthy brown and green coloration, often covered by a layer of flora and fungi. Their eyes gain a yellowish color, which partially hides the iris.
 
