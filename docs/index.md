@@ -15,7 +15,7 @@
         * [x] elf.
     * [ ] rework quirks and move them to their own directory.
     * [ ] remake character sheet from siniath ambar character sheet.
-    * [ ] do an editing pass on book.
+    * [x] do an editing pass on book.
     * [ ] fix signatures in religion.md and subdirectories.
     * [ ] move ane-kene to languages (?) and re-do links.
     * [ ] update map in this page with the name changes.
