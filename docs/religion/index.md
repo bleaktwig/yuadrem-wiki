@@ -40,7 +40,7 @@ The mevic gods, or _gods of bone_, are the six aspects of Zash, and were created
 * [**Fusine**](mevic_gods/fusine.md), or Kegal, is the goddess of Purple, chaos, the stars, retribution, and thunder.
 * [**Vahan**](mevic_gods/vahan.md) is the god of Red, heaviness, mountains, and conflict.
 * [**Bagrat**](mevic_gods/bagrat.md) is the god of Orange, warmth, agriculture, benevolence, vigor, and summer.
-* [**Pagram**](mevic_gods/pagram.md) is the god of Yellow, order, civilization, gold, and autumn.
+* [**Pagram**](mevic_gods/pagram.md) is the god of Yellow, order, fate, civilization, gold, and autumn.
 
 ### God-trees
 The oric gods, or _gods of flesh_ in avshenese, were the first trees in the world and are the creators of most living creatures in it. More commonly known as the _god-trees_, each was born of a seed during the [_First Communion_](../history.md#prehistory), planted by their corresponding mevic god. Despite being divine beings, they are physical, and thus, mortal. Regretfully, most of them have died, either in the [Schism](../history.md#war-of-autumn) or in the [Penance](../history.md#age-of-sap).
