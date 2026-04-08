@@ -47,7 +47,7 @@ The **Silent Tongue** was the second language developed by the fey. It doesn't h
 
 The **True Tongue** was the third and final language in the shamabic family. It's heavily based on fruenese, but it adds to it a large set of unique and sophisticated grammatical rules. These make it exceedingly hard to learn, but give it a unique advantage: it is impossible to lie in this tongue, hence its name. True Tongue is most commonly spoken by scholars and monks.
 
-<!-- NOTE. A historic moment when someone managed to lie -- in true tongue -- during a trial would be so metal. -->
+<!-- NOTE. A historic moment when someone managed to lie---in true tongue---during a trial would be so metal. -->
 
 <!---------------------------------------------------------------------------->
 ## Omian branch
@@ -57,9 +57,9 @@ The **True Tongue** was the third and final language in the shamabic family. It'
 ### Naenkian family
 Since Tek talks through its root system and spores, the god-tree did not teach any tongue to the [elves](../kins/elf.md). They were, however, later taught verbal language by the imates, establishing communication between the two kins. Elves learned a modified version of babazano adapted to their unique morphology, which turned into the _naenkian family_.
 
-**Gannagian**, sometimes referred to as old knaenese, is the first tongue forked from babazano. Lacking teeth and lips, elves communicate only with their alveolar ridge and palate, and as such gannagian words have rugged sounds, and are hard to learn for members of the other kins. The language is only spoken in Gannag<!--TODO:LINK--->, and is the basis for the gannagian apomantic system<!--TODO:LINK--->.
+**Knaenese** is the most common tongue in the naenkian family, is a tongue forked from babazano. Lacking teeth and lips, elves communicate only with their alveolar ridge and palate, and as such gannagian words have rugged sounds, and are hard to learn for members of the other kins. The language is only spoken in Gannag<!--TODO:LINK---> and the chiefdom of Knagan<!--TODO:LINK--->.
 
-**Knaenese** is the most common tongue in the naenkian family, and is spoken in the chiefdom of Knagan<!--TODO:LINK--->. The elves there, unable to rely on Tek's roots and spores, had to develop their language to something much more complex than the simple Gannag.
+**Windtalk** is a language unique to elves. It is not based on words, but rather from the spores that they produce on their gardens. An elf can communicate emotions and simple ideas using this language to other elves and members of other kins, who can understand the messages as fluctuations in their own emotions. A few elves develop windtalk so far that they manage to communicate complex concepts to other members of their kin just via spores, but this is a very rare skill.
 
 **Leaf Runes** is a script imagined by imates and elves that was used to communicate between the two. The words are written into trees, and the shape of each glyph depends on the texture of their bark. This makes it challenging for the other kins to understand the writing, but is fairly simple for the imates and elves thanks to their intimate relation with trees. Leaf Runes are mostly used to provide secretive guidance in forests.
 
