@@ -6,7 +6,7 @@
 # Languages
 There are currently 16 recognized languages spoken in the Fesh Peninsula<!--TODO:LINK--->, most of which have many dialects. They are split into two distinct sections: _omietian_ and _uldian_ language trees.
 
-![Language Tree](img/language_tree.y798_v100_dpi300.png)
+![Language Tree](img/language_tree.y798_v101_dpi300.png)
 
 _A comprehensive overlook of the languages spoken in the Fesh Peninsula, 798 A.S.. The branches represent the divergence of families, while the leaf clusters are the languages currently spoken. The size of each leaf cluster is a rough approximation of the number of speakers by the year of production. Recorded by the Fremite Monastery of Chist._
 
